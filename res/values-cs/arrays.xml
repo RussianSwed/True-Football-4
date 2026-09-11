@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>vypnuto</item>
+        <item>každých 7 dní</item>
+        <item>každých 30 dní</item>
+        <item>každých 60 dní</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>beton</item>
+        <item>obranný</item>
+        <item>normální</item>
+        <item>útočný</item>
+        <item>velmi útočný</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>doma</item>
+        <item>venku</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Přihrávky</item>
+        <item>Střely</item>
+        <item>Vedení míče</item>
+        <item>Obsazování</item>
+        <item>Simulování</item>
+        <item>Rohy</item>
+        <item>Vzdálené přímé kopy</item>
+        <item>Blízké přímé kopy</item>
+        <item>Penalty</item>
+        <item>Kapitán</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Přihrávky</item>
+        <item>Střely</item>
+        <item>Vedení míče</item>
+        <item>Obsazování</item>
+        <item>Simulování</item>
+        <item>Rohy</item>
+        <item>Vzdálené přímé kopy</item>
+        <item>Blízké přímé kopy</item>
+        <item>Penalty</item>
+        <item>Kapitán</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nikdy</item>
+        <item>vždy</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nikdy</item>
+        <item>vždy</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>nízký</item>
+        <item>normální</item>
+        <item>vysoký</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>o den</item>
+        <item>o 3 dny</item>
+        <item>o 7 dnů</item>
+        <item>do dalšího zápasu</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nikdy</item>
+        <item>když vedeme</item>
+        <item>vždy</item>
+    </string-array>
+</resources>

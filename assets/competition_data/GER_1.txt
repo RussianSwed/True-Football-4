@@ -1,0 +1,82 @@
+LEAGUE
+champion
+relegation 17 18
+prize 7
+tv_rights 10
+fans_behaviour 1.3
+fans_attendance 0.9
+table 0 0 0 0 16 16 17 18
+add_teams first_time 18 GER_1
+add_teams next_time 1 15 GER_1 previous_season
+add_teams next_time 1 1 GER_PLAYOFF1 previous_season
+add_teams next_time 1 2 GER_2 previous_season
+week_info 1 34 one_table german_1_1
+week_info 2 35 one_table german_1_1
+week_info 3 37 one_table german_1_1
+week_info 4 38 one_table german_1_1
+week_info 5 39 one_table german_1_2
+week_info 6 39 one_table german_1_1
+week_info 7 40 one_table german_1_1
+week_info 8 42 one_table german_1_1
+week_info 9 43 one_table german_1_1
+week_info 10 44 one_table german_1_1
+week_info 11 45 one_table german_1_1
+week_info 12 46 one_table german_1_1
+week_info 13 47 one_table german_1_1
+week_info 14 48 one_table german_1_2
+week_info 15 48 one_table german_1_1
+week_info 16 49 one_table german_1_1
+week_info 17 50 one_table german_1_1
+week_info 18 3 one_table german_1_1
+week_info 19 4 one_table german_1_1
+week_info 20 5 one_table german_1_1
+week_info 21 6 one_table german_1_1
+week_info 22 7 one_table german_1_1
+week_info 23 8 one_table german_1_1
+week_info 24 9 one_table german_1_1
+week_info 25 10 one_table german_1_1
+week_info 26 11 one_table german_1_1
+week_info 27 13 one_table german_1_1
+week_info 28 14 one_table german_1_1
+week_info 29 15 one_table german_1_1
+week_info 30 16 one_table german_1_1
+week_info 31 17 one_table german_1_2
+week_info 32 18 one_table german_1_1
+week_info 33 19 one_table all_sat 9
+week_info 34 20 one_table all_sat 9
+fixtures_info League18
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+play_week 31
+play_week 32
+play_week 33
+play_week 34
+done 06.30

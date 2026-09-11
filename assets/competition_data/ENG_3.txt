@@ -1,0 +1,109 @@
+LEAGUE
+promotion 1 2
+relegation 21 24
+prize 3
+tv_rights 5
+fans_behaviour 1.0
+fans_attendance 0.3
+table 1 2 3 6 -1 -1 21 24
+add_teams first_time 24 ENG_3
+add_teams next_time 22 24 ENG_2 previous_season
+add_teams next_time 2 4 ENG_PLAYOFF2 previous_season
+add_teams next_time 7 20 ENG_3 previous_season
+add_teams next_time 1 3 ENG_4 previous_season
+add_teams next_time 1 1 ENG_PLAYOFF3 previous_season
+week_info 1 33 one_table all_sat 12
+week_info 2 34 one_table all_tue 12
+week_info 3 34 one_table all_sat 12
+week_info 4 35 one_table english_2_saturday_sunday
+week_info 5 36 one_table english_2_saturday_sunday
+week_info 6 37 one_table all_sat 12
+week_info 7 38 one_table all_tue 12
+week_info 8 38 one_table all_sat 12
+week_info 9 39 one_table all_sat 12
+week_info 10 40 one_table all_tue 12
+week_info 11 40 one_table all_sat 12
+week_info 12 41 one_table english_2_saturday_sunday
+week_info 13 42 one_table all_sat 12
+week_info 14 43 one_table all_tue 12
+week_info 15 43 one_table english_2_saturday_sunday
+week_info 16 45 one_table english_2_tuesday_wednesday
+week_info 17 45 one_table all_sat 12
+week_info 18 46 one_table english_2_friday_saturday
+week_info 19 47 one_table all_tue 12
+week_info 20 47 one_table all_sat 12
+week_info 21 49 one_table all_sat 12
+week_info 22 50 one_table all_sat 12
+week_info 23 51 one_table english_2_friday_saturday
+week_info 24 52 one_table all_wed 12
+week_info 25 52 one_table all_sat 12
+week_info 26 1 one_table all_tue 12
+week_info 27 1 one_table english_2_friday_saturday
+week_info 28 2 one_table english_2_saturday_sunday
+week_info 29 3 one_table all_sat 12
+week_info 30 4 one_table all_sat 12
+week_info 31 5 one_table english_2_friday_saturday
+week_info 32 6 one_table all_sat 12
+week_info 33 7 one_table english_2_friday_saturday
+week_info 34 8 one_table english_2_friday_saturday
+week_info 35 9 one_table all_tue 12
+week_info 36 9 one_table all_sat 12
+week_info 37 10 one_table all_sat 12
+week_info 38 11 one_table all_tue 12
+week_info 39 11 one_table all_sat 12
+week_info 40 12 one_table english_2_saturday_sunday
+week_info 41 13 one_table english_2_friday_saturday
+week_info 42 14 one_table all_tue 12
+week_info 43 14 one_table all_sat 12
+week_info 44 15 one_table all_sat 12
+week_info 45 16 one_table all_sat 12
+week_info 46 17 one_table all_sat 12
+fixtures_info League24
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+play_week 31
+play_week 32
+play_week 33
+play_week 34
+play_week 35
+play_week 36
+play_week 37
+play_week 38
+play_week 39
+play_week 40
+play_week 41
+play_week 42
+play_week 43
+play_week 44
+play_week 45
+play_week 46
+unblock ENG_PLAYOFF2
+done 06.30

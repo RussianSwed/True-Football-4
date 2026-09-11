@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textColor="#ffffffff"
+        android:layout_gravity="center"
+        android:id="@id/playerStatsTV"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:layout_marginBottom="@dimen/margin_10dp"
+        android:text="-" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsGoalsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsAssistsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsYellowCardsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsRedCardsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsRatingsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/playerStatsCleanSheetsLV"
+        android:background="@layout/shape_background_transparent"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

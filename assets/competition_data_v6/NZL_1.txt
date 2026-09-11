@@ -1,0 +1,46 @@
+LEAGUE
+tv_rights 2
+fans_behaviour 1.2
+fans_attendance 0.1
+table -1 -1 1 4 -1 -1 -1 -1
+add_teams first_time 10 NZL_1
+add_teams next_time 1 10 NZL_1 previous_season
+week_info 1 42 one_table five_match_weekend
+week_info 2 43 one_table five_match_weekend
+week_info 3 44 one_table five_match_weekend
+week_info 4 45 one_table five_match_weekend
+week_info 5 46 one_table five_match_weekend
+week_info 6 47 one_table five_match_weekend
+week_info 7 48 one_table five_match_weekend
+week_info 8 49 one_table five_match_weekend
+week_info 9 50 one_table five_match_weekend
+week_info 10 5 one_table five_match_weekend
+week_info 11 6 one_table five_match_weekend
+week_info 12 7 one_table five_match_weekend
+week_info 13 8 one_table five_match_weekend
+week_info 14 9 one_table five_match_weekend
+week_info 15 10 one_table five_match_weekend
+week_info 16 11 one_table five_match_weekend
+week_info 17 12 one_table five_match_weekend
+week_info 18 13 one_table five_match_weekend
+fixtures_info League10
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+unblock NZL_PLAYOFF1
+done 06.30

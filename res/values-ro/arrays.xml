@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>oprit</item>
+        <item>la fiecare 7 zile</item>
+        <item>la fiecare 30 de zile</item>
+        <item>la fiecare 60 de zile</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra-defensiv</item>
+        <item>defensiv</item>
+        <item>normal</item>
+        <item>ofensiv</item>
+        <item>ultra-ofensiv</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>acasă</item>
+        <item>în deplasare</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pase</item>
+        <item>Şuturi</item>
+        <item>Dribling</item>
+        <item>Tackling</item>
+        <item>Prin alunecare</item>
+        <item>Lovituri de la colţ</item>
+        <item>Lovituri libere de la depărtare</item>
+        <item>Lovituri libere de la apropiere</item>
+        <item>Penalty-uri</item>
+        <item>Căpitan</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pase</item>
+        <item>Şuturi</item>
+        <item>Dribling</item>
+        <item>Tackling</item>
+        <item>Prin alunecare</item>
+        <item>Lovituri de la colţ</item>
+        <item>Lovituri libere de la depărtare</item>
+        <item>Lovituri libere de la apropiere</item>
+        <item>Penalty-uri</item>
+        <item>Căpitan</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>niciodată</item>
+        <item>totdeauna</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>niciodată</item>
+        <item>totdeauna</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>scăzut</item>
+        <item>normal</item>
+        <item>ridicat</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>zilnic</item>
+        <item>la fiecare 3 zile</item>
+        <item>la fiecare 7 zile</item>
+        <item>până la ultimul meci</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>niciodată</item>
+        <item>în timpul conducerii</item>
+        <item>totdeauna</item>
+    </string-array>
+</resources>

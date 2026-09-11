@@ -1,0 +1,25 @@
+LEAGUE
+prize 1
+tv_rights 1
+fans_behaviour 1.4
+fans_attendance 0.6
+table -1 -1 -1 -1 -1 -1 -1 -1
+block
+add_teams 6 6 VEN_1 current_season
+add_teams 8 8 VEN_1 current_season
+add_teams 10 10 VEN_1 current_season
+add_teams 12 12 VEN_1 current_season
+week_info 1 38 one_table all_sat 2
+week_info 2 39 one_table all_sat 2
+week_info 3 40 one_table all_sat 2
+week_info 4 41 one_table all_sat 2
+week_info 5 42 one_table all_sat 2
+week_info 6 43 one_table all_sat 2
+fixtures_info League4
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+done 01.01

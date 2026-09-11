@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>Tắt</item>
+        <item>Mỗi tuần</item>
+        <item>Mỗi 30 ngày</item>
+        <item>Mỗi 60 ngày</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>dựng xe bus</item>
+        <item>đổ bê tông</item>
+        <item>bình thường</item>
+        <item>tấn công</item>
+        <item>siêu tấn công</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>sân nhà</item>
+        <item>sân khách</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Chuyền</item>
+        <item>Sút</item>
+        <item>Đi bóng</item>
+        <item>Phá bóng</item>
+        <item>Ăn vạ</item>
+        <item>Phạt góc</item>
+        <item>Đá phạt xa</item>
+        <item>Đá phạt gần</item>
+        <item>Penalty</item>
+        <item>Đội trưởng</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Chuyền</item>
+        <item>Sút</item>
+        <item>Đi bóng</item>
+        <item>Phá bóng</item>
+        <item>Ăn vạ</item>
+        <item>Phạt góc</item>
+        <item>Đá phạt xa</item>
+        <item>Đá phạt gần</item>
+        <item>Penalty</item>
+        <item>Đội trưởng</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>không bao giờ</item>
+        <item>luôn luôn</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>không bao giờ</item>
+        <item>luôn luôn</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>thấp</item>
+        <item>trung bình</item>
+        <item>cao</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>từng ngày</item>
+        <item>mỗi 3 ngày</item>
+        <item>mỗi 7 ngày</item>
+        <item>cho đến trận cuối cùng</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>không bao giờ</item>
+        <item>khi đang dẫn trước</item>
+        <item>luôn luôn</item>
+    </string-array>
+</resources>

@@ -1,0 +1,56 @@
+LEAGUE
+champion
+prize 2
+tv_rights 1
+fans_behaviour 1.5
+fans_attendance 0.2
+table 1 1 -1 -1 -1 -1 -1 -1
+block
+add_teams first_time 12 PAR_1
+add_teams next_time 1 12 PAR_1 current_season
+week_info 1 30 one_table six_match_weekend
+week_info 2 31 one_table six_match_weekend
+week_info 3 32 one_table six_match_weekend
+week_info 4 33 one_table six_match_weekend
+week_info 5 34 one_table six_match_weekend
+week_info 6 35 one_table six_match_weekend
+week_info 7 36 one_table six_match_weekend
+week_info 8 37 one_table six_match_weekend
+week_info 9 38 one_table six_match_weekend
+week_info 10 39 one_table all_sat 6
+week_info 11 40 one_table six_match_weekend
+week_info 12 41 one_table six_match_weekend
+week_info 13 42 one_table six_match_weekend
+week_info 14 43 one_table six_match_weekend
+week_info 15 44 one_table six_match_weekend
+week_info 16 45 one_table six_match_weekend
+week_info 17 46 one_table six_match_weekend
+week_info 18 47 one_table all_sun 6
+week_info 19 48 one_table all_sun 6
+week_info 20 49 one_table all_sun 6
+week_info 21 50 one_table all_sun 6
+week_info 22 51 one_table all_sun 6
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+done 01.01

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>disattivato</item>
+        <item>ogni 7 giorni</item>
+        <item>ogni 30 giorni</item>
+        <item>ogni 60 giorni</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra difensivo</item>
+        <item>difensivo</item>
+        <item>normale</item>
+        <item>offensivo</item>
+        <item>ultra offensivo</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>casa</item>
+        <item>trasferta</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Passaggi</item>
+        <item>Tiri</item>
+        <item>Dribbling</item>
+        <item>Contrasti</item>
+        <item>Simulazioni</item>
+        <item>"Calci d'angolo"</item>
+        <item>Calci di punizione (lunga distanza)</item>
+        <item>Calci di punizione (corta distanza)</item>
+        <item>Calci di rigore</item>
+        <item>Capitano</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Passaggi</item>
+        <item>Tiri</item>
+        <item>Dribbling</item>
+        <item>Contrasti</item>
+        <item>Simulazioni</item>
+        <item>"Calci d'angolo"</item>
+        <item>Calci di punizione (lunga distanza)</item>
+        <item>Calci di punizione (corta distanza)</item>
+        <item>Calci di rigore</item>
+        <item>Capitano</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>mai</item>
+        <item>sempre</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>mai</item>
+        <item>sempre</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>scarso</item>
+        <item>normale</item>
+        <item>elevato</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>1 giorno</item>
+        <item>3 giorni</item>
+        <item>7 giorni</item>
+        <item>fino al prossimo match</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>mai</item>
+        <item>mentre si è in vantaggio</item>
+        <item>sempre</item>
+    </string-array>
+</resources>

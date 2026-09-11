@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@layout/selector_background_message"
+    android:padding="@dimen/margin_4dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="@dimen/dialog_width"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/conference_face_size"
+            android:weightSum="5.0">
+            <LinearLayout
+                android:background="#ffcccccc"
+                android:layout_width="@dimen/conference_face_size"
+                android:layout_height="@dimen/conference_face_size"
+                android:layout_marginRight="@dimen/margin_2dp">
+                <ImageView
+                    android:id="@id/face"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" />
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:background="@layout/shape_background"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/margin_2dp" />
+        </LinearLayout>
+        <ScrollView
+            android:background="@layout/shape_background"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_4dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_13"
+                    android:textColor="#ffffffff"
+                    android:id="@id/analysisResultsTV"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_13"
+                    android:textColor="#ff00ff00"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    android:text="@string/recommended" />
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_13"
+                    android:textColor="#ffffffff"
+                    android:id="@id/recommendedTV"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content" />
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_13"
+                    android:textColor="#ffff0000"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    android:text="@string/not_recommended" />
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_13"
+                    android:textColor="#ffffffff"
+                    android:id="@id/notRecommendedTV"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/margin_10dp" />
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="@dimen/margin_4dp">
+            <pl.mkrstudio.truefootball3.views.CustomFontButton
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:id="@id/tactics"
+                android:background="@layout/shape_button"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/button_height"
+                android:text="@string/tactics"
+                style="@style/button" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

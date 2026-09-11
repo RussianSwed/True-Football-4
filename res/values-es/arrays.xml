@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>apagar</item>
+        <item>cada 7 días</item>
+        <item>cada 30 días</item>
+        <item>cada 60 días</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultradefensivo</item>
+        <item>defensivo</item>
+        <item>normal</item>
+        <item>ofensivo</item>
+        <item>ultraofensivo</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>local</item>
+        <item>visitante</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pases</item>
+        <item>Tiros</item>
+        <item>Regate</item>
+        <item>Barrida</item>
+        <item>Simular faltas</item>
+        <item>Tiros de esquina</item>
+        <item>Tiros libres lejos</item>
+        <item>Tiros libres cercanos</item>
+        <item>Lanzamiento de penalti</item>
+        <item>Capitán</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pases</item>
+        <item>Tiros</item>
+        <item>Regate</item>
+        <item>Barrida</item>
+        <item>Simular faltas</item>
+        <item>Tiros de esquina</item>
+        <item>Tiros libres lejos</item>
+        <item>Tiros libres cercanos</item>
+        <item>Lanzamiento de penalti</item>
+        <item>Capitán</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nunca</item>
+        <item>siempre</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nunca</item>
+        <item>siempre</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>bajo</item>
+        <item>normal</item>
+        <item>alto</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>un día</item>
+        <item>3 días</item>
+        <item>7 días</item>
+        <item>hasta el último partido</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nunca</item>
+        <item>mientras conduce</item>
+        <item>siempre</item>
+    </string-array>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="29.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:gravity="center"
+        android:id="@id/homeFlagLL"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/international_match_layout_size"
+        android:layout_weight="3.0">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@id/homeFlag"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/international_match_flag_size" />
+    </LinearLayout>
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/homeTeam"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/international_match_layout_size"
+        android:layout_weight="10.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/result"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/international_match_layout_size"
+        android:layout_weight="3.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/awayTeam"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/international_match_layout_size"
+        android:layout_weight="10.0" />
+    <LinearLayout
+        android:gravity="center"
+        android:id="@id/awayFlagLL"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/international_match_layout_size"
+        android:layout_weight="3.0">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@id/awayFlag"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/international_match_flag_size" />
+    </LinearLayout>
+</LinearLayout>

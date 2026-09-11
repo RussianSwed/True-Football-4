@@ -1,0 +1,14 @@
+LEAGUE_PLAYOFF
+promotion 1 1
+fans_behaviour 1.9
+fans_attendance 0.5
+block
+add_teams 4 7 TUR_2 current_season
+week_info 1 75 ko_first_leg half_sat_sun 2 semifinal
+week_info 2 76 ko_second_leg half_tue_wed 2 semifinal
+week_info 3 76 ko_one_match all_sun 1 final
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+done 06.30

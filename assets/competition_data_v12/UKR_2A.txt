@@ -1,0 +1,50 @@
+LEAGUE
+tv_rights 1
+fans_behaviour 1.2
+fans_attendance 0.1
+table -1 -1 1 5 6 10 -1 -1
+add_teams first_time 10 UKR_2A
+add_teams next_time 5 8 UKR_2C previous_season
+add_teams next_time 15 15 UKR_1 previous_season
+add_teams next_time 1 1 UKR_3 previous_season
+add_teams next_time 4 7 UKR_2D previous_season
+week_info 1 30 one_table five_match_weekend
+week_info 2 31 one_table five_match_weekend
+week_info 3 32 one_table five_match_weekend
+week_info 4 33 one_table five_match_weekend
+week_info 5 35 one_table five_match_weekend
+week_info 6 37 one_table five_match_weekend
+week_info 7 39 one_table five_match_weekend
+week_info 8 40 one_table five_match_weekend
+week_info 9 42 one_table five_match_weekend
+week_info 10 44 one_table five_match_weekend
+week_info 11 46 one_table five_match_weekend
+week_info 12 47 one_table five_match_weekend
+week_info 13 48 one_table five_match_weekend
+week_info 14 49 one_table five_match_weekend
+week_info 15 2 one_table five_match_weekend
+week_info 16 3 one_table five_match_weekend
+week_info 17 4 one_table five_match_weekend
+week_info 18 5 one_table all_sun 5
+fixtures_info League10
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+unblock UKR_2C
+unblock UKR_2D
+done 06.30

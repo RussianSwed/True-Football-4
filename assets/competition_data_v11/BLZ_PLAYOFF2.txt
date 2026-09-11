@@ -1,0 +1,17 @@
+LEAGUE_PLAYOFF
+champion
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.3
+block
+add_teams 1 4 BLZ_1_2 current_season
+week_info 3 72 ko_first_leg all_wed 2 semifinal
+week_info 4 72 ko_second_leg all_sat 2 semifinal
+week_info 5 73 ko_first_leg all_wed 1 final
+week_info 6 73 ko_second_leg all_sat 1 final
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+done 06.30

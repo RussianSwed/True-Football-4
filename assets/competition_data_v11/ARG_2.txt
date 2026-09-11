@@ -1,0 +1,88 @@
+LEAGUE
+promotion 1 2
+game_over 36 37
+prize 1
+tv_rights 1
+fans_behaviour 1.5
+fans_attendance 0.1
+table 1 2 -1 -1 -1 -1 36 37
+add_teams first_time 37 ARG_2
+add_teams next_time 27 28 ARG_1 previous_season
+add_teams next_time 3 35 ARG_2 previous_season
+add_teams next_time 1 2 ARG_3 previous_season
+week_info 1 7 one_table eighteen_match_weekend
+week_info 2 8 one_table eighteen_match_weekend
+week_info 3 9 one_table eighteen_match_weekend
+week_info 4 10 one_table eighteen_match_weekend
+week_info 5 11 one_table eighteen_match_weekend
+week_info 6 12 one_table all_sat 18
+week_info 7 13 one_table eighteen_match_weekend
+week_info 8 14 one_table eighteen_match_weekend
+week_info 9 15 one_table eighteen_match_weekend
+week_info 10 16 one_table eighteen_match_weekend
+week_info 11 17 one_table all_sat 18
+week_info 12 18 one_table eighteen_match_weekend
+week_info 13 19 one_table eighteen_match_weekend
+week_info 14 20 one_table eighteen_match_weekend
+week_info 15 21 one_table eighteen_match_weekend
+week_info 16 22 one_table eighteen_match_weekend
+week_info 17 23 one_table all_sat 18
+week_info 18 24 one_table eighteen_match_weekend
+week_info 19 25 one_table eighteen_match_weekend
+week_info 20 26 one_table eighteen_match_weekend
+week_info 21 27 one_table eighteen_match_weekend
+week_info 22 28 one_table all_sat 18
+week_info 23 29 one_table eighteen_match_weekend
+week_info 24 30 one_table eighteen_match_weekend
+week_info 25 31 one_table eighteen_match_weekend
+week_info 26 32 one_table eighteen_match_weekend
+week_info 27 33 one_table all_sat 18
+week_info 28 34 one_table eighteen_match_weekend
+week_info 29 35 one_table eighteen_match_weekend
+week_info 30 36 one_table eighteen_match_weekend
+week_info 31 37 one_table all_sat 18
+week_info 32 38 one_table eighteen_match_weekend
+week_info 33 39 one_table eighteen_match_weekend
+week_info 34 40 one_table eighteen_match_weekend
+week_info 35 41 one_table eighteen_match_weekend
+week_info 36 42 one_table all_sat 18
+week_info 37 43 one_table all_sat 18
+fixtures_info League37_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+play_week 31
+play_week 32
+play_week 33
+play_week 34
+play_week 35
+play_week 36
+play_week 37
+done 01.01

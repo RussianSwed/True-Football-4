@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:paddingTop="@dimen/margin_10dp"
+    android:paddingBottom="@dimen/margin_10dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="11.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.0">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@id/emblem"
+            android:layout_width="@dimen/match_emblem_size"
+            android:layout_height="@dimen/match_emblem_size" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="10.0dip"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="9.0">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_20"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="left"
+            android:layout_gravity="center_vertical"
+            android:id="@id/teamName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:gravity="left"
+                android:layout_gravity="center_vertical"
+                android:id="@id/daysLeftToResults"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ff00ff00"
+                android:gravity="left"
+                android:layout_gravity="center_vertical"
+                android:id="@id/resultsAvailable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/results_available" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:gravity="left"
+                android:layout_gravity="center_vertical"
+                android:id="@id/daysLeftToExpire"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/margin_4dp" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

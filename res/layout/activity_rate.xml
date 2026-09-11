@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_4dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:orientation="vertical"
+            android:background="@layout/shape_background"
+            android:paddingTop="@dimen/margin_10dp"
+            android:paddingBottom="@dimen/margin_10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_16"
+                android:textColor="#ffffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pleaseRate" />
+            <pl.mkrstudio.truefootball3.views.CustomFontButton
+                android:id="@id/rate"
+                android:layout_marginTop="@dimen/margin_15dp"
+                android:layout_marginBottom="@dimen/margin_15dp"
+                android:text="@string/rate"
+                style="@style/default_button" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_16"
+                android:textColor="#ffffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pleasePlusOne" />
+            <com.google.android.gms.plus.PlusOneButton
+                android:id="@id/plus_one_button"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_15dp"
+                android:layout_marginBottom="@dimen/margin_15dp"
+                plus:annotation="bubble"
+                plus:size="standard"
+                xmlns:plus="http://schemas.android.com/apk/lib/com.google.android.gms.plus" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

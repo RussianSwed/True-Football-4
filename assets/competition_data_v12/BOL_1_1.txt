@@ -1,0 +1,45 @@
+LEAGUE
+champion
+prize 1
+fans_behaviour 1.5
+fans_attendance 0.4
+table 0 0 0 0 -1 -1 -1 -1
+block
+add_teams first_time 17 BOL_1
+add_teams next_time 1 17 BOL_1 current_season
+week_info 1 2 one_table eight_match_weekend
+week_info 2 3 one_table eight_match_weekend
+week_info 3 4 one_table eight_match_weekend
+week_info 4 5 one_table eight_match_weekend
+week_info 5 6 one_table eight_match_weekend
+week_info 6 7 one_table eight_match_weekend
+week_info 7 9 one_table eight_match_weekend
+week_info 8 10 one_table eight_match_weekend
+week_info 9 11 one_table eight_match_weekend
+week_info 10 13 one_table eight_match_weekend
+week_info 11 14 one_table eight_match_weekend
+week_info 12 15 one_table eight_match_weekend
+week_info 13 17 one_table eight_match_weekend
+week_info 14 19 one_table eight_match_weekend
+week_info 15 20 one_table eight_match_weekend
+week_info 16 21 one_table eight_match_weekend
+week_info 17 22 one_table all_sat 8
+fixtures_info League17_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+done 01.01

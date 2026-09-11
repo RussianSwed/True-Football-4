@@ -1,0 +1,33 @@
+DOMESTIC_CUP
+cup_winner
+prize 2
+fans_behaviour 1.4
+fans_attendance 0.1
+add_teams 22 POL_5 shuffled
+add_teams 18 POL_4A shuffled
+add_teams 18 POL_4B shuffled
+add_teams 18 POL_4C shuffled
+add_teams 18 POL_4D shuffled
+add_teams 18 POL_3 shuffled
+add_teams 18 POL_2 shuffled
+add_teams 18 POL_1 shuffled
+week_info 1 29 ko_one_match all_sat 48 round_1
+week_info 2 33 ko_one_match all_wed 24 round_2
+week_info 3 36 ko_one_match all_wed 12 round_3
+week_info 4 39 ko_one_match all_wed 32 round_of_64
+week_info 5 42 ko_one_match all_wed 16 round_of_32
+week_info 6 46 ko_one_match all_wed 8 round_of_16
+week_info 7 13 ko_one_match all_wed 4 quarterfinal
+week_info 8 16 ko_one_match all_wed 2 semifinal
+week_info 9 19 ko_one_match all_tue 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+done 06.30

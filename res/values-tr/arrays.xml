@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>kapalı</item>
+        <item>her 7 gün</item>
+        <item>her 30 gün</item>
+        <item>her 60 gün</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra defansif</item>
+        <item>defansiv</item>
+        <item>normal</item>
+        <item>hücum</item>
+        <item>ultra hücum</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>ic</item>
+        <item>dis</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Paslar</item>
+        <item>Şutlar</item>
+        <item>Top sürme</item>
+        <item>Top kapma</item>
+        <item>Topa dalma</item>
+        <item>Köşe vuruşları</item>
+        <item>Uzaktan vuruşlar</item>
+        <item>Yakından vuruşlar</item>
+        <item>Penaltı vuruşları</item>
+        <item>Kaptan</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Paslar</item>
+        <item>Şutlar</item>
+        <item>Top sürme</item>
+        <item>Top kapma</item>
+        <item>Topa dalma</item>
+        <item>Köşe vuruşları</item>
+        <item>Uzaktan vuruşlar</item>
+        <item>Yakından vuruşlar</item>
+        <item>Penaltı vuruşları</item>
+        <item>Kaptan</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>asla</item>
+        <item>her zaman</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>asla</item>
+        <item>her zaman</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>düşük</item>
+        <item>normal</item>
+        <item>yüksek</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>gunluk</item>
+        <item>3 gunde bir</item>
+        <item>7 gunde bir</item>
+        <item>son maça kadar</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>asla</item>
+        <item>öndeyken</item>
+        <item>her zaman</item>
+    </string-array>
+</resources>

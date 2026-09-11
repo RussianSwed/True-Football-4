@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:padding="@dimen/main_layout_padding"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView
+        android:orientation="horizontal"
+        android:id="@id/savedGames"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/load_game_list_size"
+        android:layout_marginTop="@dimen/margin_2dp"
+        android:listSelector="@layout/whole_list_bg"
+        android:scrollingCache="false"
+        android:cacheColorHint="#00000000" />
+    <pl.mkrstudio.truefootball3.views.CustomFontButton
+        android:id="@id/delete"
+        android:text="@string/delete"
+        style="@style/default_button" />
+    <pl.mkrstudio.truefootball3.views.CustomFontButton
+        android:id="@id/load"
+        android:text="@string/load"
+        style="@style/default_button" />
+</LinearLayout>

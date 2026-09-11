@@ -1,0 +1,51 @@
+LEAGUE
+champion
+prize 1
+tv_rights 1
+fans_behaviour 1.1
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 -1 -1
+add_teams first_time 6 COK_1
+add_teams next_time 1 6 COK_1 previous_season
+week_info 1 20 one_table three_match_weekend
+week_info 2 21 one_table three_match_weekend
+week_info 3 22 one_table three_match_weekend
+week_info 4 23 one_table three_match_weekend
+week_info 5 24 one_table three_match_weekend
+week_info 6 25 one_table three_match_weekend
+week_info 7 26 one_table three_match_weekend
+week_info 8 27 one_table three_match_weekend
+week_info 9 28 one_table three_match_weekend
+week_info 10 29 one_table three_match_weekend
+week_info 11 34 one_table three_match_weekend
+week_info 12 35 one_table three_match_weekend
+week_info 13 36 one_table three_match_weekend
+week_info 14 37 one_table three_match_weekend
+week_info 15 38 one_table three_match_weekend
+week_info 16 39 one_table three_match_weekend
+week_info 17 40 one_table three_match_weekend
+week_info 18 41 one_table three_match_weekend
+week_info 19 42 one_table three_match_weekend
+week_info 20 43 one_table all_sat 3
+fixtures_info League6_4
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+done 01.01

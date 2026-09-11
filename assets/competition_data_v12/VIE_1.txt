@@ -1,0 +1,65 @@
+LEAGUE
+champion
+relegation 13 14
+tv_rights 2
+prize 2
+fans_behaviour 0.9
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 13 14
+add_teams first_time 14 VIE_1
+add_teams next_time 1 12 VIE_1 previous_season
+add_teams next_time 1 2 VIE_2 previous_season
+week_info 1 12 one_table all_sat 7
+week_info 2 13 one_table all_sat 7
+week_info 3 14 one_table all_sat 7
+week_info 4 15 one_table all_sat 7
+week_info 5 16 one_table all_sat 7
+week_info 6 17 one_table all_sat 7
+week_info 7 18 one_table all_sat 7
+week_info 8 19 one_table all_sat 7
+week_info 9 21 one_table all_sat 7
+week_info 10 22 one_table all_sat 7
+week_info 11 24 one_table all_sat 7
+week_info 12 25 one_table all_sat 7
+week_info 13 26 one_table all_sat 7
+week_info 14 27 one_table all_sat 7
+week_info 15 28 one_table all_sat 7
+week_info 16 30 one_table all_sat 7
+week_info 17 31 one_table all_sat 7
+week_info 18 32 one_table all_sat 7
+week_info 19 34 one_table all_sat 7
+week_info 20 35 one_table all_sat 7
+week_info 21 36 one_table all_sat 7
+week_info 22 37 one_table all_sat 7
+week_info 23 38 one_table all_sat 7
+week_info 24 39 one_table all_sat 7
+week_info 25 40 one_table all_sat 7
+week_info 26 41 one_table all_sun 7
+fixtures_info League14
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+done 01.01

@@ -1,0 +1,74 @@
+LEAGUE
+champion
+relegation 15 16
+prize 4
+tv_rights 2
+fans_behaviour 1.7
+fans_attendance 0.4
+table 0 0 0 0 -1 -1 15 16
+add_teams first_time 16 CHI_1
+add_teams next_time 1 14 CHI_1 previous_season
+add_teams next_time 1 1 CHI_2 previous_season
+add_teams next_time 1 1 CHI_PLAYOFF1 previous_season
+week_info 1 6 one_table eight_match_weekend
+week_info 2 7 one_table eight_match_weekend
+week_info 3 8 one_table eight_match_weekend
+week_info 4 9 one_table eight_match_weekend
+week_info 5 10 one_table eight_match_weekend
+week_info 6 11 one_table eight_match_weekend
+week_info 7 12 one_table eight_match_weekend
+week_info 8 14 one_table eight_match_weekend
+week_info 9 15 one_table eight_match_weekend
+week_info 10 16 one_table eight_match_weekend
+week_info 11 17 one_table eight_match_weekend
+week_info 12 18 one_table eight_match_weekend
+week_info 13 19 one_table eight_match_weekend
+week_info 14 20 one_table eight_match_weekend
+week_info 15 21 one_table eight_match_weekend
+week_info 16 31 one_table all_sat 8
+week_info 17 32 one_table all_sat 8
+week_info 18 33 one_table eight_match_weekend
+week_info 19 34 one_table all_sat 8
+week_info 20 35 one_table all_sat 8
+week_info 21 36 one_table all_sat 8
+week_info 22 37 one_table eight_match_weekend
+week_info 23 38 one_table eight_match_weekend
+week_info 24 39 one_table eight_match_weekend
+week_info 25 40 one_table eight_match_weekend
+week_info 26 41 one_table eight_match_weekend
+week_info 27 42 one_table eight_match_weekend
+week_info 28 43 one_table eight_match_weekend
+week_info 29 44 one_table eight_match_weekend
+week_info 30 45 one_table all_sat 8
+fixtures_info League16
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+done 01.01

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:padding="@dimen/main_layout_padding"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="vertical"
+        android:id="@id/adsLL"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="54.0dip">
+        <com.google.android.gms.ads.AdView
+            android:layout_gravity="center"
+            android:id="@id/adView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-1066342364129157/4073488225" />
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:id="@id/dateLL"
+        android:background="@layout/shape_header_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:weightSum="7.0">
+        <View
+            android:layout_width="0.0dip"
+            android:layout_height="1.0dip"
+            android:layout_weight="2.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/date_text_size"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/dateTV"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.0" />
+        <LinearLayout
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:layout_width="0.0dip"
+            android:layout_height="wrap_content"
+            android:layout_weight="2.0">
+            <ImageView
+                android:layout_gravity="center|right"
+                android:id="@id/fb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/fb" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@id/nextMatchLL"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/nextMatch" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_14"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/nextMatchTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/nextMatchDateTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <TabHost
+        android:id="@android:id/tabhost"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <TabWidget
+                android:orientation="horizontal"
+                android:id="@android:id/tabs"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.0" />
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="0.0dip"
+                android:layout_height="0.0dip"
+                android:layout_weight="0.0" />
+            <androidx.viewpager.widget.ViewPager
+                android:id="@id/pager"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/main_menu_viewpager_size" />
+        </LinearLayout>
+    </TabHost>
+    <FrameLayout
+        android:id="@id/container_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>

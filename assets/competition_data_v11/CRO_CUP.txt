@@ -1,0 +1,29 @@
+DOMESTIC_CUP
+cup_winner
+prize 2
+fans_behaviour 1.8
+fans_attendance 0.1
+add_teams 70 CRO_4 shuffled
+add_teams 16 CRO_3 shuffled
+add_teams 12 CRO_2 shuffled
+add_teams 10 CRO_1 shuffled
+week_info 1 37 ko_one_match all_wed 44 round_1
+week_info 2 39 ko_one_match all_wed 32 round_2
+week_info 3 41 ko_one_match all_wed 16 round_of_32
+week_info 4 44 ko_one_match all_wed 8 round_of_16
+week_info 5 46 ko_first_leg half_tue_wed 4 quarterfinal
+week_info 6 48 ko_second_leg half_tue_wed 4 quarterfinal
+week_info 7 13 ko_first_leg all_wed 2 semifinal
+week_info 8 16 ko_second_leg all_wed 2 semifinal
+week_info 9 22 ko_one_match all_sun 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+done 06.30

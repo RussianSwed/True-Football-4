@@ -1,0 +1,62 @@
+LEAGUE
+prize 4
+tv_rights 4
+fans_behaviour 1.0
+fans_attendance 0.3
+table 1 1 2 6 -1 -1 -1 -1
+add_teams american_league
+week_info 1 10 one_table thirteen_match_weekend
+week_info 2 11 one_table thirteen_match_weekend
+week_info 3 13 one_table all_sun 13
+week_info 4 14 one_table thirteen_match_weekend
+week_info 5 15 one_table thirteen_match_weekend
+week_info 6 16 one_table thirteen_match_weekend
+week_info 7 17 one_table thirteen_match_weekend
+week_info 8 19 one_table all_sun 13
+week_info 9 20 one_table thirteen_match_weekend
+week_info 10 21 one_table all_sun 13
+week_info 11 23 one_table thirteen_match_weekend
+week_info 12 24 one_table all_sun 13
+week_info 13 25 one_table thirteen_match_weekend
+week_info 14 26 one_table thirteen_match_weekend
+week_info 15 28 one_table all_sun 13
+week_info 16 29 one_table thirteen_match_weekend
+week_info 17 31 one_table thirteen_match_weekend
+week_info 18 33 one_table thirteen_match_weekend
+week_info 19 35 one_table thirteen_match_weekend
+week_info 20 36 one_table thirteen_match_weekend
+week_info 21 38 one_table thirteen_match_weekend
+week_info 22 39 one_table all_sun 13
+week_info 23 40 one_table thirteen_match_weekend
+week_info 24 41 one_table thirteen_match_weekend
+week_info 25 42 one_table thirteen_match_weekend
+week_info 26 43 one_table all_sun 13
+fixtures_info AmericanLeague2021
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+unblock USA_PLAYOFF1
+done 01.01

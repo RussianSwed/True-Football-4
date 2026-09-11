@@ -1,0 +1,46 @@
+LEAGUE
+fans_behaviour 1.5
+fans_attendance 0.4
+table -1 -1 1 8 -1 -1 -1 -1
+block
+add_teams first_time 19 MEX_1
+add_teams next_time 1 19 MEX_1 current_season
+week_info 1 27 one_table mexican_1_1
+week_info 2 28 one_table mexican_1_1
+week_info 3 29 one_table mexican_1_1
+week_info 4 30 one_table mexican_1_1
+week_info 5 31 one_table mexican_1_1
+week_info 6 32 one_table mexican_1_1
+week_info 7 33 one_table mexican_1_1
+week_info 8 34 one_table mexican_1_1
+week_info 9 35 one_table mexican_1_1
+week_info 10 37 one_table mexican_1_1
+week_info 11 38 one_table mexican_1_1
+week_info 12 39 one_table mexican_1_1
+week_info 13 40 one_table all_wed 9
+week_info 14 40 one_table mexican_1_1
+week_info 15 41 one_table mexican_1_1
+week_info 16 42 one_table mexican_1_1
+week_info 17 43 one_table mexican_1_1
+week_info 18 44 one_table mexican_1_1
+week_info 19 45 one_table mexican_1_1
+fixtures_info League19_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+unblock MEX_PLAYOFF1
+done 06.30

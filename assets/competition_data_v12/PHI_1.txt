@@ -1,0 +1,51 @@
+LEAGUE
+champion
+tv_rights 2
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 -1 -1
+add_teams first_time 6 PHI_1
+add_teams next_time 1 6 PHI_1 previous_season
+week_info 1 31 one_table all_sun 3
+week_info 2 32 one_table all_sun 3
+week_info 3 33 one_table all_sun 3
+week_info 4 34 one_table all_sun 3
+week_info 5 35 one_table all_sun 3
+week_info 6 36 one_table all_sun 3
+week_info 7 37 one_table all_sun 3
+week_info 8 38 one_table all_sun 3
+week_info 9 39 one_table all_sun 3
+week_info 10 40 one_table all_sun 3
+week_info 11 9 one_table all_sun 3
+week_info 12 10 one_table all_sun 3
+week_info 13 11 one_table all_sun 3
+week_info 14 12 one_table all_sun 3
+week_info 15 13 one_table all_sun 3
+week_info 16 14 one_table all_sun 3
+week_info 17 15 one_table all_sun 3
+week_info 18 16 one_table all_sun 3
+week_info 19 17 one_table all_sun 3
+week_info 20 18 one_table all_sun 3
+fixtures_info League6_4
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+done 06.30

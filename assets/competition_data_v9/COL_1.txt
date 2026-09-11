@@ -1,0 +1,13 @@
+LEAGUE
+game_over 19 20
+tv_rights 3
+fans_behaviour 1.5
+fans_attendance 0.2
+table -1 -1 -1 -1 -1 -1 19 20
+order south_american
+add_teams first_time 20 COL_1
+add_teams next_time 1 18 COL_1 previous_season
+add_teams next_time 1 2 COL_2 previous_season
+unblock COL_1_1
+unblock COL_1_2
+done 12.31

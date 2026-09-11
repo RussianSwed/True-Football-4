@@ -1,0 +1,15 @@
+LEAGUE_PLAYOFF
+promotion_or_staying 1 1
+relegation_or_staying 2 2
+fans_behaviour 1.1
+fans_attendance 0.5
+block
+update_team_group
+add_teams 11 11 RUS_3B current_season
+add_teams 11 11 RUS_3C current_season
+week_info 1 76 ko_first_leg all_wed 1 playoff
+week_info 2 76 ko_second_leg all_sun 1 playoff
+fixtures_info Knockout
+play_week 1
+play_week 2
+done 06.30

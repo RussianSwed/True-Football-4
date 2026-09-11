@@ -1,0 +1,76 @@
+LEAGUE
+tv_rights 5
+fans_behaviour 1.2
+fans_attendance 0.1
+table -1 -1 1 6 -1 -1 -1 -1
+add_teams first_time 11 AUS_1
+add_teams next_time 1 11 AUS_1 previous_season
+week_info 1 35 one_table australian_1_1
+week_info 2 36 one_table australian_1_1
+week_info 3 37 one_table australian_1_1
+week_info 4 38 one_table australian_1_1
+week_info 5 39 one_table australian_1_1
+week_info 6 40 one_table australian_1_1
+week_info 7 41 one_table australian_1_1
+week_info 8 42 one_table australian_1_1
+week_info 9 43 one_table australian_1_1
+week_info 10 44 one_table australian_1_1
+week_info 11 45 one_table australian_1_1
+week_info 12 46 one_table australian_1_1
+week_info 13 47 one_table australian_1_1
+week_info 14 48 one_table australian_1_1
+week_info 15 49 one_table australian_1_1
+week_info 16 50 one_table australian_1_1
+week_info 17 2 one_table australian_1_1
+week_info 18 3 one_table australian_1_1
+week_info 19 4 one_table australian_1_1
+week_info 20 5 one_table australian_1_1
+week_info 21 6 one_table australian_1_1
+week_info 22 7 one_table australian_1_1
+week_info 23 8 one_table australian_1_1
+week_info 24 9 one_table australian_1_1
+week_info 25 10 one_table australian_1_1
+week_info 26 11 one_table australian_1_1
+week_info 27 12 one_table australian_1_1
+week_info 28 13 one_table australian_1_1
+week_info 29 14 one_table australian_1_1
+week_info 30 15 one_table australian_1_1
+week_info 31 16 one_table australian_1_1
+week_info 32 17 one_table australian_1_1
+week_info 33 18 one_table all_sat 5
+fixtures_info League11_3
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+play_week 31
+play_week 32
+play_week 33
+unblock AUS_PLAYOFF1
+done 06.30

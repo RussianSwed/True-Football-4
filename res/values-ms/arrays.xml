@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>tutup</item>
+        <item>setiap 7 hari</item>
+        <item>setiap 30 hari</item>
+        <item>setiap 60 hari</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>sangat bertahan:</item>
+        <item>bertahan</item>
+        <item>normal</item>
+        <item>serang</item>
+        <item>sangat menyerang</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>tempat sendiri</item>
+        <item>tempat lawan</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Penghantaran bola</item>
+        <item>Rembatan</item>
+        <item>Pembawaan bola</item>
+        <item>Perampasan bola</item>
+        <item>Terjahan</item>
+        <item>Sepakan sudut</item>
+        <item>Sepakan percuma jarak jauh</item>
+        <item>Sepakan percuma jarak dekat</item>
+        <item>Sepakan penalti</item>
+        <item>Ketua pasukan</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Penghantaran bola</item>
+        <item>Rembatan</item>
+        <item>Pembawaan bola</item>
+        <item>Perampasan bola</item>
+        <item>Terjahan</item>
+        <item>Sepakan sudut</item>
+        <item>Sepakan percuma jarak jauh</item>
+        <item>Sepakan percuma jarak dekat</item>
+        <item>Sepakan penalti</item>
+        <item>Ketua pasukan</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>tidak pernah</item>
+        <item>selalu</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>tidak pernah</item>
+        <item>selalu</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>rendah</item>
+        <item>normal</item>
+        <item>tinggi</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>harian</item>
+        <item>setiap 3 hari</item>
+        <item>setiap 7 hari</item>
+        <item>sampai pertandingan terakhir</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>tidak pernah</item>
+        <item>semasa mendahului</item>
+        <item>selalu</item>
+    </string-array>
+</resources>

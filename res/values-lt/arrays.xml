@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>išjungta</item>
+        <item>kas 7 dienas</item>
+        <item>kas 30 dienų</item>
+        <item>kas 60 dienų</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra gynybinė</item>
+        <item>gynybinė</item>
+        <item>normali</item>
+        <item>puolamoji</item>
+        <item>ultra puolamoji</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>namuose</item>
+        <item>svečiuose</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pasai</item>
+        <item>Smūgiavimas</item>
+        <item>Driblingas</item>
+        <item>Perėmimas</item>
+        <item>Nerimai</item>
+        <item>Kampiniai</item>
+        <item>Tolimi laisvieji smūgiai</item>
+        <item>Artimieji laisvieji smūgiai</item>
+        <item>Baudos smūgiai</item>
+        <item>Kapitonas</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pasai</item>
+        <item>Smūgiavimas</item>
+        <item>Driblingas</item>
+        <item>Perėmimas</item>
+        <item>Nerimai</item>
+        <item>Kampiniai</item>
+        <item>Tolimi laisvieji smūgiai</item>
+        <item>Artimieji laisvieji smūgiai</item>
+        <item>Baudos smūgiai</item>
+        <item>Kapitonas</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>niekada</item>
+        <item>visada</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>niekada</item>
+        <item>visada</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>žemas</item>
+        <item>normalus</item>
+        <item>aukštas</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>diena</item>
+        <item>3 dienos</item>
+        <item>7 dienos</item>
+        <item>iki kito mačo</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>niekada</item>
+        <item>turint persvarą</item>
+        <item>visada</item>
+    </string-array>
+</resources>

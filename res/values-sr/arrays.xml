@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>isključeno</item>
+        <item>svakih 7 dana</item>
+        <item>svakih 30 dana</item>
+        <item>svakih 60 dana</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra-odbrambeno</item>
+        <item>odbrambeno</item>
+        <item>normalno</item>
+        <item>napadački</item>
+        <item>ultra-napadački</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>domaćin</item>
+        <item>gost</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pasovi</item>
+        <item>Šutevi</item>
+        <item>Dribling</item>
+        <item>Uklizavanje</item>
+        <item>Foliranje</item>
+        <item>Korneri</item>
+        <item>Daleki slobodni udarci</item>
+        <item>Bliski slobodni udarci</item>
+        <item>Penali</item>
+        <item>Kapiten</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pasovi</item>
+        <item>Šutevi</item>
+        <item>Dribling</item>
+        <item>Uklizavanje</item>
+        <item>Foliranje</item>
+        <item>Korneri</item>
+        <item>Daleki slobodni udarci</item>
+        <item>Bliski slobodni udarci</item>
+        <item>Penali</item>
+        <item>Kapiten</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nikad</item>
+        <item>uvek</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nikad</item>
+        <item>uvek</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>niski</item>
+        <item>normalan</item>
+        <item>visoki</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>jedan dan</item>
+        <item>3 dana</item>
+        <item>7 dana</item>
+        <item>do sledećeg meča</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nikad</item>
+        <item>kada vodimo</item>
+        <item>uvek</item>
+    </string-array>
+</resources>

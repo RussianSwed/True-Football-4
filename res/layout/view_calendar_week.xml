@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/calendar_week_height"
+    android:weightSum="7.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day1"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day2"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day3"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day4"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day5"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day6"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/day7"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+</LinearLayout>

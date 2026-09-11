@@ -1,0 +1,21 @@
+LEAGUE
+relegation 6 6
+prize 1
+fans_behaviour 1.1
+fans_attendance 0.3
+table -1 -1 -1 -1 5 5 6 6
+order scottish
+block
+add_teams 7 12 NIR_1 current_season
+week_info 1 68 table_with_sco_1 all_sat 3
+week_info 2 69 table_with_sco_1 all_sat 3
+week_info 3 70 table_with_sco_1 all_tue 3
+week_info 4 70 table_with_sco_1 all_sat 3
+week_info 5 71 table_with_sco_1 all_sat 3
+fixtures_info League6_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+done 06.30

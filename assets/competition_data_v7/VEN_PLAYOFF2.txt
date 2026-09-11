@@ -1,0 +1,24 @@
+LEAGUE_PLAYOFF
+champion
+prize 1
+tv_rights 1
+fans_behaviour 1.6
+fans_attendance 0.6
+table 1 1 -1 -1 -1 -1 -1 -1
+block
+add_teams 1 8 VEN_1_2 current_season
+week_info 1 45 ko_first_leg half_sat_sun 4 quarterfinal
+week_info 2 46 ko_second_leg half_wed_thu 4 quarterfinal
+week_info 3 46 ko_first_leg half_sat_sun 2 semifinal
+week_info 4 47 ko_second_leg half_sat_sun 2 semifinal
+week_info 5 48 ko_first_leg all_sat 1 final
+week_info 6 49 ko_second_leg all_wed 1 final
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+update_team_group
+done 01.01

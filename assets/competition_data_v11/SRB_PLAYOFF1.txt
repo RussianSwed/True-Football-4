@@ -1,0 +1,15 @@
+LEAGUE_PLAYOFF
+promotion_or_staying 1 2
+relegation_or_staying 3 4
+fans_behaviour 1.8
+fans_attendance 0.4
+block
+update_team_group
+add_teams 5 6 SRB_1B current_season
+add_teams 3 4 SRB_2A current_season
+week_info 1 76 ko_first_leg all_tue 2 playoff
+week_info 2 76 ko_second_leg all_fri 2 playoff
+fixtures_info Knockout
+play_week 1
+play_week 2
+done 06.30

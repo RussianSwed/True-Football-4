@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>виключити</item>
+        <item>кожні 7 днів</item>
+        <item>кожні 30 днів</item>
+        <item>кожні 60 днів</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ультра захисний</item>
+        <item>захисний</item>
+        <item>нормальний</item>
+        <item>атакуючий</item>
+        <item>ультра атакуючий</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>вдома</item>
+        <item>на виїзді</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Передачі</item>
+        <item>Удари</item>
+        <item>Дриблінг</item>
+        <item>Відбір</item>
+        <item>Пірнання</item>
+        <item>Кутові удари</item>
+        <item>Вільні удари</item>
+        <item>Штрафні удари</item>
+        <item>Пенальті</item>
+        <item>Капітан</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Передачі</item>
+        <item>Удари</item>
+        <item>Дриблінг</item>
+        <item>Відбір</item>
+        <item>Пірнання</item>
+        <item>Кутові удари</item>
+        <item>Вільні удари</item>
+        <item>Штрафні удари</item>
+        <item>Пенальті</item>
+        <item>Капітан</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>ніколи</item>
+        <item>завжди</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>ніколи</item>
+        <item>завжди</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>низький</item>
+        <item>нормальний</item>
+        <item>високий</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>день</item>
+        <item>3 дні</item>
+        <item>7 днів</item>
+        <item>до наступного матчу</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>ніколи</item>
+        <item>коли лідируєш</item>
+        <item>завжди</item>
+    </string-array>
+</resources>

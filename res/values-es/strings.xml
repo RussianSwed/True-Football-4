@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AFG">Afganistán</string>
+    <string name="AIA">Anguila</string>
+    <string name="ALB">Albania</string>
+    <string name="ALG">Argelia</string>
+    <string name="AND">Andorra</string>
+    <string name="ANG">Angola</string>
+    <string name="ARG">Argentina</string>
+    <string name="ARM">Armenia</string>
+    <string name="ARU">Aruba</string>
+    <string name="ASA">Samoa Americana</string>
+    <string name="ATG">Antigua y Barbuda</string>
+    <string name="AUS">Australia</string>
+    <string name="AUT">Austria</string>
+    <string name="AZE">Azerbaiyán</string>
+    <string name="BAH">Bahamas</string>
+    <string name="BAN">Bangladés</string>
+    <string name="BDI">Burundi</string>
+    <string name="BEL">Bélgica</string>
+    <string name="BEN">Benin</string>
+    <string name="BER">Bermudas</string>
+    <string name="BFA">Burkina Faso</string>
+    <string name="BHR">Baréin</string>
+    <string name="BHU">Bután</string>
+    <string name="BIH">Bosnia y Herzegovina</string>
+    <string name="BLR">Bielorrusia</string>
+    <string name="BLZ">Belice</string>
+    <string name="BOE">Bonaire</string>
+    <string name="BOL">Bolivia</string>
+    <string name="BOT">Botsuana</string>
+    <string name="BRA">Brasil</string>
+    <string name="BRB">Barbados</string>
+    <string name="BRU">Brunéi</string>
+    <string name="BUL">Bulgaria</string>
+    <string name="CAM">Camboya</string>
+    <string name="CAN">Canadá</string>
+    <string name="CAY">Islas Caimán</string>
+    <string name="CGO">República del Congo</string>
+    <string name="CHA">Chad</string>
+    <string name="CHI">Chile</string>
+    <string name="CHN">China</string>
+    <string name="CIV">Costa de Marfil</string>
+    <string name="CMR">Camerún</string>
+    <string name="COD">República Democrática del Congo</string>
+    <string name="COK">Islas Cook</string>
+    <string name="COL">Colombia</string>
+    <string name="COM">Comoras</string>
+    <string name="CPV">Cabo Verde</string>
+    <string name="CRC">Costa Rica</string>
+    <string name="CRO">Croacia</string>
+    <string name="CTA">República Centroafricana</string>
+    <string name="CUB">Cuba</string>
+    <string name="CUW">Curazao</string>
+    <string name="CYP">Chipre</string>
+    <string name="CZE">República Checa</string>
+    <string name="DEN">Dinamarca</string>
+    <string name="DJI">Yibuti</string>
+    <string name="DMA">Dominica</string>
+    <string name="DOM">República Dominicana</string>
+    <string name="ECU">Ecuador</string>
+    <string name="EGY">Egipto</string>
+    <string name="ENG">Inglaterra</string>
+    <string name="EQG">Guinea Ecuatorial</string>
+    <string name="ERI">Eritrea</string>
+    <string name="ESP">España</string>
+    <string name="EST">Estonia</string>
+    <string name="ETH">Etiopía</string>
+    <string name="FIJ">Fiyi</string>
+    <string name="FIN">Finlandia</string>
+    <string name="FRA">Francia</string>
+    <string name="FRO">Islas Feroe</string>
+    <string name="GAB">Gabón</string>
+    <string name="GAM">Gambia</string>
+    <string name="GEO">Georgia</string>
+    <string name="GER">Alemania</string>
+    <string name="GHA">Ghana</string>
+    <string name="GIB">Gibraltar</string>
+    <string name="GLP">Guadalupe</string>
+    <string name="GNB">Guinea-Bisáu</string>
+    <string name="GRE">Grecia</string>
+    <string name="GRL">Groenlandia</string>
+    <string name="GRN">Granada</string>
+    <string name="GUA">Guatemala</string>
+    <string name="GUF">Guayana Francesa</string>
+    <string name="GUI">Guinea</string>
+    <string name="GUM">Guam</string>
+    <string name="GUY">Guyana</string>
+    <string name="HAI">Haití</string>
+    <string name="HKG">Hong Kong</string>
+    <string name="HON">Honduras</string>
+    <string name="HUN">Hungría</string>
+    <string name="IDN">Indonesia</string>
+    <string name="IND">India</string>
+    <string name="IRL">Irlanda</string>
+    <string name="IRN">Irán</string>
+    <string name="IRQ">Irak</string>
+    <string name="ISL">Islandia</string>
+    <string name="ISR">Israel</string>
+    <string name="ITA">Italia</string>
+    <string name="JAM">Jamaica</string>
+    <string name="JOR">Jordania</string>
+    <string name="JPN">Japón</string>
+    <string name="KAZ">Kazajistán</string>
+    <string name="KEN">Kenia</string>
+    <string name="KGZ">Kirguistán</string>
+    <string name="KOR">Corea del Sur</string>
+    <string name="KOS">Kosovo</string>
+    <string name="KSA">Arabia Saudita</string>
+    <string name="KUW">Kuwait</string>
+    <string name="LAO">Laos</string>
+    <string name="LBR">Liberia</string>
+    <string name="LBY">Libia</string>
+    <string name="LCA">Santa Lucía</string>
+    <string name="LES">Lesoto</string>
+    <string name="LIB">Líbano</string>
+    <string name="LIE">Liechtenstein</string>
+    <string name="LTU">Lituania</string>
+    <string name="LUX">Luxemburgo</string>
+    <string name="LVA">Letonia</string>
+    <string name="MAC">Macao</string>
+    <string name="MAD">Madagascar</string>
+    <string name="MAR">Marruecos</string>
+    <string name="MAS">Malasia</string>
+    <string name="MDA">Moldavia</string>
+    <string name="MDV">Maldivas</string>
+    <string name="MEX">México</string>
+    <string name="MGL">Mongolia</string>
+    <string name="MKD">Macedonia del Norte</string>
+    <string name="MLI">Malí</string>
+    <string name="MLT">Malta</string>
+    <string name="MNE">Montenegro</string>
+    <string name="MOZ">Mozambique</string>
+    <string name="MRI">Mauricio</string>
+    <string name="MSR">Montserrat</string>
+    <string name="MTN">Mauritania</string>
+    <string name="MTQ">Martinica</string>
+    <string name="MWI">Malaui</string>
+    <string name="MYA">Birmania</string>
+    <string name="NAM">Namibia</string>
+    <string name="NCA">Nicaragua</string>
+    <string name="NCL">Nueva Caledonia</string>
+    <string name="NED">Países Bajos</string>
+    <string name="NEP">Nepal</string>
+    <string name="NGA">Nigeria</string>
+    <string name="NIG">Níger</string>
+    <string name="NIR">Irlanda del Norte</string>
+    <string name="NOR">Noruega</string>
+    <string name="NZL">Nueva Zelanda</string>
+    <string name="OMA">Omán</string>
+    <string name="PAK">Pakistán</string>
+    <string name="PAN">Panamá</string>
+    <string name="PAR">Paraguay</string>
+    <string name="PER">Perú</string>
+    <string name="PHI">Filipinas</string>
+    <string name="PLE">Palestina</string>
+    <string name="PNG">Papúa Nueva Guinea</string>
+    <string name="POL">Polonia</string>
+    <string name="POR">Portugal</string>
+    <string name="PRK">Corea del Norte</string>
+    <string name="PUR">Puerto Rico</string>
+    <string name="QAT">Catar</string>
+    <string name="ROM">Rumania</string>
+    <string name="RSA">Sudáfrica</string>
+    <string name="RUS">Rusia</string>
+    <string name="RWA">Ruanda</string>
+    <string name="SAM">Samoa</string>
+    <string name="SCO">Escocia</string>
+    <string name="SDN">Sudán</string>
+    <string name="SEN">Senegal</string>
+    <string name="SEY">Seychelles</string>
+    <string name="SIN">Singapur</string>
+    <string name="SKN">San Cristóbal y Nieves</string>
+    <string name="SLE">Sierra Leona</string>
+    <string name="SLV">El Salvador</string>
+    <string name="SMA">San Martín (Países Bajos)</string>
+    <string name="SMN">San Martín (Francia)</string>
+    <string name="SMR">San Marino</string>
+    <string name="SOL">Islas Salomón</string>
+    <string name="SOM">Somalia</string>
+    <string name="SRB">Serbia</string>
+    <string name="SRI">Sri Lanka</string>
+    <string name="SSD">Sudán del Sur</string>
+    <string name="STP">Santo Tomé y Príncipe</string>
+    <string name="SUI">Suiza</string>
+    <string name="SUR">Surinam</string>
+    <string name="SVK">Eslovaquia</string>
+    <string name="SVN">Eslovenia</string>
+    <string name="SWE">Suecia</string>
+    <string name="SWZ">Suazilandia</string>
+    <string name="SYR">Siria</string>
+    <string name="TAH">Tahití</string>
+    <string name="TAN">Tanzania</string>
+    <string name="TCA">Islas Turcas y Caicos</string>
+    <string name="TGA">Tonga</string>
+    <string name="THA">Tailandia</string>
+    <string name="TJK">Tayikistán</string>
+    <string name="TKM">Turkmenistán</string>
+    <string name="TLS">Timor Oriental</string>
+    <string name="TOG">Togo</string>
+    <string name="TPE">China Taipéi</string>
+    <string name="TRI">Trinidad y Tobago</string>
+    <string name="TUN">Túnez</string>
+    <string name="TUR">Turquía</string>
+    <string name="UAE">Emiratos Árabes Unidos</string>
+    <string name="UGA">Uganda</string>
+    <string name="UKR">Ucrania</string>
+    <string name="URU">Uruguay</string>
+    <string name="USA">Estados Unidos</string>
+    <string name="UZB">Uzbekistán</string>
+    <string name="VAN">Vanuatu</string>
+    <string name="VEN">Venezuela</string>
+    <string name="VGB">Islas Vírgenes Británicas</string>
+    <string name="VIE">Vietnam</string>
+    <string name="VIN">San Vicente y las Granadinas</string>
+    <string name="VIR">Islas Vírgenes Estadounidenses</string>
+    <string name="WAL">Gales</string>
+    <string name="YEM">Yemen</string>
+    <string name="ZAM">Zambia</string>
+    <string name="ZIM">Zimbabue</string>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="accept">Aceptar</string>
+    <string name="acceptOffer">Aceptar</string>
+    <string name="accountBalance">Saldo:</string>
+    <string name="account_balance_menu">Finanzas</string>
+    <string name="achievement0">Gana un partido</string>
+    <string name="achievement1">Gana un partido por 3 goles o más</string>
+    <string name="achievement10">Consigue que tu jugador marque 3 goles en un solo partido</string>
+    <string name="achievement11">Gana un partido por 5 goles o más</string>
+    <string name="achievement12">Juega 100 partidos con un jugador</string>
+    <string name="achievement13">Marca 25 goles con un jugador</string>
+    <string name="achievement14">Juega 5 temporadas completas</string>
+    <string name="achievement15">Gana 50 partidos</string>
+    <string name="achievement16">Marca 50 goles con un jugador</string>
+    <string name="achievement17">Consigue que tu jugador marque 5 goles en un solo partido</string>
+    <string name="achievement18">Juega 250 partidos con un jugador</string>
+    <string name="achievement19">Juega 10 temporadas completas</string>
+    <string name="achievement2">Gana 5 partidos</string>
+    <string name="achievement20">Gana 100 partidos</string>
+    <string name="achievement21">Gana un partido por 10 goles o más</string>
+    <string name="achievement22">No pierdas ningún partido de liga en una temporada</string>
+    <string name="achievement23">Marca 100 goles con un jugador</string>
+    <string name="achievement24">Juega 25 temporadas completas</string>
+    <string name="achievement25">Gana 250 partidos</string>
+    <string name="achievement26">Gana un partido por 20 goles o más</string>
+    <string name="achievement27">Consigue que tu jugador marque 10 goles en un solo partido</string>
+    <string name="achievement28">Juega 500 partidos con un jugador</string>
+    <string name="achievement29">Juega 50 temporadas completas</string>
+    <string name="achievement3">Juega 20 partidos con un jugador</string>
+    <string name="achievement30">Gana 500 partidos</string>
+    <string name="achievement31">Marca 250 goles con un jugador</string>
+    <string name="achievement32">Gana todos los partidos de liga en una temporada</string>
+    <string name="achievement33">Juega 750 partidos con un jugador</string>
+    <string name="achievement34">Juega 100 temporadas completas</string>
+    <string name="achievement35">Gana 1000 partidos</string>
+    <string name="achievement36">Juega 1000 partidos con un jugador</string>
+    <string name="achievement37">Marca 500 goles con un jugador</string>
+    <string name="achievement38">Juega 250 temporadas completas</string>
+    <string name="achievement39">Gana 2500 partidos</string>
+    <string name="achievement4">Juega una temporada completa</string>
+    <string name="achievement40">Juega 500 temporadas completas</string>
+    <string name="achievement41">Gana 5000 partidos</string>
+    <string name="achievement42">Marca 1000 goles con un jugador</string>
+    <string name="achievement43">Juega 1000 temporadas completas</string>
+    <string name="achievement44">Gana 10000 partidos</string>
+    <string name="achievement5">Gana 10 partidos</string>
+    <string name="achievement6">Juega 50 partidos con un jugador</string>
+    <string name="achievement7">Marca 10 goles con un jugador</string>
+    <string name="achievement8">Juega 2 temporadas completas</string>
+    <string name="achievement9">Gana 25 partidos</string>
+    <string name="achievementUnlocked">¡Logro desbloqueado!</string>
+    <string name="achievements">Logros</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Añadir</string>
+    <string name="addToFirstTeam">Agregar al primer equipo</string>
+    <string name="africa">África</string>
+    <string name="afterOwnGoalAction1">¡%1$s se lleva las manos a la cabeza!</string>
+    <string name="afterOwnGoalAction2">¡%1$s no se cree lo que ha hecho!</string>
+    <string name="afterOwnGoalAction3">¡%1$s no podrá dormir esta noche!</string>
+    <string name="afterOwnGoalAction4">¡%1$s! ¿Qué ha hecho?</string>
+    <string name="afterOwnGoalAction5">¡%1$s! ¡El hombre sin suerte!</string>
+    <string name="afterOwnGoalAction6">¡%1$s estuvo totalmente sin suerte!</string>
+    <string name="age">Edad</string>
+    <string name="agentWillBePaid">El agente del jugador se pagará %1$s en concepto de gastos.</string>
+    <string name="agentsFee">Agentes de jugadores</string>
+    <string name="aggregate">Agregado</string>
+    <string name="aggresive">agresivo</string>
+    <string name="aggression">Agresión:</string>
+    <string name="agility">Agilidad</string>
+    <string name="aiTransfer">"- %1$s (%2$s -> %3$s)
+"</string>
+    <string name="aiTransfersContent">"A medida que el mercado de fichajes está abierto, algunos clubes están haciendo movimientos interesantes. Aquí están algunas de las últimas transferencias que vale la pena mencionar:
+
+"</string>
+    <string name="aiTransfersTitle">Resumen de las transferencias recientes</string>
+    <string name="all">Todo</string>
+    <string name="allCompetitions">Todas las competiciones</string>
+    <string name="allTime">Todos los tiempos</string>
+    <string name="always">siempre</string>
+    <string name="analysis_confirmation_dialog">"¿Quieres que tus asistentes observen y analicen la equipa de %1$s?
+
+ Los resultados estarán disponibles en 7 día."</string>
+    <string name="analysis_results">"Aquí están los resultados de nuestro análisis sobre %1$s. Actualmente juegan con la formación %2$s con jugabilidad %3$s.
+
+ También tenemos algunas sugerencias tácticas contra ellos:"</string>
+    <string name="analyze">Analizar</string>
+    <string name="analyzedOpponents">Oponentes analizados:</string>
+    <string name="angry">enfadado</string>
+    <string name="app_name">True Football 3</string>
+    <string name="april">Abril</string>
+    <string name="areYouSure">¿Estás seguro?</string>
+    <string name="areYouSureToDelete">¿Está seguro?</string>
+    <string name="areYouSureToRemoveTeam">¿Estás seguro que quieres eliminar este equipo?</string>
+    <string name="areYouSureYouWantToBuildNewTrainingField">¿Estás seguro que quieres construir un nuevo campo de juego?</string>
+    <string name="areYouSureYouWantToHireThisEmployee">¿Estás seguro que quieres contratar a %1$s? Su salario mensual es de %2$s.</string>
+    <string name="areYouSureYouWantToTerminateContract">¿Está seguro de querer finalizar el contrato? Se pagará una penalización (%1$s)</string>
+    <string name="arrangeFriendlyMatch">Organizar partido amistoso</string>
+    <string name="arrogant">arrogante</string>
+    <string name="ashamed">avergonzado</string>
+    <string name="asia">Asia</string>
+    <string name="assign">Asignar...</string>
+    <string name="assistant">Ayudante</string>
+    <string name="assistantStartingMessageContent">"Hola, soy tu asistente. Estoy feliz de que trabajemos juntos.
+
+Al principio, te aconsejo tomar una mirada al equipo. El mercado de transferencias está abierto, así que también puedes buscar nuevos jugadores. Puedes enviar a uno de nuestros ojeadores para una búsqueda si quieres. Vas a recibir algunas ofertas de agentes libres también.
+
+Tendremos algo de tiempo hasta el comienzo del torneo, así que por qué no llevar al equipo al campo de entrenamiento? Chequea las posibles oportunidades y decide.
+
+Oh, y no quiero olvidarme acerca de los juveniles. Eres libre de decidir que número y calidad quieres en los equipos juveniles. Genial, no? Sólo el dinero es el límite. Así que sé cuidadoso con los gastos.
+
+Si necesitas desesperadamente algo de dinero, puedes tomar un préstamo del banco. ¡Pero este es tu último recurso!
+
+Bien, no quiero hablar demasiado. Buena suerte, ¡disfruta!"</string>
+    <string name="assistantStartingMessageTitle">Hola!</string>
+    <string name="assists">Asistencias</string>
+    <string name="association">Asociación de fútbol</string>
+    <string name="attacking">Ataque</string>
+    <string name="attendance">Asistencia</string>
+    <string name="august">Agosto</string>
+    <string name="australia">Australia</string>
+    <string name="autosave">Autoguardar:</string>
+    <string name="average">regular</string>
+    <string name="away">visitante</string>
+    <string name="backFromTrainingCampContent">Querido señor, debido a los partidos oficiales que chocan en nuestro campo, tendremos que ir a casa más temprano. Desafortunadamente, no podremos conseguir nuestro dinero de nuevo. Aconsejo ser más cuidadosos en la planificación de los campos de entrenamiento en el futuro.</string>
+    <string name="backFromTrainingCampTitle">Regreso temprano desde el campo de entrenamiento</string>
+    <string name="badArticleInMediaContent">"Señor, yo sé que no le gustan los periodistas y periódicos, pero parece que tenemos un problema con ellos.
+
+Hubo cantidades de artículos en los periódicos e internet acerca de nuestro club recientemente. Y no son buenos. Parece que los periodistas están enojados porque no quieres hablar con ellos e ignoras sus preguntas. Tú sabes, es bueno tener relaciones con ellos, porque sus artículos pueden hacernos mucho daño. Las compañías no quieren tener sponsors con un club con mala imagen.
+
+Piensa acerca de ello."</string>
+    <string name="badArticleInMediaTitle">Ataque de los medios de comunicación en nuestro club.</string>
+    <string name="ballLossAction1">¡%1$s pierde la pelota!</string>
+    <string name="ballLossAction10">%1$s pierde el control del balón...</string>
+    <string name="ballLossAction11">¡%1$s la pierde por arriba!</string>
+    <string name="ballLossAction12">¡%1$s deja pasar el balón!</string>
+    <string name="ballLossAction2">¡%1$s pierde la posesión!</string>
+    <string name="ballLossAction3">¡Han perdido la posesión!</string>
+    <string name="ballLossAction4">%1$s... ¡Inocente pérdida de balón!</string>
+    <string name="ballLossAction5">¡%1$s realiza un error muy tonto!</string>
+    <string name="ballLossAction6">%1$s falló al mantener el balón...</string>
+    <string name="ballLossAction7">Pero %1$s deja caer el balón...</string>
+    <string name="ballLossAction8">%1$s pierde el balón fácilmente...</string>
+    <string name="ballLossAction9">La pelota se fue</string>
+    <string name="ballPossession">Posesión de balón</string>
+    <string name="bank">Banco</string>
+    <string name="bankLoan">Préstamo del banco</string>
+    <string name="bankLoansTaken">Préstamos tomados del banco:</string>
+    <string name="bankrupcyContent">"¡Desastre!
+
+¡Nuestra cuenta del club está completamente vacía! ¿Cómo pudo ser que lo hice responsable de controlar nuestras finanzas? Ahora me arrepiento... Como sea, ¡hemos terminado! Ya no podemos permitir nada, así que tendremos que retirarnos de todas las competiciones.
+
+¡Esto ha terminado!"</string>
+    <string name="bankrupcyTitle">¡Nos hemos quedado sin dinero!</string>
+    <string name="beforeMatch1">\"Chicos, 5-0 es lo mínimo.\"</string>
+    <string name="beforeMatch2">\"Vamos chicos, será un pedazo de pastel!\"</string>
+    <string name="beforeMatch3">\"Confío en ustedes chicos, ¡pueden hacerlo!\"</string>
+    <string name="beforeMatch4">\"¡Quiero ver sangre y lágrimas!\"</string>
+    <string name="beforeMatch5">\"No será fácil, chicos.\"</string>
+    <string name="beforeMatch6">\"Vamos, no me avergüencen ésta vez.\"</string>
+    <string name="beforeMatch7">\"Oh Dios mío, no quiero verlo.\"</string>
+    <string name="biggestAttendance">Mayor asistencia:</string>
+    <string name="bonusesForPlayers">Primas para los jugadores</string>
+    <string name="bonusesFromSponsors">Bonus por parte de los sponsors.</string>
+    <string name="brazil">Sudamérica (Brasil)</string>
+    <string name="buildNewField">Construir nuevo campo de juego</string>
+    <string name="businessman">Empresario</string>
+    <string name="businessmanTalk1">"¡Hola, estimado míster!
+
+¡Es un agrado hablar con usted! Soy un empresario local, quien es un aficionado muy entusiasta de nuestro maravilloso club. Quiero que sea el más poderoso... Pero sé muy bien que sin dinero no es posible. Así que creí que podría donarle al club cierta cantidad.
+
+Todo lo que quiero que hagas es ver un corto vídeo, y el dinero es tuyo. ¿Qué tal?"</string>
+    <string name="businessmanTalk2">"¡Hola, estimado míster!
+
+No podré donarte de nuevo este mes. ¡Vuelve más tarde!"</string>
+    <string name="buy">Comprar</string>
+    <string name="buyOffer">Comprar</string>
+    <string name="buyOfferTitle">"%1$s quiere comprar su jugador por %2$s.
+
+Usted puede negociar esa oferta."</string>
+    <string name="calendar">Calendario</string>
+    <string name="calm">tranquilo</string>
+    <string name="canada">América del Norte (Cánada)</string>
+    <string name="cancel">Cancelar</string>
+    <string name="cannotGoToTrainingCamp">No puedes planear un campo de entrenamiento ahora, tienes muchos juegos colisionados en el futuro cercano. Intenta otro día.</string>
+    <string name="cantUpgradeMore">- Tras la remodelación, la grada alcanzará su máxima capacidad.</string>
+    <string name="capsGoals">Apariciones/Goles</string>
+    <string name="carribean">Caribe</string>
+    <string name="category1">Categoría 1</string>
+    <string name="category2">Categoría 2</string>
+    <string name="category3">Categoría 3</string>
+    <string name="central_africa">África (central)</string>
+    <string name="central_america">Centroamérica</string>
+    <string name="central_asia">Asia (central)</string>
+    <string name="central_east_europe">Europa (este-central)</string>
+    <string name="chairman">Presidente</string>
+    <string name="chairmanStartingMessageContent">"¡Querido señor! Bienvenido a nuestro club.
+
+Estoy encantado de que se haya unido a nosotros. Confío en que %1$s tiene un gran futuro, y esperamos que pueda jugar un rol importante en ello.
+
+Le deseo buena suerte y mucha emoción para los partidos."</string>
+    <string name="chairmanStartingMessageTitle">¡Bienvenido a %1$s!</string>
+    <string name="champion">Campeón</string>
+    <string name="championContentFavorite">"¿Quién es mejor? El ¡%1$s!
+
+Estoy tan encantado de conseguirlo. Somos simplemente los mejores, y merecíamos totalmente el título de campeón. Gran respeto para ti y todos tus jugadores. Definitivamente, fué una gran decisión el contratarte para manager.
+
+Ahora, siéntete libre de celebrar, ¡eres el héroe de la noche!"</string>
+    <string name="championContentNonFavorite">¿Puedes creerlo? ¡Somos los mejores! Nadie podría haber apostado a que podríamos ganar el campeonato, ¡así que es asombroso que lo hayas conseguido! Espero que estés con nuestro equipo siempre. ¡Eres una leyenda! Gracias por esta temporada inolvidable. ¡Ésta noche será loca!</string>
+    <string name="championTitle">¡Somos los campeones!</string>
+    <string name="championsCup">Copa de Campeones</string>
+    <string name="championsCupContent">"Esto es loco, ¡somos el mejor equipo del continente!
+
+Señor, usted es un excelente mánager, y siempre creímos en su trabajo y sus jugadores. Amo los momentos del fútbol como estos. Amo el %1$s y estoy seguro que tenemos un futuro fantástico contigo como entrenador, ¡y cada vez más logros como éste!
+
+¡Gracias, de nuevo!"</string>
+    <string name="championsCupTitle">¡Asombroso!</string>
+    <string name="change_trainer">Cambiar entrenador</string>
+    <string name="chaosInPenaltyAreaAction1">¡Vaya lío en el área!</string>
+    <string name="chaosInPenaltyAreaAction2">¡Esto es un caos!</string>
+    <string name="chaosInPenaltyAreaAction3">¡Caos total en el área de penalti!</string>
+    <string name="chaosInPenaltyAreaAction4">...</string>
+    <string name="character">personaje</string>
+    <string name="charisma">Carisma</string>
+    <string name="chooseTeamToEdit">Elige equipo para editar:</string>
+    <string name="chooseYourTeam">Elige tu equipo:</string>
+    <string name="choose_edit_file">Seleccionar archivo editado</string>
+    <string name="cleanSheets">Porterías imbatidas</string>
+    <string name="clear">Borrar</string>
+    <string name="clubRanking">Ranking de clubes</string>
+    <string name="clubStaff">Staff del club</string>
+    <string name="clubStaffDescription">"Aquí puedes controlar completamente quién trabaja en tu club. Todos los empleados tienen su propio contrato, experiencia y edad. Cada rol en el club es importante en diferentes maneras:
+
+ El entrenador de porteros es el responsable del entrenamiento y rendimiento de tus porteros.
+
+ Los entrenadores juveniles trabajan con jugadores de la cantera. Mientras más entrenadores tengas, más equipos podrás tener. Buenos entrenadores harán que tus juveniles más talentosos se desarrollen mejor y más rápido.
+
+ Experimentados fisioterapeutas pueden reducir el riesgo de lesión de tus jugadores. Asegúrate de contratar buenos doctores, ya que ellos ayudarán a que los lesionados se recuperen cuanto antes.
+
+ Los vendedores son los responsables de atraer gente y sponsors a tu club. Ellos ganan bastante, pero su trabajo puede traerle al club muchos beneficios."</string>
+    <string name="common_google_play_services_enable_button">Habilitar</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionará hasta que no habilites Servicios de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Habilita Servicios de Google Play</string>
+    <string name="common_google_play_services_install_button">Instalar</string>
+    <string name="common_google_play_services_install_text">%1$s no se ejecutará si los Servicios de Google Play no están instalados en tu dispositivo.</string>
+    <string name="common_google_play_services_install_title">Descargar Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilidad Servicios de Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error de Servicios de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">La aplicación %1$s tiene problemas con los Servicios de Google Play. Vuelve a intentarlo.</string>
+    <string name="common_google_play_services_unsupported_text">No es posible ejecutar la aplicación %1$s sin los Servicios de Google Play, que no son compatibles con tu dispositivo.</string>
+    <string name="common_google_play_services_update_button">Actualizar</string>
+    <string name="common_google_play_services_update_text">%1$s no funcionará hasta que no actualices Servicios de Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualiza Servicios de Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s no se ejecutará hasta que finalice la actualización en curso de Servicios de Google Play.</string>
+    <string name="common_google_play_services_wear_update_text">Se necesita una nueva versión de Servicios de Google Play. Se actualizará en breve.</string>
+    <string name="common_open_on_phone">Abrir en teléfono</string>
+    <string name="common_signin_button_text">Iniciar sesión</string>
+    <string name="common_signin_button_text_long">Iniciar sesión con Google</string>
+    <string name="communityCup">Copa de la Comunidad</string>
+    <string name="competitions">Competiciones</string>
+    <string name="concentration">Concentración:</string>
+    <string name="condition">Estado</string>
+    <string name="confidence">Confianza</string>
+    <string name="confirm">Confirmar</string>
+    <string name="conflict">En conflicto</string>
+    <string name="conflictBeginningContent">Querido míster, nuestras observaciones más recientes de nuestros jugadores indican que dos de los nuestros (%1$s, %2$s) no pueden soportarse. Claro, un equipo de fútbol es un grupo de personas distintas, y no todos serán amigos, pero si queremos triunfar, debemos convivir bien juntos y ser capaces de cooperar. Deberíamos hacer algo al respecto o podría tener impacto en nuestro desempeño cuando ambos jueguen juntos.</string>
+    <string name="conflictBeginningTitle">%1$s y %2$s parecen tener un conflicto</string>
+    <string name="conflictEndContent">Buenas noticias, míster. Al parecer el conflicto de nuestros jugadores (%1$s, %2$s) ya no existe. Ambos jugadores fueron vistos conversando y bromeando juntos y podemos asumir que la relación entre ambos está bien. ¡Buen trabajo!</string>
+    <string name="conflictEndTitle">%1$s y %2$s - conflicto resuelto</string>
+    <string name="confused">confundido</string>
+    <string name="continentalCupsTickets">Partidos de copa internacional</string>
+    <string name="continentalFederationPrizes">Premios de la federación continental</string>
+    <string name="continueGame">Continuar el juego</string>
+    <string name="continueMatch">Continuar el partido</string>
+    <string name="continueString">Continuar</string>
+    <string name="contractEnd">Fin del contrato</string>
+    <string name="contractExpiredContent">%1$s ya no pertenece a nuestro club, su contrato ha vencido hoy.</string>
+    <string name="contractExpiredTitle">El contrato de %1$s ha vencido</string>
+    <string name="contractOffer">Contrato</string>
+    <string name="contractOfferAcceptedContent">"La oferta de contrato hecha por %1$s ha sido aceptada.
+
+"</string>
+    <string name="contractOfferAcceptedMuchWorseTeamContent">"Este es un paso atrás en su carrera, pero ha encontrado su oferta extremadamente interesante y ha decidido unirse a su equipo.
+
+"</string>
+    <string name="contractOfferAcceptedSimilarTeamContent">"Ha encontrado su oferta atractiva económicamente por lo que ha decidido reforzar su equipo.
+
+"</string>
+    <string name="contractOfferAcceptedTitle">%1$s - oferta de contrato aceptada</string>
+    <string name="contractOfferAcceptedUnhappyContent">"Ha decidido unirse a su equipo ya que no es feliz en su actual club.
+
+"</string>
+    <string name="contractOfferAcceptedWorseTeamContent">"Ha encontrado su oferta atractiva económicamente por lo que ha decidido reforzar su equipo.
+
+"</string>
+    <string name="contractOfferRejectedContent">"La oferta de contrato hecha por %1$s ha sido rechazada.
+
+"</string>
+    <string name="contractOfferRejectedHappyContent">"Ha manifestado que está muy feliz en su actual equipo y no tiene intención de dejarlo próximamente.
+
+"</string>
+    <string name="contractOfferRejectedMuchWorseTeamContent">"Ha dicho que no puede imaginarse jugando en un equipo tan débil.
+
+"</string>
+    <string name="contractOfferRejectedSimilarTeamContent">"Ha indicado que la oferta no es lo suficientemente atractiva como para cambiar de equipo.
+
+"</string>
+    <string name="contractOfferRejectedTitle">%1$s - oferta de contrato rechazada</string>
+    <string name="contractOfferRejectedWorseTeamContent">"Ha explicado que un traspaso a un club inferior sería perjudicial en su carrera.
+
+"</string>
+    <string name="contractOfferTitle">Al agente de %1$s le gustaría oír tu oferta de contrato por su jugador.</string>
+    <string name="contractOfferWithdrawnContent">Estimado míster, debido a tu falta de respuesta, la oferta de contrato por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="contractOfferWithdrawnTitle">%1$s - oferta de contrato rechazada</string>
+    <string name="contractSignedContent">%1$s ha firmado hoy el contrato con nuestro club, procedente del %2$s por %3$s.</string>
+    <string name="contractSignedTitle">%1$s ha firmado el contrato</string>
+    <string name="contractTerminatePenalty">Sanciones</string>
+    <string name="contractUntil">Contrato hasta:</string>
+    <string name="contractWillBeSigned">El contrato se firmará el %1$s.</string>
+    <string name="contractWillBeSignedToday">El contrato se firmará hoy.</string>
+    <string name="contractWithFreeAgentSignedContent">%1$s se ha unido hoy a nuestro equipo. Ha llegado como agente libre.</string>
+    <string name="contractWithFreeAgentSignedTitle">%1$s ha firmado el contrato</string>
+    <string name="contract_expiration_reminder_content1">"Buenos días, señor.
+
+Sólo quería recordarle que los contratos de los siguientes jugadores expirarán en los próximos 30 días:
+
+"</string>
+    <string name="contract_expiration_reminder_content2">"- %1$s (%2$s)
+"</string>
+    <string name="contract_expiration_reminder_content3">"
+Si desea mantener a alguno de esos jugadores en el club, tiene que ofrecerles una renovación de contratos."</string>
+    <string name="contract_expiration_reminder_title">Recordatorio de expiración del contratos</string>
+    <string name="copy_toast_msg">Enlace copiado en el portapapeles</string>
+    <string name="cornerKick">Córner (%1$s)</string>
+    <string name="costOfCamp">Costo:</string>
+    <string name="counterAttackAction1">¡%1$s lanza un contraataque!</string>
+    <string name="counterAttackAction2">¡Contraataque!</string>
+    <string name="counterAttackAction3">¡El %1$s sale al contraataque!</string>
+    <string name="countriesExplored">Países explorados:</string>
+    <string name="countriesToExplore">Países por explorar:</string>
+    <string name="countryRanking">Ranking de países</string>
+    <string name="countryRankingDescription">El ránking de países indica la cantidad de plazas que tendrá cada país para las competencias internacionales. Si te encuentras obteniendo buenos resultados con tu equipo, podrás mejorar el ránking de tu país, lo cual hará más fácil participar en la Copa de Campeones o la Copa Federación en los próximos años.</string>
+    <string name="createCustomPlayer">Crear jugador personalizado</string>
+    <string name="createNewFormation">Crear nueva formación</string>
+    <string name="createNewTeam">Crea un nuevo equipo</string>
+    <string name="credits">Acerca de</string>
+    <string name="crossAction1">¡Centro de %1$s!</string>
+    <string name="crossAction2">¡Centro al punto de penalti!</string>
+    <string name="crossAction3">¡%1$s centra al área!</string>
+    <string name="crossAction4">¡%1$s flota dentro del área!</string>
+    <string name="crossAction5">¡%1$s con el cruce!</string>
+    <string name="crossAction6">¡%1$s intenta cruzar!</string>
+    <string name="crossing">Centros</string>
+    <string name="cup">copa</string>
+    <string name="currency">Moneda:</string>
+    <string name="currentAssignment">Asignación actual:</string>
+    <string name="currentRecommendations">Recomendaciones actuales:</string>
+    <string name="currentSponsors">Patrocinadores actuales</string>
+    <string name="customPlayers">Personalizar jugadores:</string>
+    <string name="database">Base de datos:</string>
+    <string name="date">Fecha:</string>
+    <string name="days">días</string>
+    <string name="daysLeft">Días restantes:</string>
+    <string name="days_left_to_results">Días faltantes para los resultados:</string>
+    <string name="days_to_expire">Días para expirar:</string>
+    <string name="december">Diciembre</string>
+    <string name="defending">Defensa</string>
+    <string name="delete">Borrar</string>
+    <string name="demotivated">desmotivado</string>
+    <string name="departureDate">Fecha de salida:</string>
+    <string name="detail">Detalles</string>
+    <string name="distanceShotAction1">¡%1$s decide disparar desde muy lejos!</string>
+    <string name="distanceShotAction2">¡%1$s dispara desde lejos!</string>
+    <string name="distanceShotAction3">¡%1$s golpea desde lejos!</string>
+    <string name="distanceShotAction4">¡%1$s patea desde 25 metros!</string>
+    <string name="distanceShotAction5">¡%1$s dispara desde fuera del área!</string>
+    <string name="distanceShotAction6">¡%1$s golpea desde lejos!</string>
+    <string name="distanceShotAction7">¡%1$s prueba su suerte desde lejos!</string>
+    <string name="distanceShotAction8">Larga distancia para un gol... ¡Pero %1$s anota!</string>
+    <string name="distanceShotAction9">¡%1$s intenta desde larga distancia!</string>
+    <string name="doYouWantToSaveChanges">¿Quieres guardar los cambios?</string>
+    <string name="doctor">Doctor</string>
+    <string name="domesticCupContent">"Señor, ¡felicidades!
+
+¡Estoy tan feliz que lo hayamos conseguido y ganar esta maravillosa Copa Nacional! He creído en nuestro equipo desde el comienzo. ¡Gracias por su trabajo y espero más en el futuro!"</string>
+    <string name="domesticCupTitle">¡Buen trabajo!</string>
+    <string name="domesticCupsTickets">Partidos de copa nacional</string>
+    <string name="domesticFederationPrizes">Premios de la federación nacional</string>
+    <string name="donationsForFans">Donación a los fans:</string>
+    <string name="donationsForFans2">Donación a los fans</string>
+    <string name="donationsHigh">alto</string>
+    <string name="donationsHighDescription">El club de fans consigue grandes donaciones para partidos de local y visitante. Esto mejora la atmósfera y proporciona un mejor apoyo para los jugadores.</string>
+    <string name="donationsNone">ninguno</string>
+    <string name="donationsNoneDescription">El club no dona de todo al club de fans. Esto bajará su estado de ánimo, pero puedes salvar algo de dinero.</string>
+    <string name="donationsNormal">normal</string>
+    <string name="donationsNormalDescription">El club ha devuelto parcialmente entradas para los partidos fuera de casa.</string>
+    <string name="drawAllTeams">Draw all teams</string>
+    <string name="drawNextTeam">Draw next team</string>
+    <string name="draws">Empates:</string>
+    <string name="drawsTable">E</string>
+    <string name="dribblingAction1">¡%1$s trata de hacerlo por su cuenta!</string>
+    <string name="dribblingAction10">¡%1$s va por el defensor!</string>
+    <string name="dribblingAction11">¡%1$s vence al defensor!</string>
+    <string name="dribblingAction2">¡%1$s decide regatear a los rivales!</string>
+    <string name="dribblingAction3">¡%1$s se arriesga con el regateo!</string>
+    <string name="dribblingAction4">¡%1$s va por el regateo!</string>
+    <string name="dribblingAction5">¡%1$s intenta gambetear!</string>
+    <string name="dribblingAction6">¡%1$s!</string>
+    <string name="dribblingAction7">¡%1$s intenta engañar a sus oponentes!</string>
+    <string name="dribblingAction8">¡Buen giro de %1$s!</string>
+    <string name="dribblingAction9">¡%1$s pasa al defensor!</string>
+    <string name="duration">Tiempo:</string>
+    <string name="durationDays">Tiempo (días):</string>
+    <string name="east">Este</string>
+    <string name="eastGroup">este</string>
+    <string name="east_africa">África (este)</string>
+    <string name="east_asia">Asia (este)</string>
+    <string name="east_europe">Europa (este)</string>
+    <string name="edit">Editar</string>
+    <string name="editTeamName">Editar nombre</string>
+    <string name="edit_emblem">Editar logotipo del equipo</string>
+    <string name="edit_file_already_set_to_default">Archivo editado ya por defecto.</string>
+    <string name="edit_file_not_valid">Archivo editado no válido.</string>
+    <string name="edit_file_set_to_default_successfully">¡Archivo editado ajustado por defecto exitoso!</string>
+    <string name="edit_file_status">Editar estado de archivo</string>
+    <string name="edit_file_uploaded_successfully">¡Archivo editado cargado exitosamente!</string>
+    <string name="edit_league_name">Editar nombre de la liga</string>
+    <string name="edit_players">Editar jugadores</string>
+    <string name="edit_teams">Editar equipos</string>
+    <string name="editor">Editor</string>
+    <string name="emblem_successfully_changed">¡Logotipo cambiado exitosamente!</string>
+    <string name="employeeEndOfCareerContent">Nuestro empleado, %2$s (%1$s de %3$s años) ha decidido retirarse hoy.</string>
+    <string name="employeeEndOfCareerTitle">%1$s se ha retirado</string>
+    <string name="employees">Empleados</string>
+    <string name="employeesSalaries">Salario de los empleados</string>
+    <string name="endOfCareerContent">%1$s (%2$s) ha decidido retirarse hoy.</string>
+    <string name="endOfCareerTitle">%1$s se ha retirado</string>
+    <string name="error_while_upload_edit_file">Error al cargar archivo editado.</string>
+    <string name="europe">Europa</string>
+    <string name="execute">ejecutar</string>
+    <string name="exo_controls_fastforward_description">Avance rápido</string>
+    <string name="exo_controls_next_description">Siguiente canción</string>
+    <string name="exo_controls_pause_description">Pausar</string>
+    <string name="exo_controls_play_description">Reproducir</string>
+    <string name="exo_controls_previous_description">Canción anterior</string>
+    <string name="exo_controls_rewind_description">Rebobinar</string>
+    <string name="exo_controls_stop_description">Detener</string>
+    <string name="expectedSalary">Salario esperado</string>
+    <string name="expenditures">Gastos:</string>
+    <string name="experience">Experiencia</string>
+    <string name="fallback_menu_item_copy_link">Copiar enlace</string>
+    <string name="fallback_menu_item_open_in_browser">Abrir en el navegador</string>
+    <string name="fallback_menu_item_share_link">Compartir enlace</string>
+    <string name="fans">Admiradores</string>
+    <string name="fansBehaviourPenaltyContent">Debido al comportamiento inapropiado de la afición (%1$s) en el partido contra el %2$s, su club ha sido multado con %3$s.</string>
+    <string name="fansBehaviourPenaltyTitle">Multa por el comportamiento de aficionados</string>
+    <string name="fansMoods">Estado de ánimo de los aficionados</string>
+    <string name="favouritePlayers">Jugadores favoritos:</string>
+    <string name="february">Febrero</string>
+    <string name="federationCup">Copa Federación</string>
+    <string name="federationCupContent">"Señor, ¡bien hecho!
+
+¡La Copa Federación es nuestra! Gran felicitación y pleno respeto a ti y todos los jugadores. ¡Gracias por esos asombrosos partidos y emociones! ¡Ahora tú deberías tener una bebida o dos, definitivamente lo mereces!"</string>
+    <string name="federationCupTitle">¡Fantástico!</string>
+    <string name="feeNote">- Asignación para el rival - %1$s</string>
+    <string name="fifthDivision">5ª división</string>
+    <string name="finalGame">Final</string>
+    <string name="financePeriod">Finanzas para el periodo: %1$s-%2$s</string>
+    <string name="financialBonus">bonificación financiera (%1$s)</string>
+    <string name="financing">Financiamiento:</string>
+    <string name="fine">multa %1$s</string>
+    <string name="fired">¡Estás despedido, fin del juego!</string>
+    <string name="firstChampionship">1º torneo</string>
+    <string name="firstDivision">1ª división</string>
+    <string name="firstGroup">A</string>
+    <string name="firstLeg">ida</string>
+    <string name="fitness">Estado físico</string>
+    <string name="fixtures">Encuentros</string>
+    <string name="fixturesAndTables">Partidos y tablas</string>
+    <string name="followedCountries">Países seguidos:</string>
+    <string name="footballPlayer">Futbolista</string>
+    <string name="formation">Formación</string>
+    <string name="formationName">Nombre de la formación:</string>
+    <string name="fourthDivision">4ª división</string>
+    <string name="freeAgentRecommendedContent">"Hola mi nombre es %1$s y soy un agente.
+
+Me gustaría recomendarle a uno de mis jugadores - %2$s. El juega como %6$s y su ultimo club fué el %3$s.
+
+Si usted está interesado en su fichaje, siéntase libre de hablar conmigo sobre el contrato. La expectativa del sueldo es sobre %4$s. Mis beneficios de la transferencia serían sólo %5$s.
+
+Espero que considere mi oferta. ¡Que tenga un buen día!"</string>
+    <string name="freeAgentRecommendedTitle">Recomendación de un agente gratis %1$s</string>
+    <string name="freeKick">Lanzamiento de falta (%1$s)</string>
+    <string name="freeKickAction1">¡%1$s dispara!</string>
+    <string name="freeKickLength">%1$s metros hasta la portería</string>
+    <string name="friday">Vie</string>
+    <string name="friendlies">Amistosos</string>
+    <string name="friendliesThisSeason">Amistosos esta temporada</string>
+    <string name="friendliesTickets">Amistosos</string>
+    <string name="friendlyFees">Asignación para el rival</string>
+    <string name="friendlyMatchCancelledContent">Nuestro partido amistoso contra el %1$s previsto el %2$s ha sido cancelado debido a coincidencia con partidos oficiales.</string>
+    <string name="friendlyMatchCancelledTitle">Partido amistoso frente al %1$s cancelado</string>
+    <string name="friendlyMatchOfferAcceptedContent">"Hemos aceptado su propuesta de partido amistoso entre nuestros equipos.
+
+El partido se jugará el %1$s"</string>
+    <string name="friendlyMatchOfferAcceptedTitle">%1$s - propuesta de partido amistoso aceptada</string>
+    <string name="friendlyMatchOfferRejectedContent">Hemos rechazado su propuesta de partido amistoso entre nuestros equipos.</string>
+    <string name="friendlyMatchOfferRejectedTitle">%1$s - propuesta de partido amistoso rechazada</string>
+    <string name="friendlyOfferAwaitingContent">Tenemos una oferta de amistoso del %1$s esperando. Por favor, vea la oferta y decida, si quiere.</string>
+    <string name="friendlyOfferAwaitingTitle">Nueva oferta de amistoso de %1$s</string>
+    <string name="friendlyOfferSent">Oferta de amistoso envíada.</string>
+    <string name="friendlyOfferWithdrawnContent">Estimado míster, debido a tu falta de respuesta, la oferta amistosa por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="friendlyOfferWithdrawnTitle">%1$s - oferta amistosa rechazada</string>
+    <string name="friendlyOffers">Propuestas</string>
+    <string name="friendship">En amistad</string>
+    <string name="friendshipBeginningContent">Míster, sólo quería compartirle mi impresión acerca de dos de nuestros jugadores (%1$s, %2$s). Parecen entenderse muy bien y tienen una relación muy amistosa. Esto es bueno, permite una mejor atmósfera y podemos asumir que ambos trabajarán bien juntos en la cancha.</string>
+    <string name="friendshipBeginningTitle">%1$s y %2$s parecen ser buenos amigos</string>
+    <string name="from">De:</string>
+    <string name="fullExtraTime">Final del partido</string>
+    <string name="fullExtraTimePenalties">¡Tendremos lanzamientos de penalti!</string>
+    <string name="fullTime">Final del partido</string>
+    <string name="fullTime1">\"¡Wow! ¡Yeah! ¡Super!\"</string>
+    <string name="fullTime2">\"¡Ese fue un gran partido! ¡Espero más!\"</string>
+    <string name="fullTime3">\"Buen trabajo, muchachos. Felicidades.\"</string>
+    <string name="fullTime4">\"No estoy feliz. Podemos hacerlo mucho mejor.\"</string>
+    <string name="fullTime5">\"¿Qué fue eso? ¡Nunca quisiera ver algo parecido a esto!\"</string>
+    <string name="fullTime6">\"Qué vergüenza. Eres malísimo.\"</string>
+    <string name="fullTimeExtraTime">Prórroga!</string>
+    <string name="gameOverContent">"Señor, las últimas semanas fueron desastrosas. Parece que no tienes idea acerca de cómo mejorar la actuación del equipo. Los jugadores lucen muy mal, están lentos y cometen muchos errores. No veo ningún espíritu de equipo. Disculpa que diga esto, pero en este caso debemos dar por terminado nuestra cooperación.
+
+Buena suerte en su próximo proyecto."</string>
+    <string name="gameOverTitle">Suficiente, gracias...</string>
+    <string name="gameplay">Jugabilidad:</string>
+    <string name="gastronomy">Gastronomía</string>
+    <string name="gentle">gentil</string>
+    <string name="goAhead">- Si, adelante.</string>
+    <string name="go_for_headers">ir por las cabeceras</string>
+    <string name="goal">¡¡GOOOOL!!</string>
+    <string name="goal1Text1">¡El %1$s noquea a su rival!</string>
+    <string name="goal1Text10">¡No les conceden ninguna oportunidad a los contrarios!</string>
+    <string name="goal1Text11">¡Y otro gol del %1$s!</string>
+    <string name="goal1Text12">¡%1$s! ¡Han anotado otro más!</string>
+    <string name="goal1Text13">¡El %1$s se está divirtiendo esta noche!</string>
+    <string name="goal1Text14">¡El %1$s coloca otro balón dentro de la red!</string>
+    <string name="goal1Text15">¡Este es un resultado sensacional!</string>
+    <string name="goal1Text16">¡El %1$s está dominando!</string>
+    <string name="goal1Text17">¡Esto se está volviendo embarazoso!</string>
+    <string name="goal1Text18">¡Terrible partido del %1$s!</string>
+    <string name="goal1Text19">¡El %1$s está siendo destruido ésta noche!</string>
+    <string name="goal1Text2">¡El %1$s no existe en el campo!</string>
+    <string name="goal1Text3">¡El %1$s está imparable esta noche!</string>
+    <string name="goal1Text4">¡Vaya paliza!</string>
+    <string name="goal1Text5">¡Menuda masacre!</string>
+    <string name="goal1Text6">El %1$s desearía terminar ya el partido...</string>
+    <string name="goal1Text7">¡Esta noche están haciendo lo que quieren!</string>
+    <string name="goal1Text8">¡El %1$s está haciendo trizas a su rival!</string>
+    <string name="goal1Text9">El %1$s ya ha perdido la esperanza</string>
+    <string name="goal2Text1">¡El %1$s aumenta su marcador!</string>
+    <string name="goal2Text10">¡El %1$s está recibiendo serios problemas!</string>
+    <string name="goal2Text11">¡El %1$s lo está haciendo mejor ésta noche!</string>
+    <string name="goal2Text12">¡El %1$s tiene que recobrar el ánimo!</string>
+    <string name="goal2Text2">¡El %1$s está más cerca de la victoria!</string>
+    <string name="goal2Text3">Las cosas están realmente complicadas para el %1$s</string>
+    <string name="goal2Text4">¡El %1$s está ahora en una situación cómoda!</string>
+    <string name="goal2Text5">¡El %1$s aumenta su ventaja!</string>
+    <string name="goal2Text6">¿Se acabó?</string>
+    <string name="goal2Text7">¡El %1$s ha quedado ligeramente afectado!</string>
+    <string name="goal2Text8">¡Parece que los fanáticos del %1$s pueden relajarse ahora!</string>
+    <string name="goal2Text9">¿Es el gol de la victoria?</string>
+    <string name="goal3Text1">¡El %1$s se adelanta!</string>
+    <string name="goal3Text10">¡El %1$s está liderando!</string>
+    <string name="goal3Text11">¡El %1$s deberá atacar ahora!</string>
+    <string name="goal3Text2">¡%1$s! ¡Ellos mandan ahora!</string>
+    <string name="goal3Text3">¡El %1$s debe apresurarse ahora!</string>
+    <string name="goal3Text4">¡%1$s! ¡Se merecen ir por delante!</string>
+    <string name="goal3Text5">¡%1$s! ¡Lo han conseguido!</string>
+    <string name="goal3Text6">El %1$s jugará más tranquilo a partir de ahora</string>
+    <string name="goal3Text7">¡El %1$s debe atacar desde ya!</string>
+    <string name="goal3Text8">¡El %1$s está adelante por un gol!</string>
+    <string name="goal3Text9">¡El %1$s ha logrado tomar la iniciativa!</string>
+    <string name="goal4Text1">¡%1$s! ¡Siguen en el partido!</string>
+    <string name="goal4Text10">¡Gol muy importante para el %1$s!</string>
+    <string name="goal4Text11">¡Han vuelto al juego!</string>
+    <string name="goal4Text12">¡Eso coloca algo de esperanza en ellos!</string>
+    <string name="goal4Text13">¿Podrán conseguir otro más?</string>
+    <string name="goal4Text14">¡Necesitan uno más!</string>
+    <string name="goal4Text15">¡Pero siguen un gol por debajo!</string>
+    <string name="goal4Text16">Ellos están volviendo</string>
+    <string name="goal4Text2">¡No está todo perdido!</string>
+    <string name="goal4Text3">¡Devuelve la esperanza a los fans del %1$s!</string>
+    <string name="goal4Text4">¡El %1$s está sólo un gol por delante!</string>
+    <string name="goal4Text5">¡El %1$s está ligeramente por detrás ahora!</string>
+    <string name="goal4Text6">¿Podrá el %1$s defender el resultado?</string>
+    <string name="goal4Text7">Rápidamente recoge el balón de la red</string>
+    <string name="goal4Text8">¡El %1$s pelea hasta el final!</string>
+    <string name="goal4Text9">¡Gol vital del %1$s!</string>
+    <string name="goal5Text1">¿Es demasiado tarde?</string>
+    <string name="goal5Text10">Ni siquiera lo celebran, es demasiado tarde</string>
+    <string name="goal5Text11">El resultado luce un poco mejor para ellos</string>
+    <string name="goal5Text12">¡Muy tarde!</string>
+    <string name="goal5Text13">¿Tendrán tiempo para conseguir otro más?</string>
+    <string name="goal5Text14">¡Wow, han anotado! ¿Puedes creerlo?</string>
+    <string name="goal5Text15">Excelente, pero, ¡siguen lejos de un buen resultado!</string>
+    <string name="goal5Text2">¿Serán capaces de hacer algo más?</string>
+    <string name="goal5Text3">Rápidamente recoge el balón de la red</string>
+    <string name="goal5Text4">¡Todavía les queda algo de tiempo!</string>
+    <string name="goal5Text5">Momento de distracción en el %1$s</string>
+    <string name="goal5Text6">Podríamos decir que es el gol del honor</string>
+    <string name="goal5Text7">El %1$s reduce su desventajas</string>
+    <string name="goal5Text8">¿Tendrá algo de relevancia este gol?</string>
+    <string name="goal5Text9">%1$s! ¡Este es el gol de consolación!</string>
+    <string name="goal6Text1">¡El %1$s pierde la ventaja!</string>
+    <string name="goal6Text2">¡El %1$s iguala el marcador!</string>
+    <string name="goal6Text3">¡El partido empieza de nuevo!</string>
+    <string name="goal6Text4">¡Tenemos un empate!</string>
+    <string name="goal6Text5">¡Reducen su desventaja!</string>
+    <string name="goal6Text6">¡Hay un empate!</string>
+    <string name="goal6Text7">¡Han vuelto al juego!</string>
+    <string name="goal6Text8">¡Han logrado una respuesta!</string>
+    <string name="goal6Text9">¡Lo hicieron!</string>
+    <string name="goal7Text1">¡%1$s es el nuevo héroe del %2$s!</string>
+    <string name="goal7Text2">¡Se desata la locura en las gradas del %1$s!</string>
+    <string name="goal7Text3">¡Celebración increíble del goleador!</string>
+    <string name="goal7Text4">¡Gol en el último segundo!</string>
+    <string name="goal7Text5">¡Qué juego tan dramático!</string>
+    <string name="goal7Text6">¡Los fans del %1$s están en shock!</string>
+    <string name="goal7Text7">¡Puedes creerlo!</string>
+    <string name="goal7Text8">¡%1$s anota en el último momento del juego!</string>
+    <string name="goalAfterChaosAction1">¡De algún modo el balón termina en el fondo de la red!</string>
+    <string name="goalAfterChaosAction2">¡Entró!</string>
+    <string name="goalAfterChaosAction3">¡%1$s recibe las felicitaciones del resto!</string>
+    <string name="goalAfterChaosAction4">¡%1$s! ¡Él es el goleador!</string>
+    <string name="goalAfterChaosAction5">¡%1$s es el anotador de éste gol!</string>
+    <string name="goalAfterChaosAction6">¡%1$s! ¡Ha puesto el balón en la red!</string>
+    <string name="goalAfterChaosAction7">¡%1$s lo consiguió!</string>
+    <string name="goalText1">¡%1$s! ¿Irán a por otro más?</string>
+    <string name="goalkeeper_trainer">Entrenador de porteros</string>
+    <string name="goalkeeping">Habilidad de portero</string>
+    <string name="goals">Goles</string>
+    <string name="goalsTable">G</string>
+    <string name="goodPerformance">buen desempeño</string>
+    <string name="goodPlayerBoughtAnswer1">Él es genial, ¡estoy muy contento de que se sume a nosotros!</string>
+    <string name="goodPlayerBoughtAnswer2">Es un chico talentoso, pero yo espero trabajo duro, como de los otros jugadores.</string>
+    <string name="goodPlayerBoughtAnswer3">Bueno... no lo conozco mucho, para ser honesto.</string>
+    <string name="goodPlayerBoughtQuestion">Los fanáticos están muy emocionados por ver a %1$s con la camiseta de %2$s. ¿Qué esperas acerca de este jugador?</string>
+    <string name="graphics_team_emblems">Gráficos (emblemas de equipo)</string>
+    <string name="greeting1">Buenos días, señor. Mi nombre es %1$s, yo trabajo para el periódico local, ¿Podemos hablar un momento?</string>
+    <string name="greeting2">Buenos días, señor. Es %1$s de nuevo. ¿Puedo preguntarle algo?</string>
+    <string name="group">Group</string>
+    <string name="groupStage">Fase de grupos</string>
+    <string name="groupStageDraw">Group stage draw</string>
+    <string name="groupX">Grupo %1$s</string>
+    <string name="halfTime">Descanso</string>
+    <string name="halfTime1">\"¡Asombroso! ¡Los amo, chicos!\"</string>
+    <string name="halfTime2">\"¡Tremendo juego! ¡Sigan trabajando así!\"</string>
+    <string name="halfTime3">\"No está mal. ¡Son capaces de conseguirlo!\"</string>
+    <string name="halfTime4">\"Muchos errores. ¡Necesitan intentar más fuerte!\"</string>
+    <string name="halfTime5">\"¿Qué haces? ¡Empieza a jugar!\"</string>
+    <string name="halfTime6">\"Eso fue una maldita pesadilla. No saben cómo jugar fútbol.\"</string>
+    <string name="hallOfFame">Salón de la fama:</string>
+    <string name="hallOfTrophies">Salón de trofeos</string>
+    <string name="happy">feliz</string>
+    <string name="headerShotAction1">¡%1$s cabecea el balón!</string>
+    <string name="headerShotAction2">¡%1$s de cabeza!</string>
+    <string name="headerShotAction3">¡%1$s es quien más salta!</string>
+    <string name="headerShotAction4">¡%1$s cabecea potentemente!</string>
+    <string name="headerShotAction5">¡%1$s con un remate de cabeza por alto!</string>
+    <string name="heading">Cabezazo</string>
+    <string name="heelShotAction1">¡%1$s le pega de tacón!</string>
+    <string name="heelShotAction2">¡%1$s le pega de tacón!</string>
+    <string name="high">Alto</string>
+    <string name="highShotAction1">¡%1$s dispara sin pensar!</string>
+    <string name="highShotAction2">¡%1$s va por la volea!</string>
+    <string name="highShotAction3">¡%1$s anota con furia!</string>
+    <string name="highShotAction4">¡%1$s con un disparo violento!</string>
+    <string name="higherOfferAcceptedContent">Estamos encantados de aceptar su sugerida oferta para su jugador (%1$s).</string>
+    <string name="higherOfferAcceptedTitle">Mayor oferta por %1$s aceptada</string>
+    <string name="higherOfferRejectedContent">Hemos rechazado su sugerida oferta para su jugador (%1$s).</string>
+    <string name="higherOfferRejectedTitle">Mayor oferta por %1$s rechazada</string>
+    <string name="highestLoss">Mayor derrota:</string>
+    <string name="highestRank">Mayor rango:</string>
+    <string name="highestWin">Mayor victoria:</string>
+    <string name="hire">Contratar</string>
+    <string name="hireMoreTrainers">No tienes ningún entrenador de juveniles. Contrata más entrenadores.</string>
+    <string name="history">Historia</string>
+    <string name="home">local</string>
+    <string name="hooligansFight">disturbios en la vía pública</string>
+    <string name="hooligansPoliceFight">altercados con las fuerzas de seguridad</string>
+    <string name="host">Host</string>
+    <string name="importantMatchForFansAnswer1">¡Por supuesto! ¡Mis jugadores y yo sabemos que será una guerra, y estamos listos para ella!</string>
+    <string name="importantMatchForFansAnswer2">Todos los partidos son importantes para nosotros, no importa qué oponente enfrentemos.</string>
+    <string name="importantMatchForFansAnswer3">¿En serio? No, no me importa.</string>
+    <string name="importantMatchForFansQuestion">Los aficionados están esperando el juego ante %1$s, ya que los ven como sus máximos rivales. ¿Tiene este juego alguna importancia para tí?</string>
+    <string name="inbox">Entrada</string>
+    <string name="includeEditedPlayers">Incluir jugadores editados</string>
+    <string name="includeRandomPlayers">Incluir jugadores generados aleatoriamente</string>
+    <string name="incorrect_emblem_file">Archivo erróneo. Sólo imágenes .png y .jpg están permitidas.</string>
+    <string name="individualOrders">Las órdenes individuales</string>
+    <string name="injuredFor">Lesionado (%1$s semanas de recuperación)</string>
+    <string name="insertNewTeamName">Introducir nuevo nombre del equipo:</string>
+    <string name="insert_new_league_name">Insertar nuevo nombre de liga:</string>
+    <string name="interceptionOfPassAction1">¡%1$s hace con el balón!</string>
+    <string name="interceptionOfPassAction10">¡%1$s corta el pase!</string>
+    <string name="interceptionOfPassAction2">¡Gran intercepción por %1$s!</string>
+    <string name="interceptionOfPassAction3">¡Intercepción por %1$s!</string>
+    <string name="interceptionOfPassAction4">¡%1$s intercepta el balón!</string>
+    <string name="interceptionOfPassAction5">¡%1$s roba el balón!</string>
+    <string name="interceptionOfPassAction6">¡Recogido por %1$s!</string>
+    <string name="interceptionOfPassAction7">¡%1$s la roba!</string>
+    <string name="interceptionOfPassAction8">¡%1$s toma el balón!</string>
+    <string name="interceptionOfPassAction9">¡%1$s consigue el balón primero!</string>
+    <string name="invalidSquadInjuredSuspended">Hay jugadores lesionados o suspendidos en tu alineación:</string>
+    <string name="invalidSquadTooLittlePlayersStartingLineup">Tu formación inicial no contiene 11 jugadores.</string>
+    <string name="invalidSquadTooLittleSubs">Tienes que elegir al menos 4 jugadores sustitutos.</string>
+    <string name="isolation">Problemas de adaptación</string>
+    <string name="isolationBeginningContent">Míster. Nuestro nuevo jugador (%1$s) parece tener muchos problemas para convertirse en un miembro pleno de nuestro equipo. Él casi nunca habla con nadie y sigue su propio camino. Debemos ayudarlo de algún modo, porque de esta manera no será capaz de cooperar bien con sus compañeros y mostrar todo su potencial.</string>
+    <string name="isolationBeginningTitle">%1$s con problemas de integración</string>
+    <string name="isolationEndingContent">¡Míster, buenas noticias! Al parecer %1$s ya no tiene más problemas de integración con el resto del equipo. Acabo de verlo en un gran grupo de jugadores y ellos parecían divertirse con él. Creo que no deberíamos preocuparnos más por él.</string>
+    <string name="isolationEndingTitle">%1$s totalmente adaptado al equipo</string>
+    <string name="january">Enero</string>
+    <string name="jobOfferWithdrawnContent">Estimado míster, debido a tu falta de respuesta, la oferta de trabajo por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="jobOfferWithdrawnTitle">%1$s - oferta de trabajo rechazada</string>
+    <string name="jobOffers">Ofertas de empleo</string>
+    <string name="journalist">Periodista</string>
+    <string name="july">Julio</string>
+    <string name="june">Junio</string>
+    <string name="keeperReflectAction1">¡El portero rechaza!</string>
+    <string name="keeperReflectAction2">¡%1$s la saca!</string>
+    <string name="keeperReflectAction3">¡%1$s la saca!</string>
+    <string name="keeperReflectAction4">¡%1$s despeja el balón de un puñetazo!</string>
+    <string name="keeperReflectAction5">¡%1$s logra salvarla!</string>
+    <string name="keeperReflectAction6">¡%1$s la empuja lejos!</string>
+    <string name="keeperReflectAction7">¡%1$s bloquea el tiro!</string>
+    <string name="keeperSaveAction1">Salvado por %1$s</string>
+    <string name="keeperSaveAction2">¡Fantástica parada del portero!</string>
+    <string name="keeperSaveAction3">¡%1$s estuvo alerta!</string>
+    <string name="keeperSaveAction4">¡%1$s captura el balón!</string>
+    <string name="keeperSaveAction5">Buena atajada por %1$s</string>
+    <string name="keeperSaveAction6">¡Gran parada de %1$s!</string>
+    <string name="keeperSaveAction7">¡Qué parada de %1$s!</string>
+    <string name="keeperSaveAction8">Fácilmente salvada por el portero</string>
+    <string name="keeperSaveAction9">%1$s recoge fácilmente el balón</string>
+    <string name="knownPlayers">Jugadores disponibles (%1$s):</string>
+    <string name="last_edit_date">Última fecha de edición:</string>
+    <string name="leader">Tratado como un líder</string>
+    <string name="leaderBeginningContent">Míster, estuve observando a nuestros jugadores por un largo tiempo y me di cuenta de algo importante. Uno de ellos, %1$s, parece tener mucho respeto y confianza por parte de sus compañeros. Su gran carisma lo hace un líder natural para el equipo y una gran opción para ser capitán. Por favor piensa sobre eso.</string>
+    <string name="leaderBeginningTitle">%1$s muy popular entre sus compañeros</string>
+    <string name="leagueTickets">Partidos de liga</string>
+    <string name="league_names_edited">Nombres de ligas editados:</string>
+    <string name="light">ligero</string>
+    <string name="light_">leve</string>
+    <string name="live_results">Resultados en vivo:</string>
+    <string name="load">Cargar</string>
+    <string name="loadGame">Cargar juego</string>
+    <string name="loading">Cargando...</string>
+    <string name="loading_new_game">"Cargando nuevo juego...
+(puede tomar un rato)"</string>
+    <string name="loading_teams_and_leagues">Cargando ligas y equipos...</string>
+    <string name="loan">Ceder</string>
+    <string name="loanAmount">Costo del préstamo:</string>
+    <string name="loanBeganContent">%1$s (%2$s) se ha unido hoy a nuestro equipo. El jugador estará cedido hasta %3$s.</string>
+    <string name="loanBeganTitle">%1$s está cedido en nuestro equipo</string>
+    <string name="loanOffer">Cesión</string>
+    <string name="loanOfferAcceptedContent">"La oferta de cesión que realizó por nuestro jugador (%1$s) ha sido aceptada.
+
+"</string>
+    <string name="loanOfferAcceptedTitle">%1$s - oferta de cesión aceptada</string>
+    <string name="loanOfferReceivedContent">"Al %1$s le gustaría la cesión de nuestro jugador %2$s.
+
+No dudes en consultar y responder a la oferta que mandan."</string>
+    <string name="loanOfferReceivedTitle">El %1$s quiere ceder a %2$s</string>
+    <string name="loanOfferRejectedBenchContent">"He wants to stay in his team and fight for a place in the starting lineup.
+
+"</string>
+    <string name="loanOfferRejectedContent">"La oferta de cesión que realizó por nuestro jugador (%1$s) ha sido rechazada.
+
+"</string>
+    <string name="loanOfferRejectedFirstSquadContent">"Quiere permanecer en su equipo y luchar por un puesto en el once inicial.
+
+"</string>
+    <string name="loanOfferRejectedTitle">%1$s - oferta de cesión rechazada</string>
+    <string name="loanOfferTitle">"%1$s quiere ceder a tu jugador.
+
+El préstamo comenzaría inmediatamente y terminaría el %2$s."</string>
+    <string name="loanOfferWithdrawnContent">Estimado míster, debido a tu falta de respuesta, la oferta de cesión por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="loanOfferWithdrawnTitle">%1$s - oferta de cesión rechazada</string>
+    <string name="loanOutBeganContent">%1$s joined %2$s today. He will be on loan until %3$s.</string>
+    <string name="loanOutBeganTitle">%1$s on loan in %2$s</string>
+    <string name="loanRepayment">Reembolso de préstamos</string>
+    <string name="lockerRoomDescription">"Si queremos triunfar, de seguro debemos tener jugadores habilidosos. Pero si ellos no pueden trabajar bien con sus pares y la atmósfera en el vestuario es fría, entonces no serán capaces de mostrar todo su potencial. Si el vestuario está lleno de buen espíritu de equipo, nos hará fuertes y podremos enfrentar a cualquier rival. Cosas de las que debes estar consciente:
+
+ Si dos jugadores con carisma alto y de carácter difícil se conocen, a menudo crearán un conflicto. Si ambos están juntos en la cancha, tendrá un impacto negativo en el rendimiento del equipo.
+
+ Jugadores con alto carisma, amistosos y con buen carácter tienden a tener buenas relaciones. Incluso puede llevar a amistades, las cuales son buenas para nosotros. Se entienden el uno al otro en la cancha, así que tener a ambos en la alineación es bueno para nosotros.
+
+ Cuando un nuevo jugador viene al equipo, a veces encuentra difícil integrarse con el resto, especialmente cuando su carisma es bajo. Esto incluso pasa más a menudo en jugadores jóvenes y extranjeros. Aquel jugador no será capaz de dar lo mejor de sí durante los partidos.
+
+ En ocasiones verás que uno de los jugadores es muy popular entre sus compañeros y lo respetarán mucho. Será claro de que lo querrán como un líder. Es una buena decisión hacerlo capitán. Sin embargo, si no lo eliges a él para el equipo, los otros jugadores lo extrañarán en la cancha y podría tener un impacto negativo.
+
+ ¿Qué puedes hacer para mejorar la atmósfera en el vestuario? ¿Por qué no tomas tu equipo para cenar? ¿O incluso para una fiesta? Todos necesitan algo de diversión. Claro, todo tiene también sus consecuencias.
+
+"</string>
+    <string name="locker_room">Vestuario</string>
+    <string name="longCornerKickAction1">¡Centro de %1$s!</string>
+    <string name="long_passes">largo</string>
+    <string name="losses">Derrotas:</string>
+    <string name="lossesTable">P</string>
+    <string name="low">Bajo</string>
+    <string name="lowShotAction1">¡%1$s lanza un tiro raso!</string>
+    <string name="lowShotAction2">¡%1$s lanza un tiro raso!</string>
+    <string name="lowShotAction3">¡%1$s la empuja por el suelo!</string>
+    <string name="lowestRank">Menor rango:</string>
+    <string name="main">Central</string>
+    <string name="maintenance">Mantenimiento</string>
+    <string name="majorRivals">Mayores rivales:</string>
+    <string name="makeOffer">Hacer una oferta</string>
+    <string name="march">Marzo</string>
+    <string name="marketer">Vendedor</string>
+    <string name="marketing">Marketing</string>
+    <string name="matchOrganisation">Organización del partido</string>
+    <string name="matchSpeed">Velocidad del partido:</string>
+    <string name="matches">Partidos</string>
+    <string name="matchesTable">PJ</string>
+    <string name="maxSkill">Habilidad (máx.):</string>
+    <string name="may">Mayo</string>
+    <string name="media">Medios de comunicación</string>
+    <string name="medicalServices">Servicios médicos</string>
+    <string name="medium_">medio</string>
+    <string name="mental">Entrenamiento mental</string>
+    <string name="merchandiseSale">Ventas de merchandising</string>
+    <string name="mexico">América del Norte (México)</string>
+    <string name="middle_east">Medio Oriente</string>
+    <string name="minSkill">Habilidad (mín.):</string>
+    <string name="mixed">mixto</string>
+    <string name="monday">Lun</string>
+    <string name="monthlyBalance">Balance mensual:</string>
+    <string name="monthlyCost">Costo mensual:</string>
+    <string name="monthlyIncome">Cuota mensual</string>
+    <string name="monthlyInstalment">Entrega mensual - %1$s</string>
+    <string name="monthlyInstalment2">Entrega mensual:</string>
+    <string name="monthlySalary">Salario</string>
+    <string name="monthlySpending">Gasto mensual</string>
+    <string name="monthsToRepayment">Meses para reembolso:</string>
+    <string name="morale">Moral</string>
+    <string name="mostApps">Más apariciones:</string>
+    <string name="mostPromisingPlayersContent">Los jugadores más prometedores que encontramos de lejos son %1$s y %2$s. Los resultados completos de la búsqueda pueden ser encontrados en la pantalla del ojeador.</string>
+    <string name="motivated">motivado</string>
+    <string name="motivationalSpeech">Charla motivacinoal</string>
+    <string name="move">Mover...</string>
+    <string name="moveTo">Mover a...</string>
+    <string name="moveToFirstTeam">Promover al primer equipo</string>
+    <string name="multi_release">Cancelar contratos</string>
+    <string name="nameCannotBeEmpty">El nombre de la formación no puede estar vacío.</string>
+    <string name="nationalCup">Copa Nacional</string>
+    <string name="native_body">Cuerpo</string>
+    <string name="native_headline">Título</string>
+    <string name="native_media_view">Vista del contenido multimedia</string>
+    <string name="nature">natural</string>
+    <string name="negotiateOffer">Negociar</string>
+    <string name="negotiation">Negociación</string>
+    <string name="negotiationTitle">"%1$s quiere negociar su oferta por su jugador.
+
+Quieren al menos %2$s. Esta es la oferta final."</string>
+    <string name="never">nunca</string>
+    <string name="newGame">Nuevo juego</string>
+    <string name="newJobOfferContent">Querido señor, el %1$s ha enviado una oferta de trabajo para usted. Aunque no me ha agradado, siéntase libre de analizar y decidir acerca de su futuro.</string>
+    <string name="newJobOfferTitle">Nueva oferta de trabajo de %1$s</string>
+    <string name="newPlayer">Nuevo jugador...</string>
+    <string name="newSave">Nuevo bloque...</string>
+    <string name="newSponsorshipOfferContent">¡Buenas noticias! Hemos recibido una oferta de contrato de una compañía llamada %1$s. Puedes revisar la oferta y responderla si te gusta.</string>
+    <string name="newSponsorshipOfferTitle">Nueva oferta de patrocinio de %1$s</string>
+    <string name="newTrophy">Nuevo trofeo!</string>
+    <string name="next">Próximo</string>
+    <string name="nextMatch">Siguiente partido:</string>
+    <string name="no">No</string>
+    <string name="noAssignment">El ojeador no está asignado a ninguna región.</string>
+    <string name="noDataToShow">No hay datos para mostrar.</string>
+    <string name="noFriendlies">Sin amistosos.</string>
+    <string name="noFriendlyOffers">No hay ofertas de amistosos.</string>
+    <string name="noGoalAction1">¡No, el gol está anulado!</string>
+    <string name="noGoalAction2">Un momento, ¡el gol queda anulado!</string>
+    <string name="noGoalAction3">¡No, el linier levanta su bandera!</string>
+    <string name="noGoalAction4">¡Pero el arbitro dice que no es gol!</string>
+    <string name="noGoalAction5">¡No! ¡La acción fue detenida por el árbitro!</string>
+    <string name="noGoalOffsideAction1">Las protestas no sirven, ¡el jugador estaba en fuera de juego!</string>
+    <string name="noGoalOffsideAction2">¿Era fuera de juego? ¡No estoy seguro!</string>
+    <string name="noGoalOffsideAction3">¡El goleador estaba ligeramente adelantado!</string>
+    <string name="noGoalOffsideAction4">¡El goleador se ayudó con la mano!</string>
+    <string name="noGoalOffsideAction5">¿Fue falta? ¿Fuera de juego? ¡No estoy seguro!</string>
+    <string name="noGoalOffsideAction6">¡El portero ha recibido una falta muy clara!</string>
+    <string name="noInternetConnection">No hay conexión a internet!</string>
+    <string name="noMatchesToShow">No hay partidos que mostrar en esta fase.</string>
+    <string name="noMatchesYet">Aún no hay partidos jugados.</string>
+    <string name="noNever">- No. Y no me vuelvas a llamar.</string>
+    <string name="noNewsObservations">No hay noticias ni observaciones hasta ahora.</string>
+    <string name="noOffers">Sin ofertas en este momento.</string>
+    <string name="noPlayerAssigned">(ningún jugador asignado)</string>
+    <string name="noRecommendations">No hay recomendaciones por ahora.</string>
+    <string name="noResults">Sin resultados.</string>
+    <string name="noRoomForSponsor">"You can't have more sponsorships of this type. Terminate other contract to make place for that one."</string>
+    <string name="noScoutsInClub">No tienes ningún ojeador en tu club. Contrata uno para usar su función de ojeador.</string>
+    <string name="noTeamsAnalysed">No hay equipos bajo análisis en este momento.</string>
+    <string name="noThanks">No, gracias...</string>
+    <string name="noTrainer">no hay entrenador</string>
+    <string name="noTrophies">Disculpa, no tienes ningún trofeo ganado aún...</string>
+    <string name="noYouthTeams">No hay equipos juveniles.</string>
+    <string name="none">ninguno</string>
+    <string name="normal">normal</string>
+    <string name="normal2">Normal</string>
+    <string name="north">Norte</string>
+    <string name="north_africa">África (norte)</string>
+    <string name="north_america">América del norte</string>
+    <string name="north_central_africa">África (norte-central)</string>
+    <string name="north_east">Noreste</string>
+    <string name="north_europe">Europa (norte)</string>
+    <string name="north_south_america">Sudamérica (norte)</string>
+    <string name="north_west">Noroeste</string>
+    <string name="notThisTime">- No, tal vez la siguiente ocasión.</string>
+    <string name="not_recommended">No recomendado:</string>
+    <string name="notes">Notas:</string>
+    <string name="notifications_permission_confirm">Permitir</string>
+    <string name="notifications_permission_decline">No permitir</string>
+    <string name="notifications_permission_title">¿Permitir que la aplicación te envíe notificaciones?</string>
+    <string name="november">Noviembre</string>
+    <string name="numberOfSeats">Número de asientos:</string>
+    <string name="oceania">Oceanía</string>
+    <string name="oceania_2">Oceanía (2)</string>
+    <string name="october">Octubre</string>
+    <string name="offTheBarAction1">¡Rozando el palo!</string>
+    <string name="offTheBarAction2">¡Rozando el larguero!</string>
+    <string name="offTheBarAction3">¡Golpea el travesaño!</string>
+    <string name="offTheBarAction4">¡Sale rozando el poste!</string>
+    <string name="offerAcceptedBenchContent">"Es un jugador suplente en nuestro equipo y pensamos que la oferta es interesante.
+
+"</string>
+    <string name="offerAcceptedContent">"Su oferta de traspaso por nuestro jugador (%1$s) ha sido aceptada.
+
+"</string>
+    <string name="offerAcceptedFirstSquadContent">"Tiene un papel importante en nuestro equipo, pero encontramos su oferta extremadamente atractiva.
+
+"</string>
+    <string name="offerAcceptedProposeContract">Por favor contacte con el agente del jugador para negociar su contrato.</string>
+    <string name="offerAcceptedReserveContent">"Es un jugador de nivel limitado para nuestro primer equipo, estaremos encantados de cerrar el traspaso.
+
+"</string>
+    <string name="offerAcceptedTitle">%1$s - oferta de traspaso aceptada</string>
+    <string name="offerContract">Oferta de contrato</string>
+    <string name="offerNegotiatingContent">Nos gustaría negociar su oferta por nuestro jugador (%2$s). Estamos a la espera de una oferta como %1$s por este jugador.</string>
+    <string name="offerNegotiatingTitle">%1$s siendo un caso de negociación</string>
+    <string name="offerReceivedContent">El %1$s desearía comprar a nuestro jugador (%2$s). Revise la oferta recibida y respóndales libremente.</string>
+    <string name="offerReceivedTitle">El %1$s ha hecho una oferta por %2$s</string>
+    <string name="offerRejectedBenchContent">"Es un jugador suplente en nuestro equipo pero consideramos su oferta insuficiente.
+
+"</string>
+    <string name="offerRejectedContent">"Su oferta de traspaso por nuestro jugador (%1$s) ha sido rechazada.
+
+"</string>
+    <string name="offerRejectedFirstSquadContent">"Tiene un papel importante en nuestro equipo y no podemos deshacernos de él tan fácilmente.
+
+"</string>
+    <string name="offerRejectedReserveContent">"Aunque el jugador no tiene nivel para nuestro primer equipo, esperamos recibir ofertas más apetecibles por él.
+
+"</string>
+    <string name="offerRejectedTitle">%1$s - oferta de traspaso rechazada</string>
+    <string name="offerType">Tipo de oferta:</string>
+    <string name="offeredPrice">Precio ofrecido:</string>
+    <string name="offeredSalary">Salario ofrecido:</string>
+    <string name="offersMade">Ofertas realizadas</string>
+    <string name="offersReceived">Ofertas recibidas</string>
+    <string name="office">Oficinas</string>
+    <string name="offline_notification_text">Toca para abrir el anuncio</string>
+    <string name="offline_notification_title">Mira el anuncio guardado cuando no tenías conexión</string>
+    <string name="offline_opt_in_confirm">Aceptar</string>
+    <string name="offline_opt_in_confirmation">Recibirás una notificación que incluirá el enlace cuando recuperes la conexión</string>
+    <string name="offline_opt_in_decline">No, gracias</string>
+    <string name="offline_opt_in_message">Te enviaremos una notificación que incluirá un enlace al sitio web del anunciante.</string>
+    <string name="offline_opt_in_title">Se abrirá el anuncio cuando recuperes la conexión.</string>
+    <string name="offsideAction1">¡El árbitro marca fuera de juego!</string>
+    <string name="offsideAction2">¡Fuera de juego!</string>
+    <string name="offsideAction3">¡El árbitro pita! ¡Fuera de juego!</string>
+    <string name="offsideAction4">El juez de línea alza su banderín... ¡Fuera de juego!</string>
+    <string name="offsideAction5">¡Fuera de juego! ¡La bandera está levantada!</string>
+    <string name="offsideTraps">Fuera de juego:</string>
+    <string name="often">con frecuencia</string>
+    <string name="ok">OK</string>
+    <string name="onTrainingCamp">Actualmente en un campo de entrenamiento en %1$s (fecha de regreso - %2$s)</string>
+    <string name="oneOnOneAction1">¡Situación uno a uno!</string>
+    <string name="oneOnOneAction10">¡%1$s tiene que colocarla!</string>
+    <string name="oneOnOneAction11">¡Oportunidad fácil para %1$s!</string>
+    <string name="oneOnOneAction2">¡Uno a uno con el portero!</string>
+    <string name="oneOnOneAction3">¡%1$s cara a cara con el portero!</string>
+    <string name="oneOnOneAction4">¡%1$s! ¡Sólo le queda el portero por batir!</string>
+    <string name="oneOnOneAction5">¡%1$s! ¡Él tiene que anotar!</string>
+    <string name="oneOnOneAction6">¡%1$s! ¡Qué oportunidad!</string>
+    <string name="oneOnOneAction7">¡%1$s tiene un montón de tiempo!</string>
+    <string name="oneOnOneAction8">¡%1$s está detrás de la defensa!</string>
+    <string name="oneOnOneAction9">¡No había offside de %1$s!</string>
+    <string name="opponents">Oponentes</string>
+    <string name="opponentsDescription">"Aquí puedes obtener información sobre todos los equipos que puedes enfrentar - y utilizar para aumentar las probabilidades de ganar los partidos.
+
+ Si solamente quieres ver la plantilla actual de tus oponentes, solo seleccione el equipo y descubre sus alineaciones.
+
+ Si desea obtener información realmente valioso, puedes enviar a tus asistentes a ver el equipo seleccionado por un tiempo. Cuando la búsqueda termina, obtendrá detalles sobre su tácticas, junto con consejos sobre las tácticas que podemos usar en los partidos contra ellos. ¿Te parece bien?"</string>
+    <string name="options">Opciones</string>
+    <string name="organisationCostNote">- Coste de organización - %1$s</string>
+    <string name="organize_dinner">Organizar cena</string>
+    <string name="organize_dinner_cons_1">Cuesta %1$s</string>
+    <string name="organize_dinner_pros_1">Ayuda a resolver conflictos e integrar jugadores aislados</string>
+    <string name="organize_dinner_pros_2">Aumenta ligeramente la moral de los jugadores</string>
+    <string name="organize_party">Organizar fiesta</string>
+    <string name="organize_party_cons_1">Reduce la forma actual de todos los jugadores</string>
+    <string name="organize_party_cons_2">Cuesta %1$s</string>
+    <string name="organize_party_pros_1">Muy efectivo para resolver conflictos e integrar jugadores</string>
+    <string name="organize_party_pros_2">Aumenta la moral de los jugadores</string>
+    <string name="other">otras divisione</string>
+    <string name="otherRivals">Otros rivales:</string>
+    <string name="overview">Resumen</string>
+    <string name="ownGoal">a.g.</string>
+    <string name="ownGoalAction1">¡Tenemos un autogol!</string>
+    <string name="ownGoalAction2">¡Gol en propia meta!</string>
+    <string name="passFarFromPenaltyAreaAction1">%1$s pasa rápido hacia adelante</string>
+    <string name="passFarFromPenaltyAreaAction2">%1$s cede el balón a un compañero con precisión</string>
+    <string name="passFarFromPenaltyAreaAction3">%1$s pasa hacia su compañero</string>
+    <string name="passFarFromPenaltyAreaAction4">%1$s cabecea hacia su compañero</string>
+    <string name="passFarFromPenaltyAreaAction5">%1$s mueve la pelota hacia adelante</string>
+    <string name="passFarFromPenaltyAreaAction6">%1$s con el pase</string>
+    <string name="passInPenaltyAreaAction1">¡%1$s hace un pase largo!</string>
+    <string name="passInPenaltyAreaAction2">¡%1$s pasa dentro del área!</string>
+    <string name="passInPenaltyAreaAction3">¡%1$s va a chutar! ¡No! ¡Pasa el balón al compañero!</string>
+    <string name="passInPenaltyAreaAction4">¡%1$s cede la pelota a su compañero!</string>
+    <string name="passInPenaltyAreaAction5">¡%1$s juega hacia el compañero!</string>
+    <string name="passIntoPenaltyAreaAction1">¡%1$s la juega dentro del área!</string>
+    <string name="passIntoPenaltyAreaAction2">¡%1$s hace un pase largo!</string>
+    <string name="passIntoPenaltyAreaAction3">¡%1$s pone la pelota en el área!</string>
+    <string name="passIntoPenaltyAreaAction4">¡%1$s trae el balón al área!</string>
+    <string name="passIntoPenaltyAreaAction5">¡%1$s envía el balón hacia el punto de penalty!</string>
+    <string name="passToCenterAction1">%1$s juega al centro</string>
+    <string name="passToCenterAction2">%1$s pone la pelota al centro</string>
+    <string name="passToCenterAction3">%1$s centra el balón</string>
+    <string name="passToLeftSideAction1">%1$s pone la pelota a la izquierda</string>
+    <string name="passToLeftSideAction2">%1$s juega a la izquierda</string>
+    <string name="passToLeftSideAction3">%1$s trae la pelota hacia la izquierda</string>
+    <string name="passToLeftSideAction4">%1$s lleva la jugada hacia la izquierda</string>
+    <string name="passToLeftSideAction5">%1$s envía el balón hacia el costado izquierdo</string>
+    <string name="passToRightSideAction1">%1$s pone la pelota a la derecha</string>
+    <string name="passToRightSideAction2">%1$s juega a la derecha</string>
+    <string name="passToRightSideAction3">%1$s trae el balón a la derecha</string>
+    <string name="passToRightSideAction4">%1$s lleva la jugada a la derecha</string>
+    <string name="passToRightSideAction5">%1$s envía la pelota al costado derecho</string>
+    <string name="passing">Pase</string>
+    <string name="pauseMatch">Pausa</string>
+    <string name="penalize">Penalizar</string>
+    <string name="penaltyFailText1">¡Tremendo error!</string>
+    <string name="penaltyFailText2">¡Directo al portero!</string>
+    <string name="penaltyFailText3">¡Se va alto!</string>
+    <string name="penaltyFailText4">¡Rozando el palo!</string>
+    <string name="penaltyFailText5">¡Lo para el portero!</string>
+    <string name="penaltyGoal">pen.</string>
+    <string name="penaltyKick">¡Penalty!</string>
+    <string name="penaltyKickAction1">¡No hay dudas en esta decisión!</string>
+    <string name="penaltyKickAction2">¡Pero el árbitro no debió pitar esta vez!</string>
+    <string name="penaltyKickAction3">Las protestas son inútiles, la pelota ya está sobre el punto de penalti</string>
+    <string name="penaltyKickAction4">¡Buena decisión del árbitro!</string>
+    <string name="penaltyKickAction5">¡Oportunidad de oro para anotar!</string>
+    <string name="penaltyKickAction6">¡El árbitro ignora las protestas!</string>
+    <string name="penaltyKickAction7">¡Claramente fue una buena decisión!</string>
+    <string name="penaltyKickAction8">¡Oh, qué error por parte del árbitro!</string>
+    <string name="penaltyKickExecution1">%1$s listo para golpear...</string>
+    <string name="penaltyKickExecution2">%1$s toma aliento...</string>
+    <string name="penaltyKickExecution3">%1$s coge carrerilla...</string>
+    <string name="penaltyKickExecution4">%1$s con la oportunidad...</string>
+    <string name="penaltyKickExecution5">%1$s coloca el balón por debajo...</string>
+    <string name="penaltyKickExecution6">%1$s se prepara para anotar...</string>
+    <string name="penaltyKickReason1">¡Falta a %1$s (%2$s)!</string>
+    <string name="penaltyKickReason2">¡%1$s (%2$s) ha tocado con la mano dentro del área!</string>
+    <string name="penaltyType">Tipo de penalización:</string>
+    <string name="penalty_area">área de penalti</string>
+    <string name="peopleToHire">Gente para contratar</string>
+    <string name="phoneCall">Llamada telefónica</string>
+    <string name="physiotherapist">Fisioterapeuta</string>
+    <string name="placeOfCamp">Lugar del campo:</string>
+    <string name="playFriendlyMatches">¿Jugar amistosos con equipos locales?</string>
+    <string name="playerAge">Edad:</string>
+    <string name="playerAgeMax">Edad (máx.):</string>
+    <string name="playerAgeMin">Edad (mín.):</string>
+    <string name="playerCaughtClubbingContent">Jefe, tengo malas noticias. Alguien vio a %1$s beber anoche toneladas de alcohol y tener demasiada diversión en el club nocturno. No se puede dejar que sus jugadores actúan de esta manera, es demasiado lejano a un estilo de vida profesional.</string>
+    <string name="playerCaughtClubbingTitle">%1$s ha sido visto en el club de noche ayer</string>
+    <string name="playerDidBadTweetsContent">Jefe, creo que deberías hablar con %1$s. Él mantiene tonterías en sus publicaciones de Twitter, algunos de ellos ofenden a nuestros próximos rivales. Esto no es una gran cosa, tal vez, pero un jugador profesional no debería comportarse así.</string>
+    <string name="playerDidBadTweetsTitle">%1$s insulta a sus rivales en Internet</string>
+    <string name="playerDoesntPlayAnswer1">Lo dejo descansar un poco, él sigue siendo un jugador muy importante para mí.</string>
+    <string name="playerDoesntPlayAnswer2">Bueno, otros jugadores están en buena forma también. Si él trabaja duro, seguramente tendrá más oportunidades.</string>
+    <string name="playerDoesntPlayAnswer3">¿%1$s? Está muy débil en este momento, esa es la razón.</string>
+    <string name="playerDoesntPlayQuestion">%1$s no ha recibido muchas oportunidades para jugar recientemente. ¿Por qué?</string>
+    <string name="playerGaveBadInterviewContent">Jefe, ¿has leído el periódico de hoy? Ah, se me olvidaba - usted no lee los periódicos... En fin. Nuestro jugador, %1$s, dió una entrevista y dijo algunas cosas inapropiadas sobre usted y algunos de sus compañeros de equipo. Estas cosas pueden afectar al ambiente del equipo, así que creo que debe reaccionar de alguna manera...</string>
+    <string name="playerGaveBadInterviewTitle">%1$s dio una entrevista polémica</string>
+    <string name="playerGoodFormAnswer1">Definitivamente. No puedo imaginar al %1$s sin él.</string>
+    <string name="playerGoodFormAnswer2">Cierto, pero hay otros jugadores que también están en un buen momento.</string>
+    <string name="playerGoodFormAnswer3">No, no estoy de acuerdo.</string>
+    <string name="playerGoodFormQuestion">%1$s lo está haciendo bastante bien, siendo el jugador más valorado de nuestro equipo. ¿Estás de acuerdo?</string>
+    <string name="playerInformation">Información del jugador</string>
+    <string name="playerInjured">%1$s (%2$s) está lesionado</string>
+    <string name="playerInjuredAction1">Tendrá que dejar el campo</string>
+    <string name="playerInjuredAction2">No puede continuar en el partido</string>
+    <string name="playerInjuredAction3">Eso es el fin del juego para él</string>
+    <string name="playerInjuredMatchContent">%1$s ha sufrido una lesión durante el partido. Su recuperación estimada es de unas %2$s weeks.</string>
+    <string name="playerInjuredTitle">%1$s lesionado</string>
+    <string name="playerInjuredTrainingContent">%1$s ha sufrido una lesión durante el entrenamiento. Su recuperación estimada es de unas %2$s weeks.</string>
+    <string name="playerIsInjured">¡%1$s está lesionado!</string>
+    <string name="playerMissedTrainingContent">Jefe, estoy seguro de que ha notado la ausencia de %1$s durante el entrenamiento de hoy. Espero que haga que se arrepienta de sus acciones no profesionales como éstas.</string>
+    <string name="playerMissedTrainingTitle">%1$s se perdió el entrenamiento</string>
+    <string name="playerName">Nombre:</string>
+    <string name="playerNationality">Nacionalidad:</string>
+    <string name="playerOfTheMonthContent">%1$s (%2$s) Ha ganado el título ha jugador del mes (%3$s, %4$s). %5$s (%6$s) y %7$s (%8$s) han conseguido el segundo y tercer puesto.</string>
+    <string name="playerOfTheMonthTitle">Jugador del mes - %1$s</string>
+    <string name="playerOfTheYearContent">%1$s (%2$s) ha ganado el título a jugador del año (%3$s). %4$s (%5$s) y %6$s (%7$s) han conseguido el segundo y tercer puesto.</string>
+    <string name="playerOfTheYearTitle">Jugador del año - %1$s</string>
+    <string name="playerOptions">Opciones...</string>
+    <string name="playerPosition">Posición:</string>
+    <string name="playerPunishments">Penalizaciones para jugadores</string>
+    <string name="playerRatings">Mejores jugadores</string>
+    <string name="playerReaction">La reaccion de %1$s:</string>
+    <string name="playerRefusedLoanContent">"%1$s rechazó la oferta de cesión de %2$s.
+
+Dijo que el contrato ofrecido no es lo suficientemente atractivo como para salir de nuestro club."</string>
+    <string name="playerRefusedLoanTitle">%1$s rechazó la oferta de cesión de %2$s</string>
+    <string name="playerRefusedToRenewContractContent">"%1$s ha rechazado su oferta de renovación de contrato.
+
+Ha indicado que esperaba una oferta mejor."</string>
+    <string name="playerRefusedToRenewContractTitle">%1$s - oferta de contrato rechazada</string>
+    <string name="playerRefusedToSignContractContent">"%1$s rejected your contract offer.
+
+He said that he deserves better offer."</string>
+    <string name="playerRefusedTransferContent">%1$s ha rechazado la oferta de contrato del %2$s. Ha dicho que la oferta no era tan atractiva como para dejar el club.</string>
+    <string name="playerRefusedTransferTitle">%1$s ha rechazado la oferta del %2$s</string>
+    <string name="playerRenewedContractContent">"%1$s ha aceptado su oferta de renovación de contrato.
+
+El nuevo contrato finaliza el %2$s"</string>
+    <string name="playerRenewedContractTitle">%1$s ha renovado su contrato</string>
+    <string name="playerReturnedAfterInjuryContent">¡Buenas noticias! %1$s se ha recuperado completamente de su lesión y no puede esperar para retornar al campo de juego.</string>
+    <string name="playerReturnedAfterInjuryTitle">%1$s está de vuelta después de su lesión</string>
+    <string name="playerReturnedContent">%1$s está de vuelta en nuestro equipo. Durante los últimos meses, él fue cedido al %2$s.</string>
+    <string name="playerReturnedTitle">%1$s vuelve de una cesión en %2$s</string>
+    <string name="playerRewards">Recompensas para jugadores</string>
+    <string name="playerSalaries">Salario de los jugadores</string>
+    <string name="playerSkill">Habilidad:</string>
+    <string name="playerSoldContent">%1$s ha firmado hoy su nuevo contrato con el %2$s. Ha sido vendido por %3$s.</string>
+    <string name="playerSoldTitle">%1$s vendido a %2$s</string>
+    <string name="playerStats">Jugadores</string>
+    <string name="playerTapToShowDetails">Jugador (tocar para mostrar detalles):</string>
+    <string name="playerTrainedHardContent">Jefe, me di cuenta de que %1$s hace un gran trabajo durante los entrenamientos recientes. A veces se queda más tiempo para practicar algunos tiros libres y otras cosas. Usted debe hacerle saber que usted lo aprecia.</string>
+    <string name="playerTrainedHardTitle">%1$s trabaja más duro que de costumbre</string>
+    <string name="playerTrainedWithYouthContent">Jefe, Acabo de notar que %1$s fue bastante agradable para quedarse después de la formación y el trabajo con nuestros jóvenes un rato. Él les mostró algunos trucos y tuvo una charla con ellos. Fue una experiencia totalmente fantástica para nuestros jugadores jóvenes. ¿Por qué no le recompensa de alguna manera agradable?</string>
+    <string name="playerTrainedWithYouthTitle">%1$s ayuda a nuestros jugadores juveniles</string>
+    <string name="playerVisitedChildrenContent">Jefe, ¿lo ha escuchado? %1$s hizo algo excelente. Durante su tiempo libre, él visitó el hospital y tuvo una charla con algunos chicos que estaban allí. Ellos pasaron un tiempo fantástico juntos, y los niños estuvieron totalmente asombrados con su ídolo. Yo creo que sería bueno hacerle saber que estas cosas son bienvenidas y quizás, ¿para recompensarlo de algún modo?</string>
+    <string name="playerVisitedChildrenTitle">%1$s visita a los niños en el hospital</string>
+    <string name="players">Jugadores</string>
+    <string name="players_edited">Jugadores editados:</string>
+    <string name="playoff">Play-Off</string>
+    <string name="playoffs">Play-Off</string>
+    <string name="pleasePlusOne">¡...y con +1 en Google+!</string>
+    <string name="pleaseRate">"¿Te gusta True Football 3?
+
+Por favor, ayuda a la app valorándola en la Google Play Store:"</string>
+    <string name="points">p.</string>
+    <string name="points2">puntos</string>
+    <string name="pointsForAchievements">Puntos por logros:</string>
+    <string name="pointsForTrophies">Puntos de trofeos:</string>
+    <string name="pointsTable">Pts</string>
+    <string name="poorPerformance">mala actuación</string>
+    <string name="possesionCenterAction1">%1$s conduce el balón</string>
+    <string name="possesionCenterAction2">%1$s mira hacia arriba desde mediocampo</string>
+    <string name="possesionCenterAction3">%1$s espera apoyos</string>
+    <string name="possesionCenterAction4">%1$s detiene la jugada</string>
+    <string name="possesionCenterAction5">%1$s sostiene el balón</string>
+    <string name="possesionCenterAction6">%1$s se retrasa jugando el balón</string>
+    <string name="possesionCenterAction7">Buen control de %1$s</string>
+    <string name="possesionCenterAction8">%1$s avanza con el balón</string>
+    <string name="possesionLeftSideAction1">%1$s tiene el balón en el lateral izquierdo</string>
+    <string name="possesionLeftSideAction2">¡%1$s corre por el lateral izquierdo!</string>
+    <string name="possesionLeftSideAction3">¡%1$s avanza hacia la izquierda!</string>
+    <string name="possesionLeftSideAction4">¡%1$s se mueve atrás a la izquierda!</string>
+    <string name="possesionRightSideAction1">%1$s tiene el balón en el lateral derecho</string>
+    <string name="possesionRightSideAction2">¡%1$s corre por el lateral derecho!</string>
+    <string name="possesionRightSideAction3">¡%1$s abanza por el costado derecho!</string>
+    <string name="possesionRightSideAction4">¡%1$s se mueve atrás hacia la derecha!</string>
+    <string name="pot">Pot</string>
+    <string name="preferredPosition">Posición preferida</string>
+    <string name="pressConference">Conferencia de prensa</string>
+    <string name="pressing">Presión:</string>
+    <string name="previous">Anterior</string>
+    <string name="privateCompliment">elogio privado</string>
+    <string name="privateReprimand">amonestación privada</string>
+    <string name="proceedToMatch">Proceder al partido</string>
+    <string name="professionalBehavior">actitud profesional</string>
+    <string name="profile">Perfil</string>
+    <string name="promotionContent">"Señor, ¡me siento tan feliz de haberlo conseguido!
+
+Este ascenso a la división más alta es un gran logro. Como manager, ha hecho un trabajo fantástico, así que muchas gracias y espero que continuemos con esta racha ganadora la próxima temporada. Con este logro, podemos esperar más dinero de los derechos de TV y la federación.
+
+¡Enhorabuena!"</string>
+    <string name="promotionTitle">¡Felicidades!</string>
+    <string name="publicCompliment">elogio público</string>
+    <string name="publicReprimand">amonestación pública</string>
+    <string name="pyrotechnics">explosión de artefactos pirotécnicos</string>
+    <string name="qualification">Clasificación</string>
+    <string name="quarterfinals">Cuartos de final</string>
+    <string name="quitMatch">¿Estás seguro de salir del partido? El resultado será derrota por defecto (0:3)</string>
+    <string name="racism">gritos racistas</string>
+    <string name="random_pick">Al azar</string>
+    <string name="rankings">Rankings</string>
+    <string name="rate">Ve a Google Play store</string>
+    <string name="reason">Razón:</string>
+    <string name="rebellious">rebelde</string>
+    <string name="received">recibido</string>
+    <string name="recommended">Recomendado:</string>
+    <string name="recommendedPlayers">Jugadores recomendados:</string>
+    <string name="records">Récords</string>
+    <string name="redCard">¡Tarjeta roja!</string>
+    <string name="redCards">Tarjetas rojas</string>
+    <string name="regionToExplore">Región:</string>
+    <string name="reject">Rechazar</string>
+    <string name="rejectOffer">Rechazar</string>
+    <string name="release">Cancelar contrato</string>
+    <string name="relegationContent">"Señor, me gustaría informarle que estoy decepcionado con el resultado final de esta temporada de liga. Este descenso es un golpe duro para nuestro club. Para arreglarlo, y recuperar la confianza de nuestros aficionados, tenemos que mejorar nuestra actuación extremadamente, y pelear por la promoción la próxima temporada.
+
+Esta es tu última oportunidad para estar aquí en el %1$s..."</string>
+    <string name="relegationGameOverContent">"Señor, ¿qué puedo decir? Este descenso es un gran golpe bajo para nosotros. Toda la temporada fue desastrosa. Tenemos más potencial que eso. No sé qué será del futuro del club ahora, pero lo tengo por seguro que usted no será parte de él.
+
+¡Adiós!"</string>
+    <string name="relegationTitle">¡Qué vergüenza!</string>
+    <string name="remove">Remover</string>
+    <string name="removeFromFirstTeam">Remover del primer equipo</string>
+    <string name="removeThisTeam">Eliminar equipo</string>
+    <string name="remove_analysis_confirmation_dialog">¿Quieres detener el análisis de la equipa de %1$s?</string>
+    <string name="remove_results_confirmation_dialog">¿Quieres eliminar los resultados de análisis de %1$s?</string>
+    <string name="renewContract">Renovar contrato</string>
+    <string name="replay">desempate</string>
+    <string name="reportCost">Costos de informe:</string>
+    <string name="reportTime">Tiempo necesitado:</string>
+    <string name="reset_edit_file">Restablecer archivo editado</string>
+    <string name="results">Resultados</string>
+    <string name="results_available">Resultados disponibles</string>
+    <string name="returnDate">Fecha de regreso:</string>
+    <string name="returnToMainMenu">¿Volver al menú principal?</string>
+    <string name="revenue">Ingresos:</string>
+    <string name="reward">Recompensa</string>
+    <string name="rewardType">Tipo de recompensa:</string>
+    <string name="rival">Rival:</string>
+    <string name="role">Rol</string>
+    <string name="roundOf16">8s de final</string>
+    <string name="roundOf32">16s de final</string>
+    <string name="roundOf64">32s de final</string>
+    <string name="roundX">Jornada %1$s</string>
+    <string name="s1">Guardar imagen</string>
+    <string name="s2">¿Permitir que el anuncio almacene imágenes en la galería de imágenes?</string>
+    <string name="s3">Aceptar</string>
+    <string name="s4">Rechazar</string>
+    <string name="s5">Crear evento de calendario</string>
+    <string name="s6">¿Permitir que el anuncio cree un evento de calendario?</string>
+    <string name="s7">Anuncio de prueba</string>
+    <string name="salary">Salario</string>
+    <string name="saturday">Sab</string>
+    <string name="save">Guardar</string>
+    <string name="saveGame">Guardar juego</string>
+    <string name="saving">"Guardando...
+(puede tomar un rato)"</string>
+    <string name="scout">Ojeador</string>
+    <string name="scoutContinuesSearchingContent">Nuestro ojeador, %1$s continúa su búsqueda. Hasta el momento, ha preparado una lista de %2$s jugadores que valen la pena revisar.</string>
+    <string name="scoutContinuesSearchingTitle">Ojeador %1$s en búsqueda</string>
+    <string name="scoutReport">Informe de ojeador</string>
+    <string name="scoutReportContent">"Hola señor. Aquí está mi informe sobre %1$s:
+
+"</string>
+    <string name="scoutReportContent2">%1$s juega de %2$s</string>
+    <string name="scoutReportContentHighPotential">"Él tiene un gran potencial, y no tengo ninguna duda de que va a mejorar mucho durante su carrera.
+"</string>
+    <string name="scoutReportContentLowPotential">"Su potencial es más bien bajo. Yo no creo que él vaya a mejorar mucho.
+"</string>
+    <string name="scoutReportContentMuchBetter">"Es mucho mejor que nuestro mejor jugador en su posición (%1$s).
+"</string>
+    <string name="scoutReportContentMuchWorse">"Es mucho peor que nuestro mejor jugador en su posición (%1$s).
+"</string>
+    <string name="scoutReportContentNotYoung">"No es un jugador joven, así que no esperes que mejore sus habilidades mucho más.
+"</string>
+    <string name="scoutReportContentOld">"Él ya es un jugador viejo, así que ten cuidado de que sus habilidades sean cada vez peores.
+"</string>
+    <string name="scoutReportContentQuiteHighPotential">"Si él trabaja muy duro, puede ser un poco mejor jugador en el futuro.
+"</string>
+    <string name="scoutReportContentSlightlyBetter">"Él es un poco mejor que nuestro mejor jugador en su posición (%1$s).
+"</string>
+    <string name="scoutReportContentSlightlyWorse">"Él es un poco peor que nuestro mejor jugador en su posición (%1$s).
+"</string>
+    <string name="scoutReportContentVeryHighPotential">"Su potencial es enorme, y estoy seguro de que va a ser mucho mejor en el futuro.
+"</string>
+    <string name="scoutReportContentVeryLowPotential">"No veo ningún potencial en él. En mi opinión, sus habilidades no serán más altas.
+"</string>
+    <string name="scoutReportTitle">%1$s - informe de ojeador</string>
+    <string name="scouting">Scouting</string>
+    <string name="scoutingDescription">"El scouting es un factor bastante importante si buscas jugadores talentosos. Tus ojeadores estarán listos para explorar varias regiones del mundo en busca de los más interesantes.
+
+ Cada jugador tiene su propio potencial, que indica si se desarrollará rápido o lento. Solo los ojeadores pueden ver el potencial. Mientras más experimentado sea el ojeador, más exactas serán sus expectativas acerca de los jugadores.
+
+ Si no decides en asignarle alguna región a tu ojeador, aún puedes usarlos para obtener reportes acerca de jugadores que estás observando por tu propia cuenta."</string>
+    <string name="scoutsInClub">Ojeadores en el club:</string>
+    <string name="search">Buscar</string>
+    <string name="search2">Buscar...</string>
+    <string name="searchForPlayers">Búsqueda de jugadores</string>
+    <string name="searchForPosition">Buscar:</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="secondChampionship">2º torneo</string>
+    <string name="secondDivision">2ª división</string>
+    <string name="secondGroup">B</string>
+    <string name="secondLeg">vuelta</string>
+    <string name="secondPosition">Otras posiciones</string>
+    <string name="secondShotAction1">¡%1$s va a finalizar!</string>
+    <string name="secondShotAction2">¡%1$s corre para llegar al remate!</string>
+    <string name="secondShotAction3">¡%1$s llega al balón!</string>
+    <string name="secondShotAction4">¡%1$s tendrá una oportunidad!</string>
+    <string name="secondShotAction5">¡%1$s! ¡Otra oportunidad!</string>
+    <string name="secondYellowCard">¡Es la segunda! ¡Se acabó el partido para él!</string>
+    <string name="security">Seguridad</string>
+    <string name="selectCountriesToFollow">Seleccione hasta 5 países para seguir sus competencias:</string>
+    <string name="selectTeamToAnalyze">Seleccione equipo para analizar:</string>
+    <string name="semifinals">Semifinales</string>
+    <string name="sent">enviado</string>
+    <string name="september">Septiembre</string>
+    <string name="setPieces">Balón parado</string>
+    <string name="settings">Ajustes</string>
+    <string name="seventhDivision">7ª división</string>
+    <string name="shape">Forma</string>
+    <string name="shirt_primary">Principal (en camiseta)</string>
+    <string name="shirt_secondary">Secundario (en camiseta)</string>
+    <string name="shooting">Tiro</string>
+    <string name="shop">Tienda</string>
+    <string name="shopRevenue">Ingresos de tienda</string>
+    <string name="shortCornerKickAction1">¡%1$s takes a short corner kick!</string>
+    <string name="short_passes">corto</string>
+    <string name="shotAction1">¡%1$s! ¡Vaya lanzamiento brutal!</string>
+    <string name="shotAction2">¡%1$s dispara!</string>
+    <string name="shotAction3">¡%1$s! ¡Un disparo preciso!</string>
+    <string name="shotAction4">¡%1$s con un disparo!</string>
+    <string name="shotAction5">¡%1$s toma el disparo!</string>
+    <string name="shotAction6">¡%1$s intenta anotar!</string>
+    <string name="shotAction7">¡%1$s intenta un disparo!</string>
+    <string name="shotAction8">¡%1$s intenta con su suerte!</string>
+    <string name="shotAction9">¡%1$s intenta batir al portero!</string>
+    <string name="shotMissedAction1">¡Tremendo error!</string>
+    <string name="shotMissedAction10">Kilómetros de distancia del objetivo...</string>
+    <string name="shotMissedAction11">¡Wow, eso estuvo cerca!</string>
+    <string name="shotMissedAction12">¡Ha fallado! Pero fue muy buena, como sea</string>
+    <string name="shotMissedAction13">¡Sobre el larguero!</string>
+    <string name="shotMissedAction14">No fue el mejor intento</string>
+    <string name="shotMissedAction15">¡Cerca!</string>
+    <string name="shotMissedAction16">Qué fallo más embarazoso...</string>
+    <string name="shotMissedAction2">¡Tan cerca!</string>
+    <string name="shotMissedAction3">Ha fallado...</string>
+    <string name="shotMissedAction4">¡Por encima del travesaño!</string>
+    <string name="shotMissedAction5">Se va fuera...</string>
+    <string name="shotMissedAction6">¡Buen intento! Pero lo ha perdido por poco</string>
+    <string name="shotMissedAction7">¡Pero se va fuera de manera horrible!</string>
+    <string name="shotMissedAction8">Ni siquiera cerca del objetivo</string>
+    <string name="shotMissedAction9">¡Wow, ese fue un gran tiro!</string>
+    <string name="show_squad">Mostrar equipo</string>
+    <string name="simulationMode">Modo de simulación:</string>
+    <string name="sixthDivision">6ª división</string>
+    <string name="skill">Habilidad</string>
+    <string name="sometimes">a veces</string>
+    <string name="sort">Ordenar</string>
+    <string name="sound">Sonido:</string>
+    <string name="south">Sur</string>
+    <string name="south_africa">África (sur)</string>
+    <string name="south_america">América del sur</string>
+    <string name="south_asia">Asia (sur)</string>
+    <string name="south_east">Sudeste</string>
+    <string name="south_east_asia">Asia (sudoeste)</string>
+    <string name="south_east_europe">Europa (sudeste)</string>
+    <string name="south_south_america">Sudamérica (sur)</string>
+    <string name="south_west">Suroeste</string>
+    <string name="south_west_europe">Europa (sudoeste)</string>
+    <string name="specialThanks">"Un agradecimiento especial por el gran apoyo
+(base de datos, competiciones, traducción):"</string>
+    <string name="speechResults">Resultados de charla:</string>
+    <string name="spokesmanForFans">Portavoz de la afición</string>
+    <string name="sponsorBonusContent">¡Grandes noticias, señor! Nuestro sponsor, %1$s ha decidido premiar a nuestro club con un bonus de %2$s. Como podrás ver, los buenos resultados del equipo pueden traer algunos beneficios. ¡Continúa con el buen trabajo!</string>
+    <string name="sponsorBonusTitle">¡Dinero extra por parte de %1$s!</string>
+    <string name="sponsors">Patrocinios</string>
+    <string name="sponsorshipOfferWithdrawnContent">Estimado míster, debido a tu falta de respuesta, la oferta de patrocinio por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="sponsorshipOfferWithdrawnTitle">%1$s - oferta de patrocinio rechazada</string>
+    <string name="sponsorshipOffers">Ofertas de patrocinio</string>
+    <string name="sponsorshipType">Tipo de patrocinio</string>
+    <string name="sponsorships">Patrocinios</string>
+    <string name="squad">Escuadra</string>
+    <string name="stadium">Estadio</string>
+    <string name="stadiumCapacity">Capacidad del estadio:</string>
+    <string name="stadiumEmployeesDescription">"Tú puedes controlar la cantidad de gente que trabaje en el estadio.
+
+ Contratando más negocios de gastronomía y tiendas puedes mejorar tus ingresos durante los partidos.
+
+ Si tu estadio es lo suficientemente grande como para atraer turistas, podrás incluso necesitar guías para proporcionar algunos tours.
+
+ Personal de seguridad puede prevenir malas actitudes desde aficionados agresivos. Mejor contratar algunos, las multas son mucho más dolorosas.
+
+ A la vez que tu estadio crece, va a necesitar más gente para mantenerlo. Si no tienes el suficiente personal, puede causarte daños."</string>
+    <string name="stadiumMaintenance">Mantenimiento del estadio</string>
+    <string name="starPlayerBoughtAnswer1">Estoy muy seguro, ¡es un jugador asombroso! Siempre soñé acerca de traerlo para mi equipo.</string>
+    <string name="starPlayerBoughtAnswer2">Sí, pienso que va a ser una parte importante de nuestro equipo.</string>
+    <string name="starPlayerBoughtAnswer3">No hay estrellas en mi equipo. Tiene que trabajar duro si quiere jugar aquí.</string>
+    <string name="starPlayerBoughtQuestion">Las últimas noticias son sorprendentes. ¡%1$s va a jugar para nuestro equipo! ¿Piensas que él será la superestrella de %2$s?</string>
+    <string name="start">¡Empezar!</string>
+    <string name="startingLineup">Alineación Inicial</string>
+    <string name="stats">Estadísticas</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_away">ausentarse</string>
+    <string name="strength">Fuerza</string>
+    <string name="strong_">fuerte</string>
+    <string name="subInText1">%1$s ya está en el césped</string>
+    <string name="subInText2">%1$s lo sustituye</string>
+    <string name="subInText3">%1$s entra al campo</string>
+    <string name="subInText4">%1$s va a reemplazarlo</string>
+    <string name="subInText5">%1$s consigue su oportunidad</string>
+    <string name="subInText6">%1$s corre hacia el campo</string>
+    <string name="subInText7">%1$s viene para reemplazarlo</string>
+    <string name="subInText8">%1$s entra como suplente</string>
+    <string name="subOutText1">%1$s ya no jugará más esta noche</string>
+    <string name="subOutText2">%1$s sale del terreno de juego</string>
+    <string name="subOutText3">%1$s tendrá que dejar el campo</string>
+    <string name="subOutText4">%1$s abandona el campo de juego</string>
+    <string name="subOutText5">El juego se acabó para %1$s</string>
+    <string name="subOutText6">%1$s va a ser sustituido</string>
+    <string name="subOutText7">%1$s está siendo empujado afuera del campo</string>
+    <string name="subOutText8">Se ve como %1$s está saliendo</string>
+    <string name="submitScore">Enviar puntuación!</string>
+    <string name="substitutions">Sustituciones</string>
+    <string name="sunday">Dom</string>
+    <string name="superCup">Supercopa</string>
+    <string name="suspendedFor">Suspendido 1 semana</string>
+    <string name="swap">Cambiar</string>
+    <string name="swapWith">Cambiar con...</string>
+    <string name="swapWithOtherTeam">Cambiar con otro equipo</string>
+    <string name="table">Tablas</string>
+    <string name="tackling">Barrida</string>
+    <string name="tactics">Tácticas</string>
+    <string name="takeABankLoan">Toma un préstamo</string>
+    <string name="team">Equipo</string>
+    <string name="teamAlreadyExists">Ya existe un equipo con ese nombre. Introduce uno diferente.</string>
+    <string name="teamBudget">Presupuesto:</string>
+    <string name="teamDoctor">Médico del equipo</string>
+    <string name="teamOrders">Las órdenes de equipo</string>
+    <string name="teamSkill">Habilidad:</string>
+    <string name="teamStadiumCapacity">Capacidad del estadio:</string>
+    <string name="team_emblems_edited">Logotipo de equipos editados:</string>
+    <string name="team_integration">Integración del equipo</string>
+    <string name="team_names_edited">Nombres de equipos editados:</string>
+    <string name="team_swapped">Equipos cambiados...</string>
+    <string name="teamsManaged">Equipos dirigidos:</string>
+    <string name="technical">Técnica</string>
+    <string name="technicalShotAction1">¡Maravillosa chilena de %1$s!</string>
+    <string name="technicalShotAction2">¡%1$s con un tiro acrobático!</string>
+    <string name="technicalShotAction3">¡%1$s intenta una chilena!</string>
+    <string name="technicalShotAction4">¡%1$s! ¡Un tiro increíble!</string>
+    <string name="technicalShotAction5">¡%1$s! ¡De volea!</string>
+    <string name="technicalShotAction6">¡%1$s con un espectacular intento!</string>
+    <string name="technicalShotAction7">¡%1$s intenta una media volea!</string>
+    <string name="technique">Tecnica</string>
+    <string name="terminateContract">Finalizar contrato</string>
+    <string name="thanks">Agradecimientos:</string>
+    <string name="thatsAll">¡Gracias por su tiempo, señor!</string>
+    <string name="thirdDivision">3ª división</string>
+    <string name="thirdGroup">C</string>
+    <string name="thisTeamHasNoTrainer">Este equipo no tiene entrenador. Asigna uno para que tus jugadores mejoren.</string>
+    <string name="thursday">Jue</string>
+    <string name="ticketIncome">Ingresos de taquilla</string>
+    <string name="ticketPrices">Precio de las entradas</string>
+    <string name="timeWasting">Perder el tiempo:</string>
+    <string name="toTransferList">Agregar a la lista de transferibles</string>
+    <string name="topScorer">Máximo goleador:</string>
+    <string name="totalCost">Costo total:</string>
+    <string name="tours">Guías</string>
+    <string name="toursRevenue">Ingresos de tours</string>
+    <string name="toursTickets">Entradas para el tour</string>
+    <string name="trainer">Entrenador</string>
+    <string name="training">Entrenamiento</string>
+    <string name="trainingCamp">Campo de entrenamiento</string>
+    <string name="trainingCampInfo">Durante los campos de entrenamiento, todas las modificaciones serán planteadas, lo que hará tu entrenamiento más efectivo. Esto aumenta la moral de tus jugadores y permite jugar amistosos con equipos locales.</string>
+    <string name="trainingCampPlanned">Campo de entrenamiento ya pleneado.</string>
+    <string name="trainingCamps">Campos de entrenamiento</string>
+    <string name="trainingFields">Campos de entrenamientos</string>
+    <string name="trainingFieldsDescription">Cuantos más campos de entrenamiento tengas, más equipos juveniles podrás crear. Cada campo te costará %1$s por mes.</string>
+    <string name="trainingResults">Últimos resultados</string>
+    <string name="trainingSettings">Intensidad</string>
+    <string name="transferCancelledContent">Debido a asuntos económicos, el traspaso de %1$s ha sido cancelado.</string>
+    <string name="transferCancelledTitle">%1$s - traspaso cancelado</string>
+    <string name="transferOfferWithdrawnContent">Estimado señor, debido a tu falta de respuesta, la oferta de traspaso por %1$s ha sido rechazada y ya no está disponible.</string>
+    <string name="transferOfferWithdrawnTitle">%1$s - oferta de traspaso rechazada</string>
+    <string name="transferWindowClosedContent">El mercado de transferencias ha cerrado.</string>
+    <string name="transferWindowClosedTitle">Mercado de transferencias cerrado</string>
+    <string name="transferWindowOpenedContent">El mercado de transferencias ha abierto. Puedes hacer transferencias hasta %1$s.</string>
+    <string name="transferWindowOpenedTitle">Mercado de transferencias abierto</string>
+    <string name="transfers">Transferencias</string>
+    <string name="transfersIn">Altas</string>
+    <string name="transfersOut">Bajas</string>
+    <string name="translation">Traducción:</string>
+    <string name="tribuneClosedDueToMaintenanceContent">"Debido a problemas de mantenimiento, una de las tribunas en nuestro estadio (%1$s) tiene que ser cerrada.
+
+Se necesitarían aproximadamente %2$s días para reparar todos los problemas, y durante este tiempo la tribuna será indisponible."</string>
+    <string name="tribuneClosedDueToMaintenanceTitle">Tribuna cerrada debido a mantenimiento</string>
+    <string name="tribunes">Gradas:</string>
+    <string name="tripCostNote">- Coste del desplazamiento - %1$s</string>
+    <string name="tripsAcommodations">Desplazamientos y alojamiento</string>
+    <string name="trophies">Trofeos</string>
+    <string name="tuesday">Mar</string>
+    <string name="tvRights">Derechos televisivos</string>
+    <string name="u21">U-21 team</string>
+    <string name="uk_and_ireland">Europa (Reino Unido e Irlanda)</string>
+    <string name="undoTransferList">Remover de la lista de transferibles</string>
+    <string name="unprofessionalBehavior">actitud no profesional</string>
+    <string name="upgradeCost">- Coste de la remodelación - %1$s.</string>
+    <string name="upgradeTime">- La remodelación durará %1$s meses. Durante ese tiempo la grada estará cerrada por completo.</string>
+    <string name="upgradeTribune">Ampliar</string>
+    <string name="upset">disgustado</string>
+    <string name="usa">América del Norte (E.E.U.U.)</string>
+    <string name="useEditedNames">Usar nombres editados de jugadores</string>
+    <string name="useRandomNames">Usar nombres aleatorios de jugadores</string>
+    <string name="value">Valor</string>
+    <string name="venue">Campo</string>
+    <string name="veryHappy">muy feliz</string>
+    <string name="veryHigh">Muy alto</string>
+    <string name="veryLow">Muy bajo</string>
+    <string name="very_light_">muy leve</string>
+    <string name="very_strong_">muy fuerte</string>
+    <string name="wantToTakeThisTeam">¿Quieres manejar este equipo?</string>
+    <string name="watchVideoYouWillBeRewarded">¿Quieres ver un anuncio de vídeo? ¡Serás recompensado con %1$s!</string>
+    <string name="watermark_label_prefix">AdMob -</string>
+    <string name="weakPlayerBoughtAnswer1">Tonterías. Él es un buen jugador y estoy seguro que fortalecerá nuestro equipo.</string>
+    <string name="weakPlayerBoughtAnswer2">Bueno, creo que el puede jugar a nuestro nivel.</string>
+    <string name="weakPlayerBoughtAnswer3">Lo traje sólo por diversión. De hecho, él es muy débil.</string>
+    <string name="weakPlayerBoughtQuestion">Algunos expertos piensan que tu nuevo jugador, %1$s, no es suficientemente bueno para el equipo. ¿Qué puedes decir acerca de esta tranferencia?</string>
+    <string name="weatherConditions">Condiciones del clima:</string>
+    <string name="wednesday">Mie</string>
+    <string name="weekX">Jornada %1$s</string>
+    <string name="west">Oeste</string>
+    <string name="westGroup">oeste</string>
+    <string name="west_africa">África (este)</string>
+    <string name="west_europe">Europa (oeste)</string>
+    <string name="west_south_america">Sudamérica (oeste)</string>
+    <string name="whatDoYouWantToSay">¿Qué quieres decir?</string>
+    <string name="wins">Victorias:</string>
+    <string name="winsTable">G</string>
+    <string name="world">Mundo</string>
+    <string name="worldCup">Copa del Mundo</string>
+    <string name="worldRanking">Ranking mundial</string>
+    <string name="xBookedRed">%1$s (%2$s) expulsado!</string>
+    <string name="xBookedYellow">%1$s (%2$s) amonestado</string>
+    <string name="yellowCard">Tarjeta amarilla</string>
+    <string name="yellowCards">Tarjetas amarillas</string>
+    <string name="yes">Si</string>
+    <string name="yesyes">¡Sí!</string>
+    <string name="youAlreadyHaveAnAssistant">No puedes tener más de un asistente.</string>
+    <string name="youAlreadyHaveAnGoalkeeperTrainer">No puedes tener más de un entrenador de porteros en tu club.</string>
+    <string name="youCanAnalyzeUpToFiveTeams">Puedes analizar hasta 5 equipos al mismo tiempo.</string>
+    <string name="youCantHaveMoreTeams">No puedes tener más equipos juveniles.</string>
+    <string name="youCantTakeMoreLoans">No puedes tomar más prestamos hasta el momento.</string>
+    <string name="youDontHaveFreeScouts">Usted no tiene ningún ojeador gratuito para preparar este informe.</string>
+    <string name="yourCountry">Tu país:</string>
+    <string name="yourName">Tu nombre:</string>
+    <string name="yourScore">Tu puntuación:</string>
+    <string name="youreWelcome">De nada.</string>
+    <string name="youthPlayerMovedContent">%1$s ha superado la edad juvenil y ha sido ascendido al primer equipo.</string>
+    <string name="youthPlayerMovedTitle">%1$s se ha unido al primer equipo</string>
+    <string name="youthTeamTrainer">Entrenador:</string>
+    <string name="youthTeamType">Tipo de equipo:</string>
+    <string name="youthTeams">Equipos juveniles</string>
+    <string name="youthTrainers">Entrenadores de juveniles</string>
+    <string name="youthTraining">Entrenamiento de juveniles</string>
+    <string name="youth_trainer">Entrenador juvenil</string>
+</resources>

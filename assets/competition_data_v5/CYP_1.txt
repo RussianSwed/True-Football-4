@@ -1,0 +1,57 @@
+LEAGUE
+tv_rights 3
+fans_behaviour 1.3
+fans_attendance 0.1
+table -1 -1 1 6 7 12 -1 -1
+add_teams first_time 12 CYP_1
+add_teams next_time 1 6 CYP_1A previous_season
+add_teams next_time 1 3 CYP_1B previous_season
+add_teams next_time 1 3 CYP_2 previous_season
+week_info 1 34 one_table six_match_weekend
+week_info 2 35 one_table six_match_weekend
+week_info 3 37 one_table six_match_weekend
+week_info 4 38 one_table six_match_weekend
+week_info 5 39 one_table six_match_weekend
+week_info 6 40 one_table six_match_weekend
+week_info 7 43 one_table six_match_weekend
+week_info 8 44 one_table six_match_weekend
+week_info 9 45 one_table six_match_weekend
+week_info 10 47 one_table six_match_weekend
+week_info 11 48 one_table six_match_weekend
+week_info 12 49 one_table six_match_weekend
+week_info 13 50 one_table six_match_weekend
+week_info 14 51 one_table six_match_weekend
+week_info 15 1 one_table six_match_weekend
+week_info 16 2 one_table six_match_weekend
+week_info 17 3 one_table six_match_weekend
+week_info 18 4 one_table six_match_weekend
+week_info 19 5 one_table six_match_weekend
+week_info 20 6 one_table six_match_weekend
+week_info 21 7 one_table six_match_weekend
+week_info 22 8 one_table six_match_weekend
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+unblock CYP_1A
+unblock CYP_1B
+done 06.30

@@ -1,0 +1,22 @@
+DOMESTIC_CUP
+cup_winner
+prize 1
+fans_behaviour 1.0
+fans_attendance 0.3
+add_teams 15 SMR_1 shuffled
+week_info 1 39 ko_first_leg all_wed 7 round_1
+week_info 2 42 ko_second_leg all_wed 7 round_1
+week_info 3 46 ko_first_leg all_wed 4 quarterfinal
+week_info 4 48 ko_second_leg all_wed 4 quarterfinal
+week_info 5 12 ko_first_leg all_wed 2 semifinal
+week_info 6 13 ko_second_leg all_wed 2 semifinal
+week_info 7 19 ko_one_match all_wed 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+done 06.30

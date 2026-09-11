@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>izslēgta</item>
+        <item>ik pēc 7 dienām</item>
+        <item>ik pēc 30 dienām</item>
+        <item>ik pēc 60 dienām</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra-aizsardzība</item>
+        <item>aizsardzība</item>
+        <item>mērens</item>
+        <item>uzbrukums</item>
+        <item>ultra-uzbrukums</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>mājas</item>
+        <item>izbraukuma</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Piespēles</item>
+        <item>Sitieni</item>
+        <item>Dribls</item>
+        <item>Bumbas atņemšana</item>
+        <item>Tēlošana</item>
+        <item>Stūra sitieni</item>
+        <item>Tāli brīvsitieni</item>
+        <item>Tuvi brīvsitieni</item>
+        <item>11m soda sitieni</item>
+        <item>Kapteinis</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Piespēles</item>
+        <item>Sitieni</item>
+        <item>Dribls</item>
+        <item>Bumbas atņemšana</item>
+        <item>Tēlošana</item>
+        <item>Stūra sitieni</item>
+        <item>Tāli brīvsitieni</item>
+        <item>Tuvi brīvsitieni</item>
+        <item>11m soda sitieni</item>
+        <item>Kapteinis</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nekad</item>
+        <item>vienmēr</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nekad</item>
+        <item>vienmēr</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>zems</item>
+        <item>viduvējs</item>
+        <item>augsts</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>diena</item>
+        <item>3 dienas</item>
+        <item>7 dienas</item>
+        <item>līdz nākamajai spēlei</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nekad</item>
+        <item>kad vadībā</item>
+        <item>vienmēr</item>
+    </string-array>
+</resources>

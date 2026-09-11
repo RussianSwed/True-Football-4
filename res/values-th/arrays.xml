@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>ปิด</item>
+        <item>ทุกๆ7วัน</item>
+        <item>ทุกๆ30วัน</item>
+        <item>ทุกๆ60วัน</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>จอดรถบัส</item>
+        <item>ตั้งรับ</item>
+        <item>ปานกลาง</item>
+        <item>บุก</item>
+        <item>พับสนามบุก</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>เหย้า</item>
+        <item>เยือน</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>ผ่านบอล</item>
+        <item>การยิง</item>
+        <item>การเลี้ยงบอล</item>
+        <item>การเข้าสกัด</item>
+        <item>การพุ่งล้ม</item>
+        <item>เตะมุม</item>
+        <item>ฟรีคิกระยะไกล</item>
+        <item>ฟรีคิกระยะใกล้</item>
+        <item>เตะจุดโทษ</item>
+        <item>หัวหน้าทีม</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>ผ่านบอล</item>
+        <item>การยิง</item>
+        <item>การเลี้ยงบอล</item>
+        <item>การเข้าสกัด</item>
+        <item>การพุ่งล้ม</item>
+        <item>เตะมุม</item>
+        <item>ฟรีคิกระยะไกล</item>
+        <item>ฟรีคิกระยะใกล้</item>
+        <item>เตะจุดโทษ</item>
+        <item>หัวหน้าทีม</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>ไม่ต้อง</item>
+        <item>ตลอดเวลา</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>ไม่ต้อง</item>
+        <item>ตลอดเวลา</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>ต่ำ</item>
+        <item>ปานกลาง</item>
+        <item>สูง</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>วันเดียว</item>
+        <item>3 วัน</item>
+        <item>7 วัน</item>
+        <item>จนถึงนัดต่อไป</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>ไม่ต้อง</item>
+        <item>ในขณะที่กำลังนำอยู่</item>
+        <item>ตลอดเวลา</item>
+    </string-array>
+</resources>

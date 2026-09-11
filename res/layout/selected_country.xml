@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginRight="@dimen/margin_5dp"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@id/flag"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/spinner_country_row_flag_height" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_15"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:layout_gravity="center"
+        android:id="@id/nation"
+        android:paddingLeft="@dimen/margin_3dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

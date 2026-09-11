@@ -1,0 +1,73 @@
+LEAGUE
+tv_rights 4
+fans_behaviour 1.5
+fans_attendance 0.1
+table -1 -1 1 8 9 16 -1 -1
+add_teams first_time 16 SRB_1
+add_teams next_time 1 8 SRB_1A previous_season
+add_teams next_time 1 6 SRB_1B previous_season
+add_teams next_time 1 2 SRB_2 previous_season
+week_info 1 29 one_table polish
+week_info 2 30 one_table polish
+week_info 3 31 one_table polish
+week_info 4 32 one_table polish
+week_info 5 34 one_table polish
+week_info 6 35 one_table polish
+week_info 7 37 one_table polish
+week_info 8 38 one_table polish
+week_info 9 39 one_table all_wed 8
+week_info 10 39 one_table polish
+week_info 11 40 one_table polish
+week_info 12 42 one_table polish
+week_info 13 43 one_table polish
+week_info 14 44 one_table all_wed 8
+week_info 15 44 one_table polish
+week_info 16 45 one_table polish
+week_info 17 47 one_table polish
+week_info 18 48 one_table all_wed 8
+week_info 19 48 one_table polish
+week_info 20 49 one_table polish
+week_info 21 50 one_table polish
+week_info 22 7 one_table polish
+week_info 23 8 one_table polish
+week_info 24 9 one_table polish
+week_info 25 10 one_table polish
+week_info 26 11 one_table polish
+week_info 27 12 one_table polish
+week_info 28 13 one_table polish
+week_info 29 14 one_table polish
+week_info 30 15 one_table polish
+fixtures_info League16
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+unblock SRB_1A
+unblock SRB_1B
+done 06.30

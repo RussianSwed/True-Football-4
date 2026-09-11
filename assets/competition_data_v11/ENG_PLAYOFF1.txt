@@ -1,0 +1,14 @@
+LEAGUE_PLAYOFF
+promotion 1 1
+fans_behaviour 1.0
+fans_attendance 0.9
+block
+add_teams 3 6 ENG_2 current_season
+week_info 1 75 ko_first_leg wednesday_thursday semifinal
+week_info 2 75 ko_second_leg saturday_sunday semifinal
+week_info 3 76 ko_one_match all_sat 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+done 06.30

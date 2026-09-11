@@ -1,0 +1,32 @@
+DOMESTIC_CUP
+cup_winner
+prize 2
+fans_behaviour 1.5
+fans_attendance 0.2
+add_teams 30 GRE_3 shuffled
+add_teams 18 GRE_2 shuffled
+add_teams 16 GRE_1 shuffled
+week_info 1 42 ko_first_leg all_wed 32 round_of_64
+week_info 2 44 ko_second_leg all_wed 32 round_of_64
+week_info 3 48 ko_first_leg all_wed 16 round_of_32
+week_info 4 50 ko_second_leg all_tue 16 round_of_32
+week_info 5 2 ko_first_leg all_wed 8 round_of_16
+week_info 6 4 ko_second_leg all_wed 8 round_of_16
+week_info 7 9 ko_first_leg all_wed 4 quarterfinal
+week_info 8 12 ko_second_leg all_wed 4 quarterfinal
+week_info 9 13 ko_first_leg half_wed_thu 2 semifinal
+week_info 10 16 ko_second_leg half_sat_sun 2 semifinal
+week_info 11 19 ko_one_match all_sat 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+done 06.30

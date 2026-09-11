@@ -1,0 +1,74 @@
+LEAGUE
+promotion 1 1
+game_over 15 15
+tv_rights 1
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+table 1 1 -1 -1 -1 -1 15 15
+add_teams first_time 15 RUS_3F
+add_teams next_time 2 14 RUS_3F previous_season
+add_teams next_time 20 20 RUS_2 previous_season
+add_teams next_time 4 4 RUS_4 previous_season
+week_info 1 34 one_table seven_match_weekend
+week_info 2 35 one_table seven_match_weekend
+week_info 3 37 one_table seven_match_weekend
+week_info 4 38 one_table all_wed 7
+week_info 5 38 one_table all_sat 7
+week_info 6 39 one_table seven_match_weekend
+week_info 7 40 one_table seven_match_weekend
+week_info 8 41 one_table seven_match_weekend
+week_info 9 42 one_table seven_match_weekend
+week_info 10 43 one_table seven_match_weekend
+week_info 11 44 one_table all_sat 7
+week_info 12 45 one_table all_sat 7
+week_info 13 46 one_table all_wed 7
+week_info 14 46 one_table all_sat 7
+week_info 15 6 one_table seven_match_weekend
+week_info 16 7 one_table seven_match_weekend
+week_info 17 8 one_table all_wed 7
+week_info 18 8 one_table all_sat 7
+week_info 19 9 one_table seven_match_weekend
+week_info 20 10 one_table seven_match_weekend
+week_info 21 11 one_table seven_match_weekend
+week_info 22 12 one_table all_sat 7
+week_info 23 13 one_table all_wed 7
+week_info 24 13 one_table all_sat 7
+week_info 25 14 one_table seven_match_weekend
+week_info 26 15 one_table seven_match_weekend
+week_info 27 16 one_table seven_match_weekend
+week_info 28 17 one_table seven_match_weekend
+week_info 29 18 one_table seven_match_weekend
+week_info 30 19 one_table all_sat 7
+fixtures_info League15
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+done 06.30

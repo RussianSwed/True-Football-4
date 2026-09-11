@@ -1,0 +1,27 @@
+DOMESTIC_CUP
+cup_winner
+prize 2
+fans_behaviour 1.2
+fans_attendance 0.1
+add_teams 12 DEN_4 shuffled
+add_teams 12 DEN_3 shuffled
+add_teams 12 DEN_2 shuffled
+add_teams 12 DEN_1 shuffled
+week_info 1 36 ko_one_match all_wed 16 round_1
+week_info 2 38 ko_one_match all_fri 16 round_of_32
+week_info 3 43 ko_one_match all_fri 8 round_of_16
+week_info 4 50 ko_first_leg all_wed 4 quarterfinal
+week_info 5 3 ko_second_leg all_fri 4 quarterfinal
+week_info 6 12 ko_first_leg all_wed 2 semifinal
+week_info 7 16 ko_second_leg all_fri 2 semifinal
+week_info 8 22 ko_one_match all_wed 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+done 06.30

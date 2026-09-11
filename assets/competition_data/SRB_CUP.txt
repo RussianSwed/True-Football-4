@@ -1,0 +1,21 @@
+DOMESTIC_CUP
+cup_winner
+prize 2
+fans_behaviour 1.5
+fans_attendance 0.2
+add_teams 16 SRB_2 shuffled
+add_teams 16 SRB_1 shuffled
+week_info 1 39 ko_one_match all_wed 16 round_of_32
+week_info 2 44 ko_one_match all_wed 8 round_of_16
+week_info 3 48 ko_one_match all_wed 4 quarterfinal
+week_info 4 12 ko_first_leg all_wed 2 semifinal
+week_info 5 16 ko_second_leg all_wed 2 semifinal
+week_info 6 19 ko_one_match all_wed 1 final neutral
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+done 06.30

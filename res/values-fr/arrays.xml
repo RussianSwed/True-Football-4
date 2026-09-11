@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>désactiver</item>
+        <item>chaque 7 jours</item>
+        <item>tous les 30 jours</item>
+        <item>tous les 60 jours</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra défensif</item>
+        <item>défensif</item>
+        <item>normal</item>
+        <item>offensif</item>
+        <item>ultra offensif</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>domicile</item>
+        <item>extérieur</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Passes</item>
+        <item>Tirs</item>
+        <item>Dribbles</item>
+        <item>Tacles</item>
+        <item>Plonger</item>
+        <item>Tirer les corners</item>
+        <item>Tirer les coups-franc lointants</item>
+        <item>Tirer les coups-franc proches</item>
+        <item>Tirer les penaltys</item>
+        <item>Capitaine</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Passes</item>
+        <item>Tirs</item>
+        <item>Dribbles</item>
+        <item>Tacles</item>
+        <item>Plonger</item>
+        <item>Tirer les corners</item>
+        <item>Tirer les coups-franc lointants</item>
+        <item>Tirer les coups-franc proches</item>
+        <item>Tirer les penaltys</item>
+        <item>Capitaine</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>jamais</item>
+        <item>toujours</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>jamais</item>
+        <item>toujours</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>lent</item>
+        <item>normal</item>
+        <item>rapide</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>journalier</item>
+        <item>3 jours</item>
+        <item>7 jours</item>
+        <item>jusqu’au dernier match</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>jamais</item>
+        <item>tout en menant</item>
+        <item>toujours</item>
+    </string-array>
+</resources>

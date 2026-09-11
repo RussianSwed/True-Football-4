@@ -1,0 +1,54 @@
+CONTINENTAL_CUP
+continental_cup_winner
+fans_behaviour 1.4
+fans_attendance 0.3
+table 1 2 -1 -1 -1 -1 -1 -1
+add_teams european_federation_cup
+week_info 1 28 ko_first_leg all_thu 50 qualification_1
+week_info 2 29 ko_second_leg all_thu 50 qualification_1
+week_info 3 30 ko_first_leg all_thu 33 qualification_2
+week_info 4 31 ko_second_leg all_thu 33 qualification_2
+week_info 5 32 ko_first_leg all_thu 29 qualification_3
+week_info 6 33 ko_second_leg all_thu 29 qualification_3
+week_info 7 34 ko_first_leg all_thu 22 playoff
+week_info 8 35 ko_second_leg all_thu 22 playoff
+week_info 9 38 group_table all_thu 24 group_phase_1
+week_info 10 40 group_table all_thu 24 group_phase_2
+week_info 11 43 group_table all_thu 24 group_phase_3
+week_info 12 45 group_table all_thu 24 group_phase_4
+week_info 13 47 group_table all_thu 24 group_phase_5
+week_info 14 49 group_table all_thu 24 group_phase_6
+week_info 15 7 ko_first_leg all_thu 16 round_of_32
+week_info 16 8 ko_second_leg all_thu 16 round_of_32
+week_info 17 10 ko_first_leg all_thu 8 round_of_16
+week_info 18 11 ko_second_leg all_thu 8 round_of_16
+week_info 19 14 ko_first_leg all_thu 4 quarterfinal
+week_info 20 15 ko_second_leg all_thu 4 quarterfinal
+week_info 21 17 ko_first_leg all_thu 2 semifinal
+week_info 22 18 ko_second_leg all_thu 2 semifinal
+week_info 23 20 ko_one_match all_wed 1 final neutral
+fixtures_info EuropeanFederationCup
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+done 06.30

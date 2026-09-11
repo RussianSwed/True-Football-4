@@ -1,0 +1,27 @@
+LEAGUE_PLAYOFF
+champion
+prize 2
+tv_rights 1
+fans_behaviour 1.6
+fans_attendance 0.6
+table 1 1 -1 -1 -1 -1 -1 -1
+block
+add_teams 1 8 COL_1_1 current_season
+week_info 1 24 group_table half_sat_sun 4 group_phase_1
+week_info 2 25 group_table half_wed_thu 4 group_phase_2
+week_info 3 25 group_table half_sat_sun 4 group_phase_3
+week_info 4 26 group_table half_wed_thu 4 group_phase_4
+week_info 5 26 group_table half_sat_sun 4 group_phase_5
+week_info 6 27 group_table half_sat_sun 4 group_phase_6
+week_info 7 28 ko_first_leg all_sun 1 final
+week_info 8 29 ko_second_leg all_wed 1 final
+fixtures_info ColombianPlayoff
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+done 01.01

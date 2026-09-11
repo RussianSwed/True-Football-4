@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/calendar_week_height"
+        android:weightSum="7.0">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/monday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/tuesday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/wednesday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/thursday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/friday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/saturday"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:text="@string/sunday"
+            android:layout_weight="1.0" />
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@id/calendarLL"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,55 @@
+LEAGUE
+prize 1
+fans_behaviour 1.5
+fans_attendance 0.2
+table 1 4 -1 -1 -1 -1 -1 -1
+block
+add_teams first_time 12 CRC_1
+add_teams next_time 1 12 CRC_1 current_season
+week_info 1 54 one_table costarican_1_1
+week_info 2 55 one_table costarican_1_1
+week_info 3 56 one_table all_thu 6
+week_info 4 56 one_table costarican_1_1
+week_info 5 57 one_table costarican_1_1
+week_info 6 58 one_table costarican_1_1
+week_info 7 59 one_table all_thu 6
+week_info 8 59 one_table costarican_1_1
+week_info 9 60 one_table costarican_1_1
+week_info 10 61 one_table all_thu 6
+week_info 11 61 one_table costarican_1_1
+week_info 12 62 one_table all_thu 6
+week_info 13 62 one_table costarican_1_1
+week_info 14 63 one_table costarican_1_1
+week_info 15 64 one_table costarican_1_1
+week_info 16 65 one_table all_thu 6
+week_info 17 65 one_table costarican_1_1
+week_info 18 66 one_table costarican_1_1
+week_info 19 67 one_table all_thu 6
+week_info 20 67 one_table costarican_1_1
+week_info 21 68 one_table all_sun 6
+week_info 22 69 one_table all_sun 6
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+unblock CRC_PLAYOFF2
+done 06.30

@@ -1,0 +1,44 @@
+LEAGUE
+prize 1
+fans_behaviour 1.5
+fans_attendance 0.2
+table 1 1 -1 -1 -1 -1 -1 -1
+block
+add_teams first_time 18 PER_1
+add_teams next_time 1 18 PER_1 current_season
+week_info 1 22 one_table nine_match_weekend
+week_info 2 23 one_table all_wed 9
+week_info 3 23 one_table nine_match_weekend
+week_info 4 24 one_table nine_match_weekend
+week_info 5 25 one_table nine_match_weekend
+week_info 6 26 one_table all_wed 9
+week_info 7 26 one_table nine_match_weekend
+week_info 8 27 one_table nine_match_weekend
+week_info 9 28 one_table nine_match_weekend
+week_info 10 29 one_table nine_match_weekend
+week_info 11 30 one_table nine_match_weekend
+week_info 12 31 one_table all_wed 9
+week_info 13 32 one_table nine_match_weekend
+week_info 14 33 one_table all_wed 9
+week_info 15 33 one_table nine_match_weekend
+week_info 16 34 one_table nine_match_weekend
+week_info 17 35 one_table nine_match_weekend
+fixtures_info League18_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+done 01.01

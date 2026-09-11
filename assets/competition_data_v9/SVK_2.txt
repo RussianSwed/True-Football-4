@@ -1,0 +1,75 @@
+LEAGUE
+promotion 1 1
+game_over 13 16
+prize 1
+tv_rights 1
+fans_behaviour 1.1
+fans_attendance 0.1
+table 1 1 2 2 -1 -1 13 16
+add_teams first_time 16 SVK_2
+add_teams next_time 6 6 SVK_1B previous_season
+add_teams next_time 2 2 SVK_PLAYOFF1 previous_season
+add_teams next_time 3 12 SVK_2 previous_season
+add_teams next_time 1 4 SVK_3 previous_season
+week_info 1 31 one_table eight_match_weekend
+week_info 2 32 one_table eight_match_weekend
+week_info 3 33 one_table eight_match_weekend
+week_info 4 34 one_table eight_match_weekend
+week_info 5 35 one_table eight_match_weekend
+week_info 6 36 one_table eight_match_weekend
+week_info 7 37 one_table eight_match_weekend
+week_info 8 38 one_table all_wed 8
+week_info 9 38 one_table eight_match_weekend
+week_info 10 39 one_table eight_match_weekend
+week_info 11 40 one_table eight_match_weekend
+week_info 12 41 one_table eight_match_weekend
+week_info 13 42 one_table eight_match_weekend
+week_info 14 43 one_table eight_match_weekend
+week_info 15 44 one_table eight_match_weekend
+week_info 16 45 one_table eight_match_weekend
+week_info 17 46 one_table eight_match_weekend
+week_info 18 47 one_table eight_match_weekend
+week_info 19 9 one_table eight_match_weekend
+week_info 20 10 one_table eight_match_weekend
+week_info 21 11 one_table eight_match_weekend
+week_info 22 12 one_table eight_match_weekend
+week_info 23 13 one_table eight_match_weekend
+week_info 24 14 one_table eight_match_weekend
+week_info 25 15 one_table eight_match_weekend
+week_info 26 16 one_table eight_match_weekend
+week_info 27 17 one_table eight_match_weekend
+week_info 28 18 one_table eight_match_weekend
+week_info 29 19 one_table eight_match_weekend
+week_info 30 20 one_table all_sat 8
+fixtures_info League16
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+done 06.30

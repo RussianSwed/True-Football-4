@@ -1,0 +1,16 @@
+CHAMPIONS_CUP
+champions_cup_winner
+fans_behaviour 1.0
+fans_attendance 0.4
+date 12.02
+add_teams world_cup
+week_info 1 50 ko_one_match all_wed 1 round_1
+week_info 2 50 ko_one_match all_sat 2 round_2
+week_info 3 51 ko_one_match all_wed 2 semifinal
+week_info 4 51 ko_one_match all_sat 1 final
+fixtures_info WorldCup
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+done 01.01

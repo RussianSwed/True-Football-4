@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:background="@layout/selector_background_message"
+    android:padding="@dimen/main_layout_padding"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="@dimen/dialog_width"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_18"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:id="@id/content"
+        android:background="@layout/shape_background"
+        android:padding="@dimen/margin_4dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@id/okLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <pl.mkrstudio.truefootball3.views.CustomFontButton
+            android:id="@id/ok"
+            android:text="@string/ok"
+            style="@style/default_button" />
+    </LinearLayout>
+</LinearLayout>

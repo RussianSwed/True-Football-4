@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AFG">Afganistan</string>
+    <string name="AIA">Anguilla</string>
+    <string name="ALB">Albania</string>
+    <string name="ALG">Algeria</string>
+    <string name="AND">Andorra</string>
+    <string name="ANG">Angola</string>
+    <string name="ARG">Argentina</string>
+    <string name="ARM">Armenia</string>
+    <string name="ARU">Aruba</string>
+    <string name="ASA">Samoa Americană</string>
+    <string name="ATG">Antigua și Barbuda</string>
+    <string name="AUS">Australia</string>
+    <string name="AUT">Austria</string>
+    <string name="AZE">Azerbaidjan</string>
+    <string name="BAH">Bahamas</string>
+    <string name="BAN">Bangladesh</string>
+    <string name="BDI">Burundi</string>
+    <string name="BEL">Belgia</string>
+    <string name="BEN">Benin</string>
+    <string name="BER">Bermuda</string>
+    <string name="BFA">Burkina Faso</string>
+    <string name="BHR">Bahrain</string>
+    <string name="BHU">Bhutan</string>
+    <string name="BIH">Bosnia și Herțegovina</string>
+    <string name="BLR">Belarus</string>
+    <string name="BLZ">Belize</string>
+    <string name="BOE">Bonaire</string>
+    <string name="BOL">Bolivia</string>
+    <string name="BOT">Botswana</string>
+    <string name="BRA">Brazilia</string>
+    <string name="BRB">Barbados</string>
+    <string name="BRU">Brunei</string>
+    <string name="BUL">Bulgaria</string>
+    <string name="CAM">Cambodgia</string>
+    <string name="CAN">Canada</string>
+    <string name="CAY">Insulele Cayman</string>
+    <string name="CGO">Republica Congo</string>
+    <string name="CHA">Ciad</string>
+    <string name="CHI">Chile</string>
+    <string name="CHN">China</string>
+    <string name="CIV">Coasta de Fildeș</string>
+    <string name="CMR">Camerun</string>
+    <string name="COD">Republica Democrată Congo</string>
+    <string name="COK">Insulele Cook</string>
+    <string name="COL">Columbia</string>
+    <string name="COM">Comore</string>
+    <string name="CPV">Capul Verde</string>
+    <string name="CRC">Costa Rica</string>
+    <string name="CRO">Croația</string>
+    <string name="CTA">Republica Centrafricană</string>
+    <string name="CUB">Cuba</string>
+    <string name="CUW">Curaçao</string>
+    <string name="CYP">Cipru</string>
+    <string name="CZE">Cehia</string>
+    <string name="DEN">Danemarca</string>
+    <string name="DJI">Djibouti</string>
+    <string name="DMA">Dominica</string>
+    <string name="DOM">Republica Dominicană</string>
+    <string name="ECU">Ecuador</string>
+    <string name="EGY">Egipt</string>
+    <string name="ENG">Anglia</string>
+    <string name="EQG">Guineea Ecuatorială</string>
+    <string name="ERI">Eritreea</string>
+    <string name="ESP">Spania</string>
+    <string name="EST">Estonia</string>
+    <string name="ETH">Etiopia</string>
+    <string name="FIJ">Fiji</string>
+    <string name="FIN">Finlanda</string>
+    <string name="FRA">Franța</string>
+    <string name="FRO">Insulele Feroe</string>
+    <string name="GAB">Gabon</string>
+    <string name="GAM">Gambia</string>
+    <string name="GEO">Georgia</string>
+    <string name="GER">Germania</string>
+    <string name="GHA">Ghana</string>
+    <string name="GIB">Gibraltar</string>
+    <string name="GLP">Guadelupa</string>
+    <string name="GNB">Guineea-Bissau</string>
+    <string name="GRE">Greecia</string>
+    <string name="GRL">Groenlanda</string>
+    <string name="GRN">Grenada</string>
+    <string name="GUA">Guatemala</string>
+    <string name="GUF">Guyana Franceză</string>
+    <string name="GUI">Guineea</string>
+    <string name="GUM">Guam</string>
+    <string name="GUY">Guyana</string>
+    <string name="HAI">Haiti</string>
+    <string name="HKG">Hong Kong</string>
+    <string name="HON">Honduras</string>
+    <string name="HUN">Ungaria</string>
+    <string name="IDN">Indonezia</string>
+    <string name="IND">India</string>
+    <string name="IRL">Republica Irlanda</string>
+    <string name="IRN">Iran</string>
+    <string name="IRQ">Irak</string>
+    <string name="ISL">Islanda</string>
+    <string name="ISR">Israel</string>
+    <string name="ITA">Italia</string>
+    <string name="JAM">Jamaica</string>
+    <string name="JOR">Iordania</string>
+    <string name="JPN">Japonia</string>
+    <string name="KAZ">Kazahstan</string>
+    <string name="KEN">Kenya</string>
+    <string name="KGZ">Kârgâzstan</string>
+    <string name="KOR">Coreea de Sud</string>
+    <string name="KOS">Kosovo</string>
+    <string name="KSA">Arabia Saudită</string>
+    <string name="KUW">Kuweit</string>
+    <string name="LAO">Laos</string>
+    <string name="LBR">Liberia</string>
+    <string name="LBY">Libia</string>
+    <string name="LCA">Sfânta Lucia</string>
+    <string name="LES">Lesotho</string>
+    <string name="LIB">Liban</string>
+    <string name="LIE">Liechtenstein</string>
+    <string name="LTU">Lituania</string>
+    <string name="LUX">Luxemburg</string>
+    <string name="LVA">Letonia</string>
+    <string name="MAC">Macao</string>
+    <string name="MAD">Madagascar</string>
+    <string name="MAR">Maroc</string>
+    <string name="MAS">Malaezia</string>
+    <string name="MDA">Republica Moldova</string>
+    <string name="MDV">Maldive</string>
+    <string name="MEX">Mexic</string>
+    <string name="MGL">Mongolia</string>
+    <string name="MKD">Macedonia de Nord</string>
+    <string name="MLI">Mali</string>
+    <string name="MLT">Malta</string>
+    <string name="MNE">Muntenegru</string>
+    <string name="MOZ">Mozambic</string>
+    <string name="MRI">Mauritius</string>
+    <string name="MSR">Montserrat</string>
+    <string name="MTN">Mauritania</string>
+    <string name="MTQ">Martinica</string>
+    <string name="MWI">Malawi</string>
+    <string name="MYA">Birmania</string>
+    <string name="NAM">Namibia</string>
+    <string name="NCA">Nicaragua</string>
+    <string name="NCL">Noua Caledonie</string>
+    <string name="NED">Olanda</string>
+    <string name="NEP">Nepal</string>
+    <string name="NGA">Nigeria</string>
+    <string name="NIG">Niger</string>
+    <string name="NIR">Irlanda de Nord</string>
+    <string name="NOR">Norvegia</string>
+    <string name="NZL">Noua Zeelandă</string>
+    <string name="OMA">Oman</string>
+    <string name="PAK">Pakistan</string>
+    <string name="PAN">Panama</string>
+    <string name="PAR">Paraguay</string>
+    <string name="PER">Peru</string>
+    <string name="PHI">Filipine</string>
+    <string name="PLE">Palestina</string>
+    <string name="PNG">Papua Noua Guinee</string>
+    <string name="POL">Polonia</string>
+    <string name="POR">Portugalia</string>
+    <string name="PRK">Coreea de Nord</string>
+    <string name="PUR">Puerto Rico</string>
+    <string name="QAT">Qatar</string>
+    <string name="ROM">România</string>
+    <string name="RSA">Africa de Sud</string>
+    <string name="RUS">Rusia</string>
+    <string name="RWA">Rwanda</string>
+    <string name="SAM">Samoa</string>
+    <string name="SCO">Scoția</string>
+    <string name="SDN">Sudan</string>
+    <string name="SEN">Senegal</string>
+    <string name="SEY">Seychelles</string>
+    <string name="SIN">Singapore</string>
+    <string name="SKN">Sfântul Cristofor și Nevis</string>
+    <string name="SLE">Sierra Leone</string>
+    <string name="SLV">El Salvador</string>
+    <string name="SMA">Sint Maarten</string>
+    <string name="SMN">Saint-Martin</string>
+    <string name="SMR">San Marino</string>
+    <string name="SOL">Insulele Solomon</string>
+    <string name="SOM">Somalia</string>
+    <string name="SRB">Serbia</string>
+    <string name="SRI">Sri Lanka</string>
+    <string name="SSD">Sudanul de Sud</string>
+    <string name="STP">São Tomé și Príncipe</string>
+    <string name="SUI">Elveția</string>
+    <string name="SUR">Surinam</string>
+    <string name="SVK">Slovacia</string>
+    <string name="SVN">Slovenia</string>
+    <string name="SWE">Suedia</string>
+    <string name="SWZ">Swaziland</string>
+    <string name="SYR">Siria</string>
+    <string name="TAH">Tahiti</string>
+    <string name="TAN">Tanzania</string>
+    <string name="TCA">Insulele Turks și Caicos</string>
+    <string name="TGA">Tonga</string>
+    <string name="THA">Thailanda</string>
+    <string name="TJK">Tadjikistan</string>
+    <string name="TKM">Turkmenistan</string>
+    <string name="TLS">Timorul de Est</string>
+    <string name="TOG">Togo</string>
+    <string name="TPE">Taiwan</string>
+    <string name="TRI">Trinidad-Tobago</string>
+    <string name="TUN">Tunisia</string>
+    <string name="TUR">Turcia</string>
+    <string name="UAE">Emiratele Arabe Unite</string>
+    <string name="UGA">Uganda</string>
+    <string name="UKR">Ucraina</string>
+    <string name="URU">Uruguay</string>
+    <string name="USA">Statele Unite ale Americii</string>
+    <string name="UZB">Uzbekistan</string>
+    <string name="VAN">Vanuatu</string>
+    <string name="VEN">Venezuela</string>
+    <string name="VGB">Insulele Virgine Britanice</string>
+    <string name="VIE">Vietnam</string>
+    <string name="VIN">Sfântul Vicențiu și Grenadine</string>
+    <string name="VIR">Insulele Virgine Americane</string>
+    <string name="WAL">Țara Galilor</string>
+    <string name="YEM">Yemen</string>
+    <string name="ZAM">Zambia</string>
+    <string name="ZIM">Zimbabwe</string>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="accept">Acceptă</string>
+    <string name="acceptOffer">Acceptă</string>
+    <string name="accountBalance">Soldul contului:</string>
+    <string name="account_balance_menu">Soldul contului</string>
+    <string name="achievement0">Câştigă un meci</string>
+    <string name="achievement1">Câştigă un meci la o diferenţă de 3 goluri</string>
+    <string name="achievement10">Fă-ţi jucătorul să marcheze 3 goluri într-un singur meci</string>
+    <string name="achievement11">Câştigă un meci la o diferenţă de 5 goluri</string>
+    <string name="achievement12">Joacă 100 meciuri cu un jucător</string>
+    <string name="achievement13">Înscrie 25 goluri cu un jucător</string>
+    <string name="achievement14">Joacă 5 sezoane întregi</string>
+    <string name="achievement15">Câştigă 50 meciuri</string>
+    <string name="achievement16">Înscrie 50 goluri cu un jucător</string>
+    <string name="achievement17">Fă-ţi jucătorul să marcheze 5 goluri într-un singur meci</string>
+    <string name="achievement18">Joacă 250 meciuri cu un jucător</string>
+    <string name="achievement19">Joacă 10 sezoane întregi</string>
+    <string name="achievement2">Câştigă 5 meciuri</string>
+    <string name="achievement20">Câştigă 100 meciuri</string>
+    <string name="achievement21">Câştigă un meci la o diferenţă de 10 goluri</string>
+    <string name="achievement22">Nu pierde niciun meci în campionat într-un sezon</string>
+    <string name="achievement23">Înscrie 100 goluri cu un jucător</string>
+    <string name="achievement24">Joacă 25 sezoane întregi</string>
+    <string name="achievement25">Câştigă 250 meciuri</string>
+    <string name="achievement26">Câştigă un meci la o diferenţă de 20 goluri</string>
+    <string name="achievement27">Fă-ţi jucătorul să marcheze 10 goluri într-un singur meci</string>
+    <string name="achievement28">Joacă 500 meciuri cu un jucător</string>
+    <string name="achievement29">Joacă 50 sezoane întregi</string>
+    <string name="achievement3">Joacă 20 meciuri cu un jucător</string>
+    <string name="achievement30">Câştigă 500 meciuri</string>
+    <string name="achievement31">Înscrie 250 goluri cu un jucător</string>
+    <string name="achievement32">Câştigă toate meciurile din campionat într-un singur sezon</string>
+    <string name="achievement33">Joacă 750 meciuri cu un jucător</string>
+    <string name="achievement34">Joacă 100 sezoane întregi</string>
+    <string name="achievement35">Câştigă 1000 meciuri</string>
+    <string name="achievement36">Joacă 1000 meciuri cu un jucător</string>
+    <string name="achievement37">Înscrie 500 goluri cu un jucător</string>
+    <string name="achievement38">Joacă 250 sezoane întregi</string>
+    <string name="achievement39">Câştigă 2500 meciuri</string>
+    <string name="achievement4">Joacă un sezon întreg</string>
+    <string name="achievement40">Joacă 500 sezoane întregi</string>
+    <string name="achievement41">Câştigă 5000 meciuri</string>
+    <string name="achievement42">Înscrie 1000 goluri cu un jucător</string>
+    <string name="achievement43">Joacă 1000 sezoane întregi</string>
+    <string name="achievement44">Câştigă 10000 meciuri</string>
+    <string name="achievement5">Câştigă 10 meciuri</string>
+    <string name="achievement6">Joacă 50 meciuri cu un jucător</string>
+    <string name="achievement7">Înscrie 10 goluri cu un jucător</string>
+    <string name="achievement8">Joacă 2 sezoane întregi</string>
+    <string name="achievement9">Câştigă 25 meciuri</string>
+    <string name="achievementUnlocked">Realizare deblocată!</string>
+    <string name="achievements">Realizări</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Adaugă</string>
+    <string name="addToFirstTeam">Adaugă la prima echipă</string>
+    <string name="africa">Africa</string>
+    <string name="afterOwnGoalAction1">%1$s şi-a băgat mingea în poartă!</string>
+    <string name="afterOwnGoalAction2">Lui %1$s nu-i vine să creadă ce a făcut!</string>
+    <string name="afterOwnGoalAction3">%1$s nu va dormi diseară!</string>
+    <string name="afterOwnGoalAction4">%1$s! Ce a făcut?</string>
+    <string name="afterOwnGoalAction5">%1$s este ghinionistul!</string>
+    <string name="afterOwnGoalAction6">%1$s a fost total lipsit de șansă aici!</string>
+    <string name="age">Vârstă</string>
+    <string name="agentWillBePaid">Agentul jucătorului va fi plătit cu %1$s ca taxă.</string>
+    <string name="agentsFee">Comisionul agenților de jucători</string>
+    <string name="aggregate">General</string>
+    <string name="aggresive">agresiv</string>
+    <string name="aggression">Agresiune:</string>
+    <string name="agility">Viteză</string>
+    <string name="aiTransfer">"- %1$s (%2$s -> %3$s)
+"</string>
+    <string name="aiTransfersContent">"Întrucat fereastra de transferuri este deschisă, unele cluburi fac mișcări interesante. Aici sunt câteva dintre ultimele transferuri care merită a fi menționate:
+
+"</string>
+    <string name="aiTransfersTitle">Prezentare generală a transferurilor recente</string>
+    <string name="all">Pe toate</string>
+    <string name="allCompetitions">Toate competițiile</string>
+    <string name="allTime">Tot timpul</string>
+    <string name="always">întotdeauna</string>
+    <string name="analysis_confirmation_dialog">"Dorești ca asistenții tăi să observe și să analizeze echipa din %1$s?
+
+ Rezultatele vor fi disponibile în 7 de zile."</string>
+    <string name="analysis_results">"Aici sunt rezultatele analizei noastre despre %1$s. În prezent ei joacă într-o formație %2$s, într-un stil %3$s.
+
+ Avem și câteva sugestii cu privire la tacticile împotriva lor:"</string>
+    <string name="analyze">Analizează</string>
+    <string name="analyzedOpponents">Adversari analizați:</string>
+    <string name="angry">nervos</string>
+    <string name="app_name">True Football 3</string>
+    <string name="april">Aprilie</string>
+    <string name="areYouSure">Eşti sigur?</string>
+    <string name="areYouSureToDelete">Eşti sigur că vrei să ştergi acest joc?</string>
+    <string name="areYouSureToRemoveTeam">Ești sigur că vrei să elimini echipa?</string>
+    <string name="areYouSureYouWantToBuildNewTrainingField">Ești sigur că vrei să construiești o nouă bază de antrenament?</string>
+    <string name="areYouSureYouWantToHireThisEmployee">Ești sigur că vrei să-l angajezi pe %1$s? Salariul său lunar va fi de %2$s.</string>
+    <string name="areYouSureYouWantToTerminateContract">Eşti sigur că vrei să termini acest contract? Vei plăti o penalizare de %1$s</string>
+    <string name="arrangeFriendlyMatch">Organizează un meci amical</string>
+    <string name="arrogant">arogant</string>
+    <string name="ashamed">rusinat</string>
+    <string name="asia">Asia</string>
+    <string name="assign">Atribuie...</string>
+    <string name="assistant">Asistent</string>
+    <string name="assistantStartingMessageContent">"Bună, sunt asistentul tau. Mă bucur că vom lucra împreună.
+
+Pentru început, te sfătuiesc să te uiți puțin la lot. Fereastra de transferuri este deschisă astfel încât poți verifica noii jucători. Poți trimite unul dintre scouteri în căutare dacă dorești. Deasemenea, vei putea primi câteva oferte de la agenții liberi.
+
+ Încă avem destul timp până la începerea campionatului, deci de ce nu ai duce echipa într-un cantonament? Verifică opurtunitățile posibile și decide.
+
+Oh, și nu uita de tinerii noștri jucatori. Ai libertatea de a alege asupra numărului și calității echipelor de tineret. Drăguț, nu? Doar banii sunt limita. Prin urmare fii atent cu cheltuielile.
+
+Daca ai nevoie disperată de bani, poți efectua un împrumut bancar. Dar asta e ultima variantă! OK, nu-mi place să vorbesc prea mult.
+
+Multă baftă, distrează-te!"</string>
+    <string name="assistantStartingMessageTitle">Bună!</string>
+    <string name="assists">Cele mai multe asisturi</string>
+    <string name="association">Asociația de fotbal</string>
+    <string name="attacking">Atac</string>
+    <string name="attendance">Prezenţă</string>
+    <string name="august">August</string>
+    <string name="australia">Australia</string>
+    <string name="autosave">Salvare automată:</string>
+    <string name="average">mediu</string>
+    <string name="away">în deplasare</string>
+    <string name="backFromTrainingCampContent">Dragă domnule, datorită meciurilor oficiale care colizeaza cu cantonamentul nostru trebuie să ne întoarcem acasă mai devreme. Din păcate, nu ne putem lua banii inapoi. Te-aș sfătui sa fii mult mai atent cu planificarea cantonamentelor in viitor.</string>
+    <string name="backFromTrainingCampTitle">Întoarcere rapidă din cantonament</string>
+    <string name="badArticleInMediaContent">Domnule, știu că nu agreezi ziarele și jurnaliștii, dar se pare că avem o problemă. Au apărut recent serii de articole în ziare și pe internet despre clubul nostru. Și nu sunt prea simpatice. Se pare că jurnaliștii devin furioși pentru că tu nu vrei să discuți cu ei și le ignori întrebările. Știi, e bine să ai relații plăcute cu aceștia, fiindcă astfel de articole ne pot face mult rău. Companiile nu doresc să sponsorizeze un club care are o imagine proastă. Gandește-te la asta.</string>
+    <string name="badArticleInMediaTitle">Atac media asupra clubului</string>
+    <string name="ballLossAction1">%1$s a pierdut mingea!</string>
+    <string name="ballLossAction10">%1$s pierde controlul balonului...</string>
+    <string name="ballLossAction11">%1$s l-a încurcat!</string>
+    <string name="ballLossAction12">%1$s lasă mingea să se scurgă departe!</string>
+    <string name="ballLossAction2">%1$s a pierdut posesia!</string>
+    <string name="ballLossAction3">Au pierdut posesia!</string>
+    <string name="ballLossAction4">%1$s... Pierde uşor mingea!</string>
+    <string name="ballLossAction5">%1$s face o greșeală copilărească!</string>
+    <string name="ballLossAction6">%1$s nu a reușit să țină mingea...</string>
+    <string name="ballLossAction7">Dar %1$s scapă mingea...</string>
+    <string name="ballLossAction8">%1$s pierde mingea ușor...</string>
+    <string name="ballLossAction9">Mingea este pierdută...</string>
+    <string name="ballPossession">Posesie</string>
+    <string name="bank">Bancă</string>
+    <string name="bankLoan">Împrumut bancar</string>
+    <string name="bankLoansTaken">Împrumuturi bancare luate:</string>
+    <string name="bankrupcyContent">"Dezastru!
+
+Contul clubului este complet gol! Cum am putut să te fac responsabil de gestionarea finanțelor? Acum regret... Oricum, suntem faliți! Nu ne mai putem permite nimic, prin urmare trebuie să ne retragem din toate competițiile.
+
+S-a terminat!"</string>
+    <string name="bankrupcyTitle">Am rămas fără bani!</string>
+    <string name="beforeMatch1">\"Băieți, 5:0 este minimul.\"</string>
+    <string name="beforeMatch2">\"Haideți, băieți! Va fi bucata noastră de tort!\"</string>
+    <string name="beforeMatch3">\"Cred în voi, băieți! Puteți!\"</string>
+    <string name="beforeMatch4">\"Vreau să văd sânge și lacrimi!\"</string>
+    <string name="beforeMatch5">\"Nu va fi ușor, băieți.\"</string>
+    <string name="beforeMatch6">\"Haideți, mă, nu mă faceți de râs de data asta.\"</string>
+    <string name="beforeMatch7">\"Oh, Dumnezeule, nu vreau să-i mai văd.\"</string>
+    <string name="biggestAttendance">Cea mai mare audienţă:</string>
+    <string name="bonusesForPlayers">Bonusuri pentru jucătorii</string>
+    <string name="bonusesFromSponsors">Bonusuri de la sponsori</string>
+    <string name="brazil">America de Sud (Brazilia)</string>
+    <string name="buildNewField">Construiește un teren nou</string>
+    <string name="businessman">Om de afaceri</string>
+    <string name="businessmanTalk1">"Salutări, drag manager!
+
+Sunt încântat să vorbesc cu tine! Sunt un om de afaceri local, suporter înfocat al clubului nostru drăguț. Vreau să fie cel mai puternic... Dar știu bine că fără bani nu se poate. De aceea m-am gândit să doneze clubului niște bani.
+
+Eu aș vrea doar să urmărești un scurt videoclip, și banii sunt ai dvs. Ce ziceți?"</string>
+    <string name="businessmanTalk2">"Salutări, drag manager!
+
+Nu-ți mai pot dona din nou luna asta. Revino mai târziu!"</string>
+    <string name="buy">Cumpără</string>
+    <string name="buyOffer">Cumpără</string>
+    <string name="buyOfferTitle">"%1$s dorește sa-ți cumpere jucătorul pentru %2$s.
+
+Poți negocia această ofertă."</string>
+    <string name="calendar">Calendar</string>
+    <string name="calm">calm</string>
+    <string name="canada">America de Nord (Canada)</string>
+    <string name="cancel">Anulează</string>
+    <string name="cannotGoToTrainingCamp">Nu poți planifica un cantonament acum deoarece ai prea multe coliziuni între meciuri în viitorul apropiat. Încearcă din nou în altă zi.</string>
+    <string name="cantUpgradeMore">- După modernizare, tribuna va atinge capacitatea maximă.</string>
+    <string name="capsGoals">Selecţii/Goluri</string>
+    <string name="carribean">Caraibe</string>
+    <string name="category1">Categoria 1</string>
+    <string name="category2">Categoria 2</string>
+    <string name="category3">Categoria 3</string>
+    <string name="central_africa">Africa (centrală)</string>
+    <string name="central_america">America Centrala</string>
+    <string name="central_asia">Asia (centrală)</string>
+    <string name="central_east_europe">Europa (central-estică)</string>
+    <string name="chairman">Patron</string>
+    <string name="chairmanStartingMessageContent">"Dragă domnule! Bine ai venit la clubul nostru.
+
+Sunt foarte fericit că ni te-ai alăturat. Cred că %1$s are un viitor faimos și sper ca tu să joci un rol important în realizarea acestuia.
+
+Îți doresc mult noroc și o mulțime de emoții în timpul meciurilor."</string>
+    <string name="chairmanStartingMessageTitle">Bine ai venit la %1$s!</string>
+    <string name="champion">Campion</string>
+    <string name="championContentFavorite">"Cine e cea mai tare? %1$s!
+
+! Sunt atât de fericit că am reușit. Pur și simplu suntem cei mai buni și merităm din plin titlul de campioni. Mult respect pentru tine și toți jucătorii tăi. A fost categoric o decizie bună să te angajez ca manager.
+
+Acum, simte-te liber să celebrezi, ești un erou diseară!"</string>
+    <string name="championContentNonFavorite">"Poţi să crezi? Suntem cei mai tari! Nimeni n-ar fi pariat că am fi putut castiga campionatul, prin urmare este uimitor că ai reuşit acest lucru! Sper că vei rămâne cu această echipă pe vecie. Eşti deja o legendă! Îţi mulţumesc atât de mult pentru acest sezon de neuitat.
+
+Noaptea aceasta va fi nebună!"</string>
+    <string name="championTitle">Noi suntem campionii!</string>
+    <string name="championsCup">Cupa Campionilor</string>
+    <string name="championsCupContent">Asta e nebunesc, suntem cea mai bună echipă de pe continent! Domnule, ești un manager excelent și întotdeauna am crezut în tine și echipa ta. Iubesc fotbalul pentru momentele ca acestea. Iubesc %1$s și sunt sigur că vom avea un viitor fantastic cu tine ca manager și chiar mai multe succese ca acesta! Mulțumesc încă o dată!</string>
+    <string name="championsCupTitle">Incredibil!</string>
+    <string name="change_trainer">Schimbă antrenorul</string>
+    <string name="chaosInPenaltyAreaAction1">Ce dezordine în suprafaţa de pedeapsă!</string>
+    <string name="chaosInPenaltyAreaAction2">Ce haos!</string>
+    <string name="chaosInPenaltyAreaAction3">Haos total în suprafaţa de pedeapsă!</string>
+    <string name="chaosInPenaltyAreaAction4">...</string>
+    <string name="character">Caracter</string>
+    <string name="charisma">Carismă</string>
+    <string name="chooseTeamToEdit">Alege echipa pentru editare:</string>
+    <string name="chooseYourTeam">Alege echipa:</string>
+    <string name="choose_edit_file">Alege fișierul de editat</string>
+    <string name="cleanSheets">Clean sheets</string>
+    <string name="clear">Complet</string>
+    <string name="clubRanking">Clasamentul echipelor</string>
+    <string name="clubStaff">Personalul clubului</string>
+    <string name="clubStaffDescription">"Aici poți controla cine lucrează în clubul tău. Toți salariații au salariul lor propriu, contractul lor propriu, experiență și vârstă. Fiecare funcție din club are o importanță:
+
+ Antrenorii de portari sunt responsabili pentru antrenamentul și performanțele portarilor.Antrenorii de tineret se ocupă cu tinerii jucători. Cu cât ai mai mulți antrenori de tineret cu atât poți avea mai multe echipe de tineret. Cu cât ei sunt mai buni cu atât tinerele talente se vor dezvolta mai repede și mai mult.
+
+ Fizioterapeuții experimentați pot reduce riscul accidentărilor jucătorilor tăi. Asigură-te că ai și doctori buni care îți pot recupera jucătorii accidentați mai repede.
+
+ Marketerii sunt responsabili pentru atragerea oamenilor și sponsorilor către clubul tău. Încasează mai mult, dar pot aduce clubului o mulțime de bani."</string>
+    <string name="common_google_play_services_enable_button">Activați</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string name="common_google_play_services_update_button">Actualizați</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="communityCup">Cupa Comunităţii</string>
+    <string name="competitions">Competiţii</string>
+    <string name="concentration">Concentrare:</string>
+    <string name="condition">Condiţie</string>
+    <string name="confidence">Încredere</string>
+    <string name="confirm">Confirmă</string>
+    <string name="conflict">În conflict</string>
+    <string name="conflictBeginningContent">Dragă domnule, ultimele noastre observații ale jucătorilor ne arată clar că doi dintre jucătorii noștri (%1$s și %2$s) nu se pot suporta unul pe altul. Firește, o echipă de fotbal e un grup alcătuit din mulți oameni diferiți, și nu toți vor fi prieteni, dar dacă vrei să avem succes, ar trebui să conviețuim bine și să fim cooperativi. Ar trebui să facem ceva cu asta, sau performanța noastră ar putea fi afectată când cei doi joacă împreună.</string>
+    <string name="conflictBeginningTitle">%1$s și %2$s par a fi într-un conflict</string>
+    <string name="conflictEndContent">Vești bune, domnule. Se pare că nu mai avem un conflict între cei doi jucători (%1$s și %2$s). Amândoi au fost văzuți discutând și glumind unul cu altul, și putem spune că relațiile dintre cei doi sunt bune. Bună treabă!</string>
+    <string name="conflictEndTitle">%1$s și %2$s - conflict rezolvat</string>
+    <string name="confused">confuz</string>
+    <string name="continentalCupsTickets">Meciuri în cupa internaţională</string>
+    <string name="continentalFederationPrizes">Premii din partea asociaţiei continentale</string>
+    <string name="continueGame">Continuă jocul</string>
+    <string name="continueMatch">Continuă meciul</string>
+    <string name="continueString">Continuă</string>
+    <string name="contractEnd">Sfârşitul contractului</string>
+    <string name="contractExpiredContent">%1$s nu mai este jucătorul nostru - contractul său tocmai a expirat astăzi.</string>
+    <string name="contractExpiredTitle">Lui %1$s i-a expirat contractul</string>
+    <string name="contractOffer">Contract</string>
+    <string name="contractOfferAcceptedContent">"Oferta de contract pe care ai făcut-o pentru %1$s a fost acceptată.
+
+"</string>
+    <string name="contractOfferAcceptedMuchWorseTeamContent">"Această mutare va fi un pas înapoi în cariera sa, dar din cauză că a considerat oferta ta extrem de atractivă a decis să se alăture echipei.
+
+"</string>
+    <string name="contractOfferAcceptedSimilarTeamContent">"A considerat oferta ta atractivă din punct de vedere financiar, astfel încât a decis să întărească echipa.
+
+"</string>
+    <string name="contractOfferAcceptedTitle">%1$s - ofertă de contract acceptată</string>
+    <string name="contractOfferAcceptedUnhappyContent">"A decis să se alăture echipei, fiindcă nu este fericit în echipa sa actuală.
+
+"</string>
+    <string name="contractOfferAcceptedWorseTeamContent">"A considerat oferta ta atractivă din punct de vedere financiar, astfel încât a decis să întărească echipa.
+
+"</string>
+    <string name="contractOfferRejectedContent">"Oferta de contract pe care ai făcut-o pentru %1$s a fost refuzată.
+
+"</string>
+    <string name="contractOfferRejectedHappyContent">"Este foarte mulţumit de echipa sa actuală şi nu ar avea de gând să o părăsească atât de curând.
+
+"</string>
+    <string name="contractOfferRejectedMuchWorseTeamContent">"A declarat că nu s-ar imagina niciodată la o echipă atât de slabă.
+
+"</string>
+    <string name="contractOfferRejectedSimilarTeamContent">"A spus că oferta nu este destul de atractivă pentru a se muta într-un loc nou.
+
+"</string>
+    <string name="contractOfferRejectedTitle">%1$s - ofertă de contract refuzată</string>
+    <string name="contractOfferRejectedWorseTeamContent">"A spus că mutarea la o echipă mai slabă nu ar fi prea bună pentru cariera sa.
+
+"</string>
+    <string name="contractOfferTitle">Agentul lui %1$s ar dori să audă oferta de contract pentru jucătorul sau.</string>
+    <string name="contractOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de contract a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="contractOfferWithdrawnTitle">%1$s - ofertă de contract retrasă</string>
+    <string name="contractSignedContent">%1$s a semnat contractul cu noi astăzi. Acesta s-a transferat de la %2$s pentru %3$s.</string>
+    <string name="contractSignedTitle">%1$s a semnat contractul</string>
+    <string name="contractTerminatePenalty">Sancţiuni</string>
+    <string name="contractUntil">Contract până la:</string>
+    <string name="contractWillBeSigned">Contractul va fi semnat la data de %1$s.</string>
+    <string name="contractWillBeSignedToday">Contractul va fi semnat astăzi.</string>
+    <string name="contractWithFreeAgentSignedContent">%1$s s-a alaturat echipei noastre astazi. El a semnat un contract cu noi ca un agent liber.</string>
+    <string name="contractWithFreeAgentSignedTitle">%1$s a semnat contractul</string>
+    <string name="contract_expiration_reminder_content1">"Buna ziua, Domnule
+
+. Eu tocmai doresc a-ți aminti că contractele următorilor jucători se vor încheia în 30 de zile:
+
+"</string>
+    <string name="contract_expiration_reminder_content2">"- %1$s (%2$s)
+"</string>
+    <string name="contract_expiration_reminder_content3">"
+Dacă vrei să-i păstrezi în club, reînnoiește-le contractele."</string>
+    <string name="contract_expiration_reminder_title">Contracte care se vor încheia</string>
+    <string name="copy_toast_msg">Linkul a fost copiat în clipboard</string>
+    <string name="cornerKick">Corner (%1$s)</string>
+    <string name="costOfCamp">Costul:</string>
+    <string name="counterAttackAction1">%1$s lansează un contra-atac!</string>
+    <string name="counterAttackAction2">Contra-atac!</string>
+    <string name="counterAttackAction3">%1$s pe contra-atac!</string>
+    <string name="countriesExplored">Țări explorate:</string>
+    <string name="countriesToExplore">Țări de explorat:</string>
+    <string name="countryRanking">Clasamentul țării</string>
+    <string name="countryRankingDescription">Clasamentul țărilor decide numărul de locuri în cupele internaționale. Dacă echipa ta are performanțe bune poți crește poziția țării tale, deci în sezonul viitor vei putea să te califici în competițiile continentale mai ușor.</string>
+    <string name="createCustomPlayer">Creează jucător personalizat</string>
+    <string name="createNewFormation">Creează o formație nouă</string>
+    <string name="createNewTeam">Creează o nouă echipă</string>
+    <string name="credits">Despre</string>
+    <string name="crossAction1">%1$s centrează!</string>
+    <string name="crossAction2">Centrare în suprafaţa de pedeapsă!</string>
+    <string name="crossAction3">%1$s centrează în suprafaţa de pedeapsă!</string>
+    <string name="crossAction4">%1$s centrează în careu!</string>
+    <string name="crossAction5">%1$s cu centrarea!</string>
+    <string name="crossAction6">%1$s încearcă să centreze!</string>
+    <string name="crossing">Centrări</string>
+    <string name="cup">cupă</string>
+    <string name="currency">Valută:</string>
+    <string name="currentAssignment">Sarcina curentă:</string>
+    <string name="currentRecommendations">Recomăndari curente:</string>
+    <string name="currentSponsors">Sponsorii actuali</string>
+    <string name="customPlayers">Jucători personalizaţi:</string>
+    <string name="database">Bază de date:</string>
+    <string name="date">Data:</string>
+    <string name="days">zile</string>
+    <string name="daysLeft">Zile rămase:</string>
+    <string name="days_left_to_results">Zile rămase până la rezultate:</string>
+    <string name="days_to_expire">zile până la expirare:</string>
+    <string name="december">Decembrie</string>
+    <string name="defending">Apărare</string>
+    <string name="delete">Şterge</string>
+    <string name="demotivated">Demotivat</string>
+    <string name="departureDate">Data plecării:</string>
+    <string name="detail">Detalii</string>
+    <string name="distanceShotAction1">%1$s alege şutul de la distanţă!</string>
+    <string name="distanceShotAction2">%1$s şutează de la depărtare!</string>
+    <string name="distanceShotAction3">%1$s şutează de la distanţă!</string>
+    <string name="distanceShotAction4">%1$s șutează de la 25 de metri!</string>
+    <string name="distanceShotAction5">%1$s șutează din afara careului!</string>
+    <string name="distanceShotAction6">%1$s lovește de la distanță!</string>
+    <string name="distanceShotAction7">%1$s își încearcă norocul de la distanță!</string>
+    <string name="distanceShotAction8">Distanță mare față de poartă... Dar %1$s șutează!</string>
+    <string name="distanceShotAction9">%1$s încearcă de la distanță mare!</string>
+    <string name="doYouWantToSaveChanges">Vrei să salvezi modificările?</string>
+    <string name="doctor">Doctor</string>
+    <string name="domesticCupContent">"Domnule, Felicitări!
+
+Sunt atât de fericit că am reușit să câștigăm această minunată Cupă Națională! Am crezut în echipa asta de la inceput. Îți mulțumesc pentru munca depusă și sper la mai multe în viitor!"</string>
+    <string name="domesticCupTitle">Bună treabă!</string>
+    <string name="domesticCupsTickets">Meciuri în cupă</string>
+    <string name="domesticFederationPrizes">Premii din partea asociaţiei naţionale</string>
+    <string name="donationsForFans">Donații pentru fani:</string>
+    <string name="donationsForFans2">Donații pentru fani</string>
+    <string name="donationsHigh">ridicat</string>
+    <string name="donationsHighDescription">Fan-clubul primește imense donații atât pentru meciurile de acasa, cât și pentru cele din deplasare. Aceasta îmbunatățește atmosfera și ofera un suport mai bun pentru jucători.</string>
+    <string name="donationsNone">nici una</string>
+    <string name="donationsNoneDescription">Clubul nu donează tot fan-clubului. Asta le reduce dispoziția, dar numai așa poți salva niște bani.</string>
+    <string name="donationsNormal">normal</string>
+    <string name="donationsNormalDescription">Clubul restituie parțial biletele și transportul pentru partidele din deplasare.</string>
+    <string name="drawAllTeams">Draw all teams</string>
+    <string name="drawNextTeam">Draw next team</string>
+    <string name="draws">Egaluri:</string>
+    <string name="drawsTable">D</string>
+    <string name="dribblingAction1">%1$s încearcă o acţiune individuală!</string>
+    <string name="dribblingAction10">%1$s trece pe lângă apărător!</string>
+    <string name="dribblingAction11">%1$s întrece apărătorul!</string>
+    <string name="dribblingAction2">%1$s driblează printre adversari!</string>
+    <string name="dribblingAction3">%1$s are o şansă să dribleze!</string>
+    <string name="dribblingAction4">%1$s trece prin dribling!</string>
+    <string name="dribblingAction5">%1$s încearcă să dribleze!</string>
+    <string name="dribblingAction6">%1$s!</string>
+    <string name="dribblingAction7">%1$s încearcă să-și păcălească adversarii!</string>
+    <string name="dribblingAction8">Frumoasă întoarcerea lui %1$s!</string>
+    <string name="dribblingAction9">%1$s sare peste fundaș!</string>
+    <string name="duration">Durata:</string>
+    <string name="durationDays">Durata (zile):</string>
+    <string name="east">Est</string>
+    <string name="eastGroup">est</string>
+    <string name="east_africa">Africa (est)</string>
+    <string name="east_asia">Asia (est)</string>
+    <string name="east_europe">Europa (est)</string>
+    <string name="edit">Editează</string>
+    <string name="editTeamName">Editează numele</string>
+    <string name="edit_emblem">Editează siglă echipei</string>
+    <string name="edit_file_already_set_to_default">Fișier de editat deja setat la valorile implicite.</string>
+    <string name="edit_file_not_valid">Fișier de editat invalid.</string>
+    <string name="edit_file_set_to_default_successfully">Fișier de editat setat la valorile implicite!</string>
+    <string name="edit_file_status">Despre fișierul de editat</string>
+    <string name="edit_file_uploaded_successfully">Fișier de editat încărcat!</string>
+    <string name="edit_league_name">Editează numele ligii</string>
+    <string name="edit_players">Editează jucătorii</string>
+    <string name="edit_teams">Editează echipele</string>
+    <string name="editor">Editor</string>
+    <string name="emblem_successfully_changed">Siglă echipei a fost schimbată!</string>
+    <string name="employeeEndOfCareerContent">Angajatul nostru, %2$s (%1$s, în vârstă de %3$s ani) a decis să se retragă astăzi.</string>
+    <string name="employeeEndOfCareerTitle">%1$s s-a retras</string>
+    <string name="employees">Angajați</string>
+    <string name="employeesSalaries">Salariile angajaților</string>
+    <string name="endOfCareerContent">%1$s (%2$s) a decis să se retragă astăzi.</string>
+    <string name="endOfCareerTitle">%1$s s-a retras</string>
+    <string name="error_while_upload_edit_file">Eroare la încărcarea fișierului de editat.</string>
+    <string name="europe">Europa</string>
+    <string name="execute">execută</string>
+    <string name="exo_controls_fastforward_description">Derulați rapid înainte</string>
+    <string name="exo_controls_next_description">Melodia următoare</string>
+    <string name="exo_controls_pause_description">Pauză</string>
+    <string name="exo_controls_play_description">Redați</string>
+    <string name="exo_controls_previous_description">Melodia anterioară</string>
+    <string name="exo_controls_rewind_description">Derulați</string>
+    <string name="exo_controls_stop_description">Opriți</string>
+    <string name="expectedSalary">Salariul așteptat</string>
+    <string name="expenditures">Cheltuieli:</string>
+    <string name="experience">Experienţă</string>
+    <string name="fallback_menu_item_copy_link">Copiați linkul</string>
+    <string name="fallback_menu_item_open_in_browser">Deschideți în browser</string>
+    <string name="fallback_menu_item_share_link">Trimiteți linkul</string>
+    <string name="fans">Fani</string>
+    <string name="fansBehaviourPenaltyContent">Datorită comportamentului rasist al fanilor (%1$s) în meciul împotriva echipei %2$s, clubul a fost amendat cu suma de %3$s.</string>
+    <string name="fansBehaviourPenaltyTitle">Penalizare pentru comportamentul fanilor</string>
+    <string name="fansMoods">Dispoziția fanilor</string>
+    <string name="favouritePlayers">Jucătorii favoriți:</string>
+    <string name="february">Februarie</string>
+    <string name="federationCup">Cupa Federaţiilor</string>
+    <string name="federationCupContent">"Domnule, Bravo ție!
+
+Cupa Federațiilor este a noastră! Multe felicitări si întregul meu respect pentru tine si toți jucătorii. Îti mulțumesc pentru aceste minunate partide și emoții! Acum ar trebui să bei o bere sau două, o meriți categoric!"</string>
+    <string name="federationCupTitle">Fantastic!</string>
+    <string name="feeNote">- Preţul pentru aducerea adversarului - %1$s</string>
+    <string name="fifthDivision">Liga a V-a</string>
+    <string name="finalGame">Finala</string>
+    <string name="financePeriod">Finanţe pentru perioada: %1$s-%2$s</string>
+    <string name="financialBonus">bonus financiar (%1$s)</string>
+    <string name="financing">Finanțare:</string>
+    <string name="fine">amendă (%1$s)</string>
+    <string name="fired">Eşti concediat, joc terminat!</string>
+    <string name="firstChampionship">Primul turneu</string>
+    <string name="firstDivision">Liga I</string>
+    <string name="firstGroup">A</string>
+    <string name="firstLeg">manşa 1</string>
+    <string name="fitness">Fitness</string>
+    <string name="fixtures">Meciuri</string>
+    <string name="fixturesAndTables">Program şi clasamente</string>
+    <string name="followedCountries">Țările urmărite:</string>
+    <string name="footballPlayer">Jucător de fotbal</string>
+    <string name="formation">Formaţia</string>
+    <string name="formationName">Numele formației:</string>
+    <string name="fourthDivision">Liga a IV-a</string>
+    <string name="freeAgentRecommendedContent">"Bună, numele meu este %1$s și sunt agent.
+
+Aș dori să-ți recomand unul dintre jucătorii mei - %6$s. El joacă ca %2$s iar ultimul său club a fost %3$s.
+
+Dacă ești interesat de angajarea lui, simte-te liber să vorbești cu mine despre contract. Așteptarile pentru salariu sunt undeva la %4$s. Comisionul pentru transfer va fi doar %5$s.
+
+Sper că vei lua în considerare oferta mea. Să ai o zi frumoasă!"</string>
+    <string name="freeAgentRecommendedTitle">Recomandare de agent liber - %1$s</string>
+    <string name="freeKick">Lovitură liberă (%1$s)</string>
+    <string name="freeKickAction1">%1$s şutează!</string>
+    <string name="freeKickLength">%1$s metri de poartă</string>
+    <string name="friday">Vin</string>
+    <string name="friendlies">Amicale</string>
+    <string name="friendliesThisSeason">Amicale în acest sezon</string>
+    <string name="friendliesTickets">Amicale</string>
+    <string name="friendlyFees">Preţul pentru aducerea adversarului</string>
+    <string name="friendlyMatchCancelledContent">Meciul amical împotriva echipei %1$s planificat la data de %2$s a fost anulat datorită coliziunilor cu meciurile oficiale.</string>
+    <string name="friendlyMatchCancelledTitle">Meciul amical împotriva echipei %1$s a fost anulat</string>
+    <string name="friendlyMatchOfferAcceptedContent">"Am acceptat propunerea ta de organizare a unui meci amical între echipele noastre.
+
+Meciul va fi jucat la data de %1$s"</string>
+    <string name="friendlyMatchOfferAcceptedTitle">%1$s - propunere de meci amical acceptată</string>
+    <string name="friendlyMatchOfferRejectedContent">Am refuzat propunerea ta de organizare a unui meci amical între echipele noastre.</string>
+    <string name="friendlyMatchOfferRejectedTitle">%1$s - propunere de meci amical refuzată</string>
+    <string name="friendlyOfferAwaitingContent">Avem o ofertă amicală în așteptare de la %1$s. Te rog să verifici oferta și să răspunzi, dacă dorești.</string>
+    <string name="friendlyOfferAwaitingTitle">Ofertă amicală de la %1$s</string>
+    <string name="friendlyOfferSent">Friendly offer sent.</string>
+    <string name="friendlyOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de amical a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="friendlyOfferWithdrawnTitle">%1$s - ofertă de amical retrasă</string>
+    <string name="friendlyOffers">Propuneri</string>
+    <string name="friendship">În relație de prietenie</string>
+    <string name="friendshipBeginningContent">Domnule, vreau să vă spun ce simt eu despre doi dintre jucătorii noștri: %1$s și %2$s. Par să se înțeleagă foarte bine și să aibă o relație foarte prietenoasă. Asta este un lucru bun, deoarece face atmosfera mai bună, și putem spune că ei doi vor funcționa bine împreună pe teren.</string>
+    <string name="friendshipBeginningTitle">%1$s și %2$s par buni prieteni</string>
+    <string name="from">De la:</string>
+    <string name="fullExtraTime">Final</string>
+    <string name="fullExtraTimePenalties">Vom avea lovituri de departajare!</string>
+    <string name="fullTime">Final</string>
+    <string name="fullTime1">\"Wow! Da! Superb\"</string>
+    <string name="fullTime2">\"A fost un joc excelent! Sper la mai multe!\"</string>
+    <string name="fullTime3">\"Bună treabă, băieţi. Bravo.\"</string>
+    <string name="fullTime4">\"Nu sunt fericit. Puteați mai mult de atât.\"</string>
+    <string name="fullTime5">\"Ce a fost asta? În veci nu vreau să mai văd aşa ceva!\"</string>
+    <string name="fullTime6">\"Ce rușine. Sunteți fără valoare.\"</string>
+    <string name="fullTimeExtraTime">Vom avea prelungiri!</string>
+    <string name="gameOverContent">"Domnule, ultimele etape au fost dezastroase. Se pare că nu ai nicio idee cum să îmbunătățești performanța echipei. Jucătorii arată foarte rău, sunt înceți și fac prea multe greșeli. Nu văd niciun spirit de echipă. îmi pare rău să zic asta, dar în situația asta trebuie să încheiem cooperarea.
+
+Mult noroc la următoarea ta echipă."</string>
+    <string name="gameOverTitle">Destul, mulțumesc...</string>
+    <string name="gameplay">Stilul de joc:</string>
+    <string name="gastronomy">Gastronomie</string>
+    <string name="gentle">blând</string>
+    <string name="goAhead">- Da, continuaţi.</string>
+    <string name="go_for_headers">sari la cap</string>
+    <string name="goal">GOL!!!</string>
+    <string name="goal1Text1">%1$s şi-a făcut knock-out adversara!</string>
+    <string name="goal1Text10">Nu le-au dat nicio şansă adversarilor diseară!</string>
+    <string name="goal1Text11">Încă un alt gol pentru %1$s</string>
+    <string name="goal1Text12">%1$s! Este altul de-al lor!</string>
+    <string name="goal1Text13">%1$s se distrează la noapte!</string>
+    <string name="goal1Text14">%1$s bagă altul în plasă!</string>
+    <string name="goal1Text15">Este un rezultat senzațional!</string>
+    <string name="goal1Text16">%1$s domină!</string>
+    <string name="goal1Text17">Asta devine jenant!</string>
+    <string name="goal1Text18">Meci teribil pentru %1$s!</string>
+    <string name="goal1Text19">%1$s este distrusă diseară!</string>
+    <string name="goal1Text2">%1$s nu există pe teren!</string>
+    <string name="goal1Text3">%1$s sunt de neoprit în această seară!</string>
+    <string name="goal1Text4">Nimicire totală!</string>
+    <string name="goal1Text5">Adevărat măcel!</string>
+    <string name="goal1Text6">%1$s îşi doreşte acest joc terminat...</string>
+    <string name="goal1Text7">Au făcut ce au vrut diseară!</string>
+    <string name="goal1Text8">%1$s şi-a rupt rivala în bucăţi!</string>
+    <string name="goal1Text9">%1$s n-are nicio iluzie</string>
+    <string name="goal2Text1">%1$s şi-a mărit scorul!</string>
+    <string name="goal2Text10">%1$s intră într-o problemă serioasă!</string>
+    <string name="goal2Text11">%1$s joaca mai bine diseară!</string>
+    <string name="goal2Text12">%1$s trebuie să tragă singuri împreună!</string>
+    <string name="goal2Text2">%1$s este foarte aproape de victorie!</string>
+    <string name="goal2Text3">Lucrurile devin complicate pentru %1$s</string>
+    <string name="goal2Text4">%1$s este într-o poziţie comfortabilă acum!</string>
+    <string name="goal2Text5">%1$s şi-a mărit advantajul!</string>
+    <string name="goal2Text6">Este gata?</string>
+    <string name="goal2Text7">%1$s este puţin confuză acum!</string>
+    <string name="goal2Text8">Se pare că fanii echipei %1$s se pot relaxa acum!</string>
+    <string name="goal2Text9">Să fie acesta golul câștigător?</string>
+    <string name="goal3Text1">%1$s a preluat conducerea!</string>
+    <string name="goal3Text10">%1$s conduce!</string>
+    <string name="goal3Text11">%1$s trebuie să atace acum!</string>
+    <string name="goal3Text2">%1$s! Ei vor dicta meciul acum!</string>
+    <string name="goal3Text3">%1$s trebuie să se grăbească acum!</string>
+    <string name="goal3Text4">%1$s! Merită să conducă!</string>
+    <string name="goal3Text5">%1$s! Au reuşit!</string>
+    <string name="goal3Text6">%1$s va juca mult mai liniştită acum</string>
+    <string name="goal3Text7">%1$s trebuie să atace acum!</string>
+    <string name="goal3Text8">%1$s este cu un gol in față!</string>
+    <string name="goal3Text9">%1$s a reușit să preia conducerea!</string>
+    <string name="goal4Text1">%1$s! Încă sunt în joc!</string>
+    <string name="goal4Text10">Gol atât de important pentru %1$s!</string>
+    <string name="goal4Text11">Sunt înapoi în joc!</string>
+    <string name="goal4Text12">Asta le dă ceva speranță!</string>
+    <string name="goal4Text13">Pot ei să obțină un altul?</string>
+    <string name="goal4Text14">Au nevoie de încă unul!</string>
+    <string name="goal4Text15">Dar încă sunt la un gol distanță!</string>
+    <string name="goal4Text16">Le-au luat-o înapoi!</string>
+    <string name="goal4Text2">Nu totul este pierdut!</string>
+    <string name="goal4Text3">Restabileşte speranţa fanilor echipei %1$s!</string>
+    <string name="goal4Text4">%1$s este la doar un gol distanţă!</string>
+    <string name="goal4Text5">%1$s se află doar uşor în spate acum!</string>
+    <string name="goal4Text6">Va păstra %1$s rezultatul până la final?</string>
+    <string name="goal4Text7">Îndepărtează rapid balonul din plasă!</string>
+    <string name="goal4Text8">%1$s luptă până la sfârşit!</string>
+    <string name="goal4Text9">Gol vital pentru %1$s!</string>
+    <string name="goal5Text1">Nu e cam târziu?</string>
+    <string name="goal5Text10">Acest gol nu va schimba nimic, probabil</string>
+    <string name="goal5Text11">Rezultatul va arăta puțin mai bine pentru ei</string>
+    <string name="goal5Text12">Mult prea târziu!</string>
+    <string name="goal5Text13">Mai au timp pentru unul?</string>
+    <string name="goal5Text14">Mamă, au înscris! Poți să crezi asta?</string>
+    <string name="goal5Text15">Tare, dar încă sunt departe de un rezultat bun!</string>
+    <string name="goal5Text2">Sunt ei capabili să facă şi mai mult?</string>
+    <string name="goal5Text3">Îndepărtează rapid balonul din plasă!</string>
+    <string name="goal5Text4">Mai au încă ceva timp rămas!</string>
+    <string name="goal5Text5">Un moment de neatenţie al echipei %1$s</string>
+    <string name="goal5Text6">Să zicem că e un gol de consolare acum</string>
+    <string name="goal5Text7">%1$s reduce uşor din diferenţă</string>
+    <string name="goal5Text8">Are vreo importanţă acest gol?</string>
+    <string name="goal5Text9">%1$s! Au golul de onoare al meciului!</string>
+    <string name="goal6Text1">%1$s a pierdut conducerea!</string>
+    <string name="goal6Text2">%1$s egalează!</string>
+    <string name="goal6Text3">Jocul începe din nou!</string>
+    <string name="goal6Text4">Avem o remiză!</string>
+    <string name="goal6Text5">Avem o remiză!</string>
+    <string name="goal6Text6">Uite și golul egalizator!</string>
+    <string name="goal6Text7">Sunt înapoi în joc!</string>
+    <string name="goal6Text8">Au reușit să reacționeze!</string>
+    <string name="goal6Text9">Au reușit!</string>
+    <string name="goal7Text1">%1$s a devenit eroul celor de la %2$s!</string>
+    <string name="goal7Text2">%1$s! Gol în ultimul minut!</string>
+    <string name="goal7Text3">Celebrează înscrierea golului!</string>
+    <string name="goal7Text4">Gol în ultimul minut!</string>
+    <string name="goal7Text5">Ce meci dramatic!</string>
+    <string name="goal7Text6">Fanii echipei %1$s sunt șocați!</string>
+    <string name="goal7Text7">Poți să crezi?</string>
+    <string name="goal7Text8">%1$s înscrie în ultimul moment al jocului!</string>
+    <string name="goalAfterChaosAction1">Mingea şi-a găsit drumul, nu ştiu cum, spre plasă!</string>
+    <string name="goalAfterChaosAction2">Este!</string>
+    <string name="goalAfterChaosAction3">%1$s primeşte aplauze!</string>
+    <string name="goalAfterChaosAction4">%1$s! El este autorul golului!</string>
+    <string name="goalAfterChaosAction5">%1$s este marcatorul acestuia!</string>
+    <string name="goalAfterChaosAction6">%1$s! El a băgat mingea în plasă!</string>
+    <string name="goalAfterChaosAction7">%1$s a reusit!</string>
+    <string name="goalText1">%1$s! Va alerga pentru încă unul?</string>
+    <string name="goalkeeper_trainer">Antrenor de portari</string>
+    <string name="goalkeeping">În poartă</string>
+    <string name="goals">Cele mai multe goluri</string>
+    <string name="goalsTable">G</string>
+    <string name="goodPerformance">performanță bună</string>
+    <string name="goodPlayerBoughtAnswer1">Este unul mare. Sunt atât de fericit că a fost de acord sa ni se alăture!</string>
+    <string name="goodPlayerBoughtAnswer2">Este un băiat talentat, dar aștept multă muncă din partea lui, la fel si de la ceilalți jucători.</string>
+    <string name="goodPlayerBoughtAnswer3">Ei bine... Să fiu sincer, nu-l cunosc foarte bine..</string>
+    <string name="goodPlayerBoughtQuestion">Fanii sunt foarte impresionați să-l vadă pe %1$s în tricoul echipei %2$s. Ce aștepți de la acest jucător?</string>
+    <string name="graphics_team_emblems">Grafică (embleme de echipă)</string>
+    <string name="greeting1">Bună dimineaţa, domnule. Numele meu este %1$s, lucrez pentru ziarul local. Putem discuta pentru ceva timp?</string>
+    <string name="greeting2">Bună dimineața, domnule. Sunt %1$s din nou. Pot să-ți adresez o intrebare?</string>
+    <string name="group">Group</string>
+    <string name="groupStage">Grupe</string>
+    <string name="groupStageDraw">Group stage draw</string>
+    <string name="groupX">Grupa %1$s</string>
+    <string name="halfTime">Pauză</string>
+    <string name="halfTime1">\"Extraordinar! Vă iubesc, băieți!\"</string>
+    <string name="halfTime2">\"Bun joc atât de curând! Faceți treabă bună în continuare!\"</string>
+    <string name="halfTime3">\"Nu-i rău. Sunteți capabili să reușiți!\"</string>
+    <string name="halfTime4">\"Prea multe greșeli. Trebuie să încerci mai tare!\"</string>
+    <string name="halfTime5">\"Ce faceți? Jucați!\"</string>
+    <string name="halfTime6">\"A fost un coşmar. Nu ştiţi să jucaţi fotbal.\"</string>
+    <string name="hallOfFame">Camera de onoare:</string>
+    <string name="hallOfTrophies">Palmares</string>
+    <string name="happy">fericit</string>
+    <string name="headerShotAction1">%1$s cu o lovitură de cap!</string>
+    <string name="headerShotAction2">%1$s cu o lovitură de cap!</string>
+    <string name="headerShotAction3">%1$s face un salt mare!</string>
+    <string name="headerShotAction4">%1$s lovește puternic cu capul!</string>
+    <string name="headerShotAction5">%1$s cu o lovitură de cap!</string>
+    <string name="heading">Lovituri de cap</string>
+    <string name="heelShotAction1">%1$s loveşte cu călcâiul!</string>
+    <string name="heelShotAction2">%1$s loveşte cu călcâiul!</string>
+    <string name="high">Ridicat</string>
+    <string name="highShotAction1">%1$s şutează total aiurea!</string>
+    <string name="highShotAction2">%1$s încearcă un lob!</string>
+    <string name="highShotAction3">%1$s șutează cu furie!</string>
+    <string name="highShotAction4">%1$s cu un șut năucitor!</string>
+    <string name="higherOfferAcceptedContent">Suntem fericiți să acceptăm oferta sugerată pentru jucătorul %1$s.</string>
+    <string name="higherOfferAcceptedTitle">Oferta superioară pentru %1$s a fost acceptată.</string>
+    <string name="higherOfferRejectedContent">Am respins oferta propusă pentru (%1$s)</string>
+    <string name="higherOfferRejectedTitle">Oferta superioară pentru %1$s a fost respinsă.</string>
+    <string name="highestLoss">Cea mai mare înfrângere:</string>
+    <string name="highestRank">Cea mai bună clasare:</string>
+    <string name="highestWin">Cea mai mare victorie:</string>
+    <string name="hire">Angajează</string>
+    <string name="hireMoreTrainers">Nu ai antrenori de tineret liberi. Angajează mai mulți antrenori.</string>
+    <string name="history">Istorie</string>
+    <string name="home">acasă</string>
+    <string name="hooligansFight">revolte</string>
+    <string name="hooligansPoliceFight">lupte cu poliţia şi forţele de ordine</string>
+    <string name="host">Host</string>
+    <string name="importantMatchForFansAnswer1">Desigur! Eu și jucătorii mei știm că va fi un adevărat război și suntem pregătiți pentru el!</string>
+    <string name="importantMatchForFansAnswer2">Fiecare meci este important pentru noi, indiferent cine este echipa adversă.</string>
+    <string name="importantMatchForFansAnswer3">Chiar? Nu, nu-mi pasă de asta.</string>
+    <string name="importantMatchForFansQuestion">Fanii așteaptă cu nerăbdare meciul împotriva echipei %1$s, deoarece îi văd ca marii lor rivali. Are meciul acesta vreo importanță aparte pentru tine?</string>
+    <string name="inbox">Inbox</string>
+    <string name="includeEditedPlayers">Include jucători editați</string>
+    <string name="includeRandomPlayers">Include jucători generați aleatoriu</string>
+    <string name="incorrect_emblem_file">Fișier incorect. Numai imaginile .png și .Jpg sunt permise.</string>
+    <string name="individualOrders">Sarcinile individuale</string>
+    <string name="injuredFor">Accidentat (%1$s săptămâni)</string>
+    <string name="insertNewTeamName">Inserează numele noii echipe:</string>
+    <string name="insert_new_league_name">Introdu numele nou de ligă:</string>
+    <string name="interceptionOfPassAction1">%1$s ia acea minge!</string>
+    <string name="interceptionOfPassAction10">%1$s elimină această pasă!</string>
+    <string name="interceptionOfPassAction2">Bună intercepţia lui %1$s!</string>
+    <string name="interceptionOfPassAction3">Interceptată de %1$s!</string>
+    <string name="interceptionOfPassAction4">%1$s interceptează mingea!</string>
+    <string name="interceptionOfPassAction5">%1$s fură mingea!</string>
+    <string name="interceptionOfPassAction6">Interceptată de %1$s!</string>
+    <string name="interceptionOfPassAction7">%1$s o fură!</string>
+    <string name="interceptionOfPassAction8">%1$s culege balonul!</string>
+    <string name="interceptionOfPassAction9">%1$s ajunge primul la minge!</string>
+    <string name="invalidSquadInjuredSuspended">Sunt jucători accidentați sau suspendați în formula de start:</string>
+    <string name="invalidSquadTooLittlePlayersStartingLineup">Formula de start nu are 11 jucători.</string>
+    <string name="invalidSquadTooLittleSubs">Trebuie să alegi cel puțin 4 rezerve.</string>
+    <string name="isolation">Problemă de adaptare</string>
+    <string name="isolationBeginningContent">Domnule, noul nostru jucător (%1$s) pare să aibă probleme în a deveni cu adevărat membru al echipei. De-abia dacă vorbește cu cineva și merge pe căile sale. Ar trebui să-l ajutăm cumva, deoarece așa el nu va putea să colaboreze bine cu colegii de echipă și nu va putea să-și arate întregul potențial.</string>
+    <string name="isolationBeginningTitle">%1$s are probleme de integrare</string>
+    <string name="isolationEndingContent">Domnule, vești bune! Se pare că %1$s nu mai are probleme de integrare cu restul echipei. Tocmai l-am văzut cu un grup mare de jucători și păreau că se distrau bine împreună. Nu cred că ar trebui să ne mai îngrijorăm de el.</string>
+    <string name="isolationEndingTitle">%1$s e complet adaptat echipei</string>
+    <string name="january">Ianuarie</string>
+    <string name="jobOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de loc de muncă a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="jobOfferWithdrawnTitle">%1$s - ofertă de loc de muncă retr</string>
+    <string name="jobOffers">Oferte de muncă</string>
+    <string name="journalist">Jurnalist</string>
+    <string name="july">Iulie</string>
+    <string name="june">Iunie</string>
+    <string name="keeperReflectAction1">Reflexul goalkeeperului!</string>
+    <string name="keeperReflectAction2">Respinge %1$s!</string>
+    <string name="keeperReflectAction3">Respinge %1$s!</string>
+    <string name="keeperReflectAction4">%1$s lovește clar mingea cu pumnii!</string>
+    <string name="keeperReflectAction5">%1$s reușește să salveze!</string>
+    <string name="keeperReflectAction6">%1$s degajeaza!</string>
+    <string name="keeperReflectAction7">%1$s blochează șutul!</string>
+    <string name="keeperSaveAction1">%1$s prinde mingea!</string>
+    <string name="keeperSaveAction2">Fantastică intervenţia portarului!</string>
+    <string name="keeperSaveAction3">%1$s este atent!</string>
+    <string name="keeperSaveAction4">%1$s prinde mingea!</string>
+    <string name="keeperSaveAction5">Salvată frumos de %1$s</string>
+    <string name="keeperSaveAction6">%1$s! Extraordinar reflex!</string>
+    <string name="keeperSaveAction7">Ce intervenție are %1$s!</string>
+    <string name="keeperSaveAction8">Scoasă cu ușurință de portar</string>
+    <string name="keeperSaveAction9">%1$s ține mingea cu ușurință</string>
+    <string name="knownPlayers">Jucători disponibili (%1$s):</string>
+    <string name="last_edit_date">Ultima oară când a fost editat:</string>
+    <string name="leader">Tratat ca un lider</string>
+    <string name="leaderBeginningContent">Domnule, observându-ne jucătorii pentru o perioadă lungă de timp, am observat ceva important. Unul dintre ei, %1$s, pare să aibă mult respect și încredere din partea celorlalți. Carisma lui bună îl face un lider înnăscut și o alegere inspirată pentru postul de căpitan. Te rog, gândește-te la asta.</string>
+    <string name="leaderBeginningTitle">%1$s e foarte popular printre colegii de echipă</string>
+    <string name="leagueTickets">Meciuri în campionat</string>
+    <string name="league_names_edited">Nume de ligi editate:</string>
+    <string name="light">deschis</string>
+    <string name="light_">ușor</string>
+    <string name="live_results">Rezultate în direct:</string>
+    <string name="load">Încarcă</string>
+    <string name="loadGame">Încarcă jocul</string>
+    <string name="loading">Se încarcă...</string>
+    <string name="loading_new_game">Se încarcă...</string>
+    <string name="loading_teams_and_leagues">Se încarcă ligile şi echipele...</string>
+    <string name="loan">Împrumută</string>
+    <string name="loanAmount">Valoarea împrumutului:</string>
+    <string name="loanBeganContent">%1$s (%2$s) s-a alăturat echipei astăzi. Jucătorul va fi sub împrumut până la expirarea contractului la data de %3$s.</string>
+    <string name="loanBeganTitle">%1$s împrumutat în echipa noastră</string>
+    <string name="loanOffer">Împrumută</string>
+    <string name="loanOfferAcceptedContent">"Oferta de împrumut pentru jucătorul nostru (%1$s) a fost acceptată.
+
+"</string>
+    <string name="loanOfferAcceptedTitle">%1$s - ofertă de împrumut acceptată</string>
+    <string name="loanOfferReceivedContent">"%1$s ar dori sa-l împrumute pe (%2$s).
+
+Simte-te liber să verifici și să răspunzi ofertei pe care au trimis-o."</string>
+    <string name="loanOfferReceivedTitle">%1$s vrea să-l împrumute pe %2$s</string>
+    <string name="loanOfferRejectedBenchContent">"Vrea să rămână în echipă şi să se lupte pentru un loc de titular în echipa de start.
+
+"</string>
+    <string name="loanOfferRejectedContent">"Oferta de împrumut pentru jucătorul nostru (%1$s) a fost refuzată.
+
+"</string>
+    <string name="loanOfferRejectedFirstSquadContent">"Este un jucător important pentru noi şi nu ne gândim să-l împrumutăm.
+
+"</string>
+    <string name="loanOfferRejectedTitle">%1$s - ofertă de împrumut refuzată</string>
+    <string name="loanOfferTitle">"%1$s vrea să-ți împrumute jucătorul.
+
+Împrumutul ar începe imediat și s-ar termina pe %2$s."</string>
+    <string name="loanOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de împrumut a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="loanOfferWithdrawnTitle">%1$s - ofertă de împrumut retrasă</string>
+    <string name="loanOutBeganContent">%1$s s-a alaturat echipei %2$s astazi. El va fi împrumutat pana pe %3$s.</string>
+    <string name="loanOutBeganTitle">%1$s on loan in %2$s</string>
+    <string name="loanRepayment">Rambursarea împrumutului</string>
+    <string name="lockerRoomDescription">"Dacă vrem să avem succes, avem nevoie de jucători calificați, nu e urmă de îndoială. Dar dacă ei nu pot lucra bine unul cu altul și dacă atmosfera din vestiar e una rece, atunci ei nu-și vor putea arăta întreg potențialul. Dacă vestiarul e plin de spirit de echipă bun, atunci vom avea o echipă puternică ce poate înfrunta pe oricine. Lucruri de avut în seamă:
+
+ Dacă doi jucători cu o carismă ridicată și temperament dificil se întâlnesc, deseori se va întâmpla ca ei să facă un conflict. Dacă cei doi sunt împreună pe teren, asta are un impact negativ asupra performanțelor echipei.
+
+ Jucătorii prietenoși cu temperament bun și o carismă mare tind să aibă relații bune, ce se pot transforma chiar în prietenii, ceea ce e un lucru bun pentru noi.
+
+ Când un jucător nou intră în echipă, poate să găsească integrarea în echipă dificilă, mai ales dacă are o carismă scăzută. Asta se petrece și mai des jucătorilor tineri sau străinilor. Acești jucători nu vor putea da tot ce-i mai bun în timpul meciurilor.
+
+ Uneori vei vedea că unul dintre jucători e foarte popular printre colegii de echipă, și ei îl vor respecta foarte mult. E clar că-l vor lider. Ar fi o alegere foarte bună să-l faci căpitan. Cu toate acestea, dacă nici măcar nu-i parte din formație, celorlalți le va fi dor de el, iar asta poatea avea un impact negativ.
+
+ Ce poți face ca să îmbunătățești atmosfera din vestiar? De ce nu-ți duci echipa la o cină? Sau chiar la petrecere? Toți trebuie să se mai distreze. Firește, totul are și niște consecințe."</string>
+    <string name="locker_room">Vestiar</string>
+    <string name="longCornerKickAction1">%1$s centrează!</string>
+    <string name="long_passes">lungi</string>
+    <string name="losses">Înfrângeri:</string>
+    <string name="lossesTable">L</string>
+    <string name="low">Slab</string>
+    <string name="lowShotAction1">%1$s şutează slab!</string>
+    <string name="lowShotAction2">%1$s șutează slab!</string>
+    <string name="lowShotAction3">%1$s înaintează încet!</string>
+    <string name="lowestRank">Cea mai slabă clasare:</string>
+    <string name="main">Principal</string>
+    <string name="maintenance">Întreţinere</string>
+    <string name="majorRivals">Rivalii majori:</string>
+    <string name="makeOffer">Fă o ofertă</string>
+    <string name="march">Martie</string>
+    <string name="marketer">Marketer</string>
+    <string name="marketing">Marketing</string>
+    <string name="matchOrganisation">Organizarea meciului</string>
+    <string name="matchSpeed">Ritmul meciului:</string>
+    <string name="matches">Meciuri jucate</string>
+    <string name="matchesTable">M</string>
+    <string name="maxSkill">Abilitate totală maximă:</string>
+    <string name="may">Mai</string>
+    <string name="media">Media</string>
+    <string name="medicalServices">Servicii medicale</string>
+    <string name="medium_">mediu</string>
+    <string name="mental">Psihoterapie</string>
+    <string name="merchandiseSale">Magazinul clubului</string>
+    <string name="mexico">America de Nord (Mexic)</string>
+    <string name="middle_east">Orientul Mijlociu</string>
+    <string name="minSkill">Abilitate totală minimă:</string>
+    <string name="mixed">combinate</string>
+    <string name="monday">Lun</string>
+    <string name="monthlyBalance">Soldul lunar:</string>
+    <string name="monthlyCost">Costul lunar:</string>
+    <string name="monthlyIncome">Venituri lunare</string>
+    <string name="monthlyInstalment">Rata lunară - %1$s</string>
+    <string name="monthlyInstalment2">Rata lunară:</string>
+    <string name="monthlySalary">Salariuy</string>
+    <string name="monthlySpending">Cheltuieli lunare</string>
+    <string name="monthsToRepayment">Luni de rambursare:</string>
+    <string name="morale">Moral</string>
+    <string name="mostApps">Cele mai multe apariții:</string>
+    <string name="mostPromisingPlayersContent">Cei mai promițători jucători gasiți până acum sunt %1$s și %2$s. Toate rezultatele căutarii pot fi găsite pe ecranul de scouting.</string>
+    <string name="motivated">motivat</string>
+    <string name="motivationalSpeech">Discurs motivațional</string>
+    <string name="move">Mută...</string>
+    <string name="moveTo">Mută la...</string>
+    <string name="moveToFirstTeam">Mută la prima echipă</string>
+    <string name="multi_release">Concediază jucători</string>
+    <string name="nameCannotBeEmpty">Numele formației nu poate fi gol.</string>
+    <string name="nationalCup">Cupa Națională</string>
+    <string name="native_body">Conținut</string>
+    <string name="native_headline">Titlu</string>
+    <string name="native_media_view">Afișarea fișierului media</string>
+    <string name="nature">Natură</string>
+    <string name="negotiateOffer">Negociază</string>
+    <string name="negotiation">Negociere</string>
+    <string name="negotiationTitle">"%1$s dorește să negocieze oferta pentru jucător.
+
+Ei vor cel puțin %2$s. Aceasta este ultima ofertă."</string>
+    <string name="never">niciodată</string>
+    <string name="newGame">Joc nou</string>
+    <string name="newJobOfferContent">"Dragă domnule.
+
+Clubul %1$s a trimis o ofertă de muncă pentru tine. Deși nu-mi place, simte-te liber să o verifici și să decizi asupra viitorului tău."</string>
+    <string name="newJobOfferTitle">Ofertă nouă de muncă de la %1$s</string>
+    <string name="newPlayer">Jucător nou...</string>
+    <string name="newSave">Fişier nou...</string>
+    <string name="newSponsorshipOfferContent">Vești bune! Am primit o ofertă de contract de la o companie numită %1$s. Poți verifica oferta și răspunde dacă dorești.</string>
+    <string name="newSponsorshipOfferTitle">Ofertă nouă de sponsorizare de la %1$s</string>
+    <string name="newTrophy">Trofeu nou!</string>
+    <string name="next">Următor</string>
+    <string name="nextMatch">Meciul următor:</string>
+    <string name="no">Nu</string>
+    <string name="noAssignment">Acest scouter nu este atribuit niciunei regiuni.</string>
+    <string name="noDataToShow">Nu există bază de date.</string>
+    <string name="noFriendlies">Niciun meci amical.</string>
+    <string name="noFriendlyOffers">Nicio ofertă amicala până acum.</string>
+    <string name="noGoalAction1">Nu, golul este anulat!</string>
+    <string name="noGoalAction2">Dar aşteaptă, golul este anulat!</string>
+    <string name="noGoalAction3">Nu, fanionul arbitrului de tuşă este ridicat!</string>
+    <string name="noGoalAction4">Dar arbitrul spune ca nu este gol!</string>
+    <string name="noGoalAction5">Nu, acțiunea a fost întreruptă de către arbitru!</string>
+    <string name="noGoalOffsideAction1">Protestele sunt inutile, golul a fost din offside!</string>
+    <string name="noGoalOffsideAction2">A fost offside? Nu sunt sigur!</string>
+    <string name="noGoalOffsideAction3">Autorul golului a fost clar în offside!</string>
+    <string name="noGoalOffsideAction4">Marcatorul s-a ajutat cu însuși mâna lui!</string>
+    <string name="noGoalOffsideAction5">A fost fault? Sau ofsaid? Nu sunt sigur!</string>
+    <string name="noGoalOffsideAction6">Portarul a fost clar faultat aici!</string>
+    <string name="noInternetConnection">Nu există conexiune la internet!</string>
+    <string name="noMatchesToShow">Niciun meci în această etapă.</string>
+    <string name="noMatchesYet">There were no matches played yet.</string>
+    <string name="noNever">- Nu. Şi nu mă sunaţi iar.</string>
+    <string name="noNewsObservations">Nicio știre sau observație până acum.</string>
+    <string name="noOffers">Nicio ofertă în acest moment.</string>
+    <string name="noPlayerAssigned">(niciun jucător atribuit)</string>
+    <string name="noRecommendations">Nicio recomandare momentan.</string>
+    <string name="noResults">Nici un rezultat.</string>
+    <string name="noRoomForSponsor">Nu poţi avea mai multe sponsorizări de acest tip. Încheie alt contract pentru a-i face loc acesteia.</string>
+    <string name="noScoutsInClub">Nu ai scouteri în club. Angajează unul ca să poți folosi opțiunea scouting.</string>
+    <string name="noTeamsAnalysed">Nicio echipă în analiză momentan.</string>
+    <string name="noThanks">Nu, mulțumesc...</string>
+    <string name="noTrainer">niciun antrenor</string>
+    <string name="noTrophies">Scuze, nu ai niciun trofeu câștigat deocamdată...</string>
+    <string name="noYouthTeams">Nicio echipă de tineret.</string>
+    <string name="none">niciuna</string>
+    <string name="normal">normal</string>
+    <string name="normal2">Normal</string>
+    <string name="north">Nord</string>
+    <string name="north_africa">Africa (nord)</string>
+    <string name="north_america">America de Nord</string>
+    <string name="north_central_africa">Africa (central-nordică)</string>
+    <string name="north_east">Nord-est</string>
+    <string name="north_europe">Europa (nord)</string>
+    <string name="north_south_america">America de Sud (nord)</string>
+    <string name="north_west">Nord-vest</string>
+    <string name="notThisTime">- Nu, poate data viitoare.</string>
+    <string name="not_recommended">Nerecomandat:</string>
+    <string name="notes">Note:</string>
+    <string name="notifications_permission_confirm">Permite</string>
+    <string name="notifications_permission_decline">Nu permite</string>
+    <string name="notifications_permission_title">Permiți aplicației să îți trimită notificări?</string>
+    <string name="november">Noiembrie</string>
+    <string name="numberOfSeats">Numărul de locuri:</string>
+    <string name="oceania">Oceania</string>
+    <string name="oceania_2">Oceania (2)</string>
+    <string name="october">Octombrie</string>
+    <string name="offTheBarAction1">Peste poartă!</string>
+    <string name="offTheBarAction2">Peste bara transversală!</string>
+    <string name="offTheBarAction3">Lovește bara!</string>
+    <string name="offTheBarAction4">Departe de poartă!</string>
+    <string name="offerAcceptedBenchContent">"Joacă mai mult rezervă în echipa noastră şi credem că oferta este destul de interesantă.
+
+"</string>
+    <string name="offerAcceptedContent">"Oferta de transfer pentru %1$s a fost acceptată.
+
+"</string>
+    <string name="offerAcceptedFirstSquadContent">"Joacă un rol important în echipă, dar oferta este extrem de atractivă.
+
+"</string>
+    <string name="offerAcceptedProposeContract">Te rugăm să iei legătura cu impresarul jucătorului pentru a negocia acest contract.</string>
+    <string name="offerAcceptedReserveContent">"Cât timp jucătorul nu este destul de bun pentru prima noastră echipă, vom fi de acord să facem transferul.
+
+"</string>
+    <string name="offerAcceptedTitle">%1$s - ofertă de transfer acceptată</string>
+    <string name="offerContract">Ofertă de contract</string>
+    <string name="offerNegotiatingContent">Am dori să negociem oferta pentru (%2$s). Așteptam o oferta cam de %1$s pentru jucător.</string>
+    <string name="offerNegotiatingTitle">Cazul lui %1$s se negociază.</string>
+    <string name="offerReceivedContent">%1$s şi-ar dori să-l cumpere pe (%2$s). Simte-te liber să verifici şi să răspunzi ofertei acestora.</string>
+    <string name="offerReceivedTitle">%1$s a făcut o ofertă pentru %2$s</string>
+    <string name="offerRejectedBenchContent">"Este rezervă în echipa noastră, dar nu suntem pe deplin satisfăcuţi de oferta pe care ai făcut-o.
+
+"</string>
+    <string name="offerRejectedContent">"Oferta de transfer pentru %1$s a fost refuzată.
+
+"</string>
+    <string name="offerRejectedFirstSquadContent">"Joacă un rol important în echipa noastră şi nu suntem dispuşi să-l transferăm aşa de uşor.
+
+"</string>
+    <string name="offerRejectedReserveContent">"Deşi jucătorul nu este destul de bun pentru prima echipă, ne bazăm pe oferte ceva mai bune.
+
+"</string>
+    <string name="offerRejectedTitle">%1$s - ofertă de transfer refuzată</string>
+    <string name="offerType">Tipul ofertei:</string>
+    <string name="offeredPrice">Prețul oferit:</string>
+    <string name="offeredSalary">Salariul oferit:</string>
+    <string name="offersMade">Oferte făcute</string>
+    <string name="offersReceived">Oferte primite</string>
+    <string name="office">Birou</string>
+    <string name="offline_notification_text">Atinge pentru a deschide anunțul</string>
+    <string name="offline_notification_title">Vezi anunțul salvat când erai offline</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Vei primi o notificare cu linkul când revii online</string>
+    <string name="offline_opt_in_decline">Nu</string>
+    <string name="offline_opt_in_message">Îți vom trimite o notificare cu un link la site-ul advertiserului.</string>
+    <string name="offline_opt_in_title">Deschide anunțul când revii online.</string>
+    <string name="offsideAction1">Arbitrul consideră offside!</string>
+    <string name="offsideAction2">Offside!</string>
+    <string name="offsideAction3">Arbitrul fluieră! Offside!</string>
+    <string name="offsideAction4">Arbitrul de tușa flutură, ofsaid!</string>
+    <string name="offsideAction5">E ofsaid, fanionul este ridicat!</string>
+    <string name="offsideTraps">Trapul la ofsaid:</string>
+    <string name="often">adesea</string>
+    <string name="ok">OK</string>
+    <string name="onTrainingCamp">Curent într-un cantonament in %1$s, (data întoarcerii - %2$s)</string>
+    <string name="oneOnOneAction1">Situaţie unul-la-unul!</string>
+    <string name="oneOnOneAction10">%1$s trebuie să o plaseze!</string>
+    <string name="oneOnOneAction11">Șansă ușoară pentruu %1$s!</string>
+    <string name="oneOnOneAction2">Unul-la-unul cu portarul!</string>
+    <string name="oneOnOneAction3">%1$s singur cu portarul!</string>
+    <string name="oneOnOneAction4">%1$s! Doar portarul de învins!</string>
+    <string name="oneOnOneAction5">%1$s! Trebuie să înscrie!</string>
+    <string name="oneOnOneAction6">%1$s! Ce ocazie!</string>
+    <string name="oneOnOneAction7">%1$s are destul timp</string>
+    <string name="oneOnOneAction8">%1$s se află în spatele apărării!</string>
+    <string name="oneOnOneAction9">Nu-i offside! %1$s!</string>
+    <string name="opponents">Adversari</string>
+    <string name="opponentsDescription">"Aici poți afla câteva informații despre toate echipele împotriva cărora poți juca - și pe care le vei putea folosi pentru a-ți crește șansele de a câștiga meciurile.
+
+ Dacă vrei doar să vezi loturile actuale ale adversarilor, trebuie doar să selectezi echipa și vei afla despre formațiile lor.
+
+ Dacă dorești să obții informații cu adevărat prețioase, îți poți trimite asistenții să urmărească echipa selectată pentru ceva timp. Când analiza este finalizată, vei obține câteva detalii despre tactica lor, împreună cu sfaturi despre tactici pe care le putem folosi în meciurile împotriva lor. Sună bine? "</string>
+    <string name="options">Opţiuni</string>
+    <string name="organisationCostNote">- Preţul organizării amicalului - %1$s</string>
+    <string name="organize_dinner">Organizează o cină</string>
+    <string name="organize_dinner_cons_1">Costă %1$s</string>
+    <string name="organize_dinner_pros_1">Ajută la rezolvarea conflictelor și integrarea jucătorilor izolați</string>
+    <string name="organize_dinner_pros_2">Crește puțin moralul jucătorilor tăi</string>
+    <string name="organize_party">Organizează o petrecere</string>
+    <string name="organize_party_cons_1">Scade forma jucătorilor</string>
+    <string name="organize_party_cons_2">Costă %1$s</string>
+    <string name="organize_party_pros_1">Foarte eficient în rezolvarea conflictelor și integrarea jucătorilor</string>
+    <string name="organize_party_pros_2">Crește moralul jucătorilor</string>
+    <string name="other">alte divizii</string>
+    <string name="otherRivals">Alți rivali:</string>
+    <string name="overview">Privire de ansamblu</string>
+    <string name="ownGoal">aut.</string>
+    <string name="ownGoalAction1">Avem un autogol!</string>
+    <string name="ownGoalAction2">Autogol!</string>
+    <string name="passFarFromPenaltyAreaAction1">%1$s trece repede înainte</string>
+    <string name="passFarFromPenaltyAreaAction2">%1$s trimite frumos mingea coechipierului</string>
+    <string name="passFarFromPenaltyAreaAction3">%1$s trece inteligent printre adversar</string>
+    <string name="passFarFromPenaltyAreaAction4">%1$s trimite mingea cu capul coechipierului</string>
+    <string name="passFarFromPenaltyAreaAction5">%1$s mută mingea înainte</string>
+    <string name="passFarFromPenaltyAreaAction6">%1$s cu pasa</string>
+    <string name="passInPenaltyAreaAction1">%1$s joacă simplu!</string>
+    <string name="passInPenaltyAreaAction2">%1$s pasează în suprafaţa de pedeapsă!</string>
+    <string name="passInPenaltyAreaAction3">%1$s va şuta! Nu! Îi dă mingea coechipierului!</string>
+    <string name="passInPenaltyAreaAction4">%1$s trimite mingea colegului său!</string>
+    <string name="passInPenaltyAreaAction5">%1$s joacă cu coechipierul!</string>
+    <string name="passIntoPenaltyAreaAction1">%1$s driblează în suprafaţa de pedeapsă!</string>
+    <string name="passIntoPenaltyAreaAction2">%1$s joacă simplu!</string>
+    <string name="passIntoPenaltyAreaAction3">%1$s trimite mingea în suprafaţa de pedeapsă</string>
+    <string name="passIntoPenaltyAreaAction4">%1$s aduce mingea în careu!</string>
+    <string name="passIntoPenaltyAreaAction5">%1$s trimite mingea în suprafața de pedeapsă!</string>
+    <string name="passToCenterAction1">%1$s joacă în centru</string>
+    <string name="passToCenterAction2">%1$s trimite mingea în centru</string>
+    <string name="passToCenterAction3">%1$s centrează balonul</string>
+    <string name="passToLeftSideAction1">%1$s trimite mingea în stânga</string>
+    <string name="passToLeftSideAction2">%1$s joacă în stânga</string>
+    <string name="passToLeftSideAction3">%1$s duce mingea spre stânga</string>
+    <string name="passToLeftSideAction4">%1$s deschide jocul spre stânga</string>
+    <string name="passToLeftSideAction5">%1$s trimite mingea în flancul stâng</string>
+    <string name="passToRightSideAction1">%1$s trimite mingea în dreapta</string>
+    <string name="passToRightSideAction2">%1$s joacă în dreapta</string>
+    <string name="passToRightSideAction3">%1$s aduce mingea spre dreapta</string>
+    <string name="passToRightSideAction4">%1$s deschide jocul spre dreapta</string>
+    <string name="passToRightSideAction5">%1$s trimite balonul în flancul drept</string>
+    <string name="passing">Pase</string>
+    <string name="pauseMatch">Pauză</string>
+    <string name="penalize">Penalizare</string>
+    <string name="penaltyFailText1">Ce ratare uriaşă!</string>
+    <string name="penaltyFailText2">A ratat...</string>
+    <string name="penaltyFailText3">Puţin peste bară!</string>
+    <string name="penaltyFailText4">Peste poartă!</string>
+    <string name="penaltyFailText5">Reflexul goalkeeperului!</string>
+    <string name="penaltyGoal">pen.</string>
+    <string name="penaltyKick">Penalty!</string>
+    <string name="penaltyKickAction1">Cât se poate de corectă această decizie!</string>
+    <string name="penaltyKickAction2">Dar arbitrul lasă jocul să continue!</string>
+    <string name="penaltyKickAction3">Protestele sunt inutile, mingea este deja pe punctul cu var!</string>
+    <string name="penaltyKickAction4">Bună decizia arbitrului!</string>
+    <string name="penaltyKickAction5">Șansa de aur pentru a înscrie!</string>
+    <string name="penaltyKickAction6">Arbitrul ignoră protestele!</string>
+    <string name="penaltyKickAction7">Clar, a fost o decizie bună!</string>
+    <string name="penaltyKickAction8">Oh, ce greșeală face arbitrul!</string>
+    <string name="penaltyKickExecution1">%1$s este pregătit să şuteze...</string>
+    <string name="penaltyKickExecution2">%1$s respiră adânc</string>
+    <string name="penaltyKickExecution3">%1$s ia elan...</string>
+    <string name="penaltyKickExecution4">%1$s are opurtunitatea...</string>
+    <string name="penaltyKickExecution5">%1$s plasează mingea jos...</string>
+    <string name="penaltyKickExecution6">%1$s se pregătește să șuteze...</string>
+    <string name="penaltyKickReason1">%1$s (%2$s) a fost faultat!</string>
+    <string name="penaltyKickReason2">%1$s (%2$s) a făcut henţ în careu!</string>
+    <string name="penaltyType">Tipul de penalizare:</string>
+    <string name="penalty_area">careu</string>
+    <string name="peopleToHire">Oameni pentru angajare</string>
+    <string name="phoneCall">Apel telefonic</string>
+    <string name="physiotherapist">Fizioterapeut</string>
+    <string name="placeOfCamp">Locul de cantonament:</string>
+    <string name="playFriendlyMatches">Joci amicale cu echipele locale?</string>
+    <string name="playerAge">Vârstă:</string>
+    <string name="playerAgeMax">Vârstă maximă:</string>
+    <string name="playerAgeMin">Vârstă minimă:</string>
+    <string name="playerCaughtClubbingContent">"Sefu', am câteva vești proaste. Cineva l-a vazut pe %1$s ultima noapte în timp ce băuse tone de alcool si avuse parte de prea multă distracție în clubul de noapte. Nu-ți poți lăsa jucătorii să acționeze în acest fel; este prea departe de un stil de viață profesional."</string>
+    <string name="playerCaughtClubbingTitle">%1$s a fost văzut într-un club de noapte ieri</string>
+    <string name="playerDidBadTweetsContent">"Șefu', cred că ar trebui să vorbiți cu %1$s. Continuă să posteze prostii pe Twitter, unele dintre ele ofensatoare la adresa rivalilor. Acesta poate nu e un lucru mare, dar un jucător profesional nu ar trebui să se comporte așa."</string>
+    <string name="playerDidBadTweetsTitle">%1$s și-a insultat rivalii pe internet</string>
+    <string name="playerDoesntPlayAnswer1">L-am lăsat să se odihnească pentru ceva timp, el încă este un jucător foarte important pentru mine.</string>
+    <string name="playerDoesntPlayAnswer2">Ei bine, alți jucători sunt în formă, deasemenea. Dacă muncește din greu, cu siguranță va primi mai multe șanse.</string>
+    <string name="playerDoesntPlayAnswer3">%1$s? Este atât de slab momentan, de asta.</string>
+    <string name="playerDoesntPlayQuestion">%1$s nu a primit prea multe șanse de a juca în ultimul timp. De ce?</string>
+    <string name="playerGaveBadInterviewContent">"Șefu', ai citit ziarul de astăzi? Oh, uitasem - tu nu citești ziare... Oricum. Jucătorul nostru, %1$s a dat un interviu în care a spus câteva lucruri nepotrivite despre tine și câțiva dintre colegii săi. Astfel de lucruri pot afecta atmosfera la echipa, deci cred ca ar trebui sa reacționezi cumva..."</string>
+    <string name="playerGaveBadInterviewTitle">%1$s a dat un interviu controversat</string>
+    <string name="playerGoodFormAnswer1">Categoric. Nu-mi pot imagina echipa %1$s fară el.</string>
+    <string name="playerGoodFormAnswer2">Adevărat, dar alți jucători sunt deasemenea într-o formă bună în acest moment.</string>
+    <string name="playerGoodFormAnswer3">Nu, nu prea cred.</string>
+    <string name="playerGoodFormQuestion">%1$s se descurcă destul de bine în ultimul timp, fiind cel mai valoros jucător al echipei. Ești de acord?</string>
+    <string name="playerInformation">Informațiile jucătorului</string>
+    <string name="playerInjured">%1$s (%2$s) accidentat</string>
+    <string name="playerInjuredAction1">Va trebui să părăsească gazonul</string>
+    <string name="playerInjuredAction2">Nu mai poate continua acest meci</string>
+    <string name="playerInjuredAction3">Asta înseamnă sfârșitul jocului pentru el</string>
+    <string name="playerInjuredMatchContent">%1$s a suferit o accidentare în timpul meciului. Recuperarea lui completă ar trebui să ia în jur de %2$s săptămâni.</string>
+    <string name="playerInjuredTitle">%1$s accidentat</string>
+    <string name="playerInjuredTrainingContent">%1$s a suferit o accidentare în timpul antrenamentului. Recuperarea lui completă ar trebui să ia în jur de %2$s săptămâni.</string>
+    <string name="playerIsInjured">%1$s este accidentat!</string>
+    <string name="playerMissedTrainingContent">"Șefu', sunt sigur că ai observat absența lui %1$s din timpul antrenamentului de astăzi. Sper că îl vei face să regrete acționarea într-un astfel de mod neprofesional."</string>
+    <string name="playerMissedTrainingTitle">%1$s a lipsit de la antrenament</string>
+    <string name="playerName">Nume:</string>
+    <string name="playerNationality">Naţionalitate:</string>
+    <string name="playerOfTheMonthContent">%1$s, (%2$s) a câștigat titlul de jucător al lunii (%3$s, %4$s). %5$s, (%6$s) și %7$s, (%8$s) sunt clasați pe locurile 2, respectiv 3.</string>
+    <string name="playerOfTheMonthTitle">Jucătorul lunii - %1$s</string>
+    <string name="playerOfTheYearContent">%1$s (%2$s) a câștigat titlul de jucător al anului în (%3$s). %4$s (%5$s) și %6$s (%7$s) sunt următorii clasați pe locurile 2, respectiv 3.</string>
+    <string name="playerOfTheYearTitle">Jucătorul anului - %1$s</string>
+    <string name="playerOptions">Opţiuni...</string>
+    <string name="playerPosition">Poziţia preferată:</string>
+    <string name="playerPunishments">Sancțiunile jucătorilor</string>
+    <string name="playerRatings">Cei mai buni jucători</string>
+    <string name="playerReaction">Reacția lui %1$s</string>
+    <string name="playerRefusedLoanContent">"%1$s a refuzat oferta de împrumut de la %2$s.
+
+El a precizat că contractul oferit nu este destul de atractiv pentru a părasi clubul nostru."</string>
+    <string name="playerRefusedLoanTitle">%1$s a refuzat oferta de împrumut a celor de la %2$s</string>
+    <string name="playerRefusedToRenewContractContent">"%1$s a refuzat oferta de reînnoire a contractului.
+
+Acesta a declarat că merită o ofertă mai bună."</string>
+    <string name="playerRefusedToRenewContractTitle">%1$s - ofertă de contract refuzată</string>
+    <string name="playerRefusedToSignContractContent">"%1$s rejected your contract offer.
+
+He said that he deserves better offer."</string>
+    <string name="playerRefusedTransferContent">%1$s a refuzat oferta de contract de la %2$s. Acesta a spus că oferta nu este destul de atractivă pentru a părăsi clubul nostru.</string>
+    <string name="playerRefusedTransferTitle">%1$s a refuzat oferta echipei %2$s</string>
+    <string name="playerRenewedContractContent">"%1$s a acceptat oferta de reînnoire a contractului.
+
+Noul contract expiră la data de %2$s"</string>
+    <string name="playerRenewedContractTitle">%1$s şi-a reînnoit contractul</string>
+    <string name="playerReturnedAfterInjuryContent">Vești bune! %1$s s-a recuperat în totalitate de la ultima lui accidentare și așteaptă cu nerăbdare întoarcerea lui pe teren.</string>
+    <string name="playerReturnedAfterInjuryTitle">%1$s s-a refăcut după accidentare</string>
+    <string name="playerReturnedContent">%1$s s-a întors în echipa noastră. În ultimile luni a fost împrumutat la %2$s</string>
+    <string name="playerReturnedTitle">%1$s s-a întors din împrumut de la %2$s</string>
+    <string name="playerRewards">Recompensele jucătorilor</string>
+    <string name="playerSalaries">Salariile jucătorilor</string>
+    <string name="playerSkill">Abilitatea totală:</string>
+    <string name="playerSoldContent">%1$s a semnat astăzi un contract cu %2$s. Jucătorul a fost vândut pentru suma de %3$s.</string>
+    <string name="playerSoldTitle">%1$s a fost vândut la %2$s</string>
+    <string name="playerStats">Statisticile jucătorului</string>
+    <string name="playerTapToShowDetails">Jucător (apasă pentru detalii):</string>
+    <string name="playerTrainedHardContent">"Șefu', face o treabă bună în timpul antrenamentelor. Uneori stă mai mult să practice câteva lovituri libere și alte exercitii. Ar trebui să-i aratați ca îl apreciați pentru asta."</string>
+    <string name="playerTrainedHardTitle">%1$s muncește mai mult decât de obicei</string>
+    <string name="playerTrainedWithYouthContent">"Șefu', doar am observat că %1$s a fost destul de drăguț să rămână după antrenament și să se antreneze puțin cu juniorii noștri. Le-a arătat câteva scheme și a purtat o discuție cu ei. A fost o experiență de neuitat pentru tinerii noștri jucători. De ce nu îl rasplătești într-un mod plăcut?"</string>
+    <string name="playerTrainedWithYouthTitle">%1$s ajută jucătorii mai tineri</string>
+    <string name="playerVisitedChildrenContent">"Șefu', ai auzit? %1$s a făcut un lucru deosebit. În timpul său liber a vizitat spitalul local și a avut o întâlnire cu câțiva dintre copiii de acolo. Împreună, au avut un timp de calitate, iar copiii au fost total impresionați de idolul lor. Cred că ar trebui să-i facem cunoscut faptul că astfel de lucruri sunt binevenite și mă gândesc: cum îl putem recompensa?"</string>
+    <string name="playerVisitedChildrenTitle">%1$s a vizitat copiii din spital</string>
+    <string name="players">Jucători</string>
+    <string name="players_edited">Jucători editați:</string>
+    <string name="playoff">Play-Off</string>
+    <string name="playoffs">Play-Off</string>
+    <string name="pleasePlusOne">şi un +1 pe Google+!</string>
+    <string name="pleaseRate">"Îți place True Football 3?
+
+Ajută aplicația evaluând-o în Google Play:"</string>
+    <string name="points">p.</string>
+    <string name="points2">puncte</string>
+    <string name="pointsForAchievements">Puncte pentru realizări:</string>
+    <string name="pointsForTrophies">Puncte pentru trofee:</string>
+    <string name="pointsTable">Pts</string>
+    <string name="poorPerformance">performanță slabă</string>
+    <string name="possesionCenterAction1">%1$s la balon</string>
+    <string name="possesionCenterAction2">%1$s cere la mijloc!</string>
+    <string name="possesionCenterAction3">%1$s aşteaptă sprijin</string>
+    <string name="possesionCenterAction4">%1$s ține jocul</string>
+    <string name="possesionCenterAction5">%1$s posedă mingea</string>
+    <string name="possesionCenterAction6">%1$s întarzie să joace mingea</string>
+    <string name="possesionCenterAction7">Reușit control al lui %1$s</string>
+    <string name="possesionCenterAction8">%1$s avansează cu mingea</string>
+    <string name="possesionLeftSideAction1">%1$s are mingea în partea stângă</string>
+    <string name="possesionLeftSideAction2">%1$s aleargă în partea stângă!</string>
+    <string name="possesionLeftSideAction3">%1$s avansează pe partea stângă!</string>
+    <string name="possesionLeftSideAction4">%1$s se mută pe partea stângă!</string>
+    <string name="possesionRightSideAction1">%1$s are mingea în partea dreaptă</string>
+    <string name="possesionRightSideAction2">%1$s aleargă în partea dreaptă!</string>
+    <string name="possesionRightSideAction3">%1$s avansează pe partea dreapta!</string>
+    <string name="possesionRightSideAction4">%1$s se mută pe partea dreaptă!</string>
+    <string name="pot">Pot</string>
+    <string name="preferredPosition">Poziţia preferată</string>
+    <string name="pressConference">Conferinţa de presă</string>
+    <string name="pressing">Pressing:</string>
+    <string name="previous">Precedent</string>
+    <string name="privateCompliment">compliment privat</string>
+    <string name="privateReprimand">mustrare privata</string>
+    <string name="proceedToMatch">Spre meci</string>
+    <string name="professionalBehavior">comportament profesional</string>
+    <string name="profile">Profil</string>
+    <string name="promotionContent">"Domnule, sunt atât de fericit că am reușit!
+
+Această promovare în divizia superioară este marele nostru succes. Ca manager ai făcut o treabă fantastică, de aceea îți mulțumesc foarte mult și sper să continuăm această serie și în sezonul viitor. Cu acest succes ne putem aștepta la mai mulți bani din drepturile TV și de la federație.
+
+Felicitări!"</string>
+    <string name="promotionTitle">Felicitări!</string>
+    <string name="publicCompliment">compliment public</string>
+    <string name="publicReprimand">mustrare publica</string>
+    <string name="pyrotechnics">aprinderea articolelor pirotehnice</string>
+    <string name="qualification">Preliminarii</string>
+    <string name="quarterfinals">Sferturi</string>
+    <string name="quitMatch">Eşti sigur că vrei să termini acest contract? Vei plăti o penalizare de (0:3)</string>
+    <string name="racism">bannere rasiste</string>
+    <string name="random_pick">Echipă aleatoare</string>
+    <string name="rankings">Clasamente</string>
+    <string name="rate">Mergi la Magazinul Google Play</string>
+    <string name="reason">Motivul:</string>
+    <string name="rebellious">rebel</string>
+    <string name="received">primită</string>
+    <string name="recommended">Recomandat:</string>
+    <string name="recommendedPlayers">Jucători recomandați:</string>
+    <string name="records">Recorduri</string>
+    <string name="redCard">Cartonaş roşu</string>
+    <string name="redCards">Cele mai multe cartonaşe roşii</string>
+    <string name="regionToExplore">Regiune:</string>
+    <string name="reject">Refuză</string>
+    <string name="rejectOffer">Respinge</string>
+    <string name="release">Reziliază contractul</string>
+    <string name="relegationContent">"Domnule, aș vrea să-ți aduc la cunoștință că sunt profund dezamăgit de poziția finală în clasament. Retrogradarea este o lovitură imensă pentru clubul nostru. Pentru a o remedia si recâștiga încrederea suporterilor, trebuie să ne îmbunătățim performanța foarte mult și să luptăm pentru promovare în sezonul următor.
+
+Aceasta este ultima ta șansă de a rămâne la %1$s..."</string>
+    <string name="relegationGameOverContent">"Domnule, pot să-ți mai zic ceva?
+
+Retrogradarea este o imensă lovitură pentru noi. Întregul sezon a fost dezastruos. Avem mult mai mult potențial decât atât. Nu știu care va fi viitorul clubului acum, dar sigur tu nu mai ai ce căuta aici.
+
+La revedere!"</string>
+    <string name="relegationTitle">Ce păcat!</string>
+    <string name="remove">Elimină</string>
+    <string name="removeFromFirstTeam">Elimină din prima echipă</string>
+    <string name="removeThisTeam">Elimină echipa</string>
+    <string name="remove_analysis_confirmation_dialog">Vrei să oprești analiza echipei pentru %1$?</string>
+    <string name="remove_results_confirmation_dialog">Dorești să elimini rezultatele analizei din %1$s?</string>
+    <string name="renewContract">Reînnoieşte contractul</string>
+    <string name="replay">replay</string>
+    <string name="reportCost">Costul raportului:</string>
+    <string name="reportTime">Timpul necesar:</string>
+    <string name="reset_edit_file">Resetează fișierul de editat</string>
+    <string name="results">Rezultate</string>
+    <string name="results_available">Rezultate disponibile</string>
+    <string name="returnDate">Data întoarcerii:</string>
+    <string name="returnToMainMenu">Revini la meniul principal?</string>
+    <string name="revenue">Venituri:</string>
+    <string name="reward">Recompensă</string>
+    <string name="rewardType">Tipul recompensei:</string>
+    <string name="rival">Adversar:</string>
+    <string name="role">Rol</string>
+    <string name="roundOf16">Optimi</string>
+    <string name="roundOf32">Runda 16-imilor</string>
+    <string name="roundOf64">Runda 32-imilor</string>
+    <string name="roundX">Săptămâna %1$s</string>
+    <string name="s1">Salvează imaginea</string>
+    <string name="s2">Permiți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
+    <string name="s3">Acceptă</string>
+    <string name="s4">Refuză</string>
+    <string name="s5">Creează un eveniment în calendar</string>
+    <string name="s6">Permiți ca anunțul să creeze un eveniment în calendar?</string>
+    <string name="s7">Anunț de probă</string>
+    <string name="salary">Salariu</string>
+    <string name="saturday">Sâm</string>
+    <string name="save">Salvează</string>
+    <string name="saveGame">Salvează jocul</string>
+    <string name="saving">Se salvează...</string>
+    <string name="scout">Scouter</string>
+    <string name="scoutContinuesSearchingContent">Scouterul nostru, %1$s își continuă căutarea. Momentan, el a pregătit o listă de %2$s de jucători care merită văzuți.</string>
+    <string name="scoutContinuesSearchingTitle">Scouterul %1$s în căutare</string>
+    <string name="scoutReport">Raportul scouterului</string>
+    <string name="scoutReportContent">"Bună, domnule. Aici este raportul meu despre %1$s:
+
+"</string>
+    <string name="scoutReportContent2">"%1$s joacă ca %2$s.
+"</string>
+    <string name="scoutReportContentHighPotential">"Are un potențial puternic și nu am îndoieli că se va îmbunătăți mult de-a lungul carierei.
+"</string>
+    <string name="scoutReportContentLowPotential">"Potențialul său este destul de scăzut. Nu cred că se va îmbunătăți prea mult.
+"</string>
+    <string name="scoutReportContentMuchBetter">"Este mult mai bun decât cel mai bun jucător al nostru pe poziția lui (%1$s).
+"</string>
+    <string name="scoutReportContentMuchWorse">"Este mult mai slab decât cel mai bun jucător al nostru pe poziția lui (%1$s).
+"</string>
+    <string name="scoutReportContentNotYoung">"Nu mai este un jucător tânăr nicidecum, deci nu ar trebui sa te aștepți să-și îmbunătățească abilitățile semnificativ.
+"</string>
+    <string name="scoutReportContentOld">"Este deja un jucător bătrân, deci fii atent că abilitățile sale vor fi din ce în ce mai rele.
+"</string>
+    <string name="scoutReportContentQuiteHighPotential">"Dacă muncește foarte mult poate fi un jucător un pic mai bun în viitor.
+"</string>
+    <string name="scoutReportContentSlightlyBetter">"Este puțin mai bun decât cel mai bun jucător al nostru pe poziția lui (%1$s).
+"</string>
+    <string name="scoutReportContentSlightlyWorse">"Este puțin mai slab decât cel mai bun jucător al nostru pe poziția lui (%1$s).
+"</string>
+    <string name="scoutReportContentVeryHighPotential">"Potențialul sau este extraordinar și sunt sigur ca va fi un jucător și mai bun în viitor.
+"</string>
+    <string name="scoutReportContentVeryLowPotential">"Nu vad vreun potențial în el. În opinia mea, abilitățile sale nu vor fi prea mari.
+"</string>
+    <string name="scoutReportTitle">%1$s - raportul scouterului</string>
+    <string name="scouting">Scouting</string>
+    <string name="scoutingDescription">"Scoutingul este foarte important dacă dorești să cauți jucători talentați. Scouterii pot explora diverse regiuni din lume pentru a căuta jucători interesanți.
+
+ Fiecare jucător își are potențialul, care decide dacă jucătorul va crește repede sau încet. Numai scouterii pot vedea potențialul. Cu cât scouterul este mai experimentat, cu atât explicațiile sale despre jucători vor fi mai precise.
+
+ Dacă nu atribui scouterul unei regiuni îl mai poți folosi pentru crearea raporturilor jucătorilor pe care îi urmărești."</string>
+    <string name="scoutsInClub">Scouterii din club:</string>
+    <string name="search">Căutare</string>
+    <string name="search2">Căutare...</string>
+    <string name="searchForPlayers">Caută jucători</string>
+    <string name="searchForPosition">Poziţia:</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="secondChampionship">Al doilea turneu</string>
+    <string name="secondDivision">Liga a II-a</string>
+    <string name="secondGroup">B</string>
+    <string name="secondLeg">manşa 2</string>
+    <string name="secondPosition">Alte poziţii</string>
+    <string name="secondShotAction1">%1$s va finaliza!</string>
+    <string name="secondShotAction2">%1$s aleargă pentru a finaliza!</string>
+    <string name="secondShotAction3">%1$s ajunge la minge!</string>
+    <string name="secondShotAction4">%1$s va avea o șansă!</string>
+    <string name="secondShotAction5">%1$s! O altă șansă!</string>
+    <string name="secondYellowCard">Este al doilea!!!</string>
+    <string name="security">Securitate</string>
+    <string name="selectCountriesToFollow">Selectați până la 5 țări pentru a le urma competițiile:</string>
+    <string name="selectTeamToAnalyze">Selectează echipa pentru analiză:</string>
+    <string name="semifinals">Semi-finale</string>
+    <string name="sent">trimisă</string>
+    <string name="september">Septembrie</string>
+    <string name="setPieces">Faze fixe</string>
+    <string name="settings">Setări</string>
+    <string name="seventhDivision">Liga a VII-a</string>
+    <string name="shape">Formă</string>
+    <string name="shirt_primary">Secundar 1</string>
+    <string name="shirt_secondary">Secundar 2</string>
+    <string name="shooting">Şut</string>
+    <string name="shop">Magazin</string>
+    <string name="shopRevenue">Veniturile magazinelor</string>
+    <string name="shortCornerKickAction1">%1$s takes a short corner kick!</string>
+    <string name="short_passes">scurte</string>
+    <string name="shotAction1">%1$s! Ce lovitură puternică!</string>
+    <string name="shotAction2">%1$s şutează!</string>
+    <string name="shotAction3">%1$s! Ce şut precis!</string>
+    <string name="shotAction4">%1$s cu un șut!</string>
+    <string name="shotAction5">%1$s prinde un șut!</string>
+    <string name="shotAction6">%1$s încearcă să marcheze!</string>
+    <string name="shotAction7">%1$s încearcă un șut!</string>
+    <string name="shotAction8">%1$s își încearcă norocul!</string>
+    <string name="shotAction9">%1$s încearcă să depășească portarul!</string>
+    <string name="shotMissedAction1">Ce ratare uriaşă!</string>
+    <string name="shotMissedAction10">La mile depărtare de cadrul porții...</string>
+    <string name="shotMissedAction11">Wow, ăsta a fost aproape!</string>
+    <string name="shotMissedAction12">Ratată! Dar a fost o execuție gingașă, totuși</string>
+    <string name="shotMissedAction13">Peste bară!</string>
+    <string name="shotMissedAction14">Nu-i cea mai bună ocazie</string>
+    <string name="shotMissedAction15">Aproape!</string>
+    <string name="shotMissedAction16">Ce ratare jenantă...</string>
+    <string name="shotMissedAction2">Atât de aproape!</string>
+    <string name="shotMissedAction3">A ratat...</string>
+    <string name="shotMissedAction4">Puţin peste bară!</string>
+    <string name="shotMissedAction5">Trece pe lângă bară...</string>
+    <string name="shotMissedAction6">Bună ocazia! Dar a ratat puțin</string>
+    <string name="shotMissedAction7">Dar trece defectuos pe lângă bară...</string>
+    <string name="shotMissedAction8">Nici măcar pe cadrul porții</string>
+    <string name="shotMissedAction9">Uau, ăsta a fost un șut frumos!</string>
+    <string name="show_squad">Arată lotul</string>
+    <string name="simulationMode">Modul de simulare:</string>
+    <string name="sixthDivision">Liga a VI-a</string>
+    <string name="skill">Abilitatea totală</string>
+    <string name="sometimes">uneori</string>
+    <string name="sort">Sortează</string>
+    <string name="sound">Sunet:</string>
+    <string name="south">Sud</string>
+    <string name="south_africa">Africa (sud)</string>
+    <string name="south_america">America de Sud</string>
+    <string name="south_asia">Asia (sud)</string>
+    <string name="south_east">Sud-est</string>
+    <string name="south_east_asia">Asia (sud-est)</string>
+    <string name="south_east_europe">Europa (sud-est)</string>
+    <string name="south_south_america">America de Sud (sud)</string>
+    <string name="south_west">Sud-vest</string>
+    <string name="south_west_europe">Europa (sud-vest)</string>
+    <string name="specialThanks">"Mulțumiri speciale pentru marele sprijin
+(bază de date, competiţii, traducere):"</string>
+    <string name="speechResults">Rezultatele discursului:</string>
+    <string name="spokesmanForFans">Reprezentantul fanilor</string>
+    <string name="sponsorBonusContent">Super vești, domnule! Sponsorul nostru, %1$s a decis să acorde clubului un bonus de %2$s. După cum poți vedea, rezultatele bune ale echipei pot aduce niște beneficii. Continuă această treabă bună!</string>
+    <string name="sponsorBonusTitle">Bani suplimentari de la %1$s</string>
+    <string name="sponsors">Sponsorizări</string>
+    <string name="sponsorshipOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de sponsorizare a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="sponsorshipOfferWithdrawnTitle">%1$s - ofertă de sponsorizare retrasă</string>
+    <string name="sponsorshipOffers">Oferte de sponsorizare</string>
+    <string name="sponsorshipType">Tipul de sponsorizare</string>
+    <string name="sponsorships">Sponsorizări</string>
+    <string name="squad">Echipă</string>
+    <string name="stadium">Stadion</string>
+    <string name="stadiumCapacity">Capacitatea stadionului:</string>
+    <string name="stadiumEmployeesDescription">"Poți controla numărul oamenilor care lucrează la stadion.
+
+ Angajarea mai multor asistenți in magazine sau gastronomie poate crește nivelul încasărilor din timpul meciurilor.
+
+ Dacă stadionul este destul de mare pentru a atrage turiști vei avea nevoie de ghizi pentru a le da informații.
+
+ Jandarmii pot preveni comportamentul agresiv al fanilor. Cel mai bine angajezi câțiva - penalitățile nu vor fi atât de dure.
+
+ Pe masură ce stadionul se extinde vei avea nevoie de tot mai mulți oameni care să aibă grijă de el. Dacă nu ai destul personal vei avea parte de tot mai multe daune și stricăciuni."</string>
+    <string name="stadiumMaintenance">Întreţinerea stadionului</string>
+    <string name="starPlayerBoughtAnswer1">Sunt destul de sigur, este un jucător uluitor! Mereu am visat să-l aduc în echipa mea!</string>
+    <string name="starPlayerBoughtAnswer2">Da, cred că va fi o piesă importantă in echipa noastră.</string>
+    <string name="starPlayerBoughtAnswer3">Nu am staruri în echipa mea. Trebuie să muncească din greu dacă vrea să joace aici.</string>
+    <string name="starPlayerBoughtQuestion">Ultimele știri sunt uimitoare. %1$s va juca pentru echipa ta! Crezi că poate fi noul superstar al echipei %2$s?</string>
+    <string name="start">Start!</string>
+    <string name="startingLineup">Echipa de start</string>
+    <string name="stats">Istorie</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_away">stai departe</string>
+    <string name="strength">Rezistenţă</string>
+    <string name="strong_">puternic</string>
+    <string name="subInText1">%1$s este deja pe teren</string>
+    <string name="subInText2">%1$s l-a înlocuit</string>
+    <string name="subInText3">A intrat %1$s</string>
+    <string name="subInText4">%1$s îl va înlocui</string>
+    <string name="subInText5">%1$s primește șansa lui</string>
+    <string name="subInText6">%1$s aleargă pe teren</string>
+    <string name="subInText7">%1$s a venit să-l înlocuiască</string>
+    <string name="subInText8">%1$s a venit din postura de rezervă</string>
+    <string name="subOutText1">%1$s nu va mai juca în această seară</string>
+    <string name="subOutText2">%1$s a ieşit</string>
+    <string name="subOutText3">%1$s va trebui să părăsească terenul</string>
+    <string name="subOutText4">%1$s părăsește gazonul</string>
+    <string name="subOutText5">Meciul este terminat pentru %1$s</string>
+    <string name="subOutText6">%1$s va fi înlocuit</string>
+    <string name="subOutText7">%1$s este cărat de pe teren</string>
+    <string name="subOutText8">Arata ca %1$s va iesi</string>
+    <string name="submitScore">Înregistrează scorul!</string>
+    <string name="substitutions">Rezerve</string>
+    <string name="sunday">Dum</string>
+    <string name="superCup">Supercupa</string>
+    <string name="suspendedFor">Suspendat de 1 săptămână</string>
+    <string name="swap">Schimbă</string>
+    <string name="swapWith">Schimbați cu...</string>
+    <string name="swapWithOtherTeam">Schimbă cu o altă echipă</string>
+    <string name="table">Clasamente</string>
+    <string name="tackling">Tackling</string>
+    <string name="tactics">Tactici</string>
+    <string name="takeABankLoan">Ia un împrumut</string>
+    <string name="team">Echipă</string>
+    <string name="teamAlreadyExists">Există deja o echipă cu acest nume. Introdu altul</string>
+    <string name="teamBudget">Buget:</string>
+    <string name="teamDoctor">Medicul echipei</string>
+    <string name="teamOrders">Sarcinile echipei</string>
+    <string name="teamSkill">Notă:</string>
+    <string name="teamStadiumCapacity">Capacitatea stadionului:</string>
+    <string name="team_emblems_edited">Sigle editate:</string>
+    <string name="team_integration">Integrarea echipei</string>
+    <string name="team_names_edited">Nume de echipe editate:</string>
+    <string name="team_swapped">Echipe schimbate:</string>
+    <string name="teamsManaged">Echipe antrenate:</string>
+    <string name="technical">Tehnic</string>
+    <string name="technicalShotAction1">%1$s! Splendidă foarfecă!</string>
+    <string name="technicalShotAction2">%1$s cu un şut acrobatic!</string>
+    <string name="technicalShotAction3">%1$s încearcă o foarfecă!</string>
+    <string name="technicalShotAction4">%1$s! Ce şut fabulos!</string>
+    <string name="technicalShotAction5">%1$s cu un voleu!</string>
+    <string name="technicalShotAction6">%1$s cu o încercare spectaculoasă!</string>
+    <string name="technicalShotAction7">%1$s încearcă un semi-voleu!</string>
+    <string name="technique">Tehnică</string>
+    <string name="terminateContract">Sfârşitul contractului</string>
+    <string name="thanks">Mulţumiri speciale:</string>
+    <string name="thatsAll">Mulțumesc pentru timpul acordat, domnule!</string>
+    <string name="thirdDivision">Liga a III-a</string>
+    <string name="thirdGroup">C</string>
+    <string name="thisTeamHasNoTrainer">Această echipă nu are antrenor. Atribuie unul pentru a permite jucătorilor să crească.</string>
+    <string name="thursday">Joi</string>
+    <string name="ticketIncome">Venituri din vânzarea de bilete</string>
+    <string name="ticketPrices">Preţul biletelor</string>
+    <string name="timeWasting">Trageri de timp:</string>
+    <string name="toTransferList">Adaugă la lista de transferuri</string>
+    <string name="topScorer">Cel mai bun marcator:</string>
+    <string name="totalCost">Costul total:</string>
+    <string name="tours">Ghiduri</string>
+    <string name="toursRevenue">Veniturile tururilor</string>
+    <string name="toursTickets">Tur</string>
+    <string name="trainer">Antrenor</string>
+    <string name="training">Antrenament</string>
+    <string name="trainingCamp">Cantonament</string>
+    <string name="trainingCampInfo">În timpul cantonamentelor, tot personalul contribuie, ceea ce face antrenamentul mult mai eficient. Deasemenea, acesta ridică moralul jucătorilor tăi și îți dă șansa să joci câteva amicale cu echipele locale.</string>
+    <string name="trainingCampPlanned">Cantonament deja planificat.</string>
+    <string name="trainingCamps">Baze de antrenament</string>
+    <string name="trainingFields">Baze de antrenament</string>
+    <string name="trainingFieldsDescription">Cu cât ai mai multe terenuri de pregătire, cu atât poți creea mai multe echipe de tineret. Fiecare teren te costă %1$s pe lună.</string>
+    <string name="trainingResults">Ultimele rezultate</string>
+    <string name="trainingSettings">Antrenament</string>
+    <string name="transferCancelledContent">Din cauza problemelor financiare, transferul lui %1$s a căzut.</string>
+    <string name="transferCancelledTitle">%1$s - transfer anulat</string>
+    <string name="transferOfferWithdrawnContent">Domnule, pentru că nu mi-ați răspuns la oferta de transfer a lui %1$s aceasta a fost retrasă și nu mai este disponibilă.</string>
+    <string name="transferOfferWithdrawnTitle">%1$s - Ofertă de transfer retrasă</string>
+    <string name="transferWindowClosedContent">Fereastra de transferuri a fost închisă.</string>
+    <string name="transferWindowClosedTitle">Fereastra de transferuri închisă</string>
+    <string name="transferWindowOpenedContent">Fereastra de transferuri s-a deschis. Poți efectua transferuri până la %1$s.</string>
+    <string name="transferWindowOpenedTitle">Fereastra de transferuri deschisă</string>
+    <string name="transfers">Transferuri</string>
+    <string name="transfersIn">Transferuri făcute</string>
+    <string name="transfersOut">Jucători transferaţi</string>
+    <string name="translation">Traducere:</string>
+    <string name="tribuneClosedDueToMaintenanceContent">"Datorită problemelor de întreținere, una dintre tribunele stadionului, (%1$s) trebuie să fie închisa.
+
+Ar fi nevoie de circa %2$s de zile pentru remedierea tuturor problemelor, iar în cursul acestui timp tribuna va fi indisponibilă."</string>
+    <string name="tribuneClosedDueToMaintenanceTitle">Tribună închisa datorită întreținerilor</string>
+    <string name="tribunes">Tribune:</string>
+    <string name="tripCostNote">- Costul transportului - %1$s</string>
+    <string name="tripsAcommodations">Cazare şi transport</string>
+    <string name="trophies">Trofee</string>
+    <string name="tuesday">Mar</string>
+    <string name="tvRights">Drepturi TV</string>
+    <string name="u21">U-21 team</string>
+    <string name="uk_and_ireland">Europa (Marea Britanie și Irlanda)</string>
+    <string name="undoTransferList">Scoate de pe lista de transferuri</string>
+    <string name="unprofessionalBehavior">comportament neprofesional</string>
+    <string name="upgradeCost">- Costul modernizării - %1$s.</string>
+    <string name="upgradeTime">- Modernizarea va dura %1$s luni. Din acest moment, întreaga tribună va fi închisă.</string>
+    <string name="upgradeTribune">Modernizează</string>
+    <string name="upset">supărat</string>
+    <string name="usa">America de Nord (SUA)</string>
+    <string name="useEditedNames">Foloseşte nume editate de jucători</string>
+    <string name="useRandomNames">Foloseşte nume la întâmplare de jucători</string>
+    <string name="value">Valuare</string>
+    <string name="venue">Venit</string>
+    <string name="veryHappy">foarte fericit</string>
+    <string name="veryHigh">Foarte ridicat</string>
+    <string name="veryLow">Foarte slab</string>
+    <string name="very_light_">foarte ușor</string>
+    <string name="very_strong_">foarte puternic</string>
+    <string name="wantToTakeThisTeam">Vrei să gestionați această echipă?</string>
+    <string name="watchVideoYouWillBeRewarded">Vrei să urmărești acest videoclip publicitar? Vei primi %1$s!</string>
+    <string name="watermark_label_prefix">AdMob –</string>
+    <string name="weakPlayerBoughtAnswer1">Prostii. Este un jucător bun și sunt sigur că va întări echipa.</string>
+    <string name="weakPlayerBoughtAnswer2">Ei bine, socotesc că poate juca la nivelul nostru.</string>
+    <string name="weakPlayerBoughtAnswer3">L-am cumpărat doar pentru a face haz. E foarte slab, într-adevăr.</string>
+    <string name="weakPlayerBoughtQuestion">Unii experți consideră că noul nostru jucător, %1$s, nu este suficient de bun pentru echipă. Ce poți să ne spui despre acest transfer?</string>
+    <string name="weatherConditions">Condițiile meteo:</string>
+    <string name="wednesday">Mie</string>
+    <string name="weekX">Săptămâna %1$s</string>
+    <string name="west">Vest</string>
+    <string name="westGroup">vest</string>
+    <string name="west_africa">Africa (vest)</string>
+    <string name="west_europe">Europa (vest)</string>
+    <string name="west_south_america">America de Sud (vest)</string>
+    <string name="whatDoYouWantToSay">Ce vrei să zici?</string>
+    <string name="wins">Victorii:</string>
+    <string name="winsTable">W</string>
+    <string name="world">Lume</string>
+    <string name="worldCup">Cupa Mondială</string>
+    <string name="worldRanking">Clasamentul mondial</string>
+    <string name="xBookedRed">%1$s (%2$s) a ieşit!</string>
+    <string name="xBookedYellow">%1$s (%2$s), avertizat</string>
+    <string name="yellowCard">Cartonaş galben</string>
+    <string name="yellowCards">Cele mai multe cartonaşe galbene</string>
+    <string name="yes">Da</string>
+    <string name="yesyes">Da!</string>
+    <string name="youAlreadyHaveAnAssistant">Nu poți avea mai mult de un asistent.</string>
+    <string name="youAlreadyHaveAnGoalkeeperTrainer">Nu poți avea mai mult de un antrenor de portari la club.</string>
+    <string name="youCanAnalyzeUpToFiveTeams">Poți analiza până la 5 echipe în același timp.</string>
+    <string name="youCantHaveMoreTeams">Nu poți avea mai multe echipe de tineret.</string>
+    <string name="youCantTakeMoreLoans">Nu poți efectua mai multe împrumuturi momentan.</string>
+    <string name="youDontHaveFreeScouts">Nu ai nici un scout liber pentru a pregăti acest raport.</string>
+    <string name="yourCountry">Naţionalitatea ta:</string>
+    <string name="yourName">Numele tău:</string>
+    <string name="yourScore">Scorul tău:</string>
+    <string name="youreWelcome">Cu plăcere.</string>
+    <string name="youthPlayerMovedContent">%1$s a depăşit vârsta de junior şi a fost mutat în prima echipă.</string>
+    <string name="youthPlayerMovedTitle">%1$s a debutat în prima echipă</string>
+    <string name="youthTeamTrainer">Antrenor:</string>
+    <string name="youthTeamType">Tipul echipei:</string>
+    <string name="youthTeams">Echipele de tineret</string>
+    <string name="youthTrainers">Antrenorii de tineret</string>
+    <string name="youthTraining">Antrenamentul juniorilor</string>
+    <string name="youth_trainer">Antrenor de tineret</string>
+</resources>

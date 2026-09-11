@@ -1,0 +1,58 @@
+LEAGUE
+tv_rights 5
+fans_behaviour 1.1
+fans_attendance 0.1
+table -1 -1 1 6 7 12 -1 -1
+add_teams first_time 12 KOR_1
+add_teams next_time 1 6 KOR_1A previous_season
+add_teams next_time 1 4 KOR_1B previous_season
+add_teams next_time 1 1 KOR_PLAYOFF1 previous_season
+add_teams next_time 1 1 KOR_2 previous_season
+week_info 1 9 one_table south_korean_1_3
+week_info 2 10 one_table south_korean_1_3
+week_info 3 11 one_table south_korean_1_3
+week_info 4 13 one_table south_korean_1_3
+week_info 5 14 one_table south_korean_1_3
+week_info 6 15 one_table south_korean_1_3
+week_info 7 17 one_table south_korean_1_3
+week_info 8 18 one_table south_korean_1_3
+week_info 9 19 one_table south_korean_1_3
+week_info 10 20 one_table south_korean_1_3
+week_info 11 21 one_table south_korean_1_3
+week_info 12 22 one_table south_korean_1_3
+week_info 13 24 one_table south_korean_1_3
+week_info 14 25 one_table south_korean_1_3
+week_info 15 26 one_table south_korean_1_3
+week_info 16 27 one_table south_korean_1_3
+week_info 17 29 one_table south_korean_1_3
+week_info 18 30 one_table south_korean_1_3
+week_info 19 32 one_table south_korean_1_3
+week_info 20 33 one_table south_korean_1_3
+week_info 21 34 one_table south_korean_1_3
+week_info 22 35 one_table south_korean_1_3
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+unblock KOR_1A
+unblock KOR_1B
+done 01.01

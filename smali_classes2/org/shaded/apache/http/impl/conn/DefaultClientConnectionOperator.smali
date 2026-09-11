@@ -1,0 +1,394 @@
+.class public Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;
+.super Ljava/lang/Object;
+.source "DefaultClientConnectionOperator.java"
+
+# interfaces
+.implements Lorg/shaded/apache/http/conn/ClientConnectionOperator;
+
+
+# instance fields
+.field protected final schemeRegistry:Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;
+
+
+# direct methods
+.method public constructor <init>(Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;)V
+    .locals 1
+
+    .line 78
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    if-eqz p1, :cond_0
+
+    .line 83
+    iput-object p1, p0, Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;->schemeRegistry:Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;
+
+    return-void
+
+    .line 80
+    :cond_0
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string v0, "Scheme registry must not be null."
+
+    invoke-direct {p1, v0}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+.end method
+
+
+# virtual methods
+.method public createConnection()Lorg/shaded/apache/http/conn/OperatedClientConnection;
+    .locals 1
+
+    .line 87
+    new-instance v0, Lorg/shaded/apache/http/impl/conn/DefaultClientConnection;
+
+    invoke-direct {v0}, Lorg/shaded/apache/http/impl/conn/DefaultClientConnection;-><init>()V
+
+    return-object v0
+.end method
+
+.method public openConnection(Lorg/shaded/apache/http/conn/OperatedClientConnection;Lorg/shaded/apache/http/HttpHost;Ljava/net/InetAddress;Lorg/shaded/apache/http/protocol/HttpContext;Lorg/shaded/apache/http/params/HttpParams;)V
+    .locals 9
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    if-eqz p1, :cond_3
+
+    if-eqz p2, :cond_2
+
+    if-eqz p5, :cond_1
+
+    .line 111
+    invoke-interface {p1}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->isOpen()Z
+
+    move-result v0
+
+    if-nez v0, :cond_0
+
+    .line 116
+    iget-object v0, p0, Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;->schemeRegistry:Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;
+
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getSchemeName()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;->getScheme(Ljava/lang/String;)Lorg/shaded/apache/http/conn/scheme/Scheme;
+
+    move-result-object v0
+
+    .line 117
+    invoke-virtual {v0}, Lorg/shaded/apache/http/conn/scheme/Scheme;->getSocketFactory()Lorg/shaded/apache/http/conn/scheme/SocketFactory;
+
+    move-result-object v8
+
+    .line 119
+    invoke-interface {v8}, Lorg/shaded/apache/http/conn/scheme/SocketFactory;->createSocket()Ljava/net/Socket;
+
+    move-result-object v2
+
+    .line 120
+    invoke-interface {p1, v2, p2}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->opening(Ljava/net/Socket;Lorg/shaded/apache/http/HttpHost;)V
+
+    .line 123
+    :try_start_0
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getHostName()Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getPort()I
+
+    move-result v1
+
+    invoke-virtual {v0, v1}, Lorg/shaded/apache/http/conn/scheme/Scheme;->resolvePort(I)I
+
+    move-result v4
+
+    const/4 v6, 0x0
+
+    move-object v1, v8
+
+    move-object v5, p3
+
+    move-object v7, p5
+
+    invoke-interface/range {v1 .. v7}, Lorg/shaded/apache/http/conn/scheme/SocketFactory;->connectSocket(Ljava/net/Socket;Ljava/lang/String;ILjava/net/InetAddress;ILorg/shaded/apache/http/params/HttpParams;)Ljava/net/Socket;
+
+    move-result-object p2
+    :try_end_0
+    .catch Ljava/net/ConnectException; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 129
+    invoke-virtual {p0, p2, p4, p5}, Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;->prepareSocket(Ljava/net/Socket;Lorg/shaded/apache/http/protocol/HttpContext;Lorg/shaded/apache/http/params/HttpParams;)V
+
+    .line 130
+    invoke-interface {v8, p2}, Lorg/shaded/apache/http/conn/scheme/SocketFactory;->isSecure(Ljava/net/Socket;)Z
+
+    move-result p2
+
+    invoke-interface {p1, p2, p5}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->openCompleted(ZLorg/shaded/apache/http/params/HttpParams;)V
+
+    return-void
+
+    :catch_0
+    move-exception p1
+
+    .line 127
+    new-instance p3, Lorg/shaded/apache/http/conn/HttpHostConnectException;
+
+    invoke-direct {p3, p2, p1}, Lorg/shaded/apache/http/conn/HttpHostConnectException;-><init>(Lorg/shaded/apache/http/HttpHost;Ljava/net/ConnectException;)V
+
+    throw p3
+
+    .line 112
+    :cond_0
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Connection must not be open."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 108
+    :cond_1
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Parameters must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 102
+    :cond_2
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Target host must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 98
+    :cond_3
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Connection must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+.end method
+
+.method protected prepareSocket(Ljava/net/Socket;Lorg/shaded/apache/http/protocol/HttpContext;Lorg/shaded/apache/http/params/HttpParams;)V
+    .locals 0
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    .line 189
+    invoke-static {p3}, Lorg/shaded/apache/http/params/HttpConnectionParams;->getTcpNoDelay(Lorg/shaded/apache/http/params/HttpParams;)Z
+
+    move-result p2
+
+    invoke-virtual {p1, p2}, Ljava/net/Socket;->setTcpNoDelay(Z)V
+
+    .line 190
+    invoke-static {p3}, Lorg/shaded/apache/http/params/HttpConnectionParams;->getSoTimeout(Lorg/shaded/apache/http/params/HttpParams;)I
+
+    move-result p2
+
+    invoke-virtual {p1, p2}, Ljava/net/Socket;->setSoTimeout(I)V
+
+    .line 192
+    invoke-static {p3}, Lorg/shaded/apache/http/params/HttpConnectionParams;->getLinger(Lorg/shaded/apache/http/params/HttpParams;)I
+
+    move-result p2
+
+    if-ltz p2, :cond_1
+
+    if-lez p2, :cond_0
+
+    const/4 p3, 0x1
+
+    goto :goto_0
+
+    :cond_0
+    const/4 p3, 0x0
+
+    .line 194
+    :goto_0
+    invoke-virtual {p1, p3, p2}, Ljava/net/Socket;->setSoLinger(ZI)V
+
+    :cond_1
+    return-void
+.end method
+
+.method public updateSecureConnection(Lorg/shaded/apache/http/conn/OperatedClientConnection;Lorg/shaded/apache/http/HttpHost;Lorg/shaded/apache/http/protocol/HttpContext;Lorg/shaded/apache/http/params/HttpParams;)V
+    .locals 5
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    if-eqz p1, :cond_4
+
+    if-eqz p2, :cond_3
+
+    if-eqz p4, :cond_2
+
+    .line 152
+    invoke-interface {p1}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->isOpen()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_1
+
+    .line 157
+    iget-object v0, p0, Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;->schemeRegistry:Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;
+
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getSchemeName()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Lorg/shaded/apache/http/conn/scheme/SchemeRegistry;->getScheme(Ljava/lang/String;)Lorg/shaded/apache/http/conn/scheme/Scheme;
+
+    move-result-object v0
+
+    .line 158
+    invoke-virtual {v0}, Lorg/shaded/apache/http/conn/scheme/Scheme;->getSocketFactory()Lorg/shaded/apache/http/conn/scheme/SocketFactory;
+
+    move-result-object v1
+
+    instance-of v1, v1, Lorg/shaded/apache/http/conn/scheme/LayeredSocketFactory;
+
+    if-eqz v1, :cond_0
+
+    .line 164
+    invoke-virtual {v0}, Lorg/shaded/apache/http/conn/scheme/Scheme;->getSocketFactory()Lorg/shaded/apache/http/conn/scheme/SocketFactory;
+
+    move-result-object v0
+
+    check-cast v0, Lorg/shaded/apache/http/conn/scheme/LayeredSocketFactory;
+
+    .line 167
+    :try_start_0
+    invoke-interface {p1}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->getSocket()Ljava/net/Socket;
+
+    move-result-object v1
+
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getHostName()Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-virtual {p2}, Lorg/shaded/apache/http/HttpHost;->getPort()I
+
+    move-result v3
+
+    const/4 v4, 0x1
+
+    invoke-interface {v0, v1, v2, v3, v4}, Lorg/shaded/apache/http/conn/scheme/LayeredSocketFactory;->createSocket(Ljava/net/Socket;Ljava/lang/String;IZ)Ljava/net/Socket;
+
+    move-result-object v1
+    :try_end_0
+    .catch Ljava/net/ConnectException; {:try_start_0 .. :try_end_0} :catch_0
+
+    .line 172
+    invoke-virtual {p0, v1, p3, p4}, Lorg/shaded/apache/http/impl/conn/DefaultClientConnectionOperator;->prepareSocket(Ljava/net/Socket;Lorg/shaded/apache/http/protocol/HttpContext;Lorg/shaded/apache/http/params/HttpParams;)V
+
+    .line 173
+    invoke-interface {v0, v1}, Lorg/shaded/apache/http/conn/scheme/LayeredSocketFactory;->isSecure(Ljava/net/Socket;)Z
+
+    move-result p3
+
+    invoke-interface {p1, v1, p2, p3, p4}, Lorg/shaded/apache/http/conn/OperatedClientConnection;->update(Ljava/net/Socket;Lorg/shaded/apache/http/HttpHost;ZLorg/shaded/apache/http/params/HttpParams;)V
+
+    return-void
+
+    :catch_0
+    move-exception p1
+
+    .line 170
+    new-instance p3, Lorg/shaded/apache/http/conn/HttpHostConnectException;
+
+    invoke-direct {p3, p2, p1}, Lorg/shaded/apache/http/conn/HttpHostConnectException;-><init>(Lorg/shaded/apache/http/HttpHost;Ljava/net/ConnectException;)V
+
+    throw p3
+
+    .line 159
+    :cond_0
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    new-instance p2, Ljava/lang/StringBuilder;
+
+    invoke-direct {p2}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string p3, "Target scheme ("
+
+    invoke-virtual {p2, p3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v0}, Lorg/shaded/apache/http/conn/scheme/Scheme;->getName()Ljava/lang/String;
+
+    move-result-object p3
+
+    invoke-virtual {p2, p3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    const-string p3, ") must have layered socket factory."
+
+    invoke-virtual {p2, p3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {p2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object p2
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 153
+    :cond_1
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Connection must be open."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 149
+    :cond_2
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Parameters must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 145
+    :cond_3
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Target host must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+
+    .line 141
+    :cond_4
+    new-instance p1, Ljava/lang/IllegalArgumentException;
+
+    const-string p2, "Connection must not be null."
+
+    invoke-direct {p1, p2}, Ljava/lang/IllegalArgumentException;-><init>(Ljava/lang/String;)V
+
+    throw p1
+.end method

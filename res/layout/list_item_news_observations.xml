@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:weightSum="12.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:gravity="center|left"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_5dp"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="7.0">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_3dp">
+            <LinearLayout
+                android:gravity="center"
+                android:id="@id/nationLL1"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/spinner_country_row_flag_height">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:id="@id/player1Nationality"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_12"
+                android:textColor="#ffffffff"
+                android:gravity="center_vertical"
+                android:layout_gravity="center"
+                android:id="@id/player1Name"
+                android:paddingLeft="@dimen/margin_4dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:gravity="center"
+                android:id="@id/nationLL2"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/spinner_country_row_flag_height">
+                <ImageView
+                    android:layout_gravity="center"
+                    android:id="@id/player2Nationality"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_12"
+                android:textColor="#ffffffff"
+                android:gravity="center_vertical"
+                android:layout_gravity="center"
+                android:id="@id/player2Name"
+                android:paddingLeft="@dimen/margin_4dp"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:layout_width="0.0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="5.0">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/typeAndLevel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

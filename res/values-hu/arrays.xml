@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>kikapcsolás</item>
+        <item>minden 7. nap</item>
+        <item>minden 30. nap</item>
+        <item>minden 60. nap</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra védekező</item>
+        <item>védekező</item>
+        <item>normál</item>
+        <item>támadó</item>
+        <item>ultra támadó</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>hazai</item>
+        <item>idegenbeli</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Passzok</item>
+        <item>Lövések</item>
+        <item>Cselezés</item>
+        <item>Szerelés</item>
+        <item>Színészkedés</item>
+        <item>Szögletrúgások</item>
+        <item>Távoli szabadrúgások</item>
+        <item>Közeli szabadrúgások</item>
+        <item>Büntetők</item>
+        <item>Csapatkapitány</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Passzok</item>
+        <item>Lövések</item>
+        <item>Cselezés</item>
+        <item>Szerelés</item>
+        <item>Színészkedés</item>
+        <item>Szögletrúgások</item>
+        <item>Távoli szabadrúgások</item>
+        <item>Közeli szabadrúgások</item>
+        <item>Büntetők</item>
+        <item>Csapatkapitány</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>soha</item>
+        <item>mindig</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>soha</item>
+        <item>mindig</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>alacsony</item>
+        <item>normál</item>
+        <item>magas</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>nap</item>
+        <item>3 nap</item>
+        <item>7 nap</item>
+        <item>a következő meccsig</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>soha</item>
+        <item>vezetés közben</item>
+        <item>mindig</item>
+    </string-array>
+</resources>

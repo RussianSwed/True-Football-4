@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>Aus</item>
+        <item>Alle 7 Tage</item>
+        <item>Alle 30 Tage</item>
+        <item>Alle 60 Tage</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>sehr defensiv</item>
+        <item>defensiv</item>
+        <item>ausgeglichen</item>
+        <item>offensiv</item>
+        <item>sehr offensiv</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>Heimspiel</item>
+        <item>Auswärtsspiel</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pässe</item>
+        <item>Schüsse</item>
+        <item>Dribbling</item>
+        <item>Zweikampf</item>
+        <item>Schwalben</item>
+        <item>Eckstöße</item>
+        <item>weite Freißtöße</item>
+        <item>nahe Freistöße</item>
+        <item>Elfmeter</item>
+        <item>Kapitän</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pässe</item>
+        <item>Schüsse</item>
+        <item>Dribbling</item>
+        <item>Zweikampf</item>
+        <item>Schwalben</item>
+        <item>Eckstöße</item>
+        <item>weite Freißtöße</item>
+        <item>nahe Freistöße</item>
+        <item>Elfmeter</item>
+        <item>Kapitän</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nie</item>
+        <item>immer</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nie</item>
+        <item>immer</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>wenig</item>
+        <item>normal</item>
+        <item>hoch</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>Täglich</item>
+        <item>Alle 3 Tage</item>
+        <item>Alle 7 Tage</item>
+        <item>Bis zum nächsten Spiel</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nie</item>
+        <item>bei Führung</item>
+        <item>immer</item>
+    </string-array>
+</resources>

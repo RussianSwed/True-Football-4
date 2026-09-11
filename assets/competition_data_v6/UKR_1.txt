@@ -1,0 +1,57 @@
+LEAGUE
+tv_rights 4
+fans_behaviour 1.4
+fans_attendance 0.3
+table -1 -1 1 6 7 12 -1 -1
+add_teams first_time 12 UKR_1
+add_teams next_time 1 6 UKR_1A previous_season
+add_teams next_time 1 4 UKR_1B previous_season
+add_teams next_time 1 2 UKR_2 previous_season
+week_info 1 29 one_table six_match_weekend
+week_info 2 30 one_table six_match_weekend
+week_info 3 31 one_table six_match_weekend
+week_info 4 32 one_table six_match_weekend
+week_info 5 33 one_table six_match_weekend
+week_info 6 34 one_table six_match_weekend
+week_info 7 35 one_table six_match_weekend
+week_info 8 37 one_table six_match_weekend
+week_info 9 39 one_table six_match_weekend
+week_info 10 40 one_table six_match_weekend
+week_info 11 42 one_table six_match_weekend
+week_info 12 43 one_table six_match_weekend
+week_info 13 44 one_table six_match_weekend
+week_info 14 45 one_table six_match_weekend
+week_info 15 46 one_table six_match_weekend
+week_info 16 47 one_table six_match_weekend
+week_info 17 48 one_table six_match_weekend
+week_info 18 6 one_table six_match_weekend
+week_info 19 7 one_table six_match_weekend
+week_info 20 8 one_table six_match_weekend
+week_info 21 9 one_table all_sat 6
+week_info 22 10 one_table all_sat 6
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+unblock UKR_1A
+unblock UKR_1B
+done 06.30

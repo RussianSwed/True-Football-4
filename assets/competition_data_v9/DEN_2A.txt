@@ -1,0 +1,32 @@
+LEAGUE
+promotion 1 2
+prize 3
+tv_rights 1
+fans_behaviour 1.5
+fans_attendance 0.1
+table 1 2 -1 -1 -1 -1 -1 -1
+order polish
+block
+add_teams 1 6 DEN_2 current_season
+week_info 1 66 table_with_pol_1 all_sun 3
+week_info 2 67 table_with_pol_1 all_sun 3
+week_info 3 68 table_with_pol_1 all_sun 3
+week_info 4 69 table_with_pol_1 all_sun 3
+week_info 5 70 table_with_pol_1 all_sun 3
+week_info 6 71 table_with_pol_1 all_sun 3
+week_info 7 72 table_with_pol_1 all_sun 3
+week_info 8 73 table_with_pol_1 all_sun 3
+week_info 9 74 table_with_pol_1 all_sun 3
+week_info 10 75 table_with_pol_1 all_sun 3
+fixtures_info League6
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+done 06.30

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_16"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fansMoods" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:layout_marginBottom="@dimen/margin_15dp">
+            <ProgressBar
+                android:layout_gravity="center"
+                android:id="@id/fans"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:maxHeight="@dimen/main_menu_confidence_bar_height"
+                android:progress="50"
+                android:indeterminate="false"
+                android:progressDrawable="@drawable/progressbar_green"
+                android:minHeight="@dimen/main_menu_confidence_bar_height"
+                style="?android:progressBarStyleHorizontal" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2.0">
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textColor="#ffffffff"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:text="@string/favouritePlayers"
+                android:layout_weight="1.0" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:id="@id/favouritePlayers"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2.0">
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textColor="#ffffffff"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:text="@string/majorRivals"
+                android:layout_weight="1.0" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:id="@id/majorRivals"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2.0">
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textColor="#ffffffff"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:text="@string/otherRivals"
+                android:layout_weight="1.0" />
+            <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                android:textSize="@dimen/text_size_14"
+                android:textStyle="bold"
+                android:textColor="#ffffffff"
+                android:id="@id/otherRivals"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@layout/shape_background"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_16"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/margin_10dp"
+            android:text="@string/donationsForFans" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_13"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/donationsLevel"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <SeekBar
+            android:id="@id/donationsSeekBar"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:layout_marginBottom="@dimen/margin_15dp" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:id="@id/donationsDescription"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10dp" />
+    </LinearLayout>
+</LinearLayout>

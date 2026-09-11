@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:id="@id/mainLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout
+        android:layout_gravity="fill_vertical"
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <RelativeLayout
+            android:id="@id/centerView"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginBottom="@dimen/button_height_with_margin">
+            <LinearLayout
+                android:orientation="vertical"
+                android:background="@layout/shape_background"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_14"
+                    android:textColor="#ffffffff"
+                    android:gravity="center"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/teamsManaged" />
+                <ListView
+                    android:id="@id/teamsManaged"
+                    android:background="@layout/shape_background_transparent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:listSelector="@layout/whole_list_bg"
+                    android:scrollingCache="false"
+                    android:cacheColorHint="#00000000" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout
+            android:gravity="center"
+            android:id="@id/bottomView"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/button_height_with_margin"
+            android:layout_alignParentBottom="true">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+                <pl.mkrstudio.truefootball3.views.CustomFontButton
+                    android:id="@id/trophiesWon"
+                    android:text="@string/hallOfTrophies"
+                    style="@style/default_button" />
+            </LinearLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+</LinearLayout>

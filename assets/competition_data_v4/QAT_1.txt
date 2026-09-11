@@ -1,0 +1,59 @@
+LEAGUE
+champion
+game_over 12 12
+tv_rights 2
+prize 3
+fans_behaviour 0.9
+fans_attendance 0.1
+table 0 0 0 0 11 11 12 12
+add_teams first_time 12 QAT_1
+add_teams next_time 1 10 QAT_1 previous_season
+add_teams next_time 1 1 QAT_2 previous_season
+add_teams next_time 1 1 QAT_PLAYOFF1 previous_season
+week_info 1 37 one_table six_match_weekend
+week_info 2 38 one_table six_match_weekend
+week_info 3 39 one_table six_match_weekend
+week_info 4 40 one_table six_match_weekend
+week_info 5 42 one_table six_match_weekend
+week_info 6 43 one_table six_match_weekend
+week_info 7 44 one_table six_match_weekend
+week_info 8 46 one_table six_match_weekend
+week_info 9 47 one_table six_match_weekend
+week_info 10 48 one_table six_match_weekend
+week_info 11 49 one_table six_match_weekend
+week_info 12 6 one_table six_match_weekend
+week_info 13 7 one_table six_match_weekend
+week_info 14 8 one_table all_wed 6
+week_info 15 8 one_table six_match_weekend
+week_info 16 9 one_table six_match_weekend
+week_info 17 10 one_table six_match_weekend
+week_info 18 11 one_table six_match_weekend
+week_info 19 12 one_table six_match_weekend
+week_info 20 13 one_table six_match_weekend
+week_info 21 14 one_table six_match_weekend
+week_info 22 15 one_table all_sun 6
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+unblock QAT_PLAYOFF1
+done 06.30

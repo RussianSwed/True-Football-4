@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="@dimen/leaderboard_height"
+    android:weightSum="80.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/place"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/leaderboard_height"
+        android:layout_weight="11.0" />
+    <LinearLayout
+        android:gravity="center"
+        android:id="@id/nationLL"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/leaderboard_height"
+        android:layout_weight="10.0">
+        <ImageView
+            android:layout_gravity="center"
+            android:id="@id/nation"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/leaderboard_flag_height" />
+    </LinearLayout>
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center_vertical"
+        android:id="@id/name"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/leaderboard_height"
+        android:layout_weight="48.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_12"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/points"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/leaderboard_height"
+        android:layout_weight="11.0" />
+</LinearLayout>

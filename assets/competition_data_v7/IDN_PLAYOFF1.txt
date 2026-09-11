@@ -1,0 +1,18 @@
+LEAGUE_PLAYOFF
+prize 1
+tv_rights 1
+fans_behaviour 1.1
+fans_attendance 0.2
+block
+add_teams 1 2 IDN_2C current_season
+add_teams 1 2 IDN_2D current_season
+week_info 1 44 ko_first_leg all_wed 2 semifinal
+week_info 2 44 ko_second_leg all_sat 2 semifinal
+week_info 3 46 ko_one_match all_wed 1 playoff
+week_info 4 46 ko_one_match all_sat 1 final
+fixtures_info IndonesianSecondLeaguePlayoff
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+done 01.01

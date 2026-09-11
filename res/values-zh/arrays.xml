@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>关闭</item>
+        <item>每7天</item>
+        <item>每30天</item>
+        <item>每60天</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>全力防守</item>
+        <item>防守</item>
+        <item>normal</item>
+        <item>进攻</item>
+        <item>全力进攻</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>主场</item>
+        <item>客场</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>传球</item>
+        <item>射门</item>
+        <item>盘带</item>
+        <item>Tackling</item>
+        <item>假摔</item>
+        <item>角球</item>
+        <item>远端任意球</item>
+        <item>近端任意球</item>
+        <item>点球</item>
+        <item>队长</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>传球</item>
+        <item>射门</item>
+        <item>盘带</item>
+        <item>Tackling</item>
+        <item>假摔</item>
+        <item>角球</item>
+        <item>远端任意球</item>
+        <item>近端任意球</item>
+        <item>点球</item>
+        <item>队长</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>never</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>never</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>低</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>每天</item>
+        <item>3天</item>
+        <item>7天</item>
+        <item>直到下一场比赛</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>never</item>
+        <item>领先后</item>
+        <item>always</item>
+    </string-array>
+</resources>

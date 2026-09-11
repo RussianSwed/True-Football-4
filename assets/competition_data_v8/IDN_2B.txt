@@ -1,0 +1,33 @@
+LEAGUE
+tv_rights 1
+fans_behaviour 1.0
+fans_attendance 0.1
+table -1 -1 1 2 -1 -1 -1 -1
+add_teams first_time 6 IDN_2B
+add_teams next_time 18 18 IDN_1 previous_season
+add_teams next_time 4 4 IDN_PLAYOFF1 previous_season
+add_teams next_time 3 6 IDN_2B previous_season
+week_info 1 17 one_table all_sat 3
+week_info 2 19 one_table all_sat 3
+week_info 3 21 one_table all_sat 3
+week_info 4 23 one_table all_sat 3
+week_info 5 27 one_table all_sat 3
+week_info 6 29 one_table all_sat 3
+week_info 7 31 one_table all_sat 3
+week_info 8 32 one_table all_sat 3
+week_info 9 34 one_table all_sat 3
+week_info 10 35 one_table all_sat 3
+fixtures_info League6
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+unblock IDN_2C
+unblock IDN_2D
+done 01.01

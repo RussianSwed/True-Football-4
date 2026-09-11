@@ -1,0 +1,43 @@
+LEAGUE
+champion
+game_over 5 5
+tv_rights 1
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 5 5
+add_teams first_time 5 LAO_1
+add_teams next_time 1 4 LAO_1 previous_season
+add_teams next_time 1 1 LAO_2 previous_season
+week_info 1 6 one_table all_sat 2
+week_info 2 7 one_table all_sat 2
+week_info 3 8 one_table all_sat 2
+week_info 4 9 one_table all_sat 2
+week_info 5 10 one_table all_sat 2
+week_info 6 11 one_table all_sat 2
+week_info 7 12 one_table all_sat 2
+week_info 8 13 one_table all_sat 2
+week_info 9 23 one_table all_sat 2
+week_info 10 25 one_table all_sat 2
+week_info 11 27 one_table all_sat 2
+week_info 12 28 one_table all_sat 2
+week_info 13 30 one_table all_sat 2
+week_info 14 31 one_table all_sat 2
+week_info 15 32 one_table all_sat 2
+fixtures_info League5_3
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+done 01.01

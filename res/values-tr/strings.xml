@@ -1,0 +1,1751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AFG">Afganistan</string>
+    <string name="AIA">Anguilla</string>
+    <string name="ALB">Arnavutluk</string>
+    <string name="ALG">Cezayir</string>
+    <string name="AND">Andorra</string>
+    <string name="ANG">Angola</string>
+    <string name="ARG">Arjantin</string>
+    <string name="ARM">Ermenistan</string>
+    <string name="ARU">Aruba</string>
+    <string name="ASA">Amerikan Samoası</string>
+    <string name="ATG">Antigua ve Barbuda</string>
+    <string name="AUS">Avustralya</string>
+    <string name="AUT">Avusturya</string>
+    <string name="AZE">Azerbaycan</string>
+    <string name="BAH">Bahamalar</string>
+    <string name="BAN">Bangladeş</string>
+    <string name="BDI">Burundi</string>
+    <string name="BEL">Belçika</string>
+    <string name="BEN">Benin</string>
+    <string name="BER">Bermuda</string>
+    <string name="BFA">Burkina Faso</string>
+    <string name="BHR">Bahreyn</string>
+    <string name="BHU">Bhutan</string>
+    <string name="BIH">Bosna-Hersek</string>
+    <string name="BLR">Beyaz Rusya</string>
+    <string name="BLZ">Belize</string>
+    <string name="BOE">Bonaire</string>
+    <string name="BOL">Bolivya</string>
+    <string name="BOT">Botsvana</string>
+    <string name="BRA">Brezilya</string>
+    <string name="BRB">Barbados</string>
+    <string name="BRU">Brunei</string>
+    <string name="BUL">Bulgaristan</string>
+    <string name="CAM">Kamboçya</string>
+    <string name="CAN">Kanada</string>
+    <string name="CAY">Cayman Adaları</string>
+    <string name="CGO">Kongo Cumhuriyeti</string>
+    <string name="CHA">Çad</string>
+    <string name="CHI">Şili</string>
+    <string name="CHN">Çin</string>
+    <string name="CIV">Fildişi Sahili</string>
+    <string name="CMR">Kamerun</string>
+    <string name="COD">Kongo DC</string>
+    <string name="COK">Cook Adaları</string>
+    <string name="COL">Kolombiya</string>
+    <string name="COM">Komorlar</string>
+    <string name="CPV">Yeşil Burun Adaları</string>
+    <string name="CRC">Kosta Rika</string>
+    <string name="CRO">Hırvatistan</string>
+    <string name="CTA">Orta Afrika Cumhuriyeti</string>
+    <string name="CUB">Küba</string>
+    <string name="CUW">Curaçao</string>
+    <string name="CYP">Kıbrıs Cumhuriyeti</string>
+    <string name="CZE">Çek Cumhuriyeti</string>
+    <string name="DEN">Danimarka</string>
+    <string name="DJI">Cibuti</string>
+    <string name="DMA">Dominika</string>
+    <string name="DOM">Dominik Cumhuriyeti</string>
+    <string name="ECU">Ekvador</string>
+    <string name="EGY">Mısır</string>
+    <string name="ENG">İngiltere</string>
+    <string name="EQG">Ekvator Ginesi</string>
+    <string name="ERI">Eritre</string>
+    <string name="ESP">İspanya</string>
+    <string name="EST">Estonya</string>
+    <string name="ETH">Etiyopya</string>
+    <string name="FIJ">Fiji</string>
+    <string name="FIN">Finlandiya</string>
+    <string name="FRA">Fransa</string>
+    <string name="FRO">Faroe Adaları</string>
+    <string name="GAB">Gabon</string>
+    <string name="GAM">Gambiya</string>
+    <string name="GEO">Gürcistan</string>
+    <string name="GER">Almanya</string>
+    <string name="GHA">Gana</string>
+    <string name="GIB">Cebelitarık</string>
+    <string name="GLP">Guadeloupe</string>
+    <string name="GNB">Gine Bissau</string>
+    <string name="GRE">Yunanistan</string>
+    <string name="GRL">Grönland</string>
+    <string name="GRN">Grenada</string>
+    <string name="GUA">Guatemala</string>
+    <string name="GUF">Fransız Guyanası</string>
+    <string name="GUI">Gine</string>
+    <string name="GUM">Guam</string>
+    <string name="GUY">Guyana</string>
+    <string name="HAI">Haiti</string>
+    <string name="HKG">Hong Kong</string>
+    <string name="HON">Honduras</string>
+    <string name="HUN">Macaristan</string>
+    <string name="IDN">Endonezya</string>
+    <string name="IND">Hindistan</string>
+    <string name="IRL">İrlanda</string>
+    <string name="IRN">İran</string>
+    <string name="IRQ">Irak</string>
+    <string name="ISL">İzlanda</string>
+    <string name="ISR">İsrail</string>
+    <string name="ITA">İtalya</string>
+    <string name="JAM">Jamaika</string>
+    <string name="JOR">Ürdün</string>
+    <string name="JPN">Japonya</string>
+    <string name="KAZ">Kazakistan</string>
+    <string name="KEN">Kenya</string>
+    <string name="KGZ">Kırgızistan</string>
+    <string name="KOR">Kore Cumhuriyeti</string>
+    <string name="KOS">Kosova</string>
+    <string name="KSA">Suudi Arabistan</string>
+    <string name="KUW">Kuveyt</string>
+    <string name="LAO">Laos</string>
+    <string name="LBR">Liberya</string>
+    <string name="LBY">Libya</string>
+    <string name="LCA">Saint Lucia</string>
+    <string name="LES">Lesoto</string>
+    <string name="LIB">Lübnan</string>
+    <string name="LIE">Lihtenştayn</string>
+    <string name="LTU">Litvanya</string>
+    <string name="LUX">Lüksemburg</string>
+    <string name="LVA">Letonya</string>
+    <string name="MAC">Makao</string>
+    <string name="MAD">Madagaskar</string>
+    <string name="MAR">Fas</string>
+    <string name="MAS">Malezya</string>
+    <string name="MDA">Moldova</string>
+    <string name="MDV">Maldivler</string>
+    <string name="MEX">Meksika</string>
+    <string name="MGL">Moğolistan</string>
+    <string name="MKD">Kuzey Makedonya</string>
+    <string name="MLI">Mali</string>
+    <string name="MLT">Malta</string>
+    <string name="MNE">Karadağ</string>
+    <string name="MOZ">Mozambik</string>
+    <string name="MRI">Mauritius</string>
+    <string name="MSR">Montserrat</string>
+    <string name="MTN">Moritanya</string>
+    <string name="MTQ">Martinik</string>
+    <string name="MWI">Malavi</string>
+    <string name="MYA">Myanmar</string>
+    <string name="NAM">Namibya</string>
+    <string name="NCA">Nikaragua</string>
+    <string name="NCL">Yeni Kaledonya</string>
+    <string name="NED">Hollanda</string>
+    <string name="NEP">Nepal</string>
+    <string name="NGA">Nijerya</string>
+    <string name="NIG">Nijer</string>
+    <string name="NIR">Kuzey İrlanda</string>
+    <string name="NOR">Norveç</string>
+    <string name="NZL">Yeni Zelanda</string>
+    <string name="OMA">Umman</string>
+    <string name="PAK">Pakistan</string>
+    <string name="PAN">Panama</string>
+    <string name="PAR">Paraguay</string>
+    <string name="PER">Peru</string>
+    <string name="PHI">Filipinler</string>
+    <string name="PLE">Filistin</string>
+    <string name="PNG">Papua Yeni Gine</string>
+    <string name="POL">Polonya</string>
+    <string name="POR">Portekiz</string>
+    <string name="PRK">Kuzey Kore</string>
+    <string name="PUR">Porto Riko</string>
+    <string name="QAT">Katar</string>
+    <string name="ROM">Romanya</string>
+    <string name="RSA">Güney Afrika</string>
+    <string name="RUS">Rusya</string>
+    <string name="RWA">Ruanda</string>
+    <string name="SAM">Samoa</string>
+    <string name="SCO">İskoçya</string>
+    <string name="SDN">Sudan</string>
+    <string name="SEN">Senegal</string>
+    <string name="SEY">Seyşeller</string>
+    <string name="SIN">Singapur</string>
+    <string name="SKN">Saint Kitts ve Nevis</string>
+    <string name="SLE">Sierra Leone</string>
+    <string name="SLV">El Salvador</string>
+    <string name="SMA">Sint Maarten</string>
+    <string name="SMN">Saint-Martin</string>
+    <string name="SMR">San Marino</string>
+    <string name="SOL">Solomon Adaları</string>
+    <string name="SOM">Somali</string>
+    <string name="SRB">Sırbistan</string>
+    <string name="SRI">Sri Lanka</string>
+    <string name="SSD">South Sudan</string>
+    <string name="STP">São Tomé ve Príncipe</string>
+    <string name="SUI">İsviçre</string>
+    <string name="SUR">Surinam</string>
+    <string name="SVK">Slovakya</string>
+    <string name="SVN">Slovenya</string>
+    <string name="SWE">İsveç</string>
+    <string name="SWZ">Svaziland</string>
+    <string name="SYR">Suriye</string>
+    <string name="TAH">Tahiti</string>
+    <string name="TAN">Tanzanya</string>
+    <string name="TCA">Turks ve Caicos Adaları</string>
+    <string name="TGA">Tonga</string>
+    <string name="THA">Tayland</string>
+    <string name="TJK">Tacikistan</string>
+    <string name="TKM">Türkmenistan</string>
+    <string name="TLS">Doğu Timor</string>
+    <string name="TOG">Togo</string>
+    <string name="TPE">Çin Cumhuriyeti</string>
+    <string name="TRI">Trinidad ve Tobago</string>
+    <string name="TUN">Tunus</string>
+    <string name="TUR">Türkiye</string>
+    <string name="UAE">Birleşik Arap Emirlikleri</string>
+    <string name="UGA">Uganda</string>
+    <string name="UKR">Ukrayna</string>
+    <string name="URU">Uruguay</string>
+    <string name="USA">ABD</string>
+    <string name="UZB">Özbekistan</string>
+    <string name="VAN">Vanuatu</string>
+    <string name="VEN">Venezuela</string>
+    <string name="VGB">Britanya Virjin Adaları</string>
+    <string name="VIE">Vietnam</string>
+    <string name="VIN">Saint Vincent ve Grenadinler</string>
+    <string name="VIR">ABD Virjin Adaları</string>
+    <string name="WAL">Galler</string>
+    <string name="YEM">Yemen</string>
+    <string name="ZAM">Zambiya</string>
+    <string name="ZIM">Zimbabve</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="accept">Onayla</string>
+    <string name="acceptOffer">Onayla</string>
+    <string name="accountBalance">Hesap bakiyesi:</string>
+    <string name="account_balance_menu">Hesap bakiyesi</string>
+    <string name="achievement0">Maç kazan</string>
+    <string name="achievement1">3 farkla maçı kazan</string>
+    <string name="achievement10">Oyuncunun bir maçta 3 gol atmasini sagla</string>
+    <string name="achievement11">5 farkla maçı kazan</string>
+    <string name="achievement12">Bir oyuncunla 100 maç oyna</string>
+    <string name="achievement13">Bir oyuncunla 25 gol at</string>
+    <string name="achievement14">5 sezon oyna</string>
+    <string name="achievement15">50 maç kazan</string>
+    <string name="achievement16">Bir oyuncunla 50 gol at</string>
+    <string name="achievement17">Oyuncunun bir maçta 5 gol atmasini sagla</string>
+    <string name="achievement18">Bir oyuncunla 250 maç oyna</string>
+    <string name="achievement19">10 sezon oyna</string>
+    <string name="achievement2">5 maç kazan</string>
+    <string name="achievement20">100 maç kazan</string>
+    <string name="achievement21">10 farkla maçı kazan</string>
+    <string name="achievement22">Bir sezonda hiçbir maç kaybetme</string>
+    <string name="achievement23">Bir oyuncunla 100 gol at</string>
+    <string name="achievement24">25 sezon oyna</string>
+    <string name="achievement25">250 maç kazan</string>
+    <string name="achievement26">20 farkla maçı kazan</string>
+    <string name="achievement27">Oyuncunun bir maçta 10 gol atmasini sagla</string>
+    <string name="achievement28">Bir oyuncunla 500 maç oyna</string>
+    <string name="achievement29">50 sezon oyna</string>
+    <string name="achievement3">Bir oyuncunla 20 maç oyna</string>
+    <string name="achievement30">500 maç kazan</string>
+    <string name="achievement31">Bir oyuncunla 250 gol at</string>
+    <string name="achievement32">Bir sezonda tüm lig maçlarini kazan</string>
+    <string name="achievement33">Bir oyuncunla 750 maç oyna</string>
+    <string name="achievement34">100 sezon oyna</string>
+    <string name="achievement35">1000 maç kazan</string>
+    <string name="achievement36">Bir oyuncunla 1000 maç oyna</string>
+    <string name="achievement37">Bir oyuncunla 500 gol at</string>
+    <string name="achievement38">250 sezon oyna</string>
+    <string name="achievement39">2500 maç kazan</string>
+    <string name="achievement4">Bir sezon boyunca oyna</string>
+    <string name="achievement40">500 sezon oyna</string>
+    <string name="achievement41">5000 maç kazan</string>
+    <string name="achievement42">Bir oyuncunla 1000 gol at</string>
+    <string name="achievement43">1000 sezon oyna</string>
+    <string name="achievement44">10000 maç kazan</string>
+    <string name="achievement5">10 maç kazan</string>
+    <string name="achievement6">Bir oyuncunla 50 maç oyna</string>
+    <string name="achievement7">Bir oyuncunla 10 gol at</string>
+    <string name="achievement8">2 sezon oyna</string>
+    <string name="achievement9">25 maç kazan</string>
+    <string name="achievementUnlocked">Başarı kilidi!</string>
+    <string name="achievements">Başarılar</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Ekle</string>
+    <string name="addToFirstTeam">İlk takıma ekle</string>
+    <string name="africa">Afrika</string>
+    <string name="afterOwnGoalAction1">%1$s pismanlik icerisinde!</string>
+    <string name="afterOwnGoalAction2">%1$s hala nasil kacirdigina inanamiyor!</string>
+    <string name="afterOwnGoalAction3">%1$s bu gece uyuyamayacak!</string>
+    <string name="afterOwnGoalAction4">%1$s! O ne yaptı?</string>
+    <string name="afterOwnGoalAction5">Şanssız adam %1$s!</string>
+    <string name="afterOwnGoalAction6">%1$s buradaki tümü şansı dışında oldu!</string>
+    <string name="age">Yaş</string>
+    <string name="agentWillBePaid">Oyuncunun temsilcisine %1$s ücret ödenecektir.</string>
+    <string name="agentsFee">"Oyuncu temsilcilerinin' ücreti"</string>
+    <string name="aggregate">Toplam</string>
+    <string name="aggresive">saldırgan</string>
+    <string name="aggression">Saldırganlık:</string>
+    <string name="agility">Kıvraklık</string>
+    <string name="aiTransfer">"- %1$s (%2$s -> %3$s)
+"</string>
+    <string name="aiTransfersContent">"Transfer penceresi açıldığı gibi, bazı kulüpler enteresan girişimler yapıyor. İşte son söz olarak transferlerden birkaçı:
+
+"</string>
+    <string name="aiTransfersTitle">Son transferlere genel bakış</string>
+    <string name="all">Hepsi</string>
+    <string name="allCompetitions">Bütün müsabakalar</string>
+    <string name="allTime">Tüm zaman</string>
+    <string name="always">her zaman</string>
+    <string name="analysis_confirmation_dialog">"Asistanlarınızın %1$s'yi gözlemlemesini ve analiz etmesini istiyor musunuz?
+
+Sonuçlar 7 gün içinde hazır olacak."</string>
+    <string name="analysis_results">"%1$s ile ilgili analizimizin sonuçları burada. Şu anda %2$s dizilişinde, %3$s oynanışla oynuyorlar.
+
+Onlara karşı taktiklerle ilgili bazı önerilerimiz de var:"</string>
+    <string name="analyze">Analiz et</string>
+    <string name="analyzedOpponents">Analiz edilen rakipler:</string>
+    <string name="angry">sinirli</string>
+    <string name="app_name">True Football 3</string>
+    <string name="april">Nisan</string>
+    <string name="areYouSure">Emin misiniz?</string>
+    <string name="areYouSureToDelete">Emin misiniz?</string>
+    <string name="areYouSureToRemoveTeam">Bu takımı kaldırmak istediğinizden emin misiniz?</string>
+    <string name="areYouSureYouWantToBuildNewTrainingField">Yeni antrenman alanı inşa etmek istediğinizden emin misiniz?</string>
+    <string name="areYouSureYouWantToHireThisEmployee">%1$s ile işe almak istediğinizden emin misiniz? Aylık %2$s maaşı olacaktır.</string>
+    <string name="areYouSureYouWantToTerminateContract">Kontrati fesih etmek istediginden emin misin? (%1$s) fesih bedeli odeyeceksin.</string>
+    <string name="arrangeFriendlyMatch">Dostluk maçı ayarla</string>
+    <string name="arrogant">kibirli</string>
+    <string name="ashamed">mahçup</string>
+    <string name="asia">Asya</string>
+    <string name="assign">Ata...</string>
+    <string name="assistant">Yardımcı</string>
+    <string name="assistantStartingMessageContent">"Merhaba, ben sizin asistanızım. Sizinle birlikte çalışacağımız için mutluyum.
+
+Başlangıçta, kadronuza bakmanızı öneririm. Transfer penceresi açıldığında, siz de böylece yeni oyunculara bakabilirsiniz. Arama için kendi scoutlarınızdan birini gönderebilirsiniz, Eğer isterseniz. Serbest oyunculara bazı teklifler yapabilirsiniz.
+
+Ligin başından biraz zamanımız var, peki neden takımı antrenman kampına götürmüyoruz? Olası fırsatları bakın, ve karar verin.
+
+Oh, sakın bizim genç oyuncularımızın hakkında unutma. Altyapı takımlarının sayılarını ve kalitelerinin hakkında karar vermekte serbestsiniz. Güzel, değil mi? Sadece para sınırdır. Dikkatli harcayın.
+
+Eğer çaresiz şekilde paraya ihtiyacınız varsa, bankadan kredi alabilirsiniz. Ama son çare olduğunda!
+
+Tamam, fazla konuşmayacağım. İyi şanslar, tadını çıkarın!"</string>
+    <string name="assistantStartingMessageTitle">Merhaba!</string>
+    <string name="assists">En fazla asist</string>
+    <string name="association">Futbol federasyonu</string>
+    <string name="attacking">Hücüm</string>
+    <string name="attendance">Katılım</string>
+    <string name="august">Ağustos</string>
+    <string name="australia">Avustralya</string>
+    <string name="autosave">Otomatik kaydetme</string>
+    <string name="average">ortalama</string>
+    <string name="away">dis</string>
+    <string name="backFromTrainingCampContent">Sayın efendim, resmi maçlar nedeniyle kampımız çakışıyor, erkenden eve dönmeliyiz. Ne yazık ki, paramızı geri alamıyoruz. Gelecek sefere antrenman kampını planlarken daha dikkatli olmanızı tavsiye ederim.</string>
+    <string name="backFromTrainingCampTitle">Antrenman kampından erken dönüş</string>
+    <string name="badArticleInMediaContent">"Efendim, gazeteci ve gazeteleri sevmediğinizi biliyorum, fakat sanırım bir problemimiz var.
+
+Son zamanlarda bizim kulüp hakkındaki gazetede ve internette olan yazı dizisi var. Ve onlar memnun değiller. Görünüşe göre gazeteciler sinirlenmeye başlıyorlar çünkü onlarla konuşmak istemediniz ve onların sorularını geçiştirdiniz. Biliyorsunuz, onlarla iyi ilişkide olun, çünkü bir sürü haberleri bize zarar verebilir. Şirketler kötü imaja sahip bir kulübe sponsor olmak istemezler.
+
+Bunu düşünün."</string>
+    <string name="badArticleInMediaTitle">Medya kulübümüze saldırıyor</string>
+    <string name="ballLossAction1">%1$s topu kaybetti!</string>
+    <string name="ballLossAction10">%1$s topun kontrolünü kaybediyor...</string>
+    <string name="ballLossAction11">%1$s berbat etti!</string>
+    <string name="ballLossAction12">%1$s topun kaçmasına izin veriyor!</string>
+    <string name="ballLossAction2">%1$s pozisyonu kaybetti!</string>
+    <string name="ballLossAction3">Pozisyonu kaybettiler!</string>
+    <string name="ballLossAction4">%1$s... Kolayca kaybedilen bir top!</string>
+    <string name="ballLossAction5">%1$s aptalca bir hata yapıyor!</string>
+    <string name="ballLossAction6">%1$s topu elinde tutamadı...</string>
+    <string name="ballLossAction7">Fakat %1$s topu düşürüyor...</string>
+    <string name="ballLossAction8">%1$s topu kolayca kaybediyor...</string>
+    <string name="ballLossAction9">Top gitti...</string>
+    <string name="ballPossession">Topla oynama</string>
+    <string name="bank">Banka</string>
+    <string name="bankLoan">Kredi borcu</string>
+    <string name="bankLoansTaken">Alınan banka kredileri:</string>
+    <string name="bankrupcyContent">"Felaket!
+
+Kulübümüzün hesabı komple boş! Sana nasıl maliyemizin kontrolünün sorumluluğunu verdik? Şimdi pişmanım... Zaten, bittik! Her şeyi karşılamayız, bu yüzden bütün müsabakalardan çekiliyoruz.
+
+Her şey bitti!"</string>
+    <string name="bankrupcyTitle">Paramız bitti!</string>
+    <string name="beforeMatch1">\"Çocuklar, 5:0 minimumdur.\"</string>
+    <string name="beforeMatch2">\"Hadi çocuklar, bu çocuk oyuncağı olacak!\"</string>
+    <string name="beforeMatch3">\"Size inanıyorum çocuklar, yapabilirsiniz!\"</string>
+    <string name="beforeMatch4">\"Kan ve gözyaşı görmek istiyorum!\"</string>
+    <string name="beforeMatch5">\"Bu kolay olmayacak, çocuklar.\"</string>
+    <string name="beforeMatch6">\"Hadi, bu sefer beni utandırmayın.\"</string>
+    <string name="beforeMatch7">\"Aman Tanrım, bunu görmek istemiyorum!\"</string>
+    <string name="biggestAttendance">En büyük katılım:</string>
+    <string name="bonusesForPlayers">Oyuncular için bonuslar</string>
+    <string name="bonusesFromSponsors">Sponsorlardan bonuslar</string>
+    <string name="brazil">Güney Amerika (Brezilya)</string>
+    <string name="buildNewField">Yeni alan inşa et</string>
+    <string name="buy">Satin al</string>
+    <string name="buyOffer">Satın alma</string>
+    <string name="buyOfferTitle">"%1$s oyuncunuza %2$s almak istiyor.
+
+Bu teklifle pazarlık yapabilirsiniz."</string>
+    <string name="calendar">Takvim</string>
+    <string name="calm">sakin</string>
+    <string name="canada">Kuzey Amerika (Kanada)</string>
+    <string name="cancel">Iptal</string>
+    <string name="cannotGoToTrainingCamp">Artık antrenman planı yapamazsınız. Yakın zamandaki maçlar çakışabilir. Başka bir gün deneyebilirsiniz.</string>
+    <string name="cantUpgradeMore">- Yukseltmeden sonra tribun maksimum kapasiteye ulasacak.</string>
+    <string name="capsGoals">Caps/hedefleri</string>
+    <string name="carribean">Karayipler</string>
+    <string name="category1">Kategori 1</string>
+    <string name="category2">Kategori 2</string>
+    <string name="category3">Kategori 3</string>
+    <string name="central_africa">Afrika (orta)</string>
+    <string name="central_america">Orta Amerika</string>
+    <string name="central_asia">Asya (merkez)</string>
+    <string name="central_east_europe">Avrupa (merkez-doğu)</string>
+    <string name="chairman">Başkan</string>
+    <string name="chairmanStartingMessageContent">"Sayın efendim! Kulübümüze hoşgeldiniz.
+
+Bize katıldığınız için çok memnunum. Ben %1$s büyük geleceği olduğuna inanıyoruz, ve umuyorum ki çok önemli bir rol oynayacaksınız.
+
+Size maçlarda iyi şanslar ve duygular dilerim."</string>
+    <string name="chairmanStartingMessageTitle">%1$s hoşgeldiniz!</string>
+    <string name="champion">Şampiyon</string>
+    <string name="championContentFavorite">"En iyi kim? %1$s!
+
+Bunu başardığınız için memnunuz. Biz sadece en iyiydik, ve tamamen şampiyonluk ünvanını hak ettik. Siz ve bütün oyuncularınızın hepsine büyük saygılar. Kesinlikle sizi menajer olarak işe almakla iyi yapmışsız. Şimdi, kutlamakta özgürsünüz, bu gecenin kahramanısınız!"</string>
+    <string name="championContentNonFavorite">"Buna inanıyor musunuz? Biz en iyiyiz!
+
+Hiç kimse bizim şampiyonluğu kazanacağımıza iddia etmemişti, bu yüzden o kadar şaşırtınız ki yapmayı bunu başardınız! Umarım bu takımda daima kalırsınız. Siz zaten efsanesiniz! Bu unutulmaz sezon için çok teşekkür ederim.
+
+Bu gece delice olacak!"</string>
+    <string name="championTitle">Biz şampiyonuz!</string>
+    <string name="championsCup">Şampiyonlar Ligi</string>
+    <string name="championsCupContent">"Çılgınlık, kıtanın en iyi takımıyız!
+
+Efendim, siz muhteşem bir menajersiniz, ve ben her zaman işinizine ve oyuncularınıza inandım. Ben futbolu bu anlar için sevdim. %1$s seviyorum ve eminin ki sizin gibi menajer olduğu sürece, bunun gibi başarılara imza attıkça harika geleceğimizde var olacaktır!
+
+Tekrar teşekkür ederim!"</string>
+    <string name="championsCupTitle">İnanılmaz!</string>
+    <string name="change_trainer">Eğiticiyi değiştir</string>
+    <string name="chaosInPenaltyAreaAction1">Ceza sahasinda ne karmasa ama!</string>
+    <string name="chaosInPenaltyAreaAction2">Tamamiyle bir kaos olustu!</string>
+    <string name="chaosInPenaltyAreaAction3">Ceza sahasinda tam bir kaos yasaniyor!</string>
+    <string name="chaosInPenaltyAreaAction4">...</string>
+    <string name="character">Karakter</string>
+    <string name="charisma">Karizma</string>
+    <string name="chooseTeamToEdit">Duzenlemek istedigin takimi sec:</string>
+    <string name="chooseYourTeam">Takım seçin:</string>
+    <string name="cleanSheets">Gol yemeyen kaleciler</string>
+    <string name="clear">Temizle</string>
+    <string name="clubRanking">Kulüp sıralaması</string>
+    <string name="clubStaff">Kulüp personeli</string>
+    <string name="clubStaffDescription">"Burada ise kulübünüzdeki çalışanları tamamıyla kontrol edebilirsiniz. Bütün çalışanların kendine ait kontratları, deneyimleri ve yaşları vardır. Kulüpteki her rol farklı şekilde önemlidir:
+
+ Kaleci antrenörleri kalecilerinizin performansıyla ve eğitimiyle tamamen sorumludurlar.
+
+ Altyapı antrenörleri genç oyuncularla birlikte çalışır. Ne kadar altyapı antrenörü varsa – o kadar altyapı takımına bakabilirsiniz. İyi altyapı antrenörleri yetenekli gençlerinizi daha iyi ve daha hızlı geliştirerek yaparlar.
+
+ Deneyimli fizyoterapistler oyuncularınızın sakatlığını olabildiğince belirgin şekilde azaltır. Ayrıca iyi doktorlar aldığınızı emin olarak, onlar gibi sakatlanan oyuncunuzu hızla sağlığına kavuşturacaktır.
+
+ Pazarlamacılar kulübünüze insanların ve sponsorların dikkat çekmesinden sorumludurlar. Onlar oldukça para kazanırlar, fakat onların işleri kulübünüze çok kar getirmektir."</string>
+    <string name="common_google_play_services_enable_button">Etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
+    <string name="common_google_play_services_install_button">Yükle</string>
+    <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Google Play hizmetlerini güncellemezseniz %1$s çalışmayacak.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelleyin</string>
+    <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir.</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="communityCup">Topluluk Kupası</string>
+    <string name="competitions">Turnuvalar</string>
+    <string name="concentration">Konsantrasyon:</string>
+    <string name="condition">Kondisyon</string>
+    <string name="confidence">Güven</string>
+    <string name="confirm">Onayla</string>
+    <string name="conflict">Fikir ayrılığı</string>
+    <string name="confused">şaşkın</string>
+    <string name="continentalCupsTickets">Uluslar arasi kupa maci</string>
+    <string name="continentalFederationPrizes">Kıta federasyonundan ödüller</string>
+    <string name="continueGame">Oyuna devam et</string>
+    <string name="continueMatch">Maça devam</string>
+    <string name="continueString">Devam et</string>
+    <string name="contractEnd">Kontrat sonu</string>
+    <string name="contractExpiredContent">%1$s artik bizim oyuncumuz degil, kontrati bugun sona erdi.</string>
+    <string name="contractExpiredTitle">%1$s nun kontrati sona erdi</string>
+    <string name="contractOffer">Sözleşme</string>
+    <string name="contractOfferAcceptedContent">"%1$s icin verdiginiz kontrat talebi kabul edilmistir.
+
+"</string>
+    <string name="contractOfferAcceptedMuchWorseTeamContent">"Bu onun icin kariyerinde geri bir adim, ama sizin teklifinizi karsi konulamaz buldu ve takiminiza katilmaya karar verdi.
+
+"</string>
+    <string name="contractOfferAcceptedSimilarTeamContent">"Sizin teklifinizi goz alici buldu ve takiminizi guclendirmeye karar verdi .
+
+"</string>
+    <string name="contractOfferAcceptedTitle">%1$s - kontrat talebi kabul edildi</string>
+    <string name="contractOfferAcceptedUnhappyContent">"Takiminiza katilacak zira bulundugu takimda mutsuz.
+
+"</string>
+    <string name="contractOfferAcceptedWorseTeamContent">"Sizin teklifinizi goz alici buldu ve takiminizi guclendirmeye karar verdi .
+
+"</string>
+    <string name="contractOfferRejectedContent">"%1$s icin verdiginiz kontrat talebi reddedilmistir.
+
+"</string>
+    <string name="contractOfferRejectedHappyContent">"Takiminda gayet mutlu ve yakin zamandada bunun degisecegini sanmiyor.
+
+"</string>
+    <string name="contractOfferRejectedMuchWorseTeamContent">"Kesinlikle gucsuz bir takima gitmeyecegini belirtti.
+
+"</string>
+    <string name="contractOfferRejectedSimilarTeamContent">"Yapilan teklif yeni bir takima gitmem icin yeterli degil dedi.
+
+"</string>
+    <string name="contractOfferRejectedTitle">%1$s - kontrat talebi reddedildi</string>
+    <string name="contractOfferRejectedWorseTeamContent">"Bulundugum takimdan daha kotu bir takima gitmek kariyerim icin kotu olabilir dedi.
+
+"</string>
+    <string name="contractOfferTitle">%1$s temsilcisi kendi oyuncusuna kontrat teklifi duymak istiyor.</string>
+    <string name="contractSignedContent">%1$s kulubumuzle kontrat imzaladı. %3$s odenerek %2$s dan alindi.</string>
+    <string name="contractSignedTitle">%1$s kontrati imzaladi</string>
+    <string name="contractTerminatePenalty">Cezalar</string>
+    <string name="contractUntil">Sözleşme kadar:</string>
+    <string name="contractWillBeSigned">Kontrat %1$s imzalanacak.</string>
+    <string name="contractWillBeSignedToday">Kontrat bugun imzalandi.</string>
+    <string name="contractWithFreeAgentSignedContent">%1$s bugün takımımıza katıldı. O serbest oyuncu olarak bizle birlikte kontratı imzaladı.</string>
+    <string name="contractWithFreeAgentSignedTitle">%1$s kontratı imzaladı</string>
+    <string name="contract_expiration_reminder_content1">"Hello, sir.
+
+I just wanted to remind you that following players' contracts will expire in 30 days:
+
+"</string>
+    <string name="contract_expiration_reminder_content2">"- %1$s (%2$s)
+"</string>
+    <string name="contract_expiration_reminder_content3">"
+If you'd like to keep some of these players in the club, you have to make a renewal contract offer to them."</string>
+    <string name="contract_expiration_reminder_title">Contract expiration reminder</string>
+    <string name="copy_toast_msg">Bağlantı panoya kopyalandı</string>
+    <string name="cornerKick">Korner (%1$s)</string>
+    <string name="costOfCamp">Maliyet:</string>
+    <string name="counterAttackAction1">%1$s kontaya çıkıyor!</string>
+    <string name="counterAttackAction2">Kontratak!</string>
+    <string name="counterAttackAction3">%1$s kontrataga kalkiyor!</string>
+    <string name="countriesExplored">Keşfedilen ülkeler:</string>
+    <string name="countriesToExplore">Keşfedilecek ülkeler:</string>
+    <string name="countryRanking">Ülke sıralaması</string>
+    <string name="countryRankingDescription">Ülke sıralamaları ülkelerin uluslararası kupalarda katılım sayılarını karar verir. Eğer takımınızla iyi işler yaparsanız, ülkenizin sıralamasını yükseltirsiniz, bu nedenle sonraki yıllarda Şampiyonlar Ligi veya Federasyon Ligi katılımı daha kolay olabilir.</string>
+    <string name="createCustomPlayer">Ozel oyuncu yap</string>
+    <string name="createNewFormation">Yeni oluşum oluştur</string>
+    <string name="createNewTeam">Yeni takım oluştur</string>
+    <string name="credits">Hakkında</string>
+    <string name="crossAction1">%1$s ortalıyor</string>
+    <string name="crossAction2">Ceza sahasina dogru hizli bir kosu!</string>
+    <string name="crossAction3">%1$s ceza sahasina dogru kosuyor!</string>
+    <string name="crossAction4">%1$s alanın içinden geçiyor!</string>
+    <string name="crossAction5">%1$s çaprazda!</string>
+    <string name="crossAction6">%1$s çaprazı geçmeye çalışıyor!</string>
+    <string name="crossing">Orta yapma</string>
+    <string name="cup">kupa</string>
+    <string name="currency">Para birimi:</string>
+    <string name="currentAssignment">Şimdiki görev:</string>
+    <string name="currentRecommendations">Şimdiki öneriler:</string>
+    <string name="currentSponsors">Geçerli sponsorlar</string>
+    <string name="customPlayers">Ozel oyuncular:</string>
+    <string name="database">Veritabanı:</string>
+    <string name="date">Tarih:</string>
+    <string name="days">gün</string>
+    <string name="daysLeft">Gün kaldı:</string>
+    <string name="days_left_to_results">Sonuçlara kalan gün sayısı:</string>
+    <string name="days_to_expire">geçecek gün sayısı:</string>
+    <string name="december">Aralık</string>
+    <string name="defending">Savunma</string>
+    <string name="delete">Sil</string>
+    <string name="demotivated">motive olmamış</string>
+    <string name="departureDate">Ayrılış tarihi:</string>
+    <string name="detail">Ayrıntılar</string>
+    <string name="distanceShotAction1">%1$s uzak mesafeden sut atmayi tercih etti!</string>
+    <string name="distanceShotAction2">%1$s uzaktan sutu deniyor!</string>
+    <string name="distanceShotAction3">%1$s uzaktan şut atıyor!</string>
+    <string name="distanceShotAction4">%1$s 25 metreden şut çakıyor!</string>
+    <string name="distanceShotAction5">%1$s sahanın dışarısına atıyor!</string>
+    <string name="distanceShotAction6">%1$s uzaktan atıyor!</string>
+    <string name="distanceShotAction7">%1$s uzaktan şansını deniyor!</string>
+    <string name="distanceShotAction8">Uzak mesafeden gol.. Sadece %1$s attı!</string>
+    <string name="distanceShotAction9">%1$s uzak mesafeden deniyor!</string>
+    <string name="doYouWantToSaveChanges">Degisikleri kaydedilsin mi?</string>
+    <string name="doctor">Doktor</string>
+    <string name="domesticCupContent">"Efendim, Tebrik ederim!
+
+Bu harika Ulusal Kupayı kazandığınız ve başarıyla yönettiğiniz için çok mutluyum! Başlangıçta takımımıza inanmıştım. İşiniz için teşekkür ederim ve gelecekten daha fazlasını umuyorum!"</string>
+    <string name="domesticCupTitle">Aferin!</string>
+    <string name="domesticCupsTickets">Kupa maci</string>
+    <string name="domesticFederationPrizes">Ulusal lig geliri</string>
+    <string name="donationsForFans">Taraftarlar için bağış:</string>
+    <string name="donationsForFans2">Taraftarlar için bağış</string>
+    <string name="donationsHigh">yüksek</string>
+    <string name="donationsHighDescription">Taraftar kulübü ev ve deplasman maçlarında büyük bağış alır. Bu oyunculardaki atmosferi ve desteği iyi geliştirmesine sağlar.</string>
+    <string name="donationsNone">hiçbiri</string>
+    <string name="donationsNoneDescription">Kulüp taraftar kulübünün hepsine bağış yapmıyor. Bu onların ruh halini düşürür, fakat biraz para tasarruf edebilirsiniz.</string>
+    <string name="donationsNormal">normal</string>
+    <string name="donationsNormalDescription">Kulüp deplasman maçları için biletlerden ve ulaşımdan kısmen iadeler yapar.</string>
+    <string name="drawAllTeams">Draw all teams</string>
+    <string name="drawNextTeam">Draw next team</string>
+    <string name="draws">Berabere:</string>
+    <string name="drawsTable">B</string>
+    <string name="dribblingAction1">%1$s kendi üzerinde bunu yapmaya çalışıyor!</string>
+    <string name="dribblingAction10">%1$s savunmaçı tarafından geçiliyor!</string>
+    <string name="dribblingAction11">%1$s savunmacıyı yeniyor!</string>
+    <string name="dribblingAction2">%1$s rakiplerinizi geçmiş top sürmeye karar veriyor!</string>
+    <string name="dribblingAction3">%1$s top sürme için fırsatı buluyor!</string>
+    <string name="dribblingAction4">%1$s top sürmeye gidiyor!</string>
+    <string name="dribblingAction5">%1$s top sürmeyi deniyor!</string>
+    <string name="dribblingAction6">%1$s!</string>
+    <string name="dribblingAction7">%1$s rakibini kandırmaya çalışıyor!</string>
+    <string name="dribblingAction8">%1$s tarafından güzel dönüş!</string>
+    <string name="dribblingAction9">%1$s savunmaçıyı geçiyor!</string>
+    <string name="duration">Süre:</string>
+    <string name="durationDays">Süre (gün):</string>
+    <string name="east">Doğu</string>
+    <string name="eastGroup">dogu</string>
+    <string name="east_africa">Afrika (doğu)</string>
+    <string name="east_asia">Asya (doğu)</string>
+    <string name="east_europe">Avrupa (doğu)</string>
+    <string name="edit">Düzenle</string>
+    <string name="editTeamName">Adi duzenle</string>
+    <string name="editor">Editör</string>
+    <string name="employeeEndOfCareerContent">Bizim çalışanımız, %2$s (%1$s, yaşı %3$s) bugün emekli olmaya karar verdi.</string>
+    <string name="employeeEndOfCareerTitle">%1$s emekli oldu</string>
+    <string name="employees">Çalışanlar</string>
+    <string name="employeesSalaries">İşçilerin maaşı</string>
+    <string name="endOfCareerContent">%1$s (%2$s) jubile yapmaya karar verdi.</string>
+    <string name="endOfCareerTitle">%1$s jubilesini yapti</string>
+    <string name="europe">Avrupa</string>
+    <string name="execute">uygula</string>
+    <string name="exo_controls_fastforward_description">İleri sar</string>
+    <string name="exo_controls_next_description">Sonraki parça</string>
+    <string name="exo_controls_pause_description">Duraklat</string>
+    <string name="exo_controls_play_description">Çal</string>
+    <string name="exo_controls_previous_description">Önceki parça</string>
+    <string name="exo_controls_rewind_description">Geri sar</string>
+    <string name="exo_controls_stop_description">Durdur</string>
+    <string name="expectedSalary">İstenilen maaş</string>
+    <string name="expenditures">Giderler:</string>
+    <string name="experience">Deneyim</string>
+    <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
+    <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
+    <string name="fallback_menu_item_share_link">Bağlantıyı paylaş</string>
+    <string name="fans">Taraftarlar</string>
+    <string name="fansBehaviourPenaltyContent">Taraftarlarinizin %2$s macindaki kotu davranislarindan dolayi %3$s ceza aldiniz (%1$s).</string>
+    <string name="fansBehaviourPenaltyTitle">Taraftar yüzünden ceza</string>
+    <string name="fansMoods">"Taraftarın' ruh hali"</string>
+    <string name="favouritePlayers">Favori oyuncular:</string>
+    <string name="february">Şubat</string>
+    <string name="federationCup">Federasyon Ligi</string>
+    <string name="federationCupContent">"Efendim, Aferin! Federasyon Kupası bizimdir!
+
+Büyük kutlamalar ve bütün saygı sizin ve oyuncularımız içindir. Onların oyunu ve duyguları için teşekkür ederim! Şimdi bir yada iki içki içebilirsiniz, kesinlikle bunu hakkettiniz!"</string>
+    <string name="federationCupTitle">Harika!</string>
+    <string name="feeNote">- %1$s - rakibe verilen kazanc</string>
+    <string name="fifthDivision">5. lig</string>
+    <string name="finalGame">Final</string>
+    <string name="financePeriod">Finans periyodu: %1$s-%2$s</string>
+    <string name="financialBonus">finansal bonus (%1$s)</string>
+    <string name="financing">Finansman:</string>
+    <string name="fine">iyi (%1$s)</string>
+    <string name="fired">Kovuldunuz, Oyun bitti!</string>
+    <string name="firstChampionship">1. turnuva</string>
+    <string name="firstDivision">1. lig</string>
+    <string name="firstGroup">A</string>
+    <string name="firstLeg">ilk maç</string>
+    <string name="fitness">Fizik kondisyonu</string>
+    <string name="fixtures">Fikstur</string>
+    <string name="fixturesAndTables">Fikstür ve tablo</string>
+    <string name="followedCountries">Takip edilen ülkeler:</string>
+    <string name="footballPlayer">Futbol oyuncusu</string>
+    <string name="formation">Formasyon</string>
+    <string name="formationName">Formasyonun adı:</string>
+    <string name="fourthDivision">4. lig</string>
+    <string name="freeAgentRecommendedContent">"Merhaba, benim adım %1$s, ve ben bir temsilciyim.
+
+Benim oyuncularımızdan bir tanesini önermek istiyorum - %2$s. O %6$s bölgesinde oynuyor ve en son kulübü %3$s oldu.
+
+Eğer ilgileniyorsanız onu alabilirim, kontrat hakkında benimle özgürce konuşabilirsiniz. Maaş hakkındaki beklentim %4$s. Benim transferden ücretim sadece %5$s olacaktır.
+
+Umarım benim teklifimi düşünürsünüz. İyi günler!"</string>
+    <string name="freeAgentRecommendedTitle">Serbest oyuncu önerisi - %1$s</string>
+    <string name="freeKick">%1$s takımına serbest vuruş</string>
+    <string name="freeKickAction1">%1$s şut!</string>
+    <string name="freeKickLength">Kaleye %1$s mesafede</string>
+    <string name="friday">Cm</string>
+    <string name="friendlies">Dostluk</string>
+    <string name="friendliesThisSeason">Sezondaki dostluk maçlari</string>
+    <string name="friendliesTickets">Dostluk maci</string>
+    <string name="friendlyFees">Ücretleri için rakipler</string>
+    <string name="friendlyMatchCancelledContent">%2$s tarihinde %1$s tarafına karşı düzenlenen dostluk maçımız resmi maçlarla çakışmasından dolayı iptal edildi.</string>
+    <string name="friendlyMatchCancelledTitle">%1$s ile oynanacak olan dostluk maçı iptal edildi</string>
+    <string name="friendlyMatchOfferAcceptedContent">"Bizim takımlar arasında düzenlenen dostluk maçının teklifini kabul ettiler.
+
+Maç %1$s tarihinde oynanacak"</string>
+    <string name="friendlyMatchOfferAcceptedTitle">%1$s - dostluk maçı isteginiz kabul edildi</string>
+    <string name="friendlyMatchOfferRejectedContent">Takimimizla oynamak istediginiz dostluk maçı reddedildi.</string>
+    <string name="friendlyMatchOfferRejectedTitle">%1$s - dostluk maçı isteginiz reddedildi</string>
+    <string name="friendlyOfferAwaitingContent">%1$s tarafından bekleyen dostluk teklifi var. Eğer istiyorsanız, lütfen teklife bakıp ve cevap veriniz.</string>
+    <string name="friendlyOfferAwaitingTitle">%1$s tarafından dostluk teklifi</string>
+    <string name="friendlyOfferSent">Dostluk teklifi gönderildi.</string>
+    <string name="friendlyOffers">Teklif</string>
+    <string name="friendship">Dostluk</string>
+    <string name="from">Gönderen:</string>
+    <string name="fullExtraTime">Maç sonu</string>
+    <string name="fullExtraTimePenalties">Penaltı atışlarına kaldık!</string>
+    <string name="fullTime">Maç sonu</string>
+    <string name="fullTime1">\"Vay! Evet! Müthiş!\"</string>
+    <string name="fullTime2">\"Bu harika bir oyundu! Daha fazlası için umuyorum!\"</string>
+    <string name="fullTime3">\"Aferin, çocuklar. Tebrikler.\"</string>
+    <string name="fullTime4">\"Mutlu değilim. Bundan daha iyisini yapabilirdiniz.\"</string>
+    <string name="fullTime5">\"Neydi O? Bunun gibi bir şeyi bir daha görmek istemiyorum!</string>
+    <string name="fullTime6">\"Ne ayıp. Sizler değmezsiniz.\"</string>
+    <string name="fullTimeExtraTime">Ekstra zaman!</string>
+    <string name="gameOverContent">"Efendim, geçen haftalar felaketti. Bu takımın performansının nasıl geliştirmek için fikriniz yok gibi görünüyor. Oyuncular çok kötü görünüyor, Onlar yavaş, ve çok fazla hata yapıyorlar. Ben hiçbir takım ruhu göremedim. Bunu dediğim için üzgünüm, bu durumda sizle işbirliğimizi bitirmek zorundayım.
+
+Bir sonraki takımda iyi şanslar dilerim."</string>
+    <string name="gameOverTitle">Yeter artık, teşekkür ederim...</string>
+    <string name="gameplay">Oynanış:</string>
+    <string name="gastronomy">Gastronomi</string>
+    <string name="gentle">nazik</string>
+    <string name="goAhead">- Evet, devam et.</string>
+    <string name="go_for_headers">başlıklar için gitmek</string>
+    <string name="goal">GOL!!!</string>
+    <string name="goal1Text1">%1$s rakiplerini eziyor!</string>
+    <string name="goal1Text10">Karşı rakibe hiç bir şans vermiyorlar bu akşam!</string>
+    <string name="goal1Text11">Yine başka bir gol %1$s tarafından!</string>
+    <string name="goal1Text12">%1$s! bu onlardan bir tane daha!</string>
+    <string name="goal1Text13">%1$s bu gece eğlendi!</string>
+    <string name="goal1Text14">%1$s ağlara bir tane daha atıyor!</string>
+    <string name="goal1Text15">İşte sansasyonel bir sonuç!</string>
+    <string name="goal1Text16">%1$s hakim oluyor!</string>
+    <string name="goal1Text17">Bu utanç hale geliyor!</string>
+    <string name="goal1Text18">%1$s tarafından kötü maç!</string>
+    <string name="goal1Text19">%1$s bu gece mahvoldu!</string>
+    <string name="goal1Text2">%1$s sahada yoklar!</string>
+    <string name="goal1Text3">%1$s takımını durdurulmaz bu akşam!</string>
+    <string name="goal1Text4">Yüzde yüz hakimiyet!</string>
+    <string name="goal1Text5">Bir kasap sahnesi!</string>
+    <string name="goal1Text6">%1$s maçın bitmesini istiyorlar...</string>
+    <string name="goal1Text7">Bu akşam istediklerini yapıyorlar!</string>
+    <string name="goal1Text8">%1$s rakiplerini hapsediyor!</string>
+    <string name="goal1Text9">%1$s nun oyuncuları artık ilizyon yapmıyorlar!</string>
+    <string name="goal2Text1">%1$s takımı avans alıyorlar!</string>
+    <string name="goal2Text10">%1$s başı belaya girmek üzere!</string>
+    <string name="goal2Text11">%1$s bu gece işini iyi yapıyor!</string>
+    <string name="goal2Text12">%1$s yapmak zorundalar!</string>
+    <string name="goal2Text2">%1$s galibiyete yaklaşıyor!</string>
+    <string name="goal2Text3">%1$s için maç zorlaşıyor</string>
+    <string name="goal2Text4">%1$s oyuncuları güzel bir avantaj ele geçirdi!</string>
+    <string name="goal2Text5">%1$s arayı açıyor!</string>
+    <string name="goal2Text6">Herşey bitti mi?</string>
+    <string name="goal2Text7">%1$s oyuncuları başlarına darbe aldı!</string>
+    <string name="goal2Text8">Görünen o ki %1$s taraftarları şimdi sakinleşebilirler!</string>
+    <string name="goal2Text9">Gol değeri kazandı mı?</string>
+    <string name="goal3Text1">%1$s avantaj alıyorlar!</string>
+    <string name="goal3Text10">%1$s öndeler!</string>
+    <string name="goal3Text11">%1$s şimdi saldırmak zorundalar!</string>
+    <string name="goal3Text2">%1$s takımı oyuna hakim olacak şimdi!</string>
+    <string name="goal3Text3">%1$s takımı oyunu yükseltmeleri lazım!</string>
+    <string name="goal3Text4">%1$s kazanmayı hakediyor!</string>
+    <string name="goal3Text5">%1$s! İ Yaptılar!</string>
+    <string name="goal3Text6">%1$s takımı daha rahat oynayacak artık!</string>
+    <string name="goal3Text7">%1$s takımı saldırması lazım artık!</string>
+    <string name="goal3Text8">%1$s bir gol önde!</string>
+    <string name="goal3Text9">%1$s önde götürüyorlar!</string>
+    <string name="goal4Text1">%1$s takımı hala yaşıyormu!</string>
+    <string name="goal4Text10">%1$s için çok önemli bir gol!</string>
+    <string name="goal4Text11">Oyuna geri döndüler!</string>
+    <string name="goal4Text12">Bu onlara biraz umut verir!</string>
+    <string name="goal4Text13">Bir tane daha atabilirler mi?</string>
+    <string name="goal4Text14">Bir tane daha ihtiyaçları lazım!</string>
+    <string name="goal4Text15">Fakat hala bir gol öndeler!</string>
+    <string name="goal4Text16">Onlar tekrar geri döndüler!</string>
+    <string name="goal4Text2">Herşey kayıp olmuş değil!</string>
+    <string name="goal4Text3">%1$s taraftarlarını umutlandırıyor!</string>
+    <string name="goal4Text4">%1$s takımı artık bir gol önde!</string>
+    <string name="goal4Text5">%1$s uzak değiller!</string>
+    <string name="goal4Text6">%1$s takımı bu skoru tutabileceklermi?</string>
+    <string name="goal4Text7">Ağlardan hızlı bir şekilde topu alıyor</string>
+    <string name="goal4Text8">%1$s sonuna kadar savaşacaklar!</string>
+    <string name="goal4Text9">%1$s için hayati gol!</string>
+    <string name="goal5Text1">Daha fazlasını yapabilirlermi?</string>
+    <string name="goal5Text10">Artık kutlamazlar geç oldu onlar için</string>
+    <string name="goal5Text11">Bu sonuç onlar için biraz daha iyi görünecektir</string>
+    <string name="goal5Text12">Artık çok geç!</string>
+    <string name="goal5Text13">Onların başka zamanı var mı?</string>
+    <string name="goal5Text14">Vay, inanabiliyor musunuz ? Onlar attı!</string>
+    <string name="goal5Text15">Güzel, ama iyi sonuca yine de uzaktalar!</string>
+    <string name="goal5Text2">Daha fazlasını yapabilirlermi?</string>
+    <string name="goal5Text3">Ağlardan hızlı bir şekilde topu alıyor</string>
+    <string name="goal5Text4">Hala biraz zamanları var</string>
+    <string name="goal5Text5">%1$s takımı için bir ankık dikkatsizlik</string>
+    <string name="goal5Text6">Şeref golü diyelim</string>
+    <string name="goal5Text7">%1$s yavaş bir şekilde mesafeyi kapatıyor</string>
+    <string name="goal5Text8">Bu golün bir değeri varmı artık??</string>
+    <string name="goal5Text9">%1$s! Şeref için bir gol!</string>
+    <string name="goal6Text1">%1$s avantajını yitiriyor!</string>
+    <string name="goal6Text2">%1$s eşitliyor durumu!</string>
+    <string name="goal6Text3">Maç tekrar başlıyor!</string>
+    <string name="goal6Text4">Beraberlik var!</string>
+    <string name="goal6Text5">Yenilgileri için affedildiler!</string>
+    <string name="goal6Text6">Sessizlik hakim!</string>
+    <string name="goal6Text7">Oyuna geri döndüler!</string>
+    <string name="goal6Text8">Onlar başarıyla cevap verdiler!</string>
+    <string name="goal6Text9">Onlar başardı!</string>
+    <string name="goal7Text1">%1$s %2$s! Kahramanı oluyor!</string>
+    <string name="goal7Text2">%1$s! Tribünlerinde büyük bir mutluluk!</string>
+    <string name="goal7Text3">Golcüden inanılmaz sevinç gösterisi!</string>
+    <string name="goal7Text4">Son saniye golu derlerya, iste o, bu gol sayin seyirciler!</string>
+    <string name="goal7Text5">Dramatik bir maç!</string>
+    <string name="goal7Text6">%1$s`s taraftarı şokta!</string>
+    <string name="goal7Text7">İnanabiliyormusun!</string>
+    <string name="goal7Text8">%1$s oyunun son anlarında skor elde ediyor!</string>
+    <string name="goalAfterChaosAction1">Top napti etti aglarla bulusmayi basardi!</string>
+    <string name="goalAfterChaosAction2">Inanilmaz ama iceride!</string>
+    <string name="goalAfterChaosAction3">%1$s tebrikleri kabul ediyor!</string>
+    <string name="goalAfterChaosAction4">%1$s golu atti!</string>
+    <string name="goalAfterChaosAction5">%1$s golcülerden bir tanesi!</string>
+    <string name="goalAfterChaosAction6">%1$s! topu ağlara gönderdi!</string>
+    <string name="goalAfterChaosAction7">%1$s başarıyor!</string>
+    <string name="goalText1">%1$s! Onlar için başka bir tane gelecek mi?</string>
+    <string name="goalkeeper_trainer">Kaleci antrenörü</string>
+    <string name="goalkeeping">Kalecilik</string>
+    <string name="goals">En fazla gol</string>
+    <string name="goalsTable">A/Y</string>
+    <string name="goodPerformance">iyi performans</string>
+    <string name="goodPlayerBoughtAnswer1">O muhteşem biri, bize katılıp kabul etmesine çok mutluyum!</string>
+    <string name="goodPlayerBoughtAnswer2">O yetenekli çocuktur, fakat ben çok çalışmasını bekliyorum, tıpkı diğer oyuncular gibi.</string>
+    <string name="goodPlayerBoughtAnswer3">Aslında... Onun hakkında fazla bir şey bilmiyorum, dürüst olmak gerekirse.</string>
+    <string name="goodPlayerBoughtQuestion">Taraftarlar %1$s %2$s formasında görmek için çok heyecanlı. Oyuncudan beklentileriniz nelerdir?</string>
+    <string name="graphics_team_emblems">Grafik (takım amblemleri)</string>
+    <string name="greeting1">Günaydın, efendim. Ismim bir süre için bir konuşma olabilir %1$s, ben yerel bir gazetede çalışıyormuyum?</string>
+    <string name="greeting2">Günaydın, efendim. %1$s yine ben. Size soru sorabilir miyim?</string>
+    <string name="group">Group</string>
+    <string name="groupStage">Grup</string>
+    <string name="groupStageDraw">Group stage draw</string>
+    <string name="groupX">%1$s grubu</string>
+    <string name="halfTime">İlk yarı</string>
+    <string name="halfTime1">\"Süper! Sizi seviyorum çocuklar!\"</string>
+    <string name="halfTime2">\"Buraya kadar iyi maç gösterdiniz! Böyle devam edin!\"</string>
+    <string name="halfTime3">\"Fena değil. Sizlerin bunu yapabilmesi mümkün!\"</string>
+    <string name="halfTime4">\"Çok fazla hatalar var. Sizlerin zorlaması gerekir!\"</string>
+    <string name="halfTime5">\"Ne yapıyorsunuz? Oynamaya başlayın!</string>
+    <string name="halfTime6">\"Bu lanet bir kabus oldu. Sizler futbol oynamayı bilmiyorsunuz.\"</string>
+    <string name="hallOfFame">Şeref kürsüsü:</string>
+    <string name="hallOfTrophies">Kupa salonu</string>
+    <string name="happy">mutlu</string>
+    <string name="headerShotAction1">%1$s kafadan!</string>
+    <string name="headerShotAction2">%1$s kafayla!</string>
+    <string name="headerShotAction3">%1$s sicriyor!</string>
+    <string name="headerShotAction4">%1$s kafayla atıyor!</string>
+    <string name="headerShotAction5">%1$s kafayla birlikte dalıyor!</string>
+    <string name="heading">Kafa vuruşu</string>
+    <string name="heelShotAction1">%1$s topuguyla dokunuyor!</string>
+    <string name="heelShotAction2">%1$s topuguyla dokunuyor!</string>
+    <string name="high">Yüksek</string>
+    <string name="highShotAction1">%1$s dusuncesizce vuruyor!</string>
+    <string name="highShotAction2">%1$s havadan vuruyor!</string>
+    <string name="highShotAction3">%1$s öfkeyle saldırıyor!</string>
+    <string name="highShotAction4">%1$s ile sert atış!</string>
+    <string name="higherOfferAcceptedContent">Oyuncunuz (%1$s) için önerdiğiniz teklifi kabul ettiğimizden mutluyuz.</string>
+    <string name="higherOfferAcceptedTitle">%1$s için yapılan yüksek teklif kabul edildi</string>
+    <string name="higherOfferRejectedContent">Oyuncunuz (%1$s) için önerdiğiniz teklifi reddettik.</string>
+    <string name="higherOfferRejectedTitle">%1$s için yapılan yüksek teklif reddedildi</string>
+    <string name="highestLoss">En farklı yenilgi:</string>
+    <string name="highestRank">En yüksek seviye:</string>
+    <string name="highestWin">En farklı galibiyet:</string>
+    <string name="hire">İşe al</string>
+    <string name="hireMoreTrainers">Sizde herhangi boş altyapı antrenörü yok. Daha fazla antrenör işe alın.</string>
+    <string name="history">Geçmiş</string>
+    <string name="home">ic</string>
+    <string name="hooligansFight">ayaklanma</string>
+    <string name="hooligansPoliceFight">guvenlik gucleri ile kavga</string>
+    <string name="host">Host</string>
+    <string name="importantMatchForFansAnswer1">Tabi ki! Ben ve benim bütün oyuncularım savaş olacağını biliyoruz, ve bizler bunun için hazırız!</string>
+    <string name="importantMatchForFansAnswer2">Her maç bizim için önemlidir, rakip takım ne olursa olsun.</string>
+    <string name="importantMatchForFansAnswer3">Gerçekten mi? Hayır, bu umurumda değil.</string>
+    <string name="importantMatchForFansQuestion">Taraftarlar %1$s ile karşı bir sonraki oyuna bakıyorlar, onları büyük rakipleri olarak görüyorlar. Sizce bu maçın önemi sizin için önemli midir?</string>
+    <string name="inbox">Mesaj kutusu</string>
+    <string name="individualOrders">Bireysel emirler</string>
+    <string name="injuredFor">Sakat (%1$s hafta için)</string>
+    <string name="insertNewTeamName">Yeni takim adi ekle:</string>
+    <string name="interceptionOfPassAction1">%1$s topu alıyor!</string>
+    <string name="interceptionOfPassAction10">%1$s pası kesiyor!</string>
+    <string name="interceptionOfPassAction2">%1$s tarafından büyük bir şekilde durduruluyor!</string>
+    <string name="interceptionOfPassAction3">%1$s tarafından kesiliyor!</string>
+    <string name="interceptionOfPassAction4">%1$s topu yakalıyor!</string>
+    <string name="interceptionOfPassAction5">%1$s topu çalıyor!</string>
+    <string name="interceptionOfPassAction6">%1$s tarafından alındı!</string>
+    <string name="interceptionOfPassAction7">%1$s alıyor!</string>
+    <string name="interceptionOfPassAction8">%1$s topu alıyor!</string>
+    <string name="interceptionOfPassAction9">%1$s ilk topu alıyor!</string>
+    <string name="invalidSquadInjuredSuspended">Sakat veya cezalı oyuncu ilk onbirde bulunuyor:</string>
+    <string name="invalidSquadTooLittlePlayersStartingLineup">İlk onbirde eksik var.</string>
+    <string name="invalidSquadTooLittleSubs">En az 4 yedek oyuncu seçmek zorundasınız.</string>
+    <string name="isolation">Adaptasyon ilgili sorun</string>
+    <string name="january">Ocak</string>
+    <string name="jobOffers">Iş teklifi</string>
+    <string name="journalist">Gazeteci</string>
+    <string name="july">Temmuz</string>
+    <string name="june">Haziran</string>
+    <string name="keeperReflectAction1">Kaleci mukemmel refleks gosteriyor!</string>
+    <string name="keeperReflectAction2">%1$s den mukemmel refleks!</string>
+    <string name="keeperReflectAction3">%1$s den mukemmel refleks!</string>
+    <string name="keeperReflectAction4">%1$s topu açıkça yumrukluyor!</string>
+    <string name="keeperReflectAction5">%1$s yöneterek kurtarıyor!</string>
+    <string name="keeperReflectAction6">%1$s uzağa atıyor!</string>
+    <string name="keeperReflectAction7">%1$s şutu engelliyor!</string>
+    <string name="keeperSaveAction1">%1$s durdurdu</string>
+    <string name="keeperSaveAction2">Kaleciden inanılmaz kurtarış!</string>
+    <string name="keeperSaveAction3">%1$s topu karsiliyor!</string>
+    <string name="keeperSaveAction4">%1$s topa sahip oluyor!</string>
+    <string name="keeperSaveAction5">%1$s tarafından güzel kurtarış</string>
+    <string name="keeperSaveAction6">%1$s! Muhteşem kurtarış!</string>
+    <string name="keeperSaveAction7">%1$s tarafından ne kurtarış!</string>
+    <string name="keeperSaveAction8">Kaleciden kolay kurtarış!</string>
+    <string name="keeperSaveAction9">%1$s topu kolayca alıyor</string>
+    <string name="knownPlayers">Bilinen oyuncular (%1$s):</string>
+    <string name="leader">Bir lider gibi tedavi edildi</string>
+    <string name="leagueTickets">Lig maci</string>
+    <string name="light">hafif</string>
+    <string name="light_">küçük</string>
+    <string name="live_results">Canlı sonuçlar:</string>
+    <string name="load">Yükle</string>
+    <string name="loadGame">Oyunu yükle</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="loading_new_game">Yeni oyun yükle...</string>
+    <string name="loading_teams_and_leagues">Ligler ve takımlar yükleniyor...</string>
+    <string name="loan">Kirala</string>
+    <string name="loanAmount">Kredi miktarı:</string>
+    <string name="loanBeganContent">%1$s (%2$s) takimiza katildi. Oyuncu %3$s e kadar kiraliktir.</string>
+    <string name="loanBeganTitle">%1$s kiraliktir</string>
+    <string name="loanOffer">Kiralama</string>
+    <string name="loanOfferAcceptedContent">"%1$s icin yapilan kiralama teklifi kabul edildi.
+
+"</string>
+    <string name="loanOfferAcceptedTitle">%1$s - kiralama teklifi kabul edildi</string>
+    <string name="loanOfferReceivedContent">"%1$s bizim oyuncumuz (%2$s) kiralamak istiyor.
+
+Onların gönderdiği bu teklifi çekinmeden cevap verin."</string>
+    <string name="loanOfferReceivedTitle">%1$s takımı %2$s kiralık olarak istiyor</string>
+    <string name="loanOfferRejectedBenchContent">"Takimda kalmak ve ilk 11 icin savasmak istiyor.
+
+"</string>
+    <string name="loanOfferRejectedContent">"%1$s icin yapilan kiralama teklifi reddedildi.
+
+"</string>
+    <string name="loanOfferRejectedFirstSquadContent">"Bizim icin onemli, onun icin kiralamayi bile dusunmuyoruz.
+
+"</string>
+    <string name="loanOfferRejectedTitle">%1$s - kiralama teklifi reddedildi</string>
+    <string name="loanOfferTitle">"%1$s sizin oyuncunuzu kiralamak istiyor.
+
+Derhal kiranın başlatılmasını istiyorlar ve bitişi %2$s."</string>
+    <string name="loanOutBeganContent">%1$s %2$s takımına bugün katıldı. O %3$s tarihine kadar kiralıkta.</string>
+    <string name="loanOutBeganTitle">%1$s %2$s takımına kiralandı</string>
+    <string name="loanRepayment">Kredi geri ödemesi</string>
+    <string name="locker_room">Soyunma odası</string>
+    <string name="longCornerKickAction1">%1$s ortalıyor</string>
+    <string name="long_passes">uzun</string>
+    <string name="losses">Kaybedilen:</string>
+    <string name="lossesTable">M</string>
+    <string name="low">Düşük</string>
+    <string name="lowShotAction1">%1$s yerden vuruyor!</string>
+    <string name="lowShotAction2">%1$s yavaş vuruyor!</string>
+    <string name="lowShotAction3">%1$s yavaş sürüyor!</string>
+    <string name="lowestRank">En düşük seviye:</string>
+    <string name="main">Ana</string>
+    <string name="maintenance">Bakım</string>
+    <string name="majorRivals">Başlıca rakipler:</string>
+    <string name="makeOffer">Teklifte bulun</string>
+    <string name="march">Mart</string>
+    <string name="marketer">Pazarlamacı</string>
+    <string name="marketing">Harcamalar</string>
+    <string name="matchOrganisation">Maç organizasyonu</string>
+    <string name="matchSpeed">maç hizi:</string>
+    <string name="matches">Oynanan maçlar</string>
+    <string name="matchesTable">O</string>
+    <string name="maxSkill">Yetenek (max.):</string>
+    <string name="may">Mayıs</string>
+    <string name="media">Medya</string>
+    <string name="medicalServices">Tibbi hizmetler</string>
+    <string name="medium_">orta</string>
+    <string name="mental">Zihinsel eğitim</string>
+    <string name="merchandiseSale">Satislar</string>
+    <string name="mexico">Kuzey Amerika (Meksika)</string>
+    <string name="middle_east">Orta Doğu</string>
+    <string name="minSkill">Yetenek (min.):</string>
+    <string name="mixed">karışık</string>
+    <string name="monday">Pzt</string>
+    <string name="monthlyBalance">Aylik balans:</string>
+    <string name="monthlyCost">Aylık maliyet:</string>
+    <string name="monthlyIncome">Aylik odeme</string>
+    <string name="monthlyInstalment">Aylık taksit - %1$s</string>
+    <string name="monthlyInstalment2">Aylık taksit:</string>
+    <string name="monthlySalary">Aylık maaş</string>
+    <string name="monthlySpending">Aylık harcama</string>
+    <string name="monthsToRepayment">Aylık geri ödeme:</string>
+    <string name="morale">Moral</string>
+    <string name="mostApps">En fazla forma giyinen:</string>
+    <string name="mostPromisingPlayersContent">Şimdiye kadar bulunan en gelecek vaat eden oyuncular %1$s ve %2$s bulunmaktadır. Aramanın tam sonuçları scout ekranında bulunmaktadır.</string>
+    <string name="motivated">motive olmuş</string>
+    <string name="motivationalSpeech">Motivasyonel konuşma</string>
+    <string name="move">Hareket...</string>
+    <string name="moveTo">Hareket...</string>
+    <string name="moveToFirstTeam">A takima al</string>
+    <string name="multi_release">Kontrat feshi</string>
+    <string name="nameCannotBeEmpty">Formasyonun adı boş olamaz.</string>
+    <string name="nationalCup">Ulusal Kupa</string>
+    <string name="native_body">Metin</string>
+    <string name="native_headline">Başlık</string>
+    <string name="native_media_view">Medya Görünümü</string>
+    <string name="nature">Doğa</string>
+    <string name="negotiateOffer">Anlaş</string>
+    <string name="negotiation">Anlaşma</string>
+    <string name="negotiationTitle">"%1$s sizin teklifinizle onların oyuncusuyla anlaşmak istiyor.
+
+Onlar en az %2$s istiyor. Bu son tekliftir."</string>
+    <string name="never">asla</string>
+    <string name="newGame">Yeni oyun</string>
+    <string name="newJobOfferContent">"Sayın efendim.
+
+%1$s kulübü size iş teklifi gönderdi. Bunun olmasına rağmen sevmiyorum, geleceğiniz hakkında karar vermekte ve bakmakta özgürsünüz."</string>
+    <string name="newJobOfferTitle">%1$s tarafından yeni iş teklifi</string>
+    <string name="newPlayer">Yeni oyuncu...</string>
+    <string name="newSave">Yeni...</string>
+    <string name="newSponsorshipOfferContent">Müjde! %1$s adındaki bir şirketten kontrat teklifi aldık. Eğer isterseniz teklife bakabilir ve cevap verebilirsiniz.</string>
+    <string name="newSponsorshipOfferTitle">%1$s tarafından yeni sponsorluk teklifi</string>
+    <string name="newTrophy">Yeni kupa!</string>
+    <string name="next">İleri</string>
+    <string name="nextMatch">Gelecek maç:</string>
+    <string name="no">Hayır</string>
+    <string name="noAssignment">Bu scout herhangi bir bölgeye atanmamış.</string>
+    <string name="noDataToShow">Görüntülemek için veri yok.</string>
+    <string name="noFriendlies">Dostluk maçı yok.</string>
+    <string name="noFriendlyOffers">Şimdiye kadar hiçbir dostluk teklifi yok.</string>
+    <string name="noGoalAction1">Hayır gol iptal edildi!</string>
+    <string name="noGoalAction2">Hayır bekleyin, gol kabul edilmedi!</string>
+    <string name="noGoalAction3">Hayır bayrak kalktı!</string>
+    <string name="noGoalAction4">Fakat hakem golü saymıyor!</string>
+    <string name="noGoalAction5">Hayır, hareket hakem tarafından durduruldu!</string>
+    <string name="noGoalOffsideAction1">Itirazlar bosuna, gol tamamiyle ofsayt!</string>
+    <string name="noGoalOffsideAction2">Ofsayttami? Emin degilim!</string>
+    <string name="noGoalOffsideAction3">Atılan gol net bir şekilde ofsayt!</string>
+    <string name="noGoalOffsideAction4">Kendisinin eli skora yardım etti!</string>
+    <string name="noGoalOffsideAction5">Faul mü yoksa ofsayt mı? Emin değilim!</string>
+    <string name="noGoalOffsideAction6">Kaleci açıkça burada faul yaptı!</string>
+    <string name="noInternetConnection">Hiçbir internet bağlantısı!</string>
+    <string name="noMatchesToShow">Şimdilik hiç bir maç gösteremeyiz.</string>
+    <string name="noMatchesYet">Hiç bir maç oynanmadı.</string>
+    <string name="noNever">- Hayır. Ve bir daha beni çağırmayın.</string>
+    <string name="noNewsObservations">Şimdiye kadar haber veya gözlem yok</string>
+    <string name="noOffers">Herhangi bir teklif yok.</string>
+    <string name="noPlayerAssigned">(hiçbir oyuncu atanmadı)</string>
+    <string name="noRecommendations">Şu anda hiçbir öneri yok.</string>
+    <string name="noResults">Herhangi bir sonuc yok.</string>
+    <string name="noRoomForSponsor">Daha fazla çeşitli sponsorluklara sahip olamazsınız. Yer açmak için başka kontratı feshedin.</string>
+    <string name="noScoutsInClub">Sizin kulübünüzde hiçbir scout yok. Bir tanesini işe alın scouting özelliğini kullanın.</string>
+    <string name="noTeamsAnalysed">Şu anda analiz altında olan takım yok.</string>
+    <string name="noTrainer">antrenör yok</string>
+    <string name="noTrophies">Üzgünüm, henüz hiçbir kupa kazanmadınız...</string>
+    <string name="noYouthTeams">Altyapı takımları yok</string>
+    <string name="none">hiç</string>
+    <string name="normal">normal</string>
+    <string name="normal2">Normal</string>
+    <string name="north">Kuzey</string>
+    <string name="north_africa">Afrika (kuzey)</string>
+    <string name="north_america">Kuzey Amerika</string>
+    <string name="north_central_africa">Afrika (kuzey-merkez)</string>
+    <string name="north_east">Kuzey Doğu</string>
+    <string name="north_europe">Avrupa (kuzey)</string>
+    <string name="north_south_america">Güney Amerika (kuzey)</string>
+    <string name="north_west">Kuzey Batı</string>
+    <string name="notThisTime">- Hayır, belki bir dahaki sefere.</string>
+    <string name="not_recommended">Önerilmez:</string>
+    <string name="notes">Not:</string>
+    <string name="notifications_permission_confirm">İzin ver</string>
+    <string name="notifications_permission_decline">İzin verme</string>
+    <string name="notifications_permission_title">Uygulamanın size bildirim göndermesine izin verilsin mi?</string>
+    <string name="november">Kasım</string>
+    <string name="numberOfSeats">Koltuk sayisi:</string>
+    <string name="oceania">Okyanusya</string>
+    <string name="oceania_2">Okyanusya (2)</string>
+    <string name="october">Ekim</string>
+    <string name="offTheBarAction1">Direğin üstüne!</string>
+    <string name="offTheBarAction2">Üst direğin üstüne!</string>
+    <string name="offTheBarAction3">Direklere çarptı!</string>
+    <string name="offTheBarAction4">Yan direkten çarptı!</string>
+    <string name="offerAcceptedBenchContent">"Yedek oyuncumuz ve teklifinizde gayet ilgi cekici.
+
+"</string>
+    <string name="offerAcceptedContent">"%1$s icin transfer teklifiniz kabul edildi
+
+"</string>
+    <string name="offerAcceptedFirstSquadContent">"Takim icin onemli, ama teklifiniz goz ardi edilemeyecek kadar etkileyici
+
+"</string>
+    <string name="offerAcceptedProposeContract">Kontrat ile ilgili lutfen oyuncunun menejeri ile gorusun.</string>
+    <string name="offerAcceptedReserveContent">"Oyuncu a takimimiz icin yeterince iyi degil, transferin gerceklesmesinden bizde memnun oluruz.
+
+"</string>
+    <string name="offerAcceptedTitle">%1$s - transfer kabul edildi</string>
+    <string name="offerContract">Sözleşme</string>
+    <string name="offerNegotiatingContent">"Bizim oyuncu (%2$s) için teklifi müzakere etmek istiyoruz.
+
+Bu oyuncu için %1$s gibi bir teklif bekliyoruz."</string>
+    <string name="offerNegotiatingTitle">%1$s anlaşma durumunda</string>
+    <string name="offerReceivedContent">%1$s %2$s yi satin almak istiyor. Tekliflerini gormeyi ve cevaplamayi unutma.</string>
+    <string name="offerReceivedTitle">%1$s %2$s e teklif yapti</string>
+    <string name="offerRejectedBenchContent">"Yedek oyuncumuz ama teklifiniz bizim icin yeterince iyi degil.
+
+"</string>
+    <string name="offerRejectedContent">"%1$s icin transfer teklifiniz reddedildi.
+
+"</string>
+    <string name="offerRejectedFirstSquadContent">"Takim icin onemli, onu bu kadar kolay birakmayiz.
+
+"</string>
+    <string name="offerRejectedReserveContent">"Oyuncumuz a takim icin yeterince iyi olmayabilir ama biz daha iyi teklifler olacagina inaniyoruz.
+
+"</string>
+    <string name="offerRejectedTitle">%1$s - transfer reddedildi</string>
+    <string name="offerType">Teklif tipi:</string>
+    <string name="offeredPrice">Teklif edilen fiyat:</string>
+    <string name="offeredSalary">Teklif edilen maaş:</string>
+    <string name="offersMade">Yapılan teklifler</string>
+    <string name="offersReceived">Alınan teklifler</string>
+    <string name="office">Ofis</string>
+    <string name="offline_notification_text">Reklamı açmak için dokunun</string>
+    <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
+    <string name="offline_opt_in_confirm">Tamam</string>
+    <string name="offline_opt_in_confirmation">İnternete tekrar bağlandığınızda bağlantı içeren bir bildirim alacaksınız</string>
+    <string name="offline_opt_in_decline">Hayır</string>
+    <string name="offline_opt_in_message">Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz.</string>
+    <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın.</string>
+    <string name="offsideAction1">Hakem ofsayt karari verdi!</string>
+    <string name="offsideAction2">Ofsayt!</string>
+    <string name="offsideAction3">Hakem dudugunu caldi! Ofsayt!</string>
+    <string name="offsideAction4">Yan hakem bayrağını kaldırıyor, ofsayt!</string>
+    <string name="offsideAction5">Ofsayt, bayrak yukarıda!</string>
+    <string name="offsideTraps">Ofsayt tuzağı:</string>
+    <string name="often">sık sık</string>
+    <string name="ok">OK</string>
+    <string name="onTrainingCamp">Şu anda %1$s içinde eğitim kampında (dönüş tarihi - %2$s)</string>
+    <string name="oneOnOneAction1">Bire-bir durumdan!</string>
+    <string name="oneOnOneAction10">%1$s onu yerine koyuyor!</string>
+    <string name="oneOnOneAction11">%1$s için kolay şans!</string>
+    <string name="oneOnOneAction2">Bire-bir kaleci ile!</string>
+    <string name="oneOnOneAction3">%1$s kaleciyle ile karşı karşıya!</string>
+    <string name="oneOnOneAction4">%1$s! Kaleciyi sadece o avlayabilir!</string>
+    <string name="oneOnOneAction5">%1$s! Skoru elde etti!</string>
+    <string name="oneOnOneAction6">%1$s! Ne Şans!</string>
+    <string name="oneOnOneAction7">%1$s bol zamanı var!</string>
+    <string name="oneOnOneAction8">%1$s savunmanın arkasında!</string>
+    <string name="oneOnOneAction9">Burada ofsayt yok! %1$s!</string>
+    <string name="opponents">Rakipler</string>
+    <string name="options">Secenekler</string>
+    <string name="organisationCostNote">- %1$s - maç organizasyonu</string>
+    <string name="organize_dinner">Akşam yemeği düzenle</string>
+    <string name="organize_dinner_cons_1">Maliyeti %1$s</string>
+    <string name="organize_dinner_pros_1">Çatışmaların çözülmesine ve izole oyuncuların entegre edilmesine yardımcı olur</string>
+    <string name="organize_dinner_pros_2">Hafifçe oyuncuların moralini yükseltir</string>
+    <string name="organize_party">Parti düzenlemek</string>
+    <string name="organize_party_cons_1">Tüm oyuncuların mevcut halini düşürür</string>
+    <string name="organize_party_cons_2">Maliyeti %1$s</string>
+    <string name="organize_party_pros_1">Anlaşmazlıkların çözümünde ve oyuncuların entegrasyonunda çok etkili</string>
+    <string name="organize_party_pros_2">Oyuncuların moralini yükseltir</string>
+    <string name="other">diger ligler</string>
+    <string name="otherRivals">Diğer rakipler:</string>
+    <string name="overview">Genel bakış</string>
+    <string name="ownGoal">o.g.</string>
+    <string name="ownGoalAction1">Kendi kalesine atilan gol!</string>
+    <string name="ownGoalAction2">Kendi kalesine golu atti!</string>
+    <string name="passFarFromPenaltyAreaAction1">%1$s ileri çabuk atıyor</string>
+    <string name="passFarFromPenaltyAreaAction2">%1$s arkadaşına topu veriyor</string>
+    <string name="passFarFromPenaltyAreaAction3">%1$s akıllı şekilde arkadaşına veriyor</string>
+    <string name="passFarFromPenaltyAreaAction4">%1$s kafayla atilan pas!</string>
+    <string name="passFarFromPenaltyAreaAction5">%1$s topu ileri götürüyor</string>
+    <string name="passFarFromPenaltyAreaAction6">%1$s pasla beraber</string>
+    <string name="passInPenaltyAreaAction1">%1$s ortasi!</string>
+    <string name="passInPenaltyAreaAction2">%1$s ceza sahasina atilan pas!</string>
+    <string name="passInPenaltyAreaAction3">%1$s sutu cekecekmi. Hayir. Pas vermeyi tercih ediyor!</string>
+    <string name="passInPenaltyAreaAction4">%1$s pasini veriyor!</string>
+    <string name="passInPenaltyAreaAction5">%1$s partnerine doğru oynuyor!</string>
+    <string name="passIntoPenaltyAreaAction1">%1$s ceza sahasina dogru oynuyor!</string>
+    <string name="passIntoPenaltyAreaAction2">%1$s ortasi!</string>
+    <string name="passIntoPenaltyAreaAction3">%1$s ceza sahasina dogru oynuyor!</string>
+    <string name="passIntoPenaltyAreaAction4">%1$s topu alana getiriyor!</string>
+    <string name="passIntoPenaltyAreaAction5">%1$s topu ceza sahası içine yolluyor!</string>
+    <string name="passToCenterAction1">%1$s orta alana oynuyor!</string>
+    <string name="passToCenterAction2">%1$s orta alana oynuyor</string>
+    <string name="passToCenterAction3">%1$s topun merkezinde</string>
+    <string name="passToLeftSideAction1">%1$s sol tarafa oynuyor!</string>
+    <string name="passToLeftSideAction2">%1$s sol tarafa oynuyor</string>
+    <string name="passToLeftSideAction3">%1$s topu soluna veriyor</string>
+    <string name="passToLeftSideAction4">%1$s soldan oynarak açılıyor</string>
+    <string name="passToLeftSideAction5">%1$s sol kanada doğru topu gönderiyor</string>
+    <string name="passToRightSideAction1">%1$s sag tarafa dogru oynuyor!</string>
+    <string name="passToRightSideAction2">%1$s sag tarafa dogru oynuyor</string>
+    <string name="passToRightSideAction3">%1$s topu sağına doğru veriyor</string>
+    <string name="passToRightSideAction4">%1$s sağdan oynarak açılıyor</string>
+    <string name="passToRightSideAction5">%1$s sağ kanada doğru topu gönderiyor</string>
+    <string name="passing">Pas</string>
+    <string name="pauseMatch">Durdur</string>
+    <string name="penalize">Cezalandır</string>
+    <string name="penaltyFailText1">İnanılmaz kaçan pozisyon</string>
+    <string name="penaltyFailText2">Kalecinin eldivenlerine!</string>
+    <string name="penaltyFailText3">Kalenin üstünden uzağa!</string>
+    <string name="penaltyFailText4">Direğin üstüne!</string>
+    <string name="penaltyFailText5">Kaleci kurtardı!</string>
+    <string name="penaltyGoal">pen.</string>
+    <string name="penaltyKick">Penaltı!</string>
+    <string name="penaltyKickAction1">Kesinlikle dogru karar!</string>
+    <string name="penaltyKickAction2">Ama hakem dudugunu calmadi!</string>
+    <string name="penaltyKickAction3">Itirazlar bosuna, penalti vurusu kullanilacak!</string>
+    <string name="penaltyKickAction4">Hakem dogru karari verdi!</string>
+    <string name="penaltyKickAction5">Altın şanstan gole!</string>
+    <string name="penaltyKickAction6">Hakem protestoları görmezlikten geliyor!</string>
+    <string name="penaltyKickAction7">Açıkçası iyi bir karar oldu!</string>
+    <string name="penaltyKickAction8">Ah, hakem tarafından ne bir hata!</string>
+    <string name="penaltyKickExecution1">%1$s atmaya hazır...</string>
+    <string name="penaltyKickExecution2">%1$s derin bir nefes alıyor...</string>
+    <string name="penaltyKickExecution3">%1$s mesafe alıyor....</string>
+    <string name="penaltyKickExecution4">%1$s fırsatçılığıyla...</string>
+    <string name="penaltyKickExecution5">%1$s topu aşağı yerleştiriyor...</string>
+    <string name="penaltyKickExecution6">%1$s atmaya hazırlanıyor...</string>
+    <string name="penaltyKickReason1">%2$s takımından %1$s faul kazandı!</string>
+    <string name="penaltyKickReason2">%1$s (%2$s) ceza sahasinda el ile oynadi!</string>
+    <string name="penaltyType">Ceza tipi:</string>
+    <string name="penalty_area">ceza sahası</string>
+    <string name="peopleToHire">Personel alımı</string>
+    <string name="phoneCall">Telefon çağrısı</string>
+    <string name="physiotherapist">Fizyoterapist</string>
+    <string name="placeOfCamp">Kampın yeri:</string>
+    <string name="playFriendlyMatches">Yerel takımlarla dostluk maçı oynansın mı?</string>
+    <string name="playerAge">Yaş:</string>
+    <string name="playerAgeMax">Yaş (max.):</string>
+    <string name="playerAgeMin">Yaş (min.):</string>
+    <string name="playerCaughtClubbingContent">Patron, kötü haberlerim var. Geçen gece birileri %1$s gece kulübünde aşırı alkol aldığını ve çok fazla eğlendiğini görmüş. Oyuncuları bu yola süremeyiz, bu yol profesyonel hayattan çok uzak.</string>
+    <string name="playerCaughtClubbingTitle">%1$s dün gece kulübünde görüldü</string>
+    <string name="playerDidBadTweetsContent">"Patron, sanırım %1$s ile konuşmalısın. o Twitter'ında anlamsız şeyler gönderiyor, sonraki rakiplerimizin bazılarına saldırıyor. Belki çok önemli değildir, fakat profesyonel bir oyuncunun böyle davranmaması gerekir."</string>
+    <string name="playerDidBadTweetsTitle">%1$s internette rakibine hakaret etti</string>
+    <string name="playerDoesntPlayAnswer1">Ona bir süre dinlenmesine izin verdim, o hala benim için çok önemli bir oyuncudur.</string>
+    <string name="playerDoesntPlayAnswer2">Şey, diğer oyuncular iyi formdalar. Eğer o çok çalışırsa, elbette ona daha fazla şans verilecektir.</string>
+    <string name="playerDoesntPlayAnswer3">%1$s? O şu an çok zayıf, bu yüzden.</string>
+    <string name="playerDoesntPlayQuestion">%1$s son zamanlarda çok fazla oynama şansı almadı. Neden?</string>
+    <string name="playerGaveBadInterviewContent">Patron, bugün ki gazeteyi okudun mu? Ah, Unuttum - sen gazete okumazsın ki... Neyse. Bizim oyuncumuz, %1$s, bir röportaj verdi, siz ve bazı takım arkadaşlarına hakkında uygunsuz bazı şeyler söyledi. Bu tür şeyler takımdaki atmosferi etkileyebilir, bu yüzden bir şekilde tepki gerektiğini düşünüyorum...</string>
+    <string name="playerGaveBadInterviewTitle">%1$s tartışmalı bir röportaj verdi</string>
+    <string name="playerGoodFormAnswer1">Kesinlikle. %1$s ile onsuz olmayacağını hayal bile edemiyorum.</string>
+    <string name="playerGoodFormAnswer2">Doğru, ancak diğer oyuncular şu anda iyi durumdalar.</string>
+    <string name="playerGoodFormAnswer3">Hayır öyle düşünmüyorum.</string>
+    <string name="playerGoodFormQuestion">%1$s son zamanlarda oldukça iyi oluyor, takımızın için en değerli oyuncusu olmaya gidiyor. Kabul ediyor musunuz?</string>
+    <string name="playerInformation">Oyuncu bilgileri</string>
+    <string name="playerInjured">%1$s (%2$s) sakatlandı</string>
+    <string name="playerInjuredAction1">Sahayı terketmek zorunda</string>
+    <string name="playerInjuredAction2">Maça devam edemeyecek</string>
+    <string name="playerInjuredAction3">Oyun onun için bitti</string>
+    <string name="playerInjuredMatchContent">%1$s maçta sakatlandı. %2$s haftaya tekrar oynayabilcek.</string>
+    <string name="playerInjuredTitle">%1$s sakatlandı</string>
+    <string name="playerInjuredTrainingContent">%1$s antrenmanda sakatlandı. %2$s haftaya tekrar oynayabilcek.</string>
+    <string name="playerIsInjured">%1$s sakatlandı!</string>
+    <string name="playerMissedTrainingContent">Patron, Eminim %1$s bugün ki antrenmana gelmediğini fark etmişinizdir. Umarım yaptığı profesyonel dışı hareketten pişman olur.</string>
+    <string name="playerMissedTrainingTitle">%1$s antrenmanı kaçırdı</string>
+    <string name="playerName">Ad:</string>
+    <string name="playerNationality">Uyruk:</string>
+    <string name="playerOfTheMonthContent">%1$s (%2$s) ayın oyuncusu ünvanını kazandı (%3$s, %4$s). %5$s (%6$s) ve %7$s (%8$s) ikincilik ve üçüncülük sıralarını aldılar.</string>
+    <string name="playerOfTheMonthTitle">Ayın oyuncusu - %1$s</string>
+    <string name="playerOfTheYearContent">%1$s (%2$s) yılın oyuncusu ünvanını kazandı (%3$s). %4$s (%5$s) ve %6$s (%7$s) ikincilik ve üçüncülük sıralarını aldılar.</string>
+    <string name="playerOfTheYearTitle">Yılın oyuncusu - %1$s</string>
+    <string name="playerOptions">Secenekler...</string>
+    <string name="playerPosition">Tercih ettigi pozisyon:</string>
+    <string name="playerPunishments">Oyuncu cezaları</string>
+    <string name="playerRatings">En iyi oyuncular</string>
+    <string name="playerReaction">"%1$s's tepkisi:"</string>
+    <string name="playerRefusedLoanContent">"%1$s %2$s kiralık teklifini reddetti.
+
+Kendisi dedi ki sözleşme kendi kulübümden ayrılmam için yeterli çekici değil."</string>
+    <string name="playerRefusedLoanTitle">%1$s %2$s takımının kiralık teklifini reddetti</string>
+    <string name="playerRefusedToRenewContractContent">"%1$s kontrat yenilemeyi reddetti.
+
+Daha iyi bir teklifi hak ettigini soyledi"</string>
+    <string name="playerRefusedToRenewContractTitle">%1$s - kontrat teklifi reddedildi</string>
+    <string name="playerRefusedToSignContractContent">"%1$s rejected your contract offer.
+
+He said that he deserves better offer."</string>
+    <string name="playerRefusedTransferContent">"%1$s %2$s in teklifini geri cevirdi.
+
+Teklifin kulubunden ayrilmasi icin yeterince cazip olmadigini soyledi"</string>
+    <string name="playerRefusedTransferTitle">%1$s %2$s takımının teklifini reddetti</string>
+    <string name="playerRenewedContractContent">"%1$s kontrat yenilemeyi kabul etti.
+
+Yeni kontrat %2$s inde son buluyor"</string>
+    <string name="playerRenewedContractTitle">%1$s kontrati yeniledi</string>
+    <string name="playerReturnedContent">%1$s takımımıza geri döndü. Son aylarda %2$s takımına kiralıktı.</string>
+    <string name="playerReturnedTitle">%1$s %2$s takımından kiralıktan geri döndü</string>
+    <string name="playerRewards">Oyuncu ödüllendirmeleri</string>
+    <string name="playerSalaries">Oyuncuların maaşı</string>
+    <string name="playerSkill">Yetenek:</string>
+    <string name="playerSoldContent">%1$s bugün %2$s takımı ile kontratı imzaladı. Oyuncu %3$s ile satıldı.</string>
+    <string name="playerSoldTitle">%1$s %2$s takımına satıldı</string>
+    <string name="playerStats">Oyuncu istatistikleri</string>
+    <string name="playerTapToShowDetails">Oyuncu (tıklayarak detayları göster):</string>
+    <string name="playerTrainedHardContent">Patron, %1$s geçtiğimiz günlerde antrenmanda harika işler yaptığını fark ettim. O bazen uzun kalarak bazı serbest vuruşları ve başka şeyleri alıştırma yapıyor. Onu takdir etmeniz gerekir.</string>
+    <string name="playerTrainedHardTitle">%1$s normalden daha fazla çalışıyor</string>
+    <string name="playerTrainedWithYouthContent">Patron, Ben antrenmandan sonra %1$s gençlerle ile biraz çalışarak iyi zaman geçirdi. Onlara kendi numaralarını gösterdi ve onlarla konuştu. Genç oyuncularımız için tamamen büyük deneyim oldu. Neden onu güzel yolla ödüllendirmiyoruz?</string>
+    <string name="playerTrainedWithYouthTitle">%1$s bizim genç oyunculara yardım ediyor</string>
+    <string name="playerVisitedChildrenContent">Patron, duydun mu? %1$s güzel bir şey yaptı. Boş zamanında, bizim yerel hastaneyi ziyaret etti ve orada kalan bazı çocuklarla görüştü. Onlarla birlikte muhteşem zaman geçirdi, ve çocukları kendisine idolü olarak tamamen hayran bıraktı. Ben onun böyle şeylerin çok hoş olduğunu bildirmek üzere güzel olur diye düşünüyorum ve belki onu bir şekilde ödüllendirsek mi?</string>
+    <string name="playerVisitedChildrenTitle">%1$s hastanedeki çocukları ziyaret ediyor</string>
+    <string name="players">Oyuncular</string>
+    <string name="playoff">Play-Off</string>
+    <string name="playoffs">Play-Off</string>
+    <string name="pleasePlusOne">"...ve Google+ ile +1'layın!"</string>
+    <string name="pleaseRate">"True Football 3'ü sevdiniz mi?
+
+Lütfen Google Play Store'da uygulamamıza puan vererek yardımcı olun:"</string>
+    <string name="points">p.</string>
+    <string name="points2">puan</string>
+    <string name="pointsForAchievements">Başarıları için puan:</string>
+    <string name="pointsForTrophies">Kupa için puan:</string>
+    <string name="pointsTable">P</string>
+    <string name="poorPerformance">zayıf performans</string>
+    <string name="possesionCenterAction1">%1$s topla ilerliyor</string>
+    <string name="possesionCenterAction2">%1$s orta sahayı geçiyor!</string>
+    <string name="possesionCenterAction3">%1$s pas aticak birilerini bekliyor</string>
+    <string name="possesionCenterAction4">%1$s oyunu tutuyor</string>
+    <string name="possesionCenterAction5">%1$s topu tutuyor</string>
+    <string name="possesionCenterAction6">%1$s topla oynayarak geciktiriyor</string>
+    <string name="possesionCenterAction7">%1$s güzel kontrol</string>
+    <string name="possesionCenterAction8">%1$s top ile ilerliyor</string>
+    <string name="possesionLeftSideAction1">%1$s topu sola</string>
+    <string name="possesionLeftSideAction2">%1$s topu soldan!</string>
+    <string name="possesionLeftSideAction3">%1$s sol kanattan aşağı ilerliyor!</string>
+    <string name="possesionLeftSideAction4">%1$s sol tarafa aşağı ilerliyor!</string>
+    <string name="possesionRightSideAction1">%1$s saga aldi</string>
+    <string name="possesionRightSideAction2">%1$s sagdan suruyor!</string>
+    <string name="possesionRightSideAction3">%1$s sağ kanattan aşağı ilerliyor!</string>
+    <string name="possesionRightSideAction4">%1$s sağ taraftan aşağı ilerliyor!</string>
+    <string name="pot">Pot</string>
+    <string name="preferredPosition">Tercih ettigi pozisyon</string>
+    <string name="pressConference">Basın toplantısı</string>
+    <string name="pressing">Presleme:</string>
+    <string name="previous">Geri</string>
+    <string name="privateCompliment">özel iltifat</string>
+    <string name="privateReprimand">özel kınama</string>
+    <string name="proceedToMatch">Maça doğru</string>
+    <string name="professionalBehavior">profesyonelce davranış</string>
+    <string name="profile">Profil</string>
+    <string name="promotionContent">"Efendim, Başardığımıza çok mutluyum!
+
+Bu yükselme üst lige çıktığımızın başarımızdır. Menajer olarak, muhteşem iş yaptınız, size çok teşekkür ederim ve umarım galibiyet serisini gelecek sezonda devam ettirirsiniz. Başarıyla birlikte, federasyondan fazla para ve TV haklarından bekleyebiliriz.
+
+Tebrikler!"</string>
+    <string name="promotionTitle">Tebrikler!</string>
+    <string name="publicCompliment">genel iltifat</string>
+    <string name="publicReprimand">genel kınama</string>
+    <string name="pyrotechnics">yanici ve patlayici materyal</string>
+    <string name="qualification">Eleme</string>
+    <string name="quarterfinals">Çeyrek final</string>
+    <string name="quitMatch">Maçı durdurmaktan eminmisiniz? Hükmen yenilirsiniz (0:3)</string>
+    <string name="racism">irkci soylemler</string>
+    <string name="random_pick">Rastgele takım</string>
+    <string name="rankings">Sıralamalar</string>
+    <string name="rate">"Google Play Store'a gidin"</string>
+    <string name="reason">Neden:</string>
+    <string name="rebellious">isyankar</string>
+    <string name="received">alındı</string>
+    <string name="recommended">Önerilen:</string>
+    <string name="recommendedPlayers">Önerilen oyuncular:</string>
+    <string name="records">Rekorlar</string>
+    <string name="redCard">Kırmızı kart!</string>
+    <string name="redCards">En fazla kırmızı kart</string>
+    <string name="regionToExplore">Bölge:</string>
+    <string name="reject">Reddet</string>
+    <string name="rejectOffer">Reddet</string>
+    <string name="release">Kontrat feshi</string>
+    <string name="relegationContent">"Efendim, Ben lig sezonu son sonucunu ile derin bir hayal kırıklığına olduğumu size bildirmek istiyorum. Bu düşme bizim kulüp için çok büyük bir darbedir. Bunu düzeltin, ve taraftarın güvenini tekrar kazanın, büyük bir ölçüde performansımızı artırmalıyız, ve bir sonraki sezonda yükselme için savaşmalıyız.
+
+Aksi halde %1$s içindeki kalmanızın son şansınız..."</string>
+    <string name="relegationGameOverContent">"Efendim, Ne diyebilirim size? Bu düşme bizim için darbe oldu. Bütün bir sezon felaketti. Biz bundan çok daha fazla potansiyele sahiptik. Şimdi kulübün geleceğini ne olacağını bilmiyorum, fakat emin olduğumuz tek şey sizinle olmayacağımız.
+
+Güle Güle!"</string>
+    <string name="relegationTitle">Ne ayıp!</string>
+    <string name="remove">Kaldır</string>
+    <string name="removeFromFirstTeam">İlk takımdan çıkar</string>
+    <string name="removeThisTeam">Bu takımı sil</string>
+    <string name="remove_analysis_confirmation_dialog">%1$s için analizi durdurmak istiyor musunuz?</string>
+    <string name="remove_results_confirmation_dialog">"%1$s'nin analiz sonuçlarını kaldırmak istiyor musunuz?"</string>
+    <string name="renewContract">Kontrat yenile</string>
+    <string name="replay">tekrar</string>
+    <string name="reportCost">Rapor bedeli:</string>
+    <string name="reportTime">Gereken zaman:</string>
+    <string name="results">Sonuçlar</string>
+    <string name="results_available">Sonuçlar mevcut</string>
+    <string name="returnDate">Dönüş tarihi:</string>
+    <string name="returnToMainMenu">Ana menüye geri dön?</string>
+    <string name="revenue">Gelirler:</string>
+    <string name="reward">Ödüllendir</string>
+    <string name="rewardType">Ödül türü:</string>
+    <string name="rival">Rakip:</string>
+    <string name="role">Rolü</string>
+    <string name="roundOf16">Son 16 takım</string>
+    <string name="roundOf32">Son 32 takım</string>
+    <string name="roundOf64">Son 64 takım</string>
+    <string name="roundX">%1$s. hafta</string>
+    <string name="s1">Resmi kaydet</string>
+    <string name="s2">Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?</string>
+    <string name="s3">Kabul et</string>
+    <string name="s4">Reddet</string>
+    <string name="s5">Takvim etkinliği oluştur</string>
+    <string name="s6">Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?</string>
+    <string name="s7">Test Reklamı</string>
+    <string name="salary">Maaş</string>
+    <string name="saturday">Cts</string>
+    <string name="save">Kaydet</string>
+    <string name="saveGame">Kaydet</string>
+    <string name="saving">Kaydet...</string>
+    <string name="scout">Scout</string>
+    <string name="scoutContinuesSearchingContent">Bizim scoutumuz, %1$s aramasını devam ediyor. Şu anda, kontrol etmeye değer %2$s oyuncu listesi hazırladı.</string>
+    <string name="scoutContinuesSearchingTitle">Scout %1$s aramada</string>
+    <string name="scoutReport">Scout raporu</string>
+    <string name="scoutReportContent">"Merhaba efendim. Buyrun %1$s hakkındaki benim raporum:
+
+"</string>
+    <string name="scoutReportContent2">"%1$s, %2$s pozisyonunda oynuyor.
+"</string>
+    <string name="scoutReportContentHighPotential">"O güçlü bir potansiyele sahip, ve hiç şüphem yok kariyeri boyunca çok gelişecektir.
+"</string>
+    <string name="scoutReportContentLowPotential">"Onun potansiyeli oldukça düşük. Ben onun çok fazla gelişeceğini sanmıyorum.
+"</string>
+    <string name="scoutReportContentMuchBetter">"O bizim iyi oyuncumuzun kendi pozisyonunda daha iyidir (%1$s).
+"</string>
+    <string name="scoutReportContentMuchWorse">"O bizim oyuncumuzun kendi pozisyonunda çok kötüdür (%1$s).
+"</string>
+    <string name="scoutReportContentNotYoung">"O artık genç bir oyuncu değil, bu yüzden onun becerileri belirgin şekilde gelişeceğini beklememelisiniz.
+"</string>
+    <string name="scoutReportContentOld">"O zaten eski bir oyuncu, bu yüzden onun becerileri kötü olacağından unutmayın.
+"</string>
+    <string name="scoutReportContentQuiteHighPotential">"Eğer o çok çalışırsa, gelecekte daha iyi oyuncu olabilir.
+"</string>
+    <string name="scoutReportContentSlightlyBetter">"O bizim iyi oyuncumuzun kendi pozisyonunda biraz daha iyidir (%1$s).
+"</string>
+    <string name="scoutReportContentSlightlyWorse">"O bizim oyuncumuzun kendi pozisyonunda biraz kötüdür (%1$s).
+"</string>
+    <string name="scoutReportContentVeryHighPotential">"Onun potansiyeli muazzam, ve ben gelecekte çok daha iyi oyuncu olacağından eminim.
+"</string>
+    <string name="scoutReportContentVeryLowPotential">"Onda herhangi bir potansiyel görmüyorum. Benim düşünceme göre, kendi becerileri herhangi yükselmeyecektir.
+"</string>
+    <string name="scoutReportTitle">%1$s - scout raporu</string>
+    <string name="scouting">Gözlemcilik</string>
+    <string name="scoutingDescription">"Eğer yetenekli oyuncular arıyorsanız gözlemcilik oldukça önemlidir. Sizin scoutlarınız dünyanın çeşitli bölgelerinde ilgilendikleri birilerini keşfetmeye hazırdır.
+
+ Her oyuncunun kendine ait potansiyeli vardır, eğer o hızla ve yavaşça büyümeye giderse bu onu belirler. Sadece scoutlarınız bu potansiyeli görebilir. Deneyimli scout - oyuncular hakkındaki beklentilerini daha çok doğrular.
+
+ Eğer herhangi bir scoutunuzu başka bir bölgede görevlendirmediyseniz – Onlar sizin keşfettiğiniz oyuncular hakkında kullanışlı bir rapor hazırlayabilirler."</string>
+    <string name="scoutsInClub">Kulüpteki scoutlar:</string>
+    <string name="search">Ara</string>
+    <string name="search2">Ara...</string>
+    <string name="searchForPlayers">Oyuncu ara</string>
+    <string name="searchForPosition">Pozisyon:</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="secondChampionship">2. turnuva</string>
+    <string name="secondDivision">2. lig</string>
+    <string name="secondGroup">B</string>
+    <string name="secondLeg">ikinci maç</string>
+    <string name="secondPosition">Diger pozisyonlar</string>
+    <string name="secondShotAction1">%1$s sonunu getirebilecekmi!</string>
+    <string name="secondShotAction2">%1$s getirebicek gibi kosuyor!</string>
+    <string name="secondShotAction3">%1$s topa yetisti!</string>
+    <string name="secondShotAction4">%1$s şansa sahip!</string>
+    <string name="secondShotAction5">%1$s! Başka bir şans!</string>
+    <string name="secondYellowCard">İkincisi!!! Maç bitti onun için!</string>
+    <string name="security">Güvenlik</string>
+    <string name="selectCountriesToFollow">Yarışmalarını takip etmek için en fazla 5 ülke seçin:</string>
+    <string name="selectTeamToAnalyze">Analiz edilecek ekibi seçin:</string>
+    <string name="semifinals">Yarı final</string>
+    <string name="sent">gönderildi</string>
+    <string name="september">Eylül</string>
+    <string name="setPieces">Pozisyon alma</string>
+    <string name="settings">Ayarlar</string>
+    <string name="seventhDivision">7. lig</string>
+    <string name="shape">Form</string>
+    <string name="shirt_primary">(Birinci) forma</string>
+    <string name="shirt_secondary">(Ikinci) forma</string>
+    <string name="shooting">Şut</string>
+    <string name="shop">Mağaza</string>
+    <string name="shopRevenue">Mağaza geliri</string>
+    <string name="shortCornerKickAction1">%1$s takes a short corner kick!</string>
+    <string name="short_passes">kısa</string>
+    <string name="shotAction1">%1$s! Ne kadar güçlü bir şut!</string>
+    <string name="shotAction2">%1$s şut!</string>
+    <string name="shotAction3">%1$s! Ne kusursuz bir vurus!</string>
+    <string name="shotAction4">Bir atış ile %1$s!</string>
+    <string name="shotAction5">%1$s atış yapıyor!</string>
+    <string name="shotAction6">%1$s skora bulunuyor!</string>
+    <string name="shotAction7">%1$s şut çekiyor!</string>
+    <string name="shotAction8">%1$s şansını deniyor!</string>
+    <string name="shotAction9">%1$s kaleciyi alt etmeye çalışıyor!</string>
+    <string name="shotMissedAction1">İnanılmaz kaçan pozisyon!</string>
+    <string name="shotMissedAction10">Hedeften millerce uzakta...</string>
+    <string name="shotMissedAction11">Vay, bu yakındı!</string>
+    <string name="shotMissedAction12">Kaçırdı! Fakat bu iyiydi, neyse</string>
+    <string name="shotMissedAction13">Direğin üstünde!</string>
+    <string name="shotMissedAction14">Deneme iyi değildi</string>
+    <string name="shotMissedAction15">Neredeyse!</string>
+    <string name="shotMissedAction16">Ne utanç verici kaçırma...</string>
+    <string name="shotMissedAction2">Az farkla yandan!</string>
+    <string name="shotMissedAction3">Kaçırdı...</string>
+    <string name="shotMissedAction4">Üst direğn üstünden!</string>
+    <string name="shotMissedAction5">Auta çıkıyor...</string>
+    <string name="shotMissedAction6">İyi deneme! Fakat o az farkla kaçırdı</string>
+    <string name="shotMissedAction7">Ama kötü bir şekilde auta çıkıyor...</string>
+    <string name="shotMissedAction8">Hedefe yakın bile değil</string>
+    <string name="shotMissedAction9">Vay, güzel bir atış oldu!</string>
+    <string name="show_squad">Kadroyu göster</string>
+    <string name="simulationMode">Similasyon modu:</string>
+    <string name="sixthDivision">6. lig</string>
+    <string name="skill">Yetenek</string>
+    <string name="sometimes">bazen</string>
+    <string name="sort">Ayarla</string>
+    <string name="sound">Ses:</string>
+    <string name="south">Güney</string>
+    <string name="south_africa">Afrika (güney)</string>
+    <string name="south_america">Güney Amerika</string>
+    <string name="south_asia">Asya (güney)</string>
+    <string name="south_east">Güney Doğu</string>
+    <string name="south_east_asia">Asya (güney-doğu)</string>
+    <string name="south_east_europe">Avrupa (güney-doğu)</string>
+    <string name="south_south_america">Güney Amerika (güney)</string>
+    <string name="south_west">Güney Batı</string>
+    <string name="south_west_europe">Avrupa (güney-batı)</string>
+    <string name="specialThanks">"Büyük destek için özel teşekkürler
+(veritabanı, turnuvalar, çeviri):"</string>
+    <string name="speechResults">Konuşma sonucu:</string>
+    <string name="spokesmanForFans">Taraftar sözcüsü</string>
+    <string name="sponsorBonusContent">Müjde, efendim! Bizim sponsorumuz, %1$s kulübümüze ödül vermeye karar verdi %2$s bonus ile birlikte. Gördüğünüz gibi, kulübümüze iyi sonuçları bazı yararları getirebilir. İyi çalışmaya devam!</string>
+    <string name="sponsorBonusTitle">%1$s tarafından ekstra para!</string>
+    <string name="sponsors">Sponsorluk</string>
+    <string name="sponsorshipOffers">Sponsor teklifleri</string>
+    <string name="sponsorshipType">Sponsor sekli</string>
+    <string name="sponsorships">Sponsorluklar</string>
+    <string name="squad">Kadro</string>
+    <string name="stadium">Stad</string>
+    <string name="stadiumCapacity">Satdın kapasitesi:</string>
+    <string name="stadiumEmployeesDescription">"Stadyumdaki çalışan insan miktarını ayarlayabilirsiniz.
+
+ Daha fazla Mağaza ve gastronomi asistanlarını işe alınız maç sırasında gelirinizi geliştirebilirsiniz.
+
+ Eğer stadyumunuz turistleri çekmek için yeterince büyükse - ayrıca onlara bazı turları sağlamak için rehberler gerekecektir.
+
+ Güvenlikçiler sinirli taraftarların kötü davranışlarını engelleyebilirler. Daha iyilerini işe alın - cezalar çok daha can yakıcıdır.
+
+ Stadyumunuz büyüdükçe, icabına bakmak için daha fazla kişiye ihtiyaç gerekir. Eğer yeterince kadar personeliniz yoksa - hasar ve arızalanmasına neden olur."</string>
+    <string name="stadiumMaintenance">Stadın bakımı</string>
+    <string name="starPlayerBoughtAnswer1">Ben eminim, o inanılmaz bir oyuncu! Ben her zaman onu benim takımıma getirme konusunda hayal ettik!</string>
+    <string name="starPlayerBoughtAnswer2">Evet, bana göre takımımızın önemli bir parçası olmaya gidiyor.</string>
+    <string name="starPlayerBoughtAnswer3">Benim takımımda yıldızlar yok. Eğer burda oynamak istiyorsa, o çok çalışmak zorundadır.</string>
+    <string name="starPlayerBoughtQuestion">"Son haberler şaşırtıcı. %1$s sizin takımınızda oynayacak! Sizce size göre %2$s's süperstarı olacak mı?"</string>
+    <string name="start">Başla!</string>
+    <string name="startingLineup">Başlangıç sıralaması</string>
+    <string name="stats">İstatistikler</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_away">uzak durun</string>
+    <string name="strength">Güç</string>
+    <string name="strong_">güçlü</string>
+    <string name="subInText1">%1$s sahada</string>
+    <string name="subInText2">%1$s yerini alıyor</string>
+    <string name="subInText3">%1$s giriyor</string>
+    <string name="subInText4">%1$s onun yerine değiştirilecek</string>
+    <string name="subInText5">%1$s şansı var</string>
+    <string name="subInText6">%1$s sahaya doğru koşuyor</string>
+    <string name="subInText7">%1$s onun yerine geliyor</string>
+    <string name="subInText8">%1$s onun yerine değişikliğe geliyor</string>
+    <string name="subOutText1">%1$s bu akşam daha oynamaz</string>
+    <string name="subOutText2">%1$s çıkıyor</string>
+    <string name="subOutText3">%1$s çıkıyor</string>
+    <string name="subOutText4">%1$s sahadan ayrılıyor</string>
+    <string name="subOutText5">%1$s için oyun bitti</string>
+    <string name="subOutText6">%1$s değiştirilecek</string>
+    <string name="subOutText7">%1$s sahadan çekiliyor</string>
+    <string name="subOutText8">Sanırım %1$s atılıyor</string>
+    <string name="submitScore">Puan gönderme!</string>
+    <string name="substitutions">Yedekler</string>
+    <string name="sunday">Pz</string>
+    <string name="superCup">Süper Kupası</string>
+    <string name="suspendedFor">1 hafta cezalı</string>
+    <string name="swap">Değiştir</string>
+    <string name="swapWith">İle takas etmek...</string>
+    <string name="swapWithOtherTeam">Diğer ekiple takas et</string>
+    <string name="table">Tablo</string>
+    <string name="tackling">Mücadele</string>
+    <string name="tactics">Taktik</string>
+    <string name="takeABankLoan">Kredi al</string>
+    <string name="team">Takım</string>
+    <string name="teamAlreadyExists">Bu takim adi mevcut. Baska bir takim adi girin</string>
+    <string name="teamBudget">Bütçe:</string>
+    <string name="teamDoctor">Takımın fizyoterapisti</string>
+    <string name="teamOrders">Takım emirleri</string>
+    <string name="teamSkill">Puan:</string>
+    <string name="teamStadiumCapacity">Satdın kapasitesi:</string>
+    <string name="team_integration">Oyuncuların entegrasyonu</string>
+    <string name="team_swapped">Takas edilen takımlar:</string>
+    <string name="teamsManaged">Yönetilen takımlar:</string>
+    <string name="technical">Tekniksel</string>
+    <string name="technicalShotAction1">%1$s! Süper revaşata!</string>
+    <string name="technicalShotAction2">%1$s nasil bir vurustur o!</string>
+    <string name="technicalShotAction3">%1$s tokezleyerek vuruyor!</string>
+    <string name="technicalShotAction4">%1$s! Ne musthis bir sut cikardi!</string>
+    <string name="technicalShotAction5">%1$s vole de!</string>
+    <string name="technicalShotAction6">%1$s ile muhteşem girişim!</string>
+    <string name="technicalShotAction7">%1$s yarım vole deniyor!</string>
+    <string name="technique">Teknik</string>
+    <string name="terminateContract">Kontrat feshi</string>
+    <string name="thanks">Özel teşekkürler:</string>
+    <string name="thatsAll">Zaman ayırdığınız için teşekkür ederiz, efendim!</string>
+    <string name="thirdDivision">3. lig</string>
+    <string name="thirdGroup">C</string>
+    <string name="thisTeamHasNoTrainer">Bu takımda antrenör yok. Bir tanesini atayıp oyuncularını geliştirsin.</string>
+    <string name="thursday">Prş</string>
+    <string name="ticketIncome">Bilet geliri</string>
+    <string name="ticketPrices">Biletlerin fiyatı</string>
+    <string name="timeWasting">Vakit kaybı:</string>
+    <string name="toTransferList">Transfer listesine ekle</string>
+    <string name="topScorer">En golcü:</string>
+    <string name="totalCost">Toplam maliyet:</string>
+    <string name="tours">Turlar</string>
+    <string name="toursRevenue">Tur geliri</string>
+    <string name="toursTickets">Stadyum turu biletleri</string>
+    <string name="trainer">Antrenör</string>
+    <string name="training">Antrenman</string>
+    <string name="trainingCamp">Antrenman kampı</string>
+    <string name="trainingCampInfo">Kampdayken, tüm antrenman düzenleyicileri yükseltilir, ki antrenmanı daha etkili hale gelir. Ayrıca oyuncularınızın moralini yükselir, ve yerel takımlarla biraz oynayın.</string>
+    <string name="trainingCampPlanned">Antrenman kampı zaten planlanmış.</string>
+    <string name="trainingCamps">Antrenman kampları</string>
+    <string name="trainingFields">Antrenman alanları</string>
+    <string name="trainingFieldsDescription">"Sizde daha fazla antrenman alanı var, daha fazla altyapı takımları kurabilirsiniz. Her alanın size maliyeti %1$s.
+"</string>
+    <string name="trainingResults">Antrenman sonuçları</string>
+    <string name="trainingSettings">Antrenman</string>
+    <string name="transferCancelledContent">Finansal sorunlar nedeniyle %1$s nin transferi iptal edildi.</string>
+    <string name="transferCancelledTitle">%1$s - transfer iptal edildi</string>
+    <string name="transferWindowClosedContent">Transfer penceresi kapatıldı.</string>
+    <string name="transferWindowClosedTitle">Transfer penceresi kapandı</string>
+    <string name="transferWindowOpenedContent">Transfer penceresi açılmış. %1$s kadar transfer yapabilirsiniz</string>
+    <string name="transferWindowOpenedTitle">Transfer penceresi açıldı</string>
+    <string name="transfers">Transfer</string>
+    <string name="transfersIn">Alınan oyuncular</string>
+    <string name="transfersOut">Satılan oyuncular</string>
+    <string name="translation">Çeviri:</string>
+    <string name="tribuneClosedDueToMaintenanceContent">"Bakım sorunu nedeniyle, stadyumuzun tribünlerinden biri (%1$s) kapalıdır.
+
+Tüm sorunları onarmak için %2$s günu alacaktır, bu süre zarfında tribün kullanılamaz."</string>
+    <string name="tribuneClosedDueToMaintenanceTitle">Stadyum bakım nedeniyle kapalı</string>
+    <string name="tribunes">Tribunler:</string>
+    <string name="tripCostNote">- %1$s - maç icin yolculuk</string>
+    <string name="tripsAcommodations">Yolculuk ve konaklama</string>
+    <string name="trophies">Kupalar</string>
+    <string name="tuesday">Sl</string>
+    <string name="tvRights">Yayın hakkı</string>
+    <string name="u21">U-21 team</string>
+    <string name="uk_and_ireland">Avrupa (UK ve İrlanda)</string>
+    <string name="undoTransferList">Transfer listesinden sil</string>
+    <string name="unprofessionalBehavior">profesyonel olmayan davranış</string>
+    <string name="upgradeCost">- Yukseltme bedeli - %1$s.</string>
+    <string name="upgradeTime">- Yukseltme %1$s ay alicak. Bundan dolayi tum tribun kapali kalacak.</string>
+    <string name="upgradeTribune">Tribün geliştirme</string>
+    <string name="upset">üzgün</string>
+    <string name="usa">Kuzey Amerika (ABD)</string>
+    <string name="useEditedNames">Oyuncuların düzenlenmiş isimlerini kullanın</string>
+    <string name="useRandomNames">Oyuncuların rastgele isimlerini kullanın</string>
+    <string name="value">Değer</string>
+    <string name="venue">Saha</string>
+    <string name="veryHappy">çok mutlu</string>
+    <string name="veryHigh">Çok yüksek</string>
+    <string name="veryLow">Çok düşük</string>
+    <string name="very_light_">çok küçük</string>
+    <string name="very_strong_">çok güçlü</string>
+    <string name="wantToTakeThisTeam">Eğer bu takımı eğitmek istiyor musunuz?</string>
+    <string name="watermark_label_prefix">AdMob -</string>
+    <string name="weakPlayerBoughtAnswer1">Saçmalık. O iyi bir oyuncu ve bizim takımı güçlendireceğinden eminim.</string>
+    <string name="weakPlayerBoughtAnswer2">Güzel, O bizim seviyemize oynayacağımıza ona inanıyorum.</string>
+    <string name="weakPlayerBoughtAnswer3">Onu sadece eğlence için aldım. Doğrusu, o gerçekten zayıf biri.</string>
+    <string name="weakPlayerBoughtQuestion">Bazı uzmanlar yeni oyuncunuz %1$s hakkında takım için yeterli olmadığını düşünüyorlar. Bu transfer hakkında ne diyorsunuz?</string>
+    <string name="weatherConditions">Hava şartları:</string>
+    <string name="wednesday">Çrş</string>
+    <string name="weekX">%1$s. hafta</string>
+    <string name="west">Batı</string>
+    <string name="westGroup">bati</string>
+    <string name="west_africa">Afrika (batı)</string>
+    <string name="west_europe">Avrupa (batı)</string>
+    <string name="west_south_america">Güney Amerika (batı)</string>
+    <string name="whatDoYouWantToSay">Ne demek istiyorsunuz?</string>
+    <string name="wins">Kazanılan:</string>
+    <string name="winsTable">G</string>
+    <string name="world">Dünya</string>
+    <string name="worldCup">Dünya Kupası</string>
+    <string name="worldRanking">Dünya sıralaması</string>
+    <string name="xBookedRed">%2$s takımından %1$s soyunma odasına gönderildi!</string>
+    <string name="xBookedYellow">%2$s dan %1$s uyarıldı</string>
+    <string name="yellowCard">Sarı kart</string>
+    <string name="yellowCards">En fazla sarı kart</string>
+    <string name="yes">Evet</string>
+    <string name="youAlreadyHaveAnAssistant">Birden fazla asistana sahip olamazsınız.</string>
+    <string name="youAlreadyHaveAnGoalkeeperTrainer">Kulübünüze birden fazla kaleci antrenörüne sahip olamazsanız.</string>
+    <string name="youCanAnalyzeUpToFiveTeams">Aynı anda en fazla 5 takımı analiz edebilirsiniz.</string>
+    <string name="youCantHaveMoreTeams">Daha fazla altyapı takımınız yok.</string>
+    <string name="youCantTakeMoreLoans">Şu anda siz daha fazla kredi alamazsınız.</string>
+    <string name="youDontHaveFreeScouts">Bu raporu hazırlamak için serbest hiç bir scouta sahip değilsiniz.</string>
+    <string name="yourCountry">Ülkeniz:</string>
+    <string name="yourName">Adınız:</string>
+    <string name="yourScore">Puanınız:</string>
+    <string name="youreWelcome">Bir şey değil.</string>
+    <string name="youthPlayerMovedContent">%1$s genc takim yasini doldurdu ve a takima gecti.</string>
+    <string name="youthPlayerMovedTitle">%1$s a takima katildi</string>
+    <string name="youthTeamTrainer">Antrenör:</string>
+    <string name="youthTeamType">Takım tipi:</string>
+    <string name="youthTeams">Altyapı takımları</string>
+    <string name="youthTrainers">Altyapı antrenörleri</string>
+    <string name="youthTraining">Gençlerin antrenmanı</string>
+    <string name="youth_trainer">Altyapı antrenörü</string>
+</resources>

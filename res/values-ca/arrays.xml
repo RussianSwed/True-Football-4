@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>Apagat</item>
+        <item>Cada 7 dies</item>
+        <item>Cada 30 dies</item>
+        <item>Cada 60 dies</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultradefensiu</item>
+        <item>defensiu</item>
+        <item>normal</item>
+        <item>ofensiu</item>
+        <item>ultraofensiu</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>cassa</item>
+        <item>fora de casa</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pases</item>
+        <item>Xuts</item>
+        <item>Regats</item>
+        <item>Entrada</item>
+        <item>Tirar-se</item>
+        <item>"Treus d'esquina"</item>
+        <item>Tirs lliures lejans</item>
+        <item>Tirs lliures cercans</item>
+        <item>Xuts de penal</item>
+        <item>Capità</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pases</item>
+        <item>Xuts</item>
+        <item>Regats</item>
+        <item>Entrada</item>
+        <item>Tirar-se</item>
+        <item>"Treus d'esquina"</item>
+        <item>Tirs lliures lejans</item>
+        <item>Tirs lliures cercans</item>
+        <item>Xuts de penal</item>
+        <item>Capità</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nunca</item>
+        <item>sempre</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nunca</item>
+        <item>sempre</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>baix</item>
+        <item>normal</item>
+        <item>alt</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>Dia</item>
+        <item>3 dies</item>
+        <item>7 dies</item>
+        <item>fins al proper partit</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nunca</item>
+        <item>mentre que guanyem</item>
+        <item>sempre</item>
+    </string-array>
+</resources>

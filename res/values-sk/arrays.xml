@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>vypnúť</item>
+        <item>každých 7 dní</item>
+        <item>každých 30 dní</item>
+        <item>každých 60 dní</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>extra defenzívne</item>
+        <item>defenzívne</item>
+        <item>normálne</item>
+        <item>ofenzíva</item>
+        <item>extrémna ofenzíva</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>doma</item>
+        <item>vonku</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Prihrávky</item>
+        <item>Strely</item>
+        <item>Driblovanie</item>
+        <item>Chytanie</item>
+        <item>Diving</item>
+        <item>Rohové kopy</item>
+        <item>Ďaleké priame kopy</item>
+        <item>Blízke priame kopy</item>
+        <item>Penalty</item>
+        <item>Kapitán</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Prihrávky</item>
+        <item>Strely</item>
+        <item>Driblovanie</item>
+        <item>Chytanie</item>
+        <item>Diving</item>
+        <item>Rohové kopy</item>
+        <item>Ďaleké priame kopy</item>
+        <item>Blízke priame kopy</item>
+        <item>Penalty</item>
+        <item>Kapitán</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nikdy</item>
+        <item>vždy</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nikdy</item>
+        <item>vždy</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>nízke</item>
+        <item>stredné</item>
+        <item>vysoké</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>deň</item>
+        <item>3 dni</item>
+        <item>7 dní</item>
+        <item>do budúceho zápasu</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nikdy</item>
+        <item>zatiaľ vedúci</item>
+        <item>vždy</item>
+    </string-array>
+</resources>

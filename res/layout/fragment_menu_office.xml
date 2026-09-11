@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/pl.mkrstudio.truefootball3">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:weightSum="3.0">
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_sponsorships"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/sponsors"
+            custom:tileText="@string/sponsorships" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_jobs"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/job_offers"
+            custom:tileText="@string/jobOffers" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_club_staff"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/club_staff"
+            custom:tileText="@string/clubStaff" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:weightSum="3.0">
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_supporters"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/supporters"
+            custom:tileText="@string/fans" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_stadium"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/stadium"
+            custom:tileText="@string/stadium" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_balance"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/account_balance"
+            custom:tileText="@string/account_balance_menu" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:weightSum="3.0">
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/filler_button_1"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_businessman"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/businessman_european"
+            custom:tileText="@string/businessman" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_bank"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/bank"
+            custom:tileText="@string/bank" />
+    </LinearLayout>
+</LinearLayout>

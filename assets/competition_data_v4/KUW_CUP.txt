@@ -1,0 +1,23 @@
+DOMESTIC_CUP
+cup_winner
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+add_teams 7 KUW_2
+add_teams 8 KUW_1 reversed
+week_info 1 30 ko_first_leg all_wed 7 round_1
+week_info 2 31 ko_second_leg all_wed 7 round_1
+week_info 3 41 ko_first_leg all_wed 4 quarterfinal
+week_info 4 42 ko_second_leg all_wed 4 quarterfinal
+week_info 5 13 ko_first_leg all_tue 2 semifinal
+week_info 6 16 ko_second_leg all_tue 2 semifinal
+week_info 7 21 ko_one_match all_sat 1 final neutral 
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+done 06.30

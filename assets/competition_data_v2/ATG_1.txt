@@ -1,0 +1,51 @@
+LEAGUE
+champion
+game_over 9 10
+prize 1
+tv_rights 1
+fans_behaviour 1.1
+fans_attendance 0.1
+table -1 -1 -1 -1 8 8 9 10
+add_teams first_time 10 ATG_1
+add_teams next_time 1 7 ATG_1 previous_season
+add_teams next_time 1 1 ATG_PLAYOFF1 previous_season
+add_teams next_time 1 2 ATG_2 previous_season
+week_info 1 39 one_table antiguan_1
+week_info 2 40 one_table antiguan_1
+week_info 3 41 one_table antiguan_1
+week_info 4 42 one_table antiguan_1
+week_info 5 43 one_table antiguan_1
+week_info 6 45 one_table antiguan_1
+week_info 7 46 one_table antiguan_1
+week_info 8 47 one_table antiguan_1
+week_info 9 48 one_table antiguan_1
+week_info 10 50 one_table antiguan_1
+week_info 11 51 one_table antiguan_1
+week_info 12 52 one_table antiguan_1
+week_info 13 1 one_table antiguan_1
+week_info 14 2 one_table antiguan_1
+week_info 15 3 one_table antiguan_1
+week_info 16 5 one_table antiguan_1
+week_info 17 6 one_table antiguan_1
+week_info 18 7 one_table antiguan_1
+fixtures_info League10
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+unblock ATG_PLAYOFF1
+done 06.30

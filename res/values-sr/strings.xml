@@ -1,0 +1,1778 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AFG">Avganistan</string>
+    <string name="AIA">Angvila</string>
+    <string name="ALB">Albanija</string>
+    <string name="ALG">Alžir</string>
+    <string name="AND">Andora</string>
+    <string name="ANG">Angola</string>
+    <string name="ARG">Argentina</string>
+    <string name="ARM">Jermenija</string>
+    <string name="ARU">Aruba</string>
+    <string name="ASA">Američka Samoa</string>
+    <string name="ATG">Antigva ai Barbuda</string>
+    <string name="AUS">Australija</string>
+    <string name="AUT">Austrija</string>
+    <string name="AZE">Azerbejdžan</string>
+    <string name="BAH">Bahame</string>
+    <string name="BAN">Bangladeš</string>
+    <string name="BDI">Burundi</string>
+    <string name="BEL">Belgija</string>
+    <string name="BEN">Benin</string>
+    <string name="BER">Bermudi</string>
+    <string name="BFA">Burkina Faso</string>
+    <string name="BHR">Bahrein</string>
+    <string name="BHU">Butan</string>
+    <string name="BIH">Bosna i Hercegovina</string>
+    <string name="BLR">Belorusija</string>
+    <string name="BLZ">Belize</string>
+    <string name="BOE">Bonaire</string>
+    <string name="BOL">Bolivija</string>
+    <string name="BOT">Bocvana</string>
+    <string name="BRA">Brazil</string>
+    <string name="BRB">Barbados</string>
+    <string name="BRU">Brunej</string>
+    <string name="BUL">Bugarska</string>
+    <string name="CAM">Kambodža</string>
+    <string name="CAN">Kanada</string>
+    <string name="CAY">Kajmanska ostrva</string>
+    <string name="CGO">Republika Kongo</string>
+    <string name="CHA">Čad</string>
+    <string name="CHI">Čile</string>
+    <string name="CHN">Kina</string>
+    <string name="CIV">Obala Slonovače</string>
+    <string name="CMR">Kamerun</string>
+    <string name="COD">Demokratska Republika Kongo</string>
+    <string name="COK">Kukova Ostrva</string>
+    <string name="COL">Kolumbija</string>
+    <string name="COM">Komori</string>
+    <string name="CPV">Zelenortska Ostrva</string>
+    <string name="CRC">Kostarika</string>
+    <string name="CRO">Hrvatska</string>
+    <string name="CTA">Centralnoafrička Republika</string>
+    <string name="CUB">Kuba</string>
+    <string name="CUW">Kurasao</string>
+    <string name="CYP">Kipar</string>
+    <string name="CZE">Češka</string>
+    <string name="DEN">Danska</string>
+    <string name="DJI">Džibuti</string>
+    <string name="DMA">Dominika</string>
+    <string name="DOM">Dominikanska Republika</string>
+    <string name="ECU">Ekvador</string>
+    <string name="EGY">Egipat</string>
+    <string name="ENG">Engleska</string>
+    <string name="EQG">Ekvatorijalna Gvineja</string>
+    <string name="ERI">Eritreja</string>
+    <string name="ESP">Španija</string>
+    <string name="EST">Estonija</string>
+    <string name="ETH">Etiopija</string>
+    <string name="FIJ">Fidži</string>
+    <string name="FIN">Finska</string>
+    <string name="FRA">Francuska</string>
+    <string name="FRO">Farska Ostrva</string>
+    <string name="GAB">Gabon</string>
+    <string name="GAM">Gambija</string>
+    <string name="GEO">Gruzija</string>
+    <string name="GER">Nemačka</string>
+    <string name="GHA">Gana</string>
+    <string name="GIB">Gibraltar</string>
+    <string name="GLP">Guadeloupe</string>
+    <string name="GNB">Gvineja Bisao</string>
+    <string name="GRE">Grčka</string>
+    <string name="GRL">Grenlandë</string>
+    <string name="GRN">Grenada</string>
+    <string name="GUA">Gvatemala</string>
+    <string name="GUF">Francuska Gvajana</string>
+    <string name="GUI">Gvineja</string>
+    <string name="GUM">Gvam</string>
+    <string name="GUY">Gvajana</string>
+    <string name="HAI">Haiti</string>
+    <string name="HKG">Hongkong</string>
+    <string name="HON">Honduras</string>
+    <string name="HUN">Mađarska</string>
+    <string name="IDN">Indonezija</string>
+    <string name="IND">Indija</string>
+    <string name="IRL">Irska</string>
+    <string name="IRN">Iran</string>
+    <string name="IRQ">Irak</string>
+    <string name="ISL">Island</string>
+    <string name="ISR">Izrael</string>
+    <string name="ITA">Italija</string>
+    <string name="JAM">Jamajka</string>
+    <string name="JOR">Jordan</string>
+    <string name="JPN">Japan</string>
+    <string name="KAZ">Kazahstan</string>
+    <string name="KEN">Kenija</string>
+    <string name="KGZ">Kirgizija</string>
+    <string name="KOR">Južna Koreja</string>
+    <string name="KOS">Kosovo</string>
+    <string name="KSA">Saudijska Arabija</string>
+    <string name="KUW">Kuvajt</string>
+    <string name="LAO">Laos</string>
+    <string name="LBR">Liberija</string>
+    <string name="LBY">Libija</string>
+    <string name="LCA">Sveta Lucija</string>
+    <string name="LES">Lesoto</string>
+    <string name="LIB">Liban</string>
+    <string name="LIE">Lihtenštajn</string>
+    <string name="LTU">Litvanija</string>
+    <string name="LUX">Luksemburg</string>
+    <string name="LVA">Letonija</string>
+    <string name="MAC">Makao</string>
+    <string name="MAD">Madagaskar</string>
+    <string name="MAR">Maroko</string>
+    <string name="MAS">Malezija</string>
+    <string name="MDA">Moldavija</string>
+    <string name="MDV">Maldivi</string>
+    <string name="MEX">Meksiko</string>
+    <string name="MGL">Mongolija</string>
+    <string name="MKD">Severna Makedonija</string>
+    <string name="MLI">Mali</string>
+    <string name="MLT">Malta</string>
+    <string name="MNE">Crna Gora</string>
+    <string name="MOZ">Mozambik</string>
+    <string name="MRI">Mauricijus</string>
+    <string name="MSR">Montserrat</string>
+    <string name="MTN">Mauritanija</string>
+    <string name="MTQ">Martinikue</string>
+    <string name="MWI">Malawi</string>
+    <string name="MYA">Mjanmar</string>
+    <string name="NAM">Namibija</string>
+    <string name="NCA">Nikaragva</string>
+    <string name="NCL">Nova Kaledonija</string>
+    <string name="NED">Holandija</string>
+    <string name="NEP">Nepal</string>
+    <string name="NGA">Nigerija</string>
+    <string name="NIG">Niger</string>
+    <string name="NIR">Severna Irska</string>
+    <string name="NOR">Norveška</string>
+    <string name="NZL">Novi Zeland</string>
+    <string name="OMA">Oman</string>
+    <string name="PAK">Pakistan</string>
+    <string name="PAN">Panama</string>
+    <string name="PAR">Paragvaj</string>
+    <string name="PER">Peru</string>
+    <string name="PHI">Filipini</string>
+    <string name="PLE">Palestina</string>
+    <string name="PNG">Papua Nova Gvineja</string>
+    <string name="POL">Poljska</string>
+    <string name="POR">Portugalija</string>
+    <string name="PRK">Severna Koreja</string>
+    <string name="PUR">Portoriko</string>
+    <string name="QAT">Katar</string>
+    <string name="ROM">Rumunija</string>
+    <string name="RSA">Južnoafrička Republika</string>
+    <string name="RUS">Rusija</string>
+    <string name="RWA">Ruanda</string>
+    <string name="SAM">Samoa</string>
+    <string name="SCO">Škotska</string>
+    <string name="SDN">Sudan</string>
+    <string name="SEN">Senegal</string>
+    <string name="SEY">Sejšeli</string>
+    <string name="SIN">Singapore</string>
+    <string name="SKN">Sent Kits i Nevis</string>
+    <string name="SLE">Sijera Leone</string>
+    <string name="SLV">Salvador</string>
+    <string name="SMA">Sint Maarten</string>
+    <string name="SMN">Sveti Martin</string>
+    <string name="SMR">San Marino</string>
+    <string name="SOL">Solomonska Ostrva</string>
+    <string name="SOM">Somalija</string>
+    <string name="SRB">Srbija</string>
+    <string name="SRI">Šri Lanka</string>
+    <string name="SSD">Južni Sudan</string>
+    <string name="STP">Sao Tome i Prinsipe</string>
+    <string name="SUI">Švajcarska</string>
+    <string name="SUR">Surinam</string>
+    <string name="SVK">Slovačka</string>
+    <string name="SVN">Slovenija</string>
+    <string name="SWE">Švedska</string>
+    <string name="SWZ">Svazilend</string>
+    <string name="SYR">Sirija</string>
+    <string name="TAH">Tahiti</string>
+    <string name="TAN">Tanzanija</string>
+    <string name="TCA">Turks i Kajkos</string>
+    <string name="TGA">Tonga</string>
+    <string name="THA">Tajland</string>
+    <string name="TJK">Tadžikistan</string>
+    <string name="TKM">Turkmenistan</string>
+    <string name="TLS">Istočni Timor</string>
+    <string name="TOG">Togo</string>
+    <string name="TPE">Republika Kina</string>
+    <string name="TRI">Trinidad i Tobago</string>
+    <string name="TUN">Tunis</string>
+    <string name="TUR">Turska</string>
+    <string name="UAE">Ujedinjeni Arapski Emirati</string>
+    <string name="UGA">Uganda</string>
+    <string name="UKR">Ukrajina</string>
+    <string name="URU">Urugvaj</string>
+    <string name="USA">Sjedinjene Američke Države</string>
+    <string name="UZB">Uzbekistan</string>
+    <string name="VAN">Vanuatu</string>
+    <string name="VEN">Venecuela</string>
+    <string name="VGB">Britanska Devičanska Ostrva</string>
+    <string name="VIE">Vijetnam</string>
+    <string name="VIN">Sveti Vinsent i Grenadini</string>
+    <string name="VIR">Virgin Islands (US)</string>
+    <string name="WAL">Vels</string>
+    <string name="YEM">Jemen</string>
+    <string name="ZAM">Zambija</string>
+    <string name="ZIM">Zimbabve</string>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_capital_off">ИСКЉУЧИ</string>
+    <string name="abc_capital_on">УКЉУЧИ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">тастер за размак</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Претражите...</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дељење са апликацијом %s</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="accept">Prihvatiti</string>
+    <string name="acceptOffer">Prihvati</string>
+    <string name="accountBalance">Stanje na računu:</string>
+    <string name="account_balance_menu">Balans na profilu</string>
+    <string name="achievement0">Pobedi na meču</string>
+    <string name="achievement1">Pobedi meč sa najmanje 3 gola razlike</string>
+    <string name="achievement10">Učini da tvoj igrač postigne 3 gola na jednom meču</string>
+    <string name="achievement11">Pobedi meč sa najmanje 5 golova razlike</string>
+    <string name="achievement12">Učini da tvoj igrač igra na 100 mečeva</string>
+    <string name="achievement13">Učini da tvoj igrač da 25 golova</string>
+    <string name="achievement14">Odigraj 5 celih sezona</string>
+    <string name="achievement15">Pobedi na 50 mečeva</string>
+    <string name="achievement16">Učini da tvoj igrač da 50 golova</string>
+    <string name="achievement17">Učini da tvoj igrač postigne 5 gola na jednom meču</string>
+    <string name="achievement18">Učini da tvoj igrač igra na 250 mečeva</string>
+    <string name="achievement19">Odigraj 10 celih sezona</string>
+    <string name="achievement2">Pobedi na 5 mečeva</string>
+    <string name="achievement20">Pobedi na 100 mečeva</string>
+    <string name="achievement21">Pobedi meč sa najmanje 10 golova razlike</string>
+    <string name="achievement22">Nemoj izgubiti nijednu utakmicu u ligi u toku sezone</string>
+    <string name="achievement23">Učini da tvoj igrač da 100 golova</string>
+    <string name="achievement24">Odigraj 25 celih sezona</string>
+    <string name="achievement25">Pobedi na 250 mečeva</string>
+    <string name="achievement26">Pobedi meč sa najmanje 20 golova razlike</string>
+    <string name="achievement27">Učini da tvoj igrač postigne 10 gola na jednom meču</string>
+    <string name="achievement28">Učini da tvoj igrač igra na 500 mečeva</string>
+    <string name="achievement29">Odigraj 50 celih sezona</string>
+    <string name="achievement3">Učini da tvoj igrač igra na 20 mečeva</string>
+    <string name="achievement30">Pobedi na 500 mečeva</string>
+    <string name="achievement31">Učini da tvoj igrač da 250 golova</string>
+    <string name="achievement32">Pobedi na svim mečevima u ligi u toku sezone</string>
+    <string name="achievement33">Učini da tvoj igrač igra na 750 mečeva</string>
+    <string name="achievement34">Odigraj 100 celih sezona</string>
+    <string name="achievement35">Pobedi na 1000 mečeva</string>
+    <string name="achievement36">Učini da tvoj igrač igra na 1000 mečeva</string>
+    <string name="achievement37">Učini da tvoj igrač da 500 golova</string>
+    <string name="achievement38">Odigraj 250 celih sezona</string>
+    <string name="achievement39">Pobedi na 2500 mečeva</string>
+    <string name="achievement4">Odigraj jednu celu sezonu</string>
+    <string name="achievement40">Odigraj 500 celih sezona</string>
+    <string name="achievement41">Pobedi na 5000 mečeva</string>
+    <string name="achievement42">Učini da tvoj igrač da 1000 golova</string>
+    <string name="achievement43">Odigraj 1000 celih sezona</string>
+    <string name="achievement44">Pobedi na 10000 mečeva</string>
+    <string name="achievement5">Pobedi na 10 mečeva</string>
+    <string name="achievement6">Učini da tvoj igrač igra na 50 mečeva</string>
+    <string name="achievement7">Učini da tvoj igrač da 10 golova</string>
+    <string name="achievement8">Odigraj 2 celih sezona</string>
+    <string name="achievement9">Pobedi na 25 mečeva</string>
+    <string name="achievementUnlocked">Dostignuće otključano!</string>
+    <string name="achievements">Dostignuća</string>
+    <string name="add">Dodaj</string>
+    <string name="addToFirstTeam">Dodaj u prvi tim</string>
+    <string name="africa">Afrika</string>
+    <string name="afterOwnGoalAction1">%1$s hvata glavu!</string>
+    <string name="afterOwnGoalAction2">%1$s ne može da poveruje šta je uradio!</string>
+    <string name="afterOwnGoalAction3">%1$s neće spavati večeras!</string>
+    <string name="afterOwnGoalAction4">%1$s! Šta je to uradio?</string>
+    <string name="afterOwnGoalAction5">%1$s nema sreće!</string>
+    <string name="afterOwnGoalAction6">%1$s ovde potpuno nije imao sreće!</string>
+    <string name="age">Uzrast</string>
+    <string name="agentWillBePaid">Agent igrača će biti plaćen %1$s kao naknada.</string>
+    <string name="agentsFee">Naknada od agenta igrača</string>
+    <string name="aggregate">Ukupno</string>
+    <string name="aggresive">agresivno</string>
+    <string name="aggression">Agresivnost:</string>
+    <string name="agility">Spretnost</string>
+    <string name="aiTransfer">"- %1$s (%2$s -> %3$s)
+"</string>
+    <string name="aiTransfersContent">"Kako je prelazni rok otvoren, neki klubovi prave zanimljive prelaske. Ovo su neki od poslednjih transfera koje vredi pomenuti:
+
+"</string>
+    <string name="aiTransfersTitle">Pregled skorašnjih transfera</string>
+    <string name="all">Sve.</string>
+    <string name="allCompetitions">Sva takmičenja</string>
+    <string name="allTime">Oduvek</string>
+    <string name="always">uvek</string>
+    <string name="analysis_confirmation_dialog">"Da li želite da vaši pomoćnici posmatraju i analiziraju tim %1$s?
+
+Rezultati će biti dostupni za 7 dana."</string>
+    <string name="analysis_results">"Evo rezultata naše analize o %1$s. Trenutno igraju u formaciji %2$s, sa %3$s igricom.
+
+Imamo i neke predloge u vezi sa taktikom protiv njih:"</string>
+    <string name="analyze">Analiziraj</string>
+    <string name="analyzedOpponents">Analizirani protivnici:</string>
+    <string name="angry">ljut</string>
+    <string name="april">April</string>
+    <string name="areYouSure">Da li ste sigurni?</string>
+    <string name="areYouSureToDelete">Da li ste sigurni da želite da izbrišete ovu igru?</string>
+    <string name="areYouSureToRemoveTeam">Da li ste sigurni da želite da uklonite ovaj tim?</string>
+    <string name="areYouSureYouWantToBuildNewTrainingField">Da li ste sigurni da želite da izgradite novi teren za trening?</string>
+    <string name="areYouSureYouWantToHireThisEmployee">Da li si siguran da želiš da zaposliš %1$s? Njegova mesečna plata će biti %2$s.</string>
+    <string name="areYouSureYouWantToTerminateContract">Da li ste sigurni da želite da otkažete ovaj ugovor? Platiće te kaznu od (%1$s)</string>
+    <string name="arrangeFriendlyMatch">Raspored prijateljskih utakmica</string>
+    <string name="arrogant">arogantan</string>
+    <string name="ashamed">posramljen</string>
+    <string name="asia">Azija</string>
+    <string name="assign">Postavi...</string>
+    <string name="assistant">Asistent</string>
+    <string name="assistantStartingMessageContent">"Pozdrav, ja sam vaš asistent.Srećan sam što ćemo raditi zajedno.
+
+Na početku, preporučujem vam da pogledate naš tim. Prelazni rok je otvoren, tako da ćete moći da pogledate nove igrače. Možete poslati našeg skauta u potragu ukoliko želite. Takođe, dobićete neke ponude od slobodnih agenta.
+
+Još uvek imamo neko vreme do početka lige, zato biste mogli poslati igrače i u trening kamp. Pogledajte mogućnosti i odlučite.
+
+A, ne zaboravite za naše igrače mlađih kategorija. Slobodni ste da odlučite o broju i kvalitetu naših mladih timova. Odlično, zar ne? Jedino je novac limit. Zato budite oprezni sa trošenjem.
+
+Ako vam očajnički treba novac, možete pozajmiti novac iz banke. Ali to je zadnja opcija!
+
+OK, ne želim mnogo pričati. Srećno, uživajte!"</string>
+    <string name="assistantStartingMessageTitle">Zdravo!</string>
+    <string name="assists">Asistencije</string>
+    <string name="association">Fudbalski savez</string>
+    <string name="attacking">Napadanje</string>
+    <string name="attendance">Posećenost</string>
+    <string name="august">Avgust</string>
+    <string name="australia">Australija</string>
+    <string name="autosave">Automatsko čuvanje:</string>
+    <string name="average">prosečan</string>
+    <string name="away">gost</string>
+    <string name="backFromTrainingCampContent">Dragi gospodine, zbog sudaranja zvaničnih utakmica sa našim kampom, prinuđeni smo da se vratimo kući ranije. Nažalost, ne možemo vratiti naš novac. Preporučio bih vam u budućnosti da budete pažljiviji prilikom planiranja trening kampova.</string>
+    <string name="backFromTrainingCampTitle">Prevremeni povratak iz trening kampa</string>
+    <string name="badArticleInMediaContent">"Gospodine, znam da ne volite novinare i novine, ali izgleda da imamo problem.
+
+Bilo je serija članaka u novinama i na internetu o našem klubu u zadnje vreme. I one nisu bile dobre. Izgleda da su novinari ljuti jer ne želite da razgovarate sa njima i jer ih ignorišete. Znate, bilo bi dobro da imamo dobre odnose sa njima, jer takvi članci mogu dosta da nam naprave štetu. Kompanije ne žele da sponzorišu klub koji stvara lošu sliku. Razmislite o tome."</string>
+    <string name="badArticleInMediaTitle">Medija napada naš klub</string>
+    <string name="ballLossAction1">%1$s je izgubio loptu!</string>
+    <string name="ballLossAction10">%1$s gubi kontrolu nad loptom...</string>
+    <string name="ballLossAction11">%1$s je zabrljao!</string>
+    <string name="ballLossAction12">%1$s je dopustio da lopta pobegne!</string>
+    <string name="ballLossAction2">%1$s gubi posed!</string>
+    <string name="ballLossAction3">Oni su izgubili posed!</string>
+    <string name="ballLossAction4">%1$s... Lako izgubljena lopta!</string>
+    <string name="ballLossAction5">%1$s pravi glupu grešku!</string>
+    <string name="ballLossAction6">%1$s nije uspeo da zadrži loptu...</string>
+    <string name="ballLossAction7">Ali %1$s gubi loptu...</string>
+    <string name="ballLossAction8">%1$s lako gubi loptu...</string>
+    <string name="ballLossAction9">Lopta je oduzeta...</string>
+    <string name="ballPossession">Posed lopte</string>
+    <string name="bank">Banka</string>
+    <string name="bankLoan">Pozajmica banke</string>
+    <string name="bankLoansTaken">Uzete su pozajmice iz banke:</string>
+    <string name="bankrupcyContent">"Katastrofa!
+
+Naš klupski račun je totalno prazan! Kako sam mogao dozvoliti da budeš odgovaran za vođenje naših finansija? Sad se kajem zbog toga...Bilo kako bilo, mi smo završili! Ne možemo priuštiti ništa više, moramo da napustimo sva takmičenja.
+
+Gotovo je!"</string>
+    <string name="bankrupcyTitle">Ostali smo bez novca!</string>
+    <string name="beforeMatch1">\"Momci, 5:0 je minimum.\"</string>
+    <string name="beforeMatch2">\"Idemo momci, ovo ćemo dobiti dok kažete keks!\"</string>
+    <string name="beforeMatch3">\"Momci verujem u vas, možete vi to!\"</string>
+    <string name="beforeMatch4">\"Hoću da vidim krv i znoj na terenu!\"</string>
+    <string name="beforeMatch5">\"Momci, ovo neće biti ni malo jednostavno.\"</string>
+    <string name="beforeMatch6">\"Idemo momci, ne brukajte me ovaj put.\"</string>
+    <string name="beforeMatch7">\"O moj Bože, ne želim ovo ni da gledam.\"</string>
+    <string name="bonusesForPlayers">Bonusi za igrače</string>
+    <string name="bonusesFromSponsors">Bonusi od sponzora</string>
+    <string name="brazil">Juzna Amerika (Brazil)</string>
+    <string name="buildNewField">Izgradi novi teren</string>
+    <string name="businessman">Biznismen</string>
+    <string name="businessmanTalk1">"Zdravo, dragi menadžeru!
+
+Lepo je pričati sa tobom! Ja sam lokalni biznismen, koji je veoma oduševljen pristalicama našeg divnog kluba. Želim da bude najmoćniji ... Ali ja dobro znam da bez novca to nije moguće. Tako da sam mislio da možete donirati klub određenom količinom.
+
+Želim samo da gledate kratki video, a novac je vaš. Šta mislite o tome?"</string>
+    <string name="businessmanTalk2">"Zdravo, dragi menadžeru!
+
+Ja ne mogu donirati ponovo ovog meseca. Dodji ponovo kasnije!"</string>
+    <string name="buy">Kupi</string>
+    <string name="buyOffer">Kupi</string>
+    <string name="buyOfferTitle">"%1$s želi da kupi vašeg igraca za %2$s.
+
+Vi možete da pregovarate o toj ponudi."</string>
+    <string name="calendar">Kalendar</string>
+    <string name="calm">miran</string>
+    <string name="canada">Severna Amerika (Kanada)</string>
+    <string name="cancel">Izađi</string>
+    <string name="cannotGoToTrainingCamp">Sada ne možeš planirati trening kamp, s obzirom da imaš mnogo utakmica koje se podudaraju u bliskoj budućnosti. Pokušaj ponovo nekog sledećeg dana.</string>
+    <string name="cantUpgradeMore">- Nakon izgradnje, tribina će dostići svoj maksimalni kapacitet.</string>
+    <string name="capsGoals">Odigrani mečevi/postignuti golovi</string>
+    <string name="carribean">Karibi</string>
+    <string name="category1">Kategorija 1</string>
+    <string name="category2">Kategorija 2</string>
+    <string name="category3">Kategorija 3</string>
+    <string name="central_africa">Afrika (centralna)</string>
+    <string name="central_america">Centralna Amerika</string>
+    <string name="central_asia">Azija (centralna)</string>
+    <string name="central_east_europe">Evropa (centralno-istočna)</string>
+    <string name="chairman">Predsednik</string>
+    <string name="chairmanStartingMessageContent">"Dragi gospodine!
+
+Dobrodošli u naš klub. Jako sam srećan što ste nam se pridružili. Verujem da %1$s ima svetlu budućnost i nadam se da ćete imati važnu ulogu u tome.
+
+Želim vam puno sreće i mnogo emocija tokom utakmica."</string>
+    <string name="chairmanStartingMessageTitle">Dobro došli u %1$s!</string>
+    <string name="champion">Šampion</string>
+    <string name="championContentFavorite">"Ko je najbolji? %1$s!
+
+Tako sam srećan što smo uspeli. Jednostavno smo bili najbolji i totalno smo zaslužili ovu šampionsku titulu. Velika pohvala za vas i vaše igrače. Ovo je bila definitivno odlična odluka što smo vas doveli kao menadžera.
+
+A sada uživajte u uspehu, vi ste današnji heroj!"</string>
+    <string name="championContentNonFavorite">Možeš li verovati? Mi smo najbolji! Niko nije verovao da možemo osvojiti šampionat, tako da je ovaj uspeh koji ste napravili fenomenalan! Nadam se da ćeš ostati u našem klubu zauvek.Ti si naša legenda! Hvala ti mnogo za ovu nezaboravnu sezonu. Ovo će biti nezaboravna noć!</string>
+    <string name="championTitle">Mi smo šampioni!</string>
+    <string name="championsCup">Liga Šampiona</string>
+    <string name="championsCupContent">"Ovo je ludo, mi smo najbolji klub na kontinentu!
+
+Gospodine, vi ste fenomenalan menadžer i uvek sam verovao u vaš rad i igrače. Volim fudbal baš zbog ovakvih trenutaka. Volim %1$s i siguran sam da ćemo imati fantastičnu budućnost sa vama kao menadžerom i ostvariti još mnogo sličnih uspeha!
+
+Hvala još jednom!"</string>
+    <string name="championsCupTitle">Izvanredno!</string>
+    <string name="change_trainer">Promena trenera</string>
+    <string name="chaosInPenaltyAreaAction1">Kakva zbrka u šesnaestercu!</string>
+    <string name="chaosInPenaltyAreaAction2">Kakav haos!</string>
+    <string name="chaosInPenaltyAreaAction3">Totalan haos u šesnaestercu!</string>
+    <string name="chaosInPenaltyAreaAction4">...</string>
+    <string name="character">karakter</string>
+    <string name="charisma">Karizma</string>
+    <string name="chooseTeamToEdit">Izaberi tim koji želiš da urediš:</string>
+    <string name="chooseYourTeam">Izaberi tim:</string>
+    <string name="choose_edit_file">Izaberi edit file</string>
+    <string name="cleanSheets">Clean sheets</string>
+    <string name="clear">Očisti</string>
+    <string name="clubRanking">Ranking klubova</string>
+    <string name="clubStaff">Osoblje kluba</string>
+    <string name="clubStaffDescription">"Ovde možete u potpunosti kontrolisati ko radi u vašem klubu. Svi zaposleni imaju svoje ugovore, sopstveno iskustvo i starost. Svaka uloga u klubu je važna na različite načine:
+
+ Treneri golmana su u potpunosti odgovorni za obuku i rad vaših čuvara.
+
+ Mladi treneri rade sa mlađim igračima. Što više trenera mladih imate - više timova za mlade možete održavati. Dobri treneri mladih mogu da učine vaše talentovane mlade ljude da se bolje i brže razvijaju.
+
+ Iskusni fizioterapeuti mogu značajno smanjiti rizik od povreda vaših igrača. Pobrinite se da unajmite i dobre doktore, jer će oni brže dovesti do povređenog igrača.
+
+ Trgovci su odgovorni za privlačenje ljudi i sponzora u vaš klub. Zaslužuju dosta, ali njihov posao može doneti vašem klubu mnogo profita."</string>
+    <string name="common_google_play_services_enable_button">Омогући</string>
+    <string name="common_google_play_services_enable_text">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_title">Омогућите Google Play услуге</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s не може да се покрене без Google Play услуга, које нису инсталиране на уређају.</string>
+    <string name="common_google_play_services_install_title">Преузмите Google Play услуге</string>
+    <string name="common_google_play_services_notification_channel_name">Доступност Google Play услуга</string>
+    <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблема са Google Play услугама. Пробајте поново.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не може да се покрене без Google Play услуга, које уређај не подржава.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="common_google_play_services_update_title">Ажурирајте Google Play услуге</string>
+    <string name="common_google_play_services_updating_text">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="common_google_play_services_wear_update_text">Потребна је нова верзија Google Play услуга. Ускоро ће се ажурирати.</string>
+    <string name="common_open_on_phone">Отвори на телефону</string>
+    <string name="common_signin_button_text">Пријави ме</string>
+    <string name="common_signin_button_text_long">Пријави ме на Google</string>
+    <string name="communityCup">Communiti Cup</string>
+    <string name="competitions">Takmičenja</string>
+    <string name="concentration">Koncentracija:</string>
+    <string name="condition">Kondicija</string>
+    <string name="confidence">Poverenje</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="conflict">U sukobu</string>
+    <string name="conflictBeginningContent">Poštovani gospodine, naša najnovija zapažanja jasno ukazuju da dva igrača (%1$s i %2$s) ne podnose jedni drugog. Naravno, fudbalski tim je grupa veoma različitih ljudi, i neće oni svi biti prijatelji, ali ako želimo da budemo uspešni, treba da živimo zajedno i da sarađujemo. Trebalo bi da uradimo nešto sa tim, ili to može imati uticaja na naš učinak kada će ova dvojica igrati zajedno.</string>
+    <string name="conflictBeginningTitle">%1$s i %2$s su izgleda u sukobu</string>
+    <string name="conflictEndContent">Dobre vesti, gospodine. Izgleda da sukob naša dva igrača (%1$s, %2$s) više ne postoji. Oba igrača su pričala i šalila se jedan sa drugim i možemo predpostaviti da su odnosi između ove dve osobe u redu. Dobar posao!</string>
+    <string name="conflictEndTitle">%1$s i %2$s - sukob rešen</string>
+    <string name="confused">zbunjen</string>
+    <string name="continentalCupsTickets">Mečevi međunarodnog kupa</string>
+    <string name="continentalFederationPrizes">Nagrade iz kontinentalne federacije</string>
+    <string name="continueGame">Nastavi igru</string>
+    <string name="continueMatch">Nastavi meč</string>
+    <string name="continueString">Nastavi</string>
+    <string name="contractEnd">Kraj ugovora:</string>
+    <string name="contractExpiredContent">%1$s nije naš igrač više - njegov ugovor je upravo istekao.</string>
+    <string name="contractExpiredTitle">%1$s ugovor je istekao</string>
+    <string name="contractOffer">Ugovor</string>
+    <string name="contractOfferAcceptedContent">"Ponuda za ugovor koju ste napravili za %1$s je prihvaćena.
+
+"</string>
+    <string name="contractOfferAcceptedMuchWorseTeamContent">"Ovo je korak nazad za njegovu karijeru, ali mu se vaša ponuda činila dosta privlačna pa je odlučio da pridruži vašem timu.
+
+"</string>
+    <string name="contractOfferAcceptedSimilarTeamContent">"Vaša ponuda mu se novčano svidela, pa je odlučio da pojača vaš tim.
+
+"</string>
+    <string name="contractOfferAcceptedTitle">%1$s - ponuda za transfer je prihvaćena</string>
+    <string name="contractOfferAcceptedUnhappyContent">"On je odlučio da se pridruži vašem timu, s time da nije srećan u njegovom sadašnjem klubu.
+
+"</string>
+    <string name="contractOfferAcceptedWorseTeamContent">"Vaša ponuda mu se dosta svidela, pa je odlučio da pojača vaš tim.
+
+"</string>
+    <string name="contractOfferRejectedContent">"Ponuda za ugovor koju ste napravili za %1$s je odbijena.
+
+"</string>
+    <string name="contractOfferRejectedHappyContent">"Srećan je u svom sadašnjem timu i neće ga napustiti u bliskoj budućnosti.
+
+"</string>
+    <string name="contractOfferRejectedMuchWorseTeamContent">"Rekao je da ne može da zamisli premeštaj u tako slab tim.
+
+"</string>
+    <string name="contractOfferRejectedSimilarTeamContent">"Rekao je da ponuda nije dovoljno privlačna da bi se došao u novu sredinu.
+
+"</string>
+    <string name="contractOfferRejectedTitle">%1$s - ponuda za ugovor je odbijena</string>
+    <string name="contractOfferRejectedWorseTeamContent">"Rekao je da premestaj u najgori tim ne bi bio dobar za njegovu karijeru.
+
+"</string>
+    <string name="contractOfferTitle">Agent od %1$s bi voleo da čuje ugovorsku ponudu za njegovog igrača.</string>
+    <string name="contractOfferWithdrawnContent">Poštovani gospodine, zbog nedostatka vašeg odgovora, ponuda ugovora za %1$s je povučena i više nije dostupna.</string>
+    <string name="contractOfferWithdrawnTitle">%1$s - ugovorna ponuda povučena</string>
+    <string name="contractSignedContent">%1$s je potpisao ugovor sa našim timom danas. On je došao iz %2$s za %3$s.</string>
+    <string name="contractSignedTitle">%1$s je potpisao ugovor</string>
+    <string name="contractTerminatePenalty">Kazne</string>
+    <string name="contractUntil">Trajanje ugovora:</string>
+    <string name="contractWillBeSigned">Ugovor će biti potpisan %1$s.</string>
+    <string name="contractWillBeSignedToday">Ugovor će biti potpisan danas.</string>
+    <string name="contract_expiration_reminder_content1">"Zdravo gospodine.
+
+Hteo sam samo da vas podsetim da će sledeći ugovori sa igračima isteći za 30 dana:
+
+"</string>
+    <string name="contract_expiration_reminder_content2">"- %1$s (%2$s)
+"</string>
+    <string name="contract_expiration_reminder_content3">Ako želite zadržati neke od ovih igrača u klubu, morate im ponuditi ugovor za obnovu.</string>
+    <string name="contract_expiration_reminder_title">Podsetnik o isteku ugovora</string>
+    <string name="copy_toast_msg">Линк је копиран у привремену меморију</string>
+    <string name="cornerKick">Korner (%1$s)</string>
+    <string name="costOfCamp">Cena:</string>
+    <string name="counterAttackAction1">%1$s započinje kontranapad!</string>
+    <string name="counterAttackAction2">Kontranapad!</string>
+    <string name="counterAttackAction3">%1$s ide u kontranapad!</string>
+    <string name="countriesExplored">Istražene države:</string>
+    <string name="countriesToExplore">Države za istraživanje:</string>
+    <string name="countryRanking">Ranking država</string>
+    <string name="countryRankingDescription">Rangiranje zemalja određuje broj vezova za zemlje u međunarodnim kupovima. Ako radite dobro sa svojim timom, možete povećati rang svoje zemlje, tako da će možda biti lakše učestvovati u Kupu Šampiona ili Kupu Federacije u narednim godinama.</string>
+    <string name="createCustomPlayer">Napravi igrača:</string>
+    <string name="createNewFormation">Napravi novu formaciju</string>
+    <string name="createNewTeam">Napravi novi tim</string>
+    <string name="credits">U vezi igre</string>
+    <string name="crossAction1">%1$s centrira!</string>
+    <string name="crossAction2">Centaršut u šesnaesterac!</string>
+    <string name="crossAction3">%1$s centrira u šesnaesterac!</string>
+    <string name="crossAction4">%1$s je ubacuje u šesnaesterac!</string>
+    <string name="crossAction5">%1$s centrira!</string>
+    <string name="crossAction6">%1$s pokušava da centrira!</string>
+    <string name="crossing">Centriranje</string>
+    <string name="cup">kup</string>
+    <string name="currency">Valuta:</string>
+    <string name="currentAssignment">Trenutni zadaci:</string>
+    <string name="currentRecommendations">Trenutne preporuke:</string>
+    <string name="currentSponsors">Trenutni sponzor</string>
+    <string name="customPlayers">Napravljeni igrači:</string>
+    <string name="database">Baza Podataka:</string>
+    <string name="date">Datum:</string>
+    <string name="days">dani</string>
+    <string name="daysLeft">Preostali dani:</string>
+    <string name="days_left_to_results">Preostalo dana do rezultata:</string>
+    <string name="days_to_expire">dani do isteka:</string>
+    <string name="december">Decembar</string>
+    <string name="defending">Branjenje</string>
+    <string name="delete">Obriši</string>
+    <string name="demotivated">nemotivisan</string>
+    <string name="departureDate">Datum odlaska:</string>
+    <string name="detail">Detalji</string>
+    <string name="distanceShotAction1">%1$s odlučuje da šutira sa distance!</string>
+    <string name="distanceShotAction2">%1$s šutira izdaleka!</string>
+    <string name="distanceShotAction3">%1$s šutira sa distance!</string>
+    <string name="distanceShotAction4">%1$s šutira sa 25 metara!</string>
+    <string name="distanceShotAction5">%1$s šutira izvan šesnaesterca!</string>
+    <string name="distanceShotAction6">%1$s šutira sa distance!</string>
+    <string name="distanceShotAction7">%1$s pokušava sa distance!</string>
+    <string name="distanceShotAction8">Daleko od gola.. Ali %1$s šutira!</string>
+    <string name="distanceShotAction9">%1$s pokušava sa velike daljine!</string>
+    <string name="doYouWantToSaveChanges">Da li želiš da sačuvaš izmene?</string>
+    <string name="doctor">Doktor</string>
+    <string name="domesticCupContent">"Gospodine, čestitke!
+
+Jako sam sretan što smo uspjeli osvojiti ovaj fenomenalni domaći kup! Verovao sam u ovaj tim od samog početka. Hvala vam na vašem dostignuću i nadam se još mnogim uspesima u budućnosti!"</string>
+    <string name="domesticCupTitle">Dobar posao!</string>
+    <string name="domesticCupsTickets">Mečevi domaćeg kupa</string>
+    <string name="domesticFederationPrizes">Nagrade iz nacionalnog saveza</string>
+    <string name="donationsForFans">Ulaganje za fanove:</string>
+    <string name="donationsForFans2">Donacije za fanove</string>
+    <string name="donationsHigh">visoko</string>
+    <string name="donationsHighDescription">Navijački klub dobija mnogo prihoda od domaćih i gostujućih utakmica. Povećava atmosferu i omogućava bolju podršku igračima.</string>
+    <string name="donationsNone">ništa</string>
+    <string name="donationsNoneDescription">Klub ne ulaže u navijački klub. To smanjuje njihovo raspoloženje, ali na taj način štediš određen novac.</string>
+    <string name="donationsNormal">normalno</string>
+    <string name="donationsNormalDescription">Klub delimično plaća karte i putne troškove za gostujuće utakmice.</string>
+    <string name="draws">Nerešene:</string>
+    <string name="drawsTable">N</string>
+    <string name="dribblingAction1">%1$s pokušava da to napravi sam!</string>
+    <string name="dribblingAction10">%1$s ide pored defanzivca!</string>
+    <string name="dribblingAction11">%1$s savladava defanzivca!</string>
+    <string name="dribblingAction2">%1$s odlučuje da predribla svoje protivnike!</string>
+    <string name="dribblingAction3">%1$s dobija šansu za dribling!</string>
+    <string name="dribblingAction4">%1$s ide na dribling!</string>
+    <string name="dribblingAction5">%1$s pokušava da dribla!</string>
+    <string name="dribblingAction6">%1$s!</string>
+    <string name="dribblingAction7">%1$s pokušava da prevari svoje protivnike!</string>
+    <string name="dribblingAction8">Lep potez od %1$s!</string>
+    <string name="dribblingAction9">%1$s prolazi defanzivca!</string>
+    <string name="duration">Trajanje:</string>
+    <string name="durationDays">Trajanje (dani):</string>
+    <string name="east">Istok</string>
+    <string name="eastGroup">istok</string>
+    <string name="east_africa">Afrika (istok)</string>
+    <string name="east_asia">Azija (istok)</string>
+    <string name="east_europe">Evropa (istok)</string>
+    <string name="edit">Uredi:</string>
+    <string name="editTeamName">Uredi ime</string>
+    <string name="edit_emblem">Edituj grb tima</string>
+    <string name="edit_file_status">Edituj file status</string>
+    <string name="edit_league_name">Edituj ime lige</string>
+    <string name="edit_players">Edituj igrača</string>
+    <string name="edit_teams">Edituj tim</string>
+    <string name="editor">Uredživač</string>
+    <string name="emblem_successfully_changed">Promena grba je izvršena!</string>
+    <string name="employeeEndOfCareerContent">Naš zaposlenik, %2$s (%1$s, sa %3$s godina) je odlučio da se penzioniše danas.</string>
+    <string name="employeeEndOfCareerTitle">%1$s se penzionisao</string>
+    <string name="employees">Zaposleni</string>
+    <string name="employeesSalaries">Plate zaposlenih</string>
+    <string name="endOfCareerContent">%1$s (%2$s) odlučio da se povuče danas.</string>
+    <string name="endOfCareerTitle">%1$s penzionisan</string>
+    <string name="europe">Evropa</string>
+    <string name="execute">izvedi</string>
+    <string name="exo_controls_fastforward_description">Премотај унапред</string>
+    <string name="exo_controls_next_description">Следећа песма</string>
+    <string name="exo_controls_pause_description">Пауза</string>
+    <string name="exo_controls_play_description">Пусти</string>
+    <string name="exo_controls_previous_description">Претходна песма</string>
+    <string name="exo_controls_rewind_description">Премотај уназад</string>
+    <string name="exo_controls_stop_description">Заустави</string>
+    <string name="expectedSalary">Očekivana plata</string>
+    <string name="expenditures">Troškovi:</string>
+    <string name="experience">Iskustvo</string>
+    <string name="fallback_menu_item_copy_link">Копирај линк</string>
+    <string name="fallback_menu_item_open_in_browser">Отвори у прегледачу</string>
+    <string name="fallback_menu_item_share_link">Дели линк</string>
+    <string name="fans">Navijači</string>
+    <string name="fansBehaviourPenaltyContent">Zbog nedoličnog ponašanja navijača (%1$s) na utakmici protiv %2$s, vaš klub je kažnjen sa %3$s.</string>
+    <string name="fansBehaviourPenaltyTitle">Kazna za navijače zbog lošeg ponašanja</string>
+    <string name="fansMoods">Raspoloženja navijača</string>
+    <string name="favouritePlayers">Omiljeni igrači:</string>
+    <string name="february">Februar</string>
+    <string name="federationCup">Kup Federacija</string>
+    <string name="federationCupContent">"Gospodine, čestitam!
+
+Kontinentalni kup je naš! Ogromne čestitke i pohvala za sve igrače. Hvala za ove divne utakmice! Sada se opustite i popijte malo, definitivno ste zaslužili!"</string>
+    <string name="federationCupTitle">Fantastično!</string>
+    <string name="feeNote">- Naknada za vašeg protivnika - %1$s</string>
+    <string name="fifthDivision">5. liga</string>
+    <string name="finalGame">Finale</string>
+    <string name="financePeriod">Finansije za period: %1$s-%2$s</string>
+    <string name="financialBonus">finansijski bonus (%1$s)</string>
+    <string name="financing">Finansiranje:</string>
+    <string name="fine">kazna od (%1$s)</string>
+    <string name="fired">Otpušten si!</string>
+    <string name="firstChampionship">1.takmičenje</string>
+    <string name="firstDivision">1. liga</string>
+    <string name="firstGroup">A</string>
+    <string name="firstLeg">prva utakmica</string>
+    <string name="fitness">Fitnes</string>
+    <string name="fixtures">Utakmice</string>
+    <string name="fixturesAndTables">Utakmice i tabele</string>
+    <string name="followedCountries">Praćene zemlje:</string>
+    <string name="footballPlayer">Fudbaler</string>
+    <string name="formation">Formacija</string>
+    <string name="formationName">Ime formacije:</string>
+    <string name="fourthDivision">4. liga</string>
+    <string name="freeAgentRecommendedContent">"Zdravo, moje ime je %1$s, i ja sam agent.
+
+Ja bih voleo da ti preporučim jednog od mojih igrača - %2$s. On igra %6$s i njegov poslednji tim je bio %3$s.
+
+Ako si zainteresovan da ga zaposliš, slobodno razgovaraj sa mnom o ugovoru. Očekivana plata je oko %4$s. Moja naknada će biti samo %5$s.
+
+Ja se nadam da ćeš prihvatiti moju ponudu. Prijatan dan!"</string>
+    <string name="freeAgentRecommendedTitle">Preporuka slobodnog agenta - %1$s</string>
+    <string name="freeKick">Slobodan udarac (%1$s)</string>
+    <string name="freeKickAction1">%1$s šutira!</string>
+    <string name="freeKickLength">%1$s metra od gola</string>
+    <string name="friday">Pet</string>
+    <string name="friendlies">Prijateljske utakmice</string>
+    <string name="friendliesThisSeason">Prijateljske ove sezone:</string>
+    <string name="friendliesTickets">Prijateljski mečevi</string>
+    <string name="friendlyFees">Naknada za protivnika</string>
+    <string name="friendlyMatchCancelledContent">Naša prijateljska utakmica protiv %1$s koja je planirana %2$s je otkazana zbog pokapanja sa službenim utakmicama.</string>
+    <string name="friendlyMatchCancelledTitle">Prijateljski meč protiv %1$s otkazan</string>
+    <string name="friendlyMatchOfferAcceptedContent">"Mi smo prihvatili predlog za prijateljsku utakmicu između naših timova.
+
+Meč će se odigrati %1$s"</string>
+    <string name="friendlyMatchOfferAcceptedTitle">%1$s - predlog za prijateljsku utakmicu prihvaćen</string>
+    <string name="friendlyMatchOfferRejectedContent">Mi smo odbili tvoj predlog za prijateljsku utakmicu između naših timova.</string>
+    <string name="friendlyMatchOfferRejectedTitle">%1$s - predlog za prijateljsku utakmicu odbijen</string>
+    <string name="friendlyOfferAwaitingContent">Imamo prijateljsku ponudu na čekanju od strane %1$s. Molimo vas da pogledate ponudu i odgovorite na nju ukoliko želite.</string>
+    <string name="friendlyOfferAwaitingTitle">Nova prijateljska ponuda od %1$s</string>
+    <string name="friendlyOfferSent">Prijateljska ponuda poslata.</string>
+    <string name="friendlyOfferWithdrawnContent">Poštovani gospodine, zbog nedostatka vašeg odgovora, prijateljska ponuda %1$s je povučena i više nije dostupna.</string>
+    <string name="friendlyOfferWithdrawnTitle">%1$s - prijateljska ponuda povučena</string>
+    <string name="friendship">U prijateljstvu</string>
+    <string name="friendshipBeginningContent">Gospodine. Samo želim da podelim moje mišljenje o ova dva igrača (%1$s, %2$s). Izgleda da dobro razumeju jedan drugog i da imaju veoma prijateljski odnos. Ovo je dobro, jer atmosferu čini boljom, a možemo predpostaviti da će ova dva igrača raditi zajedno na terenu.</string>
+    <string name="friendshipBeginningTitle">%1$s i %2$s izgledaju kao dobri prijatelji</string>
+    <string name="from">Od:</string>
+    <string name="fullExtraTime">Kraj</string>
+    <string name="fullExtraTimePenalties">Imaćemo penale!</string>
+    <string name="fullTime">Kraj</string>
+    <string name="fullTime1">\"Wow! Tako je! Fenomenalno!\"</string>
+    <string name="fullTime2">\"To je bila odlična utakmica! Nadam se da ćemo videti još mnogo toga!\"</string>
+    <string name="fullTime3">\"Odličan posao, momci. Čestitke.\"</string>
+    <string name="fullTime4">\"Nisam zadovoljan. Mogli bi vi mnogo bolje od toga.\"</string>
+    <string name="fullTime5">\"Šta je to bilo? Ne želim nešto takvo da vidim!\"</string>
+    <string name="fullTime6">\"Kakva sramota. Beskorisni ste.\"</string>
+    <string name="fullTimeExtraTime">Imaćemo produžetke!</string>
+    <string name="gameOverContent">Gospodine, zadnjih nekoliko nedelja su katastrofalne. Čini se kao da nemate ideju kako da poboljšate nastupe kluba. Igrači izgledaju jako loše, spori su i čine mnogo grešaka. Ne vidim timski duh. Žao mi je što vam ovo moram reći, ali u ovom slučaju nemam druge mogućnosti nego da raskinem naš ugovor. Puno sreće u vašem sledećem klubu.</string>
+    <string name="gameOverTitle">Dosta, hvala vam...</string>
+    <string name="gameplay">Stil igre:</string>
+    <string name="gastronomy">Ugostiteljstvo</string>
+    <string name="gentle">blag</string>
+    <string name="goAhead">- Da, slobodno.</string>
+    <string name="go_for_headers">idi na skok</string>
+    <string name="goal">GOL!!!</string>
+    <string name="goal1Text1">%1$s je nokautirao svoje protivnike!</string>
+    <string name="goal1Text10">Nisu dali šanse svojim protivnicima večeras!</string>
+    <string name="goal1Text11">Još jedan gol od %1$s!</string>
+    <string name="goal1Text12">%1$s! To je još jedan njihov gol!</string>
+    <string name="goal1Text13">%1$s se zabavlja večeras!</string>
+    <string name="goal1Text14">%1$s ubacuje još jednu u mrežu!</string>
+    <string name="goal1Text15">To je neverovatan rezultat!</string>
+    <string name="goal1Text16">%1$s dominira!</string>
+    <string name="goal1Text17">Ovo postaje sramotno!</string>
+    <string name="goal1Text18">Očajan meč od %1$s!</string>
+    <string name="goal1Text19">%1$s su uništeni večeras!</string>
+    <string name="goal1Text2">%1$s se ne vidi na terenu!</string>
+    <string name="goal1Text3">%1$s je nezaustavljiv večeras!</string>
+    <string name="goal1Text4">Totalno rušenje!</string>
+    <string name="goal1Text5">Pravo klanje!</string>
+    <string name="goal1Text6">%1$s je poželeo da se utakmica završila...</string>
+    <string name="goal1Text7">Oni rade šta god požele večeras!!!</string>
+    <string name="goal1Text8">%1$s je pokidao svoje protivnike na komade!</string>
+    <string name="goal1Text9">%1$s više nema iluzije</string>
+    <string name="goal2Text1">%1$s povećava svoj rezultat!</string>
+    <string name="goal2Text10">%1$s ulazi u veliku nevolju!</string>
+    <string name="goal2Text11">%1$s su bolji večeras!</string>
+    <string name="goal2Text12">%1$s će morati da se potrudi!</string>
+    <string name="goal2Text2">%1$s se bliži pobedi!</string>
+    <string name="goal2Text3">Stvari su se zakomplikovale za %1$s</string>
+    <string name="goal2Text4">%1$s je sad u udobnom položaju!</string>
+    <string name="goal2Text5">%1$s povećavaju svoju prednost!</string>
+    <string name="goal2Text6">Da li je sve gotovo?</string>
+    <string name="goal2Text7">%1$s je sad pomalo zbunjen!</string>
+    <string name="goal2Text8">Izgleda da navijači od %1$s mogu da se opuste sada!</string>
+    <string name="goal2Text9">Da li je to gol za pobedu?</string>
+    <string name="goal3Text1">%1$s vodi!</string>
+    <string name="goal3Text10">%1$s vodi!</string>
+    <string name="goal3Text11">%1$s će morati da napadne sad!</string>
+    <string name="goal3Text2">%1$s! Oni će sad diktirati tempo!</string>
+    <string name="goal3Text3">%1$s će morati da se ubrza sad!</string>
+    <string name="goal3Text4">%1$s! Zaslužili su vođstvo!</string>
+    <string name="goal3Text5">%1$s! Uspeli su!</string>
+    <string name="goal3Text6">%1$s će sad igrati smirenije</string>
+    <string name="goal3Text7">%1$s mora sad da napadne!</string>
+    <string name="goal3Text8">%1$s je za jedan gol ispred!</string>
+    <string name="goal3Text9">%1$s su uspeli da povedu!</string>
+    <string name="goal4Text1">%1$s! Oni su i dalje u igri!</string>
+    <string name="goal4Text10">Mnogo važan gol za %1$s!</string>
+    <string name="goal4Text11">Vraćaju se u igru!</string>
+    <string name="goal4Text12">Ovo im daje neku nadu!</string>
+    <string name="goal4Text13">Da li mogu da postignu još jedan?</string>
+    <string name="goal4Text14">Njima treba još jedan!</string>
+    <string name="goal4Text15">Ali oni su i dalje za jedan gol iza!</string>
+    <string name="goal4Text16">Uspeli su da smanje!</string>
+    <string name="goal4Text2">Nije sve još izgubljeno!</string>
+    <string name="goal4Text3">Vraća se nada navijačima od %1$s!</string>
+    <string name="goal4Text4">%1$s ima samo jedan gol prednosti!</string>
+    <string name="goal4Text5">%1$s je sad samo malo iza protivnika!</string>
+    <string name="goal4Text6">Da li će %1$s odbraniti taj rezultat?</string>
+    <string name="goal4Text7">On brzo vadi loptu iz mreže</string>
+    <string name="goal4Text8">%1$s se bori do kraja!</string>
+    <string name="goal4Text9">Bitan gol za %1$s!</string>
+    <string name="goal5Text1">Zar nije to prekasno?</string>
+    <string name="goal5Text10">Oni uopšte ne slave, prekasno je za njih</string>
+    <string name="goal5Text11">Rezultat sada izgleda malo bolje za njih</string>
+    <string name="goal5Text12">Prekasno!</string>
+    <string name="goal5Text13">Da li imaju vremena za još jedan?</string>
+    <string name="goal5Text14">Vau, oni su postigli gol! Da li verujete?</string>
+    <string name="goal5Text15">Dobro, ali su oni i dalje daleko od dobrog rezultata!</string>
+    <string name="goal5Text2">Da li su u mogućnosti da urade nešto više?</string>
+    <string name="goal5Text3">On brzo vadi loptu iz mreže</string>
+    <string name="goal5Text4">Oni i dalje imaju vremena!</string>
+    <string name="goal5Text5">Trenutak nepažnje od %1$s</string>
+    <string name="goal5Text6">Hajde da kažemo da je to sad utešni pogodak</string>
+    <string name="goal5Text7">%1$s polako smanjuje poraz</string>
+    <string name="goal5Text8">Da li taj gol ima nekog značaja?</string>
+    <string name="goal5Text9">%1$s! Postigli su utešni pogodak!</string>
+    <string name="goal6Text1">%1$s je izgubio vođstvo!</string>
+    <string name="goal6Text2">%1$s izjednačava!</string>
+    <string name="goal6Text3">Utakmica počinje iz početka!</string>
+    <string name="goal6Text4">Imamo izjednačen rezultat!</string>
+    <string name="goal6Text5">Oni smanjuju rezultat!</string>
+    <string name="goal6Text6">To je izjednačenje!</string>
+    <string name="goal6Text7">Vraćaju se u igru!</string>
+    <string name="goal6Text8">Oni su uspeli da odgovore!</string>
+    <string name="goal6Text9">Uspeli su!</string>
+    <string name="goal7Text1">%1$s postaje heroj od %2$s!</string>
+    <string name="goal7Text2">Pomama od radosti na tribini od %1$s!</string>
+    <string name="goal7Text3">Luda radost strelca!</string>
+    <string name="goal7Text4">Gol u zadnjem minutu!</string>
+    <string name="goal7Text5">Kakav dramatičan meč!</string>
+    <string name="goal7Text6">Navijači od %1$s su šokirani!</string>
+    <string name="goal7Text7">Da li je to moguće!</string>
+    <string name="goal7Text8">%1$s pogađa u zadnjem trenutku utakmice!</string>
+    <string name="goalAfterChaosAction1">Lopta je nekako našla put do mreže!</string>
+    <string name="goalAfterChaosAction2">To je ušlo!</string>
+    <string name="goalAfterChaosAction3">%1$s dobija čestitke!</string>
+    <string name="goalAfterChaosAction4">%1$s! On je strelac!</string>
+    <string name="goalAfterChaosAction5">%1$s je strelac ovog gola!</string>
+    <string name="goalAfterChaosAction6">%1$s! On šalje loptu u mrežu!</string>
+    <string name="goalAfterChaosAction7">%1$s je to uradio!</string>
+    <string name="goalText1">%1$s! Da li će oni ići na još jedan gol?</string>
+    <string name="goalkeeper_trainer">Trener golmana</string>
+    <string name="goalkeeping">Čuvanje gola</string>
+    <string name="goals">Golova</string>
+    <string name="goalsTable">G</string>
+    <string name="goodPerformance">dobar nastup</string>
+    <string name="goodPlayerBoughtAnswer1">On je odličan, ja sam veoma srećan da je on pristao da nam se pridruži!</string>
+    <string name="goodPlayerBoughtAnswer2">On je talentovan momak, ali ja očekujem trud, baš kao od ostalih.</string>
+    <string name="goodPlayerBoughtAnswer3">Pa... Ja ga ne znam mnogo, iskreno.</string>
+    <string name="goodPlayerBoughtQuestion">Navijači su veoma uzbuđeni da vide %1$s u dresu od %2$s. Šta očekujete od ovog igrača?</string>
+    <string name="graphics_team_emblems">Графика (тимски грбови)</string>
+    <string name="greeting1">Dobro jutro, gospodine. Moje ime je %1$s, ja radim za lokalne novine, da li možemo malo da popričamo?</string>
+    <string name="greeting2">Dobro jutro, gospodine. Ovo je %1$s ponovo. Da li mogu da vas pitam nešto?</string>
+    <string name="groupStage">Grupna faza</string>
+    <string name="groupX">Grupa %1$s</string>
+    <string name="halfTime">Poluvreme</string>
+    <string name="halfTime1">\"Neverovatno! Momci, volim kada tako igrate!\"</string>
+    <string name="halfTime2">\"Odlična igra za sada! Nastavite samo tako da igrate!\"</string>
+    <string name="halfTime3">\"Nije loše. Imate odlične šanse da uspete!\"</string>
+    <string name="halfTime4">\"Previše grešite. Morate se više truditi!\"</string>
+    <string name="halfTime5">\"Šta to radite? Počnite igrati!\"</string>
+    <string name="halfTime6">\"Ono je bila noćna mora. Nemate pojma o fudbalu.\"</string>
+    <string name="hallOfFame">Kuća slavnih:</string>
+    <string name="hallOfTrophies">Istorija trofeja</string>
+    <string name="happy">srećan</string>
+    <string name="headerShotAction1">%1$s udara glavom!</string>
+    <string name="headerShotAction2">%1$s sa udarcem glavom!</string>
+    <string name="headerShotAction3">%1$s skače najviše!</string>
+    <string name="headerShotAction4">%1$s puca glavom!</string>
+    <string name="headerShotAction5">%1$s se baca glavom!</string>
+    <string name="heading">Udaranje glavom</string>
+    <string name="heelShotAction1">%1$s šutira petom!</string>
+    <string name="heelShotAction2">%1$s šutira petom!</string>
+    <string name="high">Visoko</string>
+    <string name="highShotAction1">%1$s! Kakav snažan udarac!</string>
+    <string name="highShotAction2">%1$s ide na lob!</string>
+    <string name="highShotAction3">%1$s jako šutira!</string>
+    <string name="highShotAction4">%1$s žestoko šutira!</string>
+    <string name="higherOfferAcceptedContent">Mi ćemo rado prihvatiti vašu predloženu ponudu za vašeg igrača (%1$s).</string>
+    <string name="higherOfferAcceptedTitle">Veća ponuda za %1$s je prihvaćena</string>
+    <string name="higherOfferRejectedContent">Mi smo odbili vašu predloženu ponudu za vašeg igrača %1$s.</string>
+    <string name="higherOfferRejectedTitle">Veća ponuda za %1$s je odbijena</string>
+    <string name="highestRank">Najbolji rang:</string>
+    <string name="hire">Zaposli</string>
+    <string name="hireMoreTrainers">Vi nemate trenere mladih timova. Zaposlite više trenera.</string>
+    <string name="history">Istorija</string>
+    <string name="home">domaćin</string>
+    <string name="hooligansFight">nered</string>
+    <string name="hooligansPoliceFight">tuča sa policijom i obezbeđenjem</string>
+    <string name="importantMatchForFansAnswer1">Naravno! Moji igrači i ja znamo da će to biti rat, i mi smo spremni na to!</string>
+    <string name="importantMatchForFansAnswer2">Svaki meč je bitan za nas, bez obzira koji je protivnik.</string>
+    <string name="importantMatchForFansAnswer3">Stvarno? Ne, ne brinem o tome.</string>
+    <string name="importantMatchForFansQuestion">Navijači se raduju meču protiv %1$s, pošto ih vide kao velike rivale. Da li ovaj meč ima neki specijalni značaj za vas?</string>
+    <string name="inbox">Poruke</string>
+    <string name="includeEditedPlayers">Uključi uređene igrače</string>
+    <string name="includeRandomPlayers">Uključi nasumično generisane igrače</string>
+    <string name="individualOrders">Invidualni poredak</string>
+    <string name="injuredFor">Povredjen (%1$s nedelja do oporavka)</string>
+    <string name="insertNewTeamName">Unesi ime novog kluba:</string>
+    <string name="interceptionOfPassAction1">%1$s uzima loptu!</string>
+    <string name="interceptionOfPassAction10">%1$s preseca ovaj pas!</string>
+    <string name="interceptionOfPassAction2">Odlično oduzimanje lopte od strane %1$s!</string>
+    <string name="interceptionOfPassAction3">Lopta je oduzeta od strane %1$s!</string>
+    <string name="interceptionOfPassAction4">%1$s oduzima loptu!</string>
+    <string name="interceptionOfPassAction5">%1$s oduzima loptu!</string>
+    <string name="interceptionOfPassAction6">Kupi je %1$s!</string>
+    <string name="interceptionOfPassAction7">%1$s je oduzima!</string>
+    <string name="interceptionOfPassAction8">%1$s kupi loptu!</string>
+    <string name="interceptionOfPassAction9">%1$s prvi stiže do lopte!</string>
+    <string name="invalidSquadInjuredSuspended">Postoje povređeni ili suspendovani igrači u sastavu:</string>
+    <string name="invalidSquadTooLittlePlayersStartingLineup">Tvoja startna postava nema 11 igrača.</string>
+    <string name="invalidSquadTooLittleSubs">Moraš odabrati barem 4 igrača na klupi.</string>
+    <string name="isolation">Problem adaptacije</string>
+    <string name="isolationBeginningContent">Gospodine. Čini se da naš novi igrač (%1$s) ima puno problema da postane punopravni član našeg tima. On retko razgovara sa svakim i ide svojim putem. Trebalo bi mu nekako pomoći, jer na taj način neće moći dobro da sarađuje sa saigračima i da pokaže svoj puni potencijal.</string>
+    <string name="isolationBeginningTitle">%1$s je sa integracionim problemima</string>
+    <string name="isolationEndingContent">Gospodine, dobre vesti! Izgleda da %1$s nema više problema sa integracijom sa ostatkom tima. Upravo sam ga video u velikoj grupi igrača i činilo se da se zajedno zabavljaju. Mislim da ne treba više da se brinemo za njega.</string>
+    <string name="isolationEndingTitle">%1$s se veoma uklopio u tim</string>
+    <string name="january">Januar</string>
+    <string name="jobOfferWithdrawnContent">Poštovani gospodine, zbog nedostatka vašeg odgovora, ponuda za posao od %1$s je povučena i više nije dostupna.</string>
+    <string name="jobOfferWithdrawnTitle">%1$s - Ponuda za posao povučena</string>
+    <string name="jobOffers">Poslovi</string>
+    <string name="journalist">Novinar</string>
+    <string name="july">Jul</string>
+    <string name="june">Jun</string>
+    <string name="keeperReflectAction1">Golman se odražava!</string>
+    <string name="keeperReflectAction2">%1$s se odražava!</string>
+    <string name="keeperReflectAction3">%1$s se odražava!</string>
+    <string name="keeperReflectAction4">%1$s izbija loptu!</string>
+    <string name="keeperReflectAction5">%1$s je uspeo da odbrani!</string>
+    <string name="keeperReflectAction6">%1$s je izbacuje daleko!</string>
+    <string name="keeperReflectAction7">%1$s blokira šut!</string>
+    <string name="keeperSaveAction1">Odlična odbrana od %1$s!</string>
+    <string name="keeperSaveAction2">Odlična odbrana golmana!</string>
+    <string name="keeperSaveAction3">%1$s je oprezan!</string>
+    <string name="keeperSaveAction4">%1$s hvata loptu!</string>
+    <string name="keeperSaveAction5">Dobra odbrana od %1$s</string>
+    <string name="keeperSaveAction6">%1$s! Odlična odbrana!</string>
+    <string name="keeperSaveAction7">Kakva odbrana od %1$s!</string>
+    <string name="keeperSaveAction8">Laka odbrana golmana</string>
+    <string name="keeperSaveAction9">%1$s lako kupi loptu</string>
+    <string name="knownPlayers">Dostupni igrači (%1$s):</string>
+    <string name="last_edit_date">Vreme zadnjeg edita:</string>
+    <string name="leader">Tretiran kao lider</string>
+    <string name="leaderBeginningContent">Gospodine. Dugo posmatram naše igrače i primetio sam važnu stvar. Jedan od njih %1$s, izgleda da ima puno poštovanja medju saigračima. On je vrlo harizmatičan što ga čini prirodnim vođom tima i odličnim izborom za kapitena. Molim vas razmislite o tome.</string>
+    <string name="leaderBeginningTitle">%1$s se smatra liderom među saigračima</string>
+    <string name="leagueTickets">League matches</string>
+    <string name="light">blago</string>
+    <string name="light_">slabo</string>
+    <string name="live_results">Uživo rezultati:</string>
+    <string name="loadGame">Nastavi igru</string>
+    <string name="loading">Učitavanje...</string>
+    <string name="loading_teams_and_leagues">Učitavanje liga i timova...</string>
+    <string name="loan">Pozajmi</string>
+    <string name="loanAmount">Iznos pozajmice:</string>
+    <string name="loanBeganContent">%1$s (%2$s) se pridružio našem timu. Igrač će biti na pozajmici do %3$s.</string>
+    <string name="loanBeganTitle">%1$s je na pozajmicu u našem timu</string>
+    <string name="loanOffer">Pozajmi</string>
+    <string name="loanOfferAcceptedContent">"Ponuda za pozajmicu koju ste napravili za našeg igrača (%1$s) je prihvaćena.
+
+"</string>
+    <string name="loanOfferAcceptedTitle">%1$s - ponuda za pozajmicu je prihvaćena</string>
+    <string name="loanOfferReceivedContent">"%1$s bi želela da pozajmi našeg igrača (%2$s).
+
+Slobodno proveri i odgovori na ponudu koju su oni poslali."</string>
+    <string name="loanOfferReceivedTitle">%1$s želi da pozajmi %2$s</string>
+    <string name="loanOfferRejectedBenchContent">"On hoće da ostane u timu i da se bori za mesto u startnoj postavi.
+
+"</string>
+    <string name="loanOfferRejectedContent">"Ponuda za pozajmicu koju ste napravili za našeg igrača (%1$s) je odbijena.
+
+"</string>
+    <string name="loanOfferRejectedFirstSquadContent">"On je važan igrač za nas, tako da nismo ni pomišljali o tome da ga pozajmimo nekom klubu.
+
+"</string>
+    <string name="loanOfferRejectedTitle">%1$s - ponuda za pozajmicu je odbijena</string>
+    <string name="loanOfferTitle">"%1$s želi da pozajmi vašeg igrača.
+
+Pozajmica bi počela odmah i završila bi se %2$s"</string>
+    <string name="loanRepayment">Otplata pozajmice</string>
+    <string name="lockerRoomDescription">"Ako želimo da budemo uspešni, sigurno moramo da imamo talentovane igrače. Ali ako ne mogu dobro da rade jedno s drugim, a atmosfera u svlačionici je hladna, onda neće moći da pokažu svoj puni potencijal. Ako je svlačionica ispunjena dobrim timskim duhom, to nas čini jakim i možemo se suočiti sa svakim protivnikom. Stvari o kojima treba da budete svesni:
+
+ Ako se dva igrača sa visokom harizmom i teškim temperamentom upoznaju, često se dešavaju sukobi. Ako su ova dva zajedno na terenu, to ima negativan uticaj na performanse tima.
+
+ Dobri i prijateljski igrači sa visokom karizmom imaju tendenciju da žive u dobrim odnosima. To čak može dovesti do prijateljstva, što je dobro za nas. Oni se međusobno razumeju i na terenu, tako da je njihovo oboje u postavi dobro za nas.
+
+ Kada novi igrač dođe u tim, ponekad mu je teško da se integriše sa ostalima, posebno kada ima nisku harizmu. Ovo se još češće dešava mladim igračima i strancima. Takvi igrači neće moći da daju sve od sebe tokom mečeva.
+
+ Ponekad ćete videti da je jedan od igrača veoma popularan među svojim kolegama, i oni imaju puno poštovanja prema njemu. Biće jasno da oni žele da on bude vođa. Veoma je dobar izbor da ga napravite kapetanom. Međutim, ako ga uopšte ne izaberete, drugi će ga propustiti na terenu i to može imati negativan uticaj.
+
+ Šta možete učiniti da poboljšate atmosferu u svlačionici? Zašto ne odvedeš svoj tim na večeru? Ili čak na zabavu? Svako treba malo zabave. Naravno, sve ima i svoje posledice."</string>
+    <string name="locker_room">Svlačionica</string>
+    <string name="longCornerKickAction1">%1$s centrira!</string>
+    <string name="long_passes">dugi</string>
+    <string name="losses">Porazi:</string>
+    <string name="lossesTable">P</string>
+    <string name="low">Nisko</string>
+    <string name="lowShotAction1">%1$s sa niskim šutem!</string>
+    <string name="lowShotAction2">%1$s šutira nisko!</string>
+    <string name="lowShotAction3">%1$s pokušava niskim udarcem!</string>
+    <string name="lowestRank">Najgori rang:</string>
+    <string name="main">Glavni</string>
+    <string name="maintenance">Održavanje</string>
+    <string name="majorRivals">Glavni rival:</string>
+    <string name="makeOffer">Napravi ponudu</string>
+    <string name="march">Mart</string>
+    <string name="marketer">Marketer</string>
+    <string name="marketing">Marketing</string>
+    <string name="matchOrganisation">Ogranizacija meča</string>
+    <string name="matchSpeed">Brzina meča:</string>
+    <string name="matches">Utakmice</string>
+    <string name="matchesTable">O</string>
+    <string name="maxSkill">Veština (max.):</string>
+    <string name="may">Maj</string>
+    <string name="media">Medija</string>
+    <string name="medicalServices">Medicinske usluge</string>
+    <string name="medium_">srednje</string>
+    <string name="mental">Mentalno</string>
+    <string name="merchandiseSale">Prodaja robe</string>
+    <string name="mexico">Severna Amerika (Meksiko)</string>
+    <string name="middle_east">Srednji istok</string>
+    <string name="minSkill">Veština (min.):</string>
+    <string name="mixed">mešoviti</string>
+    <string name="monday">Pon</string>
+    <string name="monthlyBalance">Mesečni balans:</string>
+    <string name="monthlyCost">Mesečni trošak:</string>
+    <string name="monthlyIncome">Mesečno plaćanje</string>
+    <string name="monthlyInstalment">Mesečna rata - %1$s</string>
+    <string name="monthlyInstalment2">Mesečna rata:</string>
+    <string name="monthlySalary">Plata:</string>
+    <string name="monthlySpending">Mesečno trošenje</string>
+    <string name="monthsToRepayment">Broj meseca za otplatu:</string>
+    <string name="morale">Moral</string>
+    <string name="mostApps">Najviše nastupa:</string>
+    <string name="mostPromisingPlayersContent">Igrači koji su pronađeni i najviše obećavaju do sada su %1$s i %2$s. Cele rezultate pretrage možete naći na stranici za skauta.</string>
+    <string name="motivated">motivisan</string>
+    <string name="motivationalSpeech">Motivacioni govor</string>
+    <string name="move">Prebaci...</string>
+    <string name="moveTo">Prebaci u...</string>
+    <string name="moveToFirstTeam">Prebaci u prvi tim</string>
+    <string name="multi_release">Otpusti igrača</string>
+    <string name="nameCannotBeEmpty">Ime formacije ne može biti prazno.</string>
+    <string name="nationalCup">Domaći kup</string>
+    <string name="native_body">Садржај</string>
+    <string name="native_headline">Наслов</string>
+    <string name="native_media_view">Приказ медија</string>
+    <string name="nature">prirodan</string>
+    <string name="negotiateOffer">Pregovaraj</string>
+    <string name="negotiation">Pregovaraj</string>
+    <string name="negotiationTitle">"%1$s želi da pregovara o vašoj ponudi za njihovog igrača.
+
+Oni žele najmanje %2$s. Ovo je zadnja ponuda."</string>
+    <string name="never">nikad</string>
+    <string name="newGame">Nova igra</string>
+    <string name="newJobOfferContent">"Dragi gospodine.
+
+Klub %1$s je poslao za vas ponudu za vođenje tog kluba. Nije nam drago, ali slobodni ste da pogledate ponudu i odlučite o vašoj budućnosti."</string>
+    <string name="newJobOfferTitle">Nova poslovna ponuda od %1$s</string>
+    <string name="newPlayer">Novi igrač...</string>
+    <string name="newSave">Nova...</string>
+    <string name="newSponsorshipOfferContent">Dobre vesti! Dobili smo ponudu za ugovor od kompanije %1$s. Možes da proveriš ponudu i da odgovoriš ako želiš.</string>
+    <string name="newSponsorshipOfferTitle">Nova sponzorska ponuda od %1$s</string>
+    <string name="newTrophy">Novi trofej!</string>
+    <string name="next">Sledeća</string>
+    <string name="nextMatch">Sledeći meč:</string>
+    <string name="no">Ne</string>
+    <string name="noAssignment">Ovaj skaut nije postavljen ni na jedan region.</string>
+    <string name="noDataToShow">Nema podataka za prikazivanje.</string>
+    <string name="noFriendlies">Nema prijateljskih</string>
+    <string name="noFriendlyOffers">Za sada nema ponuda za prijateljske utakmice.</string>
+    <string name="noGoalAction1">Ne, gol je poništen!</string>
+    <string name="noGoalAction2">Ali čekaj, gol je poništen!</string>
+    <string name="noGoalAction3">Ne, zastavica pomoćnog sudije je podignuta!</string>
+    <string name="noGoalAction4">Ali sudija kaže da nema gola!</string>
+    <string name="noGoalAction5">Ne, akcija je prekinuta od strane sudije!</string>
+    <string name="noGoalOffsideAction1">Protesti su beskorisni, strelac je bio u ofsajdu!</string>
+    <string name="noGoalOffsideAction2">Da li je bio u ofsajdu? Nisam siguran!</string>
+    <string name="noGoalOffsideAction3">Strelac je jasno bio u ofsajdu!</string>
+    <string name="noGoalOffsideAction4">Strelac je pomogao sebi rukom!</string>
+    <string name="noGoalOffsideAction5">Da li je to bio faul? Ili ofsajd? Nisam siguran!</string>
+    <string name="noGoalOffsideAction6">Golman je očigledno bio fauliran!</string>
+    <string name="noInternetConnection">Nema internet konekcije!</string>
+    <string name="noMatchesToShow">Nema mečeva za prikazivanje u ovoj fazi.</string>
+    <string name="noMatchesYet">-</string>
+    <string name="noNever">- Ne. I ne zovite me ponovo.</string>
+    <string name="noNewsObservations">Do sada nema vesti i zapažanja.</string>
+    <string name="noOffers">Ovaj put nema ponuda.</string>
+    <string name="noPlayerAssigned">(nijedan igrač nije izabran)</string>
+    <string name="noRecommendations">Nema preporuka u ovom trenutku.</string>
+    <string name="noResults">Još nema rezultata</string>
+    <string name="noRoomForSponsor">Vi ne možete imati više sponozorstva ovog tipa. Raskinite drugi ugovor da bi napravili mesto.</string>
+    <string name="noScoutsInClub">Vi nemate skauta u vašem klubu. Zaposlite nekog da bi koristili opciju skautinga.</string>
+    <string name="noTeamsAnalysed">Trenutno nema timova u analizi.</string>
+    <string name="noThanks">Ne, hvala...</string>
+    <string name="noTrainer">nema trenera</string>
+    <string name="noTrophies">Žao nam je, još niste osvojili ni jednu titulu...</string>
+    <string name="noYouthTeams">Nema mladih timova.</string>
+    <string name="none">ništa</string>
+    <string name="normal">normalno</string>
+    <string name="normal2">Normalno</string>
+    <string name="north">Sever</string>
+    <string name="north_africa">Afrika (sever)</string>
+    <string name="north_america">Severna Amerika</string>
+    <string name="north_central_africa">Afrika (severno-centralna)</string>
+    <string name="north_east">Severo-Istok</string>
+    <string name="north_europe">Evropa (sever)</string>
+    <string name="north_south_america">Južna Amerika (sever)</string>
+    <string name="north_west">Severo-Zapad</string>
+    <string name="notThisTime">- Ne, možda sledeći put.</string>
+    <string name="not_recommended">Ne preporučuje se:</string>
+    <string name="notes">Beleške:</string>
+    <string name="notifications_permission_confirm">Дозволи</string>
+    <string name="notifications_permission_decline">Не дозволи</string>
+    <string name="notifications_permission_title">Желите да дозволите апликацији да вам шаље обавештења?</string>
+    <string name="november">Novembar</string>
+    <string name="numberOfSeats">Broj sedišta:</string>
+    <string name="oceania">Okeanija</string>
+    <string name="oceania_2">Okeanija (2)</string>
+    <string name="october">Oktobar</string>
+    <string name="offTheBarAction1">Stativa!</string>
+    <string name="offTheBarAction2">Prečka!</string>
+    <string name="offTheBarAction3">To je prečka!</string>
+    <string name="offTheBarAction4">Stativa!</string>
+    <string name="offerAcceptedBenchContent">"U našem timu on je rezerva i mislimo da je ponuda vrlo ineresantna.
+
+"</string>
+    <string name="offerAcceptedContent">"Vaša ponuda za transfer za našeg igrača (%1$s) je prihvaćena.
+
+"</string>
+    <string name="offerAcceptedFirstSquadContent">"On igra važnu ulogu u našem timu,ali nam se vaša odluka čini vrlo privlačno.
+
+"</string>
+    <string name="offerAcceptedProposeContract">"Molimo vas kontaktirajte sa agentom igrača u slučaju dogovaranja oko igračevog kontakta.
+
+"</string>
+    <string name="offerAcceptedReserveContent">"S time da igrač nije dovoljno dobar za naš prvi tim, biće nam drago da izvršimo transfer.
+
+"</string>
+    <string name="offerAcceptedTitle">%1$s - ponuda za transfer je prihvaćena</string>
+    <string name="offerContract">Ponuda za ugovor</string>
+    <string name="offerNegotiatingContent">Mi bi želeli da pregovaramo o vašoj ponudi za našeg igrača (%2$s). Mi čekamo ponudu vrednu %1$s za ovog igrača.</string>
+    <string name="offerNegotiatingTitle">%1$s će pregovarati o slučaju</string>
+    <string name="offerReceivedContent">%1$s želi da kupi igrača (%2$s). Slobodno ga proverite i odgovorite na ponudu koju su oni poslali.</string>
+    <string name="offerReceivedTitle">%1$s je napravila ponudu za %2$s</string>
+    <string name="offerRejectedBenchContent">"U našem timu on je rezerva,ali nismo oduševljeni vašom ponudom.
+
+"</string>
+    <string name="offerRejectedContent">"Vaša ponuda za transfer za našeg igrača (%1$s) je odbijena.
+
+"</string>
+    <string name="offerRejectedFirstSquadContent">"On igra važnu ulogu u našem timu i nećemo ga pustiti da ode tako lako.
+
+"</string>
+    <string name="offerRejectedReserveContent">"Iako igrač nije dovoljno dobar za naš prvi tim, računamo na bolje ponude.
+
+"</string>
+    <string name="offerRejectedTitle">%1$s - ponuda za transfer je odbijena</string>
+    <string name="offerType">Vrsta ponude:</string>
+    <string name="offeredPrice">Ponuđena cena:</string>
+    <string name="offeredSalary">Ponuđena plata:</string>
+    <string name="offersMade">Napravljene ponude</string>
+    <string name="offersReceived">Ponuda primljena</string>
+    <string name="office">Kancelarija</string>
+    <string name="offline_notification_text">Додирните да бисте отворили оглас</string>
+    <string name="offline_notification_title">Прегледајте оглас који сте сачували док сте били офлајн</string>
+    <string name="offline_opt_in_confirm">Потврди</string>
+    <string name="offline_opt_in_confirmation">Добићете обавештење са линком кад поново будете онлајн</string>
+    <string name="offline_opt_in_decline">Не, хвала</string>
+    <string name="offline_opt_in_message">Послаћемо вам обавештење са линком до сајта оглашавача.</string>
+    <string name="offline_opt_in_title">Отворите оглас кад поново будете онлајн.</string>
+    <string name="offsideAction1">Sudija tvrdi da je ofsajd!</string>
+    <string name="offsideAction2">Ofsajd!</string>
+    <string name="offsideAction3">Sudija svira! Ofsajd!</string>
+    <string name="offsideAction4">Linijski sudija diže zastavicu. Ofsajd!</string>
+    <string name="offsideAction5">To je ofsajd! Zastavica je u visu!</string>
+    <string name="offsideTraps">Ofsajd zamke:</string>
+    <string name="often">često</string>
+    <string name="ok">OK</string>
+    <string name="onTrainingCamp">Trenutno u trening kampu u %1$s (datum povratka - %2$s)</string>
+    <string name="oneOnOneAction1">1-na-1 situacija!</string>
+    <string name="oneOnOneAction10">%1$s mora to ubaciti!</string>
+    <string name="oneOnOneAction11">Laka šansa za %1$s!</string>
+    <string name="oneOnOneAction2">1-na-1 sa golmanom!</string>
+    <string name="oneOnOneAction3">%1$s je lice u lice sa golmanom!</string>
+    <string name="oneOnOneAction4">%1$s! Samo još da savlada golmana!</string>
+    <string name="oneOnOneAction5">%1$s! On mora pogoditi!</string>
+    <string name="oneOnOneAction6">%1$s! Kakva šansa!</string>
+    <string name="oneOnOneAction7">%1$s ima dosta vremena!</string>
+    <string name="oneOnOneAction8">%1$s je iza odbrane!</string>
+    <string name="oneOnOneAction9">Nema ofsajda! %1$s!</string>
+    <string name="opponents">Protivnici</string>
+    <string name="options">Opcije</string>
+    <string name="organisationCostNote">- Troškovi organizacije utakmice - %1$s</string>
+    <string name="organize_dinner">Ogranizujte večeru</string>
+    <string name="organize_dinner_cons_1">Troškovi %1$s</string>
+    <string name="organize_dinner_pros_1">Pomaže u rešavanju konflikata i integraciji izolovanih igrača</string>
+    <string name="organize_dinner_pros_2">Blago podiže moral igrača</string>
+    <string name="organize_party">Organizujte žurku</string>
+    <string name="organize_party_cons_1">Smanjuje trenutni oblik svih igrača</string>
+    <string name="organize_party_cons_2">Troškovi %1$s</string>
+    <string name="organize_party_pros_1">Veoma efikasan u rešavanju konflikata i integracija igrača</string>
+    <string name="organize_party_pros_2">Podiže moral igrača</string>
+    <string name="other">ostalo</string>
+    <string name="otherRivals">Ostali rivali:</string>
+    <string name="overview">Pregled</string>
+    <string name="ownGoal">a.g.</string>
+    <string name="ownGoalAction1">Imamo auto gol!</string>
+    <string name="ownGoalAction2">Auto gol!</string>
+    <string name="passFarFromPenaltyAreaAction1">%1$s brzo dodaje napred</string>
+    <string name="passFarFromPenaltyAreaAction2">%1$s lepo dodaje loptu saigraču</string>
+    <string name="passFarFromPenaltyAreaAction3">%1$s lukavo dodaje saigraču</string>
+    <string name="passFarFromPenaltyAreaAction4">%1$s udara loptu glavom za saigrača</string>
+    <string name="passFarFromPenaltyAreaAction5">%1$s gura loptu napred</string>
+    <string name="passFarFromPenaltyAreaAction6">%1$s dodaje</string>
+    <string name="passInPenaltyAreaAction1">%1$s dodaje loptu u prostor!</string>
+    <string name="passInPenaltyAreaAction2">%1$s dodaje u šesnaesterac!</string>
+    <string name="passInPenaltyAreaAction3">%1$s će šutirati! Ne! Dodaje loptu saigraču!</string>
+    <string name="passInPenaltyAreaAction4">%1$s dodaje loptu saigraču!</string>
+    <string name="passInPenaltyAreaAction5">%1$s dodaje do saigrača!</string>
+    <string name="passIntoPenaltyAreaAction1">%1$s prosleđuje loptu u šesnaesterac!</string>
+    <string name="passIntoPenaltyAreaAction2">%1$s dodaje loptu u prostor!</string>
+    <string name="passIntoPenaltyAreaAction3">%1$s vodi loptu u šesnaesterac!</string>
+    <string name="passIntoPenaltyAreaAction4">%1$s uvodi loptu u šesnaesterac!</string>
+    <string name="passIntoPenaltyAreaAction5">%1$s šalje loptu u kazneni prostor!</string>
+    <string name="passToCenterAction1">%1$s dodaje u centar</string>
+    <string name="passToCenterAction2">%1$s vodi loptu na centar</string>
+    <string name="passToCenterAction3">%1$s vodi loptu u centru</string>
+    <string name="passToLeftSideAction1">%1$s vodi loptu na levu stranu</string>
+    <string name="passToLeftSideAction2">%1$s dodaje ulevo</string>
+    <string name="passToLeftSideAction3">%1$s vodi loptu na levoj strani</string>
+    <string name="passToLeftSideAction4">%1$s širi igru na levo</string>
+    <string name="passToLeftSideAction5">%1$s šalje loptu na levo krilo</string>
+    <string name="passToRightSideAction1">%1$s vodi loptu na desnu stranu</string>
+    <string name="passToRightSideAction2">%1$s dodaje udesno</string>
+    <string name="passToRightSideAction3">%1$s vodi loptu na desnoj strani</string>
+    <string name="passToRightSideAction4">%1$s širi igru na desno</string>
+    <string name="passToRightSideAction5">%1$s šalje loptu na desno krilo</string>
+    <string name="passing">Dodavanje</string>
+    <string name="pauseMatch">Pauza</string>
+    <string name="penalize">Kazna</string>
+    <string name="penaltyFailText1">Fatalan promašaj!</string>
+    <string name="penaltyFailText2">Pravo u golmana!</string>
+    <string name="penaltyFailText3">Visoko iznad gola!</string>
+    <string name="penaltyFailText4">Stativa!</string>
+    <string name="penaltyFailText5">Odbranjeno od strane golmana!</string>
+    <string name="penaltyGoal">pen.</string>
+    <string name="penaltyKick">Penal!</string>
+    <string name="penaltyKickAction1">Nema sumnje u vezi ove odluke!</string>
+    <string name="penaltyKickAction2">Ali sudija nije trebao da svira to!</string>
+    <string name="penaltyKickAction3">Protesti su beskorisni, lopta je već na mestu za penal!</string>
+    <string name="penaltyKickAction4">Dobra odluka sudije!</string>
+    <string name="penaltyKickAction5">Zlatna šansa za pogodak!</string>
+    <string name="penaltyKickAction6">Sudija ignoriše proteste!</string>
+    <string name="penaltyKickAction7">To je očigledno dobra odluka!</string>
+    <string name="penaltyKickAction8">Oh, kakva greška sudije!</string>
+    <string name="penaltyKickExecution1">%1$s je spreman za šut...</string>
+    <string name="penaltyKickExecution2">%1$s je duboko udahnuo...</string>
+    <string name="penaltyKickExecution3">%1$s se zaleće...</string>
+    <string name="penaltyKickExecution4">%1$s ima šansu...</string>
+    <string name="penaltyKickExecution5">%1$s spušta loptu...</string>
+    <string name="penaltyKickExecution6">%1$s se priprema za šut...</string>
+    <string name="penaltyKickReason1">%1$s (%2$s) je fauliran!</string>
+    <string name="penaltyKickReason2">%1$s (%2$s) je igrao rukom u šesnaestercu!</string>
+    <string name="penaltyType">Vrsta kazne:</string>
+    <string name="penalty_area">šesnaesterac</string>
+    <string name="peopleToHire">Ljudi za zapošljavanje</string>
+    <string name="phoneCall">Telefonski poziv</string>
+    <string name="physiotherapist">Fizioterapeut</string>
+    <string name="placeOfCamp">Mesto kampa:</string>
+    <string name="playFriendlyMatches">Igraj prijateljske utakmice sa lokalnim timovima?</string>
+    <string name="playerAge">Godine:</string>
+    <string name="playerAgeMax">Godine (max.):</string>
+    <string name="playerAgeMin">Godine (min.):</string>
+    <string name="playerCaughtClubbingContent">Šefe, ja imam neke loše vesti. Neko je sinoć video %1$s kako pije tone alkohola i kako se dosta zabavlja u noćnom klubu. Vi ne smete dopustiti da vaši igrači tako postupaju, to je daleko od profesionalnog načina života.</string>
+    <string name="playerCaughtClubbingTitle">%1$s je sinoć viđen u noćnom klubu</string>
+    <string name="playerDidBadTweetsContent">Šefe, ja mislim da bi vi trebali da pričate sa %1$s. On nastavlja da kači nebuloze na njegovom Tviteru, neke od njih vređaju naše sledeće protivnike. Ovo možda nije velika stvar, ali profesionalni igrač ne sme tako da se ponaša.</string>
+    <string name="playerDidBadTweetsTitle">%1$s vređa protivnike na internetu</string>
+    <string name="playerDoesntPlayAnswer1">Ostavio sam ga da se odmora neko vreme, on je i dalje važan igrač za mene.</string>
+    <string name="playerDoesntPlayAnswer2">Pa, ostali igrači su takođe u dobroj formi. Ako se bude trudio, on će sigurno dobijati više šansi.</string>
+    <string name="playerDoesntPlayAnswer3">%1$s? On je mnogo slab trenutno, eto zašto.</string>
+    <string name="playerDoesntPlayQuestion">%1$s ne dobija mnogo šansi da igra u zadnje vreme. Zašto?</string>
+    <string name="playerGaveBadInterviewContent">Šefe, da li ste čitali današnje novine? Oh, zaboravio sam - vi ne čitate novine... Kako god. Naš igrač, %1$s, je dao izjavu, i rekao neke neprikladne stvari o vama i nekima od njegovih saigrača. Ovakve stvari mogu da utiču na atmosferu u timu, pa ja mislim da bi vi trebali da reagujete nekako...</string>
+    <string name="playerGaveBadInterviewTitle">%1$s je dao kontroverznu izjavu</string>
+    <string name="playerGoodFormAnswer1">Definitivno. Ja ne mogu da zamislim %1$s bez njega.</string>
+    <string name="playerGoodFormAnswer2">Tačno, ali i ostali igrači su u dobroj formi trenutno.</string>
+    <string name="playerGoodFormAnswer3">Ne, ne verujem.</string>
+    <string name="playerGoodFormQuestion">%1$s se pokazao odlično u poslednje vreme, dok je najvredniji igrač vašeg tima. Da li se slažete?</string>
+    <string name="playerInformation">Informacije o igraču</string>
+    <string name="playerInjured">%1$s %2$s se povredio</string>
+    <string name="playerInjuredAction1">Moraće da napusti teren</string>
+    <string name="playerInjuredAction2">Neće moći da nastavi utakmicu</string>
+    <string name="playerInjuredAction3">To je kraj meča za njega</string>
+    <string name="playerInjuredMatchContent">%1$s je zadobio povredu tokom igre. Njegov potpuni oporavak bi trajao oko %2$s nedelja.</string>
+    <string name="playerInjuredTitle">%1$s povređen</string>
+    <string name="playerInjuredTrainingContent">%1$s zadobio povredu tokom treninga. Njegov oporavak bi trebalo da traje oko %2$s nedelja.</string>
+    <string name="playerIsInjured">%1$s je povređen!</string>
+    <string name="playerMissedTrainingContent">Šefe, siguran sam da ste primetili odsustvo od %1$s tokom današnjeg treninga. Nadam se da ćete mu se požaliti za postupanje na tako neprofesionalan način.</string>
+    <string name="playerMissedTrainingTitle">%1$s je propustio trening</string>
+    <string name="playerName">Ime:</string>
+    <string name="playerNationality">Državljanstvo:</string>
+    <string name="playerOfTheMonthContent">%1$s (%2$s) je osvojio nagradu za igrača meseca (%3$s, %4$s). %5$s (%6$s) i %7$s (%8$s) su zauzeli drugo i treće mesto.</string>
+    <string name="playerOfTheMonthTitle">Igrač meseca - %1$s</string>
+    <string name="playerOfTheYearContent">%1$s (%2$s) je osvojio nagradu za igrača godine (%3$s). %4$s (%5$s) i %6$s (%7$s) su zauzeli drugo i treće mesto.</string>
+    <string name="playerOfTheYearTitle">Igrač godine - %1$s</string>
+    <string name="playerOptions">Opcije...</string>
+    <string name="playerPosition">Pozicija:</string>
+    <string name="playerPunishments">Kazne igrača</string>
+    <string name="playerRatings">Ocene</string>
+    <string name="playerReaction">Reakcija od %1$s:</string>
+    <string name="playerRefusedLoanContent">"%1$s je odbio ponudu za pozajmicu od %2$s.
+
+On je rekao da ponuđeni ugovor nije dovoljno dobar da bi napustio naš klub."</string>
+    <string name="playerRefusedLoanTitle">%1$s je odbio ponudu od %2$s za pozajmicu</string>
+    <string name="playerRefusedToRenewContractContent">"%1$s je odbio ponudu za obnovu ugovora.
+
+Rekao je da zaslužuje bolju ponudu."</string>
+    <string name="playerRefusedToRenewContractTitle">%1$s - ponuda za ugovor je odbijena</string>
+    <string name="playerRefusedTransferContent">%1$s odbio ugovor ponudu %2$s. On je rekao da ponuđeni ugovor nije dovoljno atraktivan da bi napustio klub.</string>
+    <string name="playerRefusedTransferTitle">%1$s je odbio %2$s ponudu</string>
+    <string name="playerRenewedContractContent">"%1$s prihvatio ponudu obnove ugovora.
+
+Novi ugovor ističe %2$s"</string>
+    <string name="playerRenewedContractTitle">%1$s obnovljen ugovor</string>
+    <string name="playerReturnedAfterInjuryContent">Dobre vesti! %1$s se totalno oporavio od povrede i ne može da dočeka da se ponovo vrati na teren.</string>
+    <string name="playerReturnedAfterInjuryTitle">%1$s se vratio posle povrede</string>
+    <string name="playerReturnedContent">%1$s se vratio u naš tim. Poslednjih meseci, on je bio pozamljen u %2$s.</string>
+    <string name="playerReturnedTitle">%1$s se vratio sa pozajmice iz %2$s</string>
+    <string name="playerRewards">Nagrade igrača</string>
+    <string name="playerSalaries">Plate igrača</string>
+    <string name="playerSkill">Veština:</string>
+    <string name="playerSoldContent">%1$s je potbisao ugovor sa %2$s danas. Igrač je prodat za %3$s.</string>
+    <string name="playerSoldTitle">%1$s je prodat u %2$s</string>
+    <string name="playerStats">Statistika igrača</string>
+    <string name="playerTapToShowDetails">Igrač (klikni da vidiš detalje):</string>
+    <string name="playerTrainedHardContent">Šefe, ja sam primetio da %1$s radi odličan posao tokom treninga skorije. Ponekad on ostaje duže da bi vežbao slobodne udarce i ostale stvari. Vi bi trebali da mu date do znanja da to cenite.</string>
+    <string name="playerTrainedHardTitle">%1$s trenira napornije nego obično</string>
+    <string name="playerTrainedWithYouthContent">Šefe, upravo sam primetio da je %1$s bio dovoljno dobar da ostane posle treninga i radi malo sa našim mladima. On im je pokazao neke trikove i pričao je sa njima. To je bilo baš sjajno iskustvo za naše mlade igrače. Zašto ga ne nagradite na neki lep način?</string>
+    <string name="playerTrainedWithYouthTitle">%1$s pomaže našim mladim igračima</string>
+    <string name="playerVisitedChildrenContent">Šefe, da li ste čuli? %1$s je napravio sjajnu stvar. Tokom njegovog slobodnog vremena, on je posetio lokalnu bolnicu i upoznao se sa nekom decom koja su tamo. Imali su fantastičnu zabavu zajedno, i deca su bila potpuno zadivljena njihovim idolom. Mislim da bi bilo lepo dati mu do znanja da su ovakve stvari dobrodošle i možda da ga nagradite nekako?</string>
+    <string name="playerVisitedChildrenTitle">%1$s posećuje decu u bolnici</string>
+    <string name="players">Igrači</string>
+    <string name="players_edited">Editovani igrači:</string>
+    <string name="playoff">Plej-of</string>
+    <string name="pleasePlusOne">...i dodajte +1 na Google+!</string>
+    <string name="pleaseRate">"Da li vam se dopada True Football 3?
+
+Molimo vas da ocenite igricu na Google Play prodavnici:"</string>
+    <string name="points">p.</string>
+    <string name="points2">poeni</string>
+    <string name="pointsForAchievements">Poeni za dostignuća:</string>
+    <string name="pointsForTrophies">Poeni za trofeje:</string>
+    <string name="pointsTable">B</string>
+    <string name="poorPerformance">loš nastup</string>
+    <string name="possesionCenterAction1">%1$s sa loptom</string>
+    <string name="possesionCenterAction2">%1$s na lopti</string>
+    <string name="possesionCenterAction3">%1$s čeka saigrača</string>
+    <string name="possesionCenterAction4">%1$s zadržava igru</string>
+    <string name="possesionCenterAction5">%1$s zadržava loptu</string>
+    <string name="possesionCenterAction6">%1$s odugovlači sa pasom</string>
+    <string name="possesionCenterAction7">Lepa kontrola od %1$s</string>
+    <string name="possesionCenterAction8">%1$s vodi loptu napred</string>
+    <string name="possesionLeftSideAction1">%1$s ima loptu na levoj strani</string>
+    <string name="possesionLeftSideAction2">%1$s trči po levoj strani!</string>
+    <string name="possesionLeftSideAction3">%1$s vodi loptu na levom krilu!</string>
+    <string name="possesionLeftSideAction4">%1$s se kreće na levoj strani!</string>
+    <string name="possesionRightSideAction1">%1$s ima loptu na desnoj strani</string>
+    <string name="possesionRightSideAction2">%1$s trči po desnoj strani!</string>
+    <string name="possesionRightSideAction3">%1$s vodi loptu na desnom krilu!</string>
+    <string name="possesionRightSideAction4">%1$s se kreće na desnoj strani!</string>
+    <string name="preferredPosition">Poželjna pozicija</string>
+    <string name="pressing">Pritisak:</string>
+    <string name="previous">Prethodna</string>
+    <string name="privateCompliment">privatna pohvala</string>
+    <string name="privateReprimand">privatna opomena</string>
+    <string name="proceedToMatch">Idi na utakmicu</string>
+    <string name="professionalBehavior">profesionalno ponašanje</string>
+    <string name="profile">Profil</string>
+    <string name="promotionContent">"Gospodine, jako sam srećan jer smo uspeli!
+
+Ovaj ulazak u viši rang je odličan uspeh za nas. Kao menadžer uradili ste fantastičan posao, zbog toga vam se jako zahvaljujem i nadam se da ćemo nastaviti pobednički niz i u novoj sezoni. Sa ovim uspehom, možemo očekivati više novca od TV prava i fudbalskog saveza.
+
+Čestitke!"</string>
+    <string name="promotionTitle">Čestitamo!</string>
+    <string name="publicCompliment">javna pohvala</string>
+    <string name="publicReprimand">javna opomena</string>
+    <string name="pyrotechnics">paljenje pirotehnike</string>
+    <string name="qualification">Kvalifikacije</string>
+    <string name="quarterfinals">Četvrt-finale</string>
+    <string name="quitMatch">Da li si siguran da želiš da odustaneš od utakmice? Izgubićes podrazumevanim rezultatom (0:3)</string>
+    <string name="racism">racističke prozivke</string>
+    <string name="random_pick">Nasumičan izbor</string>
+    <string name="rankings">Rangiranja</string>
+    <string name="rate">Idi na Google Play prodavnicu</string>
+    <string name="reason">Razlog:</string>
+    <string name="rebellious">buntovan</string>
+    <string name="recommended">Preporučeno:</string>
+    <string name="recommendedPlayers">Preporučeni igrači:</string>
+    <string name="records">Rekordi</string>
+    <string name="redCard">Crveni karton!</string>
+    <string name="redCards">Crveni kartoni</string>
+    <string name="regionToExplore">Region:</string>
+    <string name="reject">Odbaci</string>
+    <string name="rejectOffer">Odbij</string>
+    <string name="release">Prekini ugovor</string>
+    <string name="relegationContent">"Gospodine, želim da vas informišem kako sam jako razočaran sa konačnim ligaškim rezultatima ove sezone. Ovo ispadanje iz lige je ogroman udarac za naš klub. Da to popravimo i ponovo vratimo poverenje navijača, moramo popraviti naše nastupe i boriti se za ulazak u viši rang u narednoj sezoni.
+
+Ovo je vaša posljednja šansa za ostanak ovdje u %1$s..."</string>
+    <string name="relegationGameOverContent">"Gospodine, šta da kažem?
+
+Ovo ispadanje iz lige je ogroman udarac za nas. Čitava sezone ja bila katastrofa. Imamo mnogo više potencijala od toga. Ne znam kakva će sada biti budućnost kluba, ali sigurno znam da vi nećete biti deo nje.
+
+Prijatno!"</string>
+    <string name="relegationTitle">Kakva sramota!</string>
+    <string name="remove">Ukloni</string>
+    <string name="removeFromFirstTeam">Ukloni iz prvog tima</string>
+    <string name="removeThisTeam">Ukloni ovaj tim</string>
+    <string name="remove_analysis_confirmation_dialog">Želite li da zaustavite analizu za tim %1$s?</string>
+    <string name="remove_results_confirmation_dialog">Želite li da uklonite rezultate analize za %1$s?</string>
+    <string name="renewContract">Obnovi ugovor</string>
+    <string name="replay">ponoviti</string>
+    <string name="reportCost">Cena izveštaja:</string>
+    <string name="reportTime">Potrebno vreme:</string>
+    <string name="reset_edit_file">Resetuj edit file</string>
+    <string name="results">Rezultati</string>
+    <string name="results_available">Dostupni rezultati</string>
+    <string name="returnDate">Datum povratka:</string>
+    <string name="returnToMainMenu">Da li želiš da se vratiš na glavni meni?</string>
+    <string name="revenue">Prihodi:</string>
+    <string name="reward">Nagrada</string>
+    <string name="rewardType">Vrsta nagrade:</string>
+    <string name="rival">Protivnik:</string>
+    <string name="role">Uloga</string>
+    <string name="roundOf16">Runda 16</string>
+    <string name="roundOf32">Runda 32</string>
+    <string name="roundOf64">Runda 64</string>
+    <string name="roundX">Runda %1$s</string>
+    <string name="s1">Чување слике</string>
+    <string name="s2">Желите ли да дозволите да оглас сачува слику у Галерији слика?</string>
+    <string name="s3">Прихвати</string>
+    <string name="s4">Одбиј</string>
+    <string name="s5">Прављење догађаја у календару</string>
+    <string name="s6">Желите ли да дозволите да оглас направи догађај у календару?</string>
+    <string name="s7">Пробни оглас</string>
+    <string name="salary">Plata</string>
+    <string name="saturday">Sub</string>
+    <string name="save">Sačuvaj</string>
+    <string name="saveGame">Sačuvaj</string>
+    <string name="saving">Čuvanje...</string>
+    <string name="scout">Skaut</string>
+    <string name="scoutContinuesSearchingContent">Naš skaut, %1$s nastavlja svoju potragu. Trenutno, on je pripremio listu od %2$s igrača koje treba proveriti.</string>
+    <string name="scoutContinuesSearchingTitle">Skaut %1$s je u potrazi</string>
+    <string name="scoutReport">Izveštaj skauta</string>
+    <string name="scoutReportContent">"Zdravo gospodine. Ovo je moj izveštaj o %1$s:
+
+"</string>
+    <string name="scoutReportContent2">"%1$s igra kao %2$s.
+"</string>
+    <string name="scoutReportContentHighPotential">"On ima jak potencijal, i ja nemam dilema da će on dosta napredovati u toku njegove karijere.
+"</string>
+    <string name="scoutReportContentLowPotential">"Njegov potencijal je prilično nizak. Ne verujem da će mnogo napredovati.
+"</string>
+    <string name="scoutReportContentMuchBetter">"On je dosta bolji od našeg najboljeg igrača na toj poziciji (%1$s).
+"</string>
+    <string name="scoutReportContentMuchWorse">"On je dosta gori od našeg najboljeg igrača na toj poziciji (%1$s).
+"</string>
+    <string name="scoutReportContentNotYoung">"On više nije mlad igrač, pa ti ne trebaš da očekuješ da će on značajno poboljšati svoje veštine.
+"</string>
+    <string name="scoutReportContentOld">"On je već star igrač, pa budi svestan da će njegove veštine postati gore.
+"</string>
+    <string name="scoutReportContentQuiteHighPotential">"Ako bude naporno trenirao, on može biti nešto bolji igrač u budućnosti.
+"</string>
+    <string name="scoutReportContentSlightlyBetter">"On je nešto bolji od našeg najboljeg igrača na toj poziciji (%1$s).
+"</string>
+    <string name="scoutReportContentSlightlyWorse">"On je nešto gori od našeg najboljeg igrača na toj poziciji (%1$s).
+"</string>
+    <string name="scoutReportContentVeryHighPotential">"Njegov potencijal je ogroman, i ja sam siguran da će on biti mnogo bolji igrač u budućnosti.
+"</string>
+    <string name="scoutReportContentVeryLowPotential">"Ne vidim nikakvog potencijala u njemu. Po mom mišljenju, njegove veštine neće biti veće.
+"</string>
+    <string name="scoutReportTitle">%1$s - izveštaj skauta</string>
+    <string name="scouting">Skautovanje</string>
+    <string name="scoutingDescription">"Skautovanje je prilično važna stvar ako tražite neke talentovane igrače. Vaši skauti su spremni da istražuju različite regione sveta u potrazi za zanimljivim.
+
+ Svaki igrač ima svoj potencijal, koji odlučuje hoće li rasti brzo ili polako. Samo skauti mogu da vide taj potencijal. Iskusniji skaut je - što su tačnija njegova očekivanja od igrača.
+
+ Ako ne odlučite da dodelite svog skauta bilo kom regionu - oni su još uvek korisni u pravljenju izveštaja o igračima koje vi sami posmatrate."</string>
+    <string name="scoutsInClub">Skauti u klubu:</string>
+    <string name="search">Pretraži</string>
+    <string name="search2">Traži...</string>
+    <string name="searchForPlayers">Traži igrače</string>
+    <string name="searchForPosition">Glavna pozicija:</string>
+    <string name="search_menu_title">Претражи</string>
+    <string name="secondChampionship">2.takmičenje</string>
+    <string name="secondDivision">2. liga</string>
+    <string name="secondGroup">B</string>
+    <string name="secondLeg">druga utakmica</string>
+    <string name="secondPosition">Ostale pozicije</string>
+    <string name="secondShotAction1">%1$s će to završiti!</string>
+    <string name="secondShotAction2">%1$s trči da to završi!</string>
+    <string name="secondShotAction3">%1$s stiže loptu!</string>
+    <string name="secondShotAction4">%1$s će imati šansu!</string>
+    <string name="secondShotAction5">%1$s! Još jedna šansa!</string>
+    <string name="secondYellowCard">To je njegov drugi!!! Meč je gotov za njega!</string>
+    <string name="security">Bezbednost</string>
+    <string name="selectCountriesToFollow">Izaberite do 5 zemalja da biste pratili njihova takmičenja:</string>
+    <string name="selectTeamToAnalyze">Izaberi tim za analizu:</string>
+    <string name="semifinals">Polu-finale</string>
+    <string name="september">Septembar</string>
+    <string name="setPieces">Prekidi</string>
+    <string name="settings">Podešavanja</string>
+    <string name="seventhDivision">7. liga</string>
+    <string name="shape">Forma</string>
+    <string name="shirt_primary">Dres (glavni)</string>
+    <string name="shirt_secondary">Dres (sporedni)</string>
+    <string name="shooting">Šutiranje</string>
+    <string name="shop">Radnja</string>
+    <string name="shopRevenue">Prihod od prodavnica</string>
+    <string name="shortCornerKickAction1">%1$s izvodi kratak korner!</string>
+    <string name="short_passes">kratki</string>
+    <string name="shotAction1">%1$s! Kakav snažan udarac!</string>
+    <string name="shotAction2">%1$s šutira!</string>
+    <string name="shotAction3">%1$s! Kakav precizan šut!</string>
+    <string name="shotAction4">%1$s šutira!</string>
+    <string name="shotAction5">%1$s pokušava!</string>
+    <string name="shotAction6">%1$s pokušava da pogodi!</string>
+    <string name="shotAction7">%1$s pokušava sa šutem!</string>
+    <string name="shotAction8">%1$s isprobava sreću!</string>
+    <string name="shotAction9">%1$s pokušava da savlada golmana!</string>
+    <string name="shotMissedAction1">Kakav fatalan promašaj!</string>
+    <string name="shotMissedAction10">Daleko od gola za milimetre...</string>
+    <string name="shotMissedAction11">Vau, to je bilo blizu!</string>
+    <string name="shotMissedAction12">Promašeno! Ali to je bio dobar šut, svakako</string>
+    <string name="shotMissedAction13">Preko gola!</string>
+    <string name="shotMissedAction14">Ne baš najbolji šut!</string>
+    <string name="shotMissedAction15">Zamalo!</string>
+    <string name="shotMissedAction16">Kakav promašaj...</string>
+    <string name="shotMissedAction2">Veoma blizu!</string>
+    <string name="shotMissedAction3">Promašio je...</string>
+    <string name="shotMissedAction4">Malo iznad prečke!</string>
+    <string name="shotMissedAction5">To ide pored gola...</string>
+    <string name="shotMissedAction6">Dobar pokušaj! Ali on je promašio</string>
+    <string name="shotMissedAction7">Ali to ide užasno daleko...</string>
+    <string name="shotMissedAction8">Ni blizu golu</string>
+    <string name="shotMissedAction9">Vau, to je bio dobar šut!</string>
+    <string name="show_squad">Prikaži sastav</string>
+    <string name="simulationMode">Simulacioni režim:</string>
+    <string name="sixthDivision">6. liga</string>
+    <string name="skill">Veština</string>
+    <string name="sometimes">ponekad</string>
+    <string name="sort">Poređaj</string>
+    <string name="sound">Zvuk:</string>
+    <string name="south">Jug</string>
+    <string name="south_africa">Afrika (jug)</string>
+    <string name="south_america">Južna Amerika</string>
+    <string name="south_asia">Azija (jug)</string>
+    <string name="south_east">Jugo-Istok</string>
+    <string name="south_east_asia">Azija (jugo-istočna)</string>
+    <string name="south_east_europe">Evropa (jugo-istok)</string>
+    <string name="south_south_america">Južna Amerika (jug)</string>
+    <string name="south_west">Jugo-Zapad</string>
+    <string name="south_west_europe">Evropa (jugo-zapad)</string>
+    <string name="specialThanks">"Posebno hvala na velikoj podršci
+(baza podataka, takmičenja, prevod):"</string>
+    <string name="speechResults">Rezultati govora:</string>
+    <string name="spokesmanForFans">Portparol navijača</string>
+    <string name="sponsorBonusContent">Sjajne vesti, gospodine! Naš sponzor, %1$s je odlučio da nagradi naš klub sa %2$s bonusa. Kao što vidite, dobri rezultati kluba mogu da donesu neke koristi. Nastavite sa dobrim poslom!</string>
+    <string name="sponsorBonusTitle">Dobar novac od %1$s!</string>
+    <string name="sponsors">Sponzorstva</string>
+    <string name="sponsorshipOfferWithdrawnContent">Poštovani gospodine, zbog nedostatka vašeg odgovora, sponzorska ponuda od %1$s je povučena i više nije dostupna.</string>
+    <string name="sponsorshipOfferWithdrawnTitle">%1$s - povučena sponzorska ponuda</string>
+    <string name="sponsorshipOffers">Ponude od sponzora</string>
+    <string name="sponsorshipType">Tip sponzora</string>
+    <string name="squad">Moj tim</string>
+    <string name="stadium">Stadion</string>
+    <string name="stadiumCapacity">Kapacitet stadiona:</string>
+    <string name="stadiumEmployeesDescription">"Vi možete da kontrolišete broj ljudi koji će raditi na stadionu.
+
+ Zapošljavanje više asistenata za prodavnice i gatronomiju može poboljšati prihod tokom mečeva.
+
+ Ako je vaš stadion dovoljno veliki da privuče turiste - vama će takođe trebati vodiči da im obezbede neke obilaske.
+
+ Obezbeđenja mogu da spreče loše ponašanje agresivnih navijača. Bolje bi bilo da zaposlite neke - kazne su mnogo štetnije.
+
+ Kako vaš stadion napreduje, njemu će takođe trebati više ljudi da brinu o njemu, ako nemate dovoljno osoblja - to može dovesti do šteta i slomova."</string>
+    <string name="stadiumMaintenance">Održavanje stadiona</string>
+    <string name="starPlayerBoughtAnswer1">Prilično sam siguran, on je neverovatan igrač! Oduvek sam sanjao o dovođenju njega u svoj tim!</string>
+    <string name="starPlayerBoughtAnswer2">Da, ja mislim da će on biti važan deo našeg tima.</string>
+    <string name="starPlayerBoughtAnswer3">Nema zvezda u mom timu. On mora da se trudi, ako želi da igra ovde.</string>
+    <string name="starPlayerBoughtQuestion">Poslednje vesti su zadivljujuće. %1$s će igrati za vaš tim! Da li mislite da će on biti zvezda od %2$s?</string>
+    <string name="start">Počni!</string>
+    <string name="startingLineup">Startna postava</string>
+    <string name="stats">Statistike</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_away">ostani nazad</string>
+    <string name="strength">Snaga</string>
+    <string name="strong_">jako</string>
+    <string name="subInText1">%1$s je već na terenu</string>
+    <string name="subInText2">%1$s ga zamenjuje</string>
+    <string name="subInText3">%1$s ulazi</string>
+    <string name="subInText4">%1$s će ga zameniti</string>
+    <string name="subInText5">%1$s dobija šansu</string>
+    <string name="subInText6">%1$s ulazi na teren</string>
+    <string name="subInText7">%1$s ga zamenjuje</string>
+    <string name="subInText8">%1$s ulazi kao rezerva</string>
+    <string name="subOutText1">%1$s neće više igrati noćas</string>
+    <string name="subOutText2">%1$s izlazi</string>
+    <string name="subOutText3">%1$s će morati da napusti teren</string>
+    <string name="subOutText4">%1$s napušta teren</string>
+    <string name="subOutText5">Meč je gotov za %1$s</string>
+    <string name="subOutText6">%1$s će biti zamenjen</string>
+    <string name="subOutText7">%1$s je povučen sa terena</string>
+    <string name="subOutText8">Izgleda da %1$s izlazi</string>
+    <string name="submitScore">Podeli rezultat!</string>
+    <string name="substitutions">Izmene</string>
+    <string name="sunday">Ned</string>
+    <string name="superCup">Super kup</string>
+    <string name="suspendedFor">Suspendovan 1 nedelju</string>
+    <string name="swap">Razmena</string>
+    <string name="swapWith">Zameni sa..</string>
+    <string name="swapWithOtherTeam">Zameni sa drugim timom</string>
+    <string name="table">Tabele</string>
+    <string name="tackling">Uklizavanje</string>
+    <string name="tactics">Taktike</string>
+    <string name="takeABankLoan">Pozajmi</string>
+    <string name="team">Tim</string>
+    <string name="teamAlreadyExists">Tim sa tim imenom već postoji.Unesite drugo ime</string>
+    <string name="teamBudget">Budžet:</string>
+    <string name="teamDoctor">Doktor tima</string>
+    <string name="teamOrders">Poredak timova</string>
+    <string name="teamSkill">Veština:</string>
+    <string name="teamStadiumCapacity">Kapacitet stadiona:</string>
+    <string name="team_emblems_edited">Editovani grbovi timova:</string>
+    <string name="team_integration">Timska integracija</string>
+    <string name="team_names_edited">Editovana imena timova:</string>
+    <string name="team_swapped">Zamenjeni timovi:</string>
+    <string name="teamsManaged">Vođeni timovi:</string>
+    <string name="technical">Tehnički</string>
+    <string name="technicalShotAction1">%1$s! Odlične makazice!</string>
+    <string name="technicalShotAction2">%1$s sa akrobatskim potezom!</string>
+    <string name="technicalShotAction3">%1$s ide na makazice!</string>
+    <string name="technicalShotAction4">%1$s! Kakav sjajan udarac!</string>
+    <string name="technicalShotAction5">%1$s iz voleja!</string>
+    <string name="technicalShotAction6">%1$s sa spektakularnim pokušajem!</string>
+    <string name="technicalShotAction7">%1$s pokušava iz polu-voleja!</string>
+    <string name="technique">Tehnika</string>
+    <string name="terminateContract">Raskinuti ugovor</string>
+    <string name="thanks">Posebna zahvalnost:</string>
+    <string name="thatsAll">Hvala vam na izdvojenom vremenu, gospodine!</string>
+    <string name="thirdDivision">3. liga</string>
+    <string name="thirdGroup">C</string>
+    <string name="thisTeamHasNoTrainer">Ovaj tim nema trenera. Zaposlite nekog da bi vaši igrači napredovali.</string>
+    <string name="thursday">Čet</string>
+    <string name="ticketIncome">Prihod od ulaznica</string>
+    <string name="ticketPrices">Cena karata</string>
+    <string name="timeWasting">Trošenje vremena:</string>
+    <string name="toTransferList">Postavi na transfer listu</string>
+    <string name="topScorer">Najbolji strelac:</string>
+    <string name="totalCost">Ukupna cena:</string>
+    <string name="tours">Vodiči</string>
+    <string name="toursRevenue">Prihod od obilazaka</string>
+    <string name="toursTickets">Stadium tour tickets</string>
+    <string name="trainer">Trener</string>
+    <string name="training">Trening</string>
+    <string name="trainingCamp">Trening kamp</string>
+    <string name="trainingCampInfo">Tokom kampova, treninzi su povećani, što znači da je trening mnogo efektivniji. To takođe povećava moral vaših igrača i omogućava vam da odigrate prijateljske utakmice sa lokalnim klubovima.</string>
+    <string name="trainingCampPlanned">Trening kamp je već planiran.</string>
+    <string name="trainingCamps">Trening kampovi</string>
+    <string name="trainingFields">Tereni za trening</string>
+    <string name="trainingFieldsDescription">Što više terena za trening imate, to više mladih timova možete da napravite. Svaki teren će vas koštati %1$s mesečno.</string>
+    <string name="trainingResults">Poslednji rezultat:</string>
+    <string name="trainingSettings">Podešavanja</string>
+    <string name="transferCancelledContent">Zbog finansijskih problema, transfer %1$s je otkazan.</string>
+    <string name="transferCancelledTitle">%1$s - transfer je otkazan</string>
+    <string name="transferOfferWithdrawnContent">Poštovani gospodine, zbog nedostatka vašeg odgovora, ponuda za transfer %1$s je povučena i više nije dostupna.</string>
+    <string name="transferOfferWithdrawnTitle">%1$s - povučena ponuda za transfer</string>
+    <string name="transferWindowClosedContent">Prelazni rok je upravo završen.</string>
+    <string name="transferWindowClosedTitle">Prelazni rok je zatvoren</string>
+    <string name="transferWindowOpenedContent">Prelazni rok je otvoren. Možes praviti transfere sve do %1$s.</string>
+    <string name="transferWindowOpenedTitle">Prelazni rok je otvoren</string>
+    <string name="transfers">Transferi</string>
+    <string name="transfersIn">Transferi u</string>
+    <string name="transfersOut">Transferi iz</string>
+    <string name="translation">Prevod:</string>
+    <string name="tribuneClosedDueToMaintenanceContent">"Zbog radova, jedna tribina našeg (%1$s) stadiona mora biti zatvorena.
+
+Biće potrebno oko %2$s dana da bi se popravili svi problemi, i za to vreme će tribina biti nedostupna."</string>
+    <string name="tribuneClosedDueToMaintenanceTitle">Tribina je zatvorena zbog radova</string>
+    <string name="tribunes">Tribine:</string>
+    <string name="tripCostNote">- Troškovi putovanja na meč - %1$s</string>
+    <string name="tripsAcommodations">Putovanja i smeštaj</string>
+    <string name="trophies">Trofeji</string>
+    <string name="tuesday">Uto</string>
+    <string name="tvRights">TV prava</string>
+    <string name="u21">U-21 tim</string>
+    <string name="uk_and_ireland">Evropa (Velika Britanija i Irska)</string>
+    <string name="undoTransferList">Ukloni sa transfer liste</string>
+    <string name="unprofessionalBehavior">neprofesionalno ponašanje</string>
+    <string name="upgradeCost">- Troškovi nadogradnje - %1$s.</string>
+    <string name="upgradeTime">- Nadogradnja će trajati %1$s meseci. Za to vreme,cela tribina će biti zatvorena.</string>
+    <string name="upgradeTribune">Nadogradnja</string>
+    <string name="upset">uznemiren</string>
+    <string name="usa">Severna Amerika (SAD)</string>
+    <string name="useEditedNames">Koristi izmenjena imena igrača</string>
+    <string name="useRandomNames">Koristi nasumična imena igrača</string>
+    <string name="value">Vrednost</string>
+    <string name="venue">Mesto</string>
+    <string name="veryHappy">veoma srećan</string>
+    <string name="veryHigh">Veoma visoko</string>
+    <string name="veryLow">Veoma nisko</string>
+    <string name="very_light_">vrlo lagano</string>
+    <string name="very_strong_">vrlo jako</string>
+    <string name="wantToTakeThisTeam">Da li želite da trenirate ovaj tim?</string>
+    <string name="watchVideoYouWillBeRewarded">Da li želiš da gledaš reklamu? Bičeš nagrađen sa %1$s!</string>
+    <string name="watermark_label_prefix">AdMob -</string>
+    <string name="weakPlayerBoughtAnswer1">Gluposti. On je dobar igrač i ja sam siguran da će on pojačati naš tim.</string>
+    <string name="weakPlayerBoughtAnswer2">Pa, ja mislim da on može da igra na našem nivou.</string>
+    <string name="weakPlayerBoughtAnswer3">Ja sam ga kupio čisto iz zabave. On je stvarno slab, zaista.</string>
+    <string name="weakPlayerBoughtQuestion">Neki eksperti misle da vaš novi igrač, %1$s, nije dovoljno dobar za vaš tim. Šta možete reći o ovom transferu?</string>
+    <string name="weatherConditions">Vremenski uslovi:</string>
+    <string name="wednesday">Sre</string>
+    <string name="weekX">Dan %1$s</string>
+    <string name="west">Zapad</string>
+    <string name="westGroup">zapad</string>
+    <string name="west_africa">Afrika (zapad)</string>
+    <string name="west_europe">Evropa (zapad)</string>
+    <string name="west_south_america">Južna Amerika (zapad)</string>
+    <string name="whatDoYouWantToSay">Šta želite da kažete?</string>
+    <string name="wins">Pobede:</string>
+    <string name="winsTable">P</string>
+    <string name="world">Svet</string>
+    <string name="worldCup">Svetski kup</string>
+    <string name="worldRanking">Svetsko rangiranje</string>
+    <string name="xBookedRed">%1$s (%2$s) je poslat napolje!</string>
+    <string name="xBookedYellow">%1$s (%2$s) je dobio žuti karton</string>
+    <string name="yellowCard">Žuti karton</string>
+    <string name="yellowCards">Žuti kartoni</string>
+    <string name="yes">Da</string>
+    <string name="yesyes">Da!</string>
+    <string name="youAlreadyHaveAnAssistant">Vi ne možete imati više od jednog asistenta.</string>
+    <string name="youAlreadyHaveAnGoalkeeperTrainer">Vi ne možete imati više od jednog trenera za golmane u vašem klubu.</string>
+    <string name="youCanAnalyzeUpToFiveTeams">Možete analizirati do 5 timova u isto vreme.</string>
+    <string name="youCantHaveMoreTeams">Vi ne možete imati više mladih timova.</string>
+    <string name="youCantTakeMoreLoans">Ne možete uzeti više pozajmica u ovom trenutku.</string>
+    <string name="youDontHaveFreeScouts">Nemaš slobodnog skauta za pripremu ovog izveštaja.</string>
+    <string name="yourCountry">Tvoja država:</string>
+    <string name="yourName">Tvoje ime:</string>
+    <string name="yourScore">Tvoj skor:</string>
+    <string name="youreWelcome">Nema na čemu.</string>
+    <string name="youthPlayerMovedContent">%1$s premašio juniorski uzrast i preselio se u prvi tim.</string>
+    <string name="youthPlayerMovedTitle">%1$s se pridružio prvom timu</string>
+    <string name="youthTeamTrainer">Trener:</string>
+    <string name="youthTeamType">Vrsta tima:</string>
+    <string name="youthTeams">Mladi timovi</string>
+    <string name="youthTrainers">Treneri mladih igrača</string>
+    <string name="youthTraining">Trening juniora</string>
+    <string name="youth_trainer">Trener mladih igrača</string>
+</resources>

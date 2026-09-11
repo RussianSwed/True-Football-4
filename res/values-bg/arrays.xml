@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>край</item>
+        <item>Всеки 7 дни</item>
+        <item>Всеки 30 дни</item>
+        <item>Всеки 60 дни</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>много защитно</item>
+        <item>защитно</item>
+        <item>нормално</item>
+        <item>атакуващо</item>
+        <item>много атакуващо</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>домакин</item>
+        <item>гост</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Пасове</item>
+        <item>Удари</item>
+        <item>Дрибъл</item>
+        <item>Единоборства</item>
+        <item>Гмуркане (симулация)</item>
+        <item>Корнери</item>
+        <item>Далечни преки свободни</item>
+        <item>Близки преки свободни</item>
+        <item>Дузпи</item>
+        <item>Капитан</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Пасове</item>
+        <item>Удари</item>
+        <item>Дрибъл</item>
+        <item>Единоборства</item>
+        <item>Гмуркане (симулация)</item>
+        <item>Корнери</item>
+        <item>Далечни преки свободни</item>
+        <item>Близки преки свободни</item>
+        <item>Дузпи</item>
+        <item>Капитан</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>никога</item>
+        <item>бинаги</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>никога</item>
+        <item>бинаги</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>ниски</item>
+        <item>нормално</item>
+        <item>бисока</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>ден</item>
+        <item>3 дни</item>
+        <item>7 дни</item>
+        <item>до следващия мач</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>никога</item>
+        <item>когато водим</item>
+        <item>бинаги</item>
+    </string-array>
+</resources>

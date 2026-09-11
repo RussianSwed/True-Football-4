@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@id/developerRoot"
+    android:background="@drawable/main_background"
+    android:padding="@dimen/main_layout_padding"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@layout/shape_background"
+        android:padding="@dimen/margin_15dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_18"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Редактор разработчика" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:text="Ускоренная проверка сезонного цикла. Матчи вашей команды будут сыграны автоматически, затем игра выполнит обычную обработку каждого дня." />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@id/developerStatus"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_15dp" />
+        <ProgressBar
+            android:layout_gravity="center"
+            android:id="@id/developerProgress"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:indeterminate="true" />
+        <pl.mkrstudio.truefootball3.views.CustomFontButton
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@id/developerSimulateSeason"
+            android:background="@layout/shape_background_transparent"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:text="Перемотать 1 сезон (365 дней)"
+            android:onClick="simulateSeason" />
+        <pl.mkrstudio.truefootball3.views.CustomFontButton
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:background="@layout/shape_background_transparent"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:text="Назад"
+            android:onClick="closeDeveloperTools" />
+    </LinearLayout>
+</LinearLayout>

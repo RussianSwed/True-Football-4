@@ -1,0 +1,50 @@
+LEAGUE
+promotion 1 2
+game_over 9 10
+tv_rights 2
+prize 1
+fans_behaviour 1.1
+fans_attendance 0.1
+table 1 2 -1 -1 -1 -1 9 10
+add_teams first_time 10 MAS_2
+add_teams next_time 3 8 MAS_2 previous_season
+add_teams next_time 11 12 MAS_1 previous_season
+add_teams next_time 1 2 MAS_3 previous_season
+week_info 1 2 one_table all_tue 8
+week_info 2 2 one_table malaysian_1_1
+week_info 3 3 one_table all_tue 8
+week_info 4 3 one_table malaysian_1_1
+week_info 5 4 one_table all_tue 8
+week_info 6 7 one_table malaysian_1_1
+week_info 7 8 one_table all_tue 8
+week_info 8 8 one_table malaysian_1_1
+week_info 9 9 one_table malaysian_1_1
+week_info 10 10 one_table malaysian_1_1
+week_info 11 13 one_table malaysian_1_1
+week_info 12 15 one_table malaysian_1_1
+week_info 13 16 one_table malaysian_1_1
+week_info 14 17 one_table malaysian_1_1
+week_info 15 18 one_table malaysian_1_1
+week_info 16 19 one_table all_tue 8
+week_info 17 19 one_table malaysian_1_1
+week_info 18 20 one_table malaysian_1_1
+fixtures_info League10
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+done 01.01

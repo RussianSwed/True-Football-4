@@ -1,0 +1,21 @@
+LEAGUE
+relegation 5 6
+fans_behaviour 1.6
+fans_attendance 0.3
+table -1 -1 -1 -1 4 4 5 6
+order polish
+block
+add_teams 11 16 BUL_1 current_season
+week_info 1 69 table_with_pol_1 all_sat 3
+week_info 2 70 table_with_pol_1 all_sat 3
+week_info 3 71 table_with_pol_1 all_sat 3
+week_info 4 72 table_with_pol_1 all_sat 3
+week_info 5 73 table_with_pol_1 all_sun 3
+fixtures_info League6_0
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+unblock BUL_PLAYOFF1
+done 06.30

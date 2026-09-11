@@ -1,0 +1,28 @@
+CONTINENTAL_CUP
+continental_cup_winner
+fans_behaviour 1.0
+fans_attendance 0.1
+table 1 1 -1 -1 -1 -1 -1 -1
+add_teams north_american_continental_cup
+week_info 1 27 ko_first_leg all_tue 6 round_1
+week_info 2 28 ko_second_leg all_tue 6 round_1
+week_info 3 31 ko_first_leg all_tue 8 round_of_16
+week_info 4 34 ko_second_leg all_tue 8 round_of_16
+week_info 5 35 ko_first_leg all_tue 4 quarterfinal
+week_info 6 38 ko_second_leg all_tue 4 quarterfinal
+week_info 7 39 ko_first_leg all_tue 2 semifinal
+week_info 8 43 ko_second_leg all_tue 2 semifinal
+week_info 9 46 ko_first_leg all_wed 1 final
+week_info 10 48 ko_second_leg all_wed 1 final
+fixtures_info NorthAmericanContinentalCup2020
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+done 01.01

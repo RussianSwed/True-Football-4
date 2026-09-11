@@ -1,0 +1,12 @@
+CONTINENTAL_CUP
+cup_winner
+prize 1
+fans_behaviour 1.1
+fans_attendance 0.6
+add_teams super_cup
+week_info 1 15 ko_first_leg all_wed 1 final
+week_info 2 17 ko_second_leg all_wed 1 final
+fixtures_info Knockout
+play_week 1
+play_week 2
+done 01.01

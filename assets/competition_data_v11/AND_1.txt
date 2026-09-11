@@ -1,0 +1,71 @@
+LEAGUE
+champion
+relegation 8 8
+tv_rights 1
+prize 2
+fans_behaviour 1.5
+fans_attendance 0.1
+table 0 0 0 0 7 7 8 8
+add_teams first_time 8 AND_1
+add_teams next_time 1 6 AND_1 previous_season
+add_teams next_time 1 1 AND_2 previous_season
+add_teams next_time 1 1 AND_PLAYOFF1 previous_season
+week_info 1 31 one_table azeri_1_3
+week_info 2 32 one_table azeri_1_3
+week_info 3 33 one_table azeri_1_3
+week_info 4 34 one_table azeri_1_3
+week_info 5 35 one_table azeri_1_3
+week_info 6 37 one_table azeri_1_3
+week_info 7 38 one_table azeri_1_3
+week_info 8 39 one_table azeri_1_3
+week_info 9 40 one_table azeri_1_3
+week_info 10 42 one_table azeri_1_3
+week_info 11 43 one_table azeri_1_3
+week_info 12 44 one_table azeri_1_1
+week_info 13 45 one_table azeri_1_3
+week_info 14 47 one_table azeri_1_3
+week_info 15 8 one_table azeri_1_3
+week_info 16 9 one_table azeri_1_3
+week_info 17 10 one_table azeri_1_3
+week_info 18 11 one_table azeri_1_3
+week_info 19 12 one_table azeri_1_3
+week_info 20 13 one_table azeri_1_3
+week_info 21 14 one_table azeri_1_3
+week_info 22 15 one_table azeri_1_3
+week_info 23 16 one_table azeri_1_1
+week_info 24 17 one_table azeri_1_3
+week_info 25 18 one_table azeri_1_3
+week_info 26 19 one_table azeri_1_1
+week_info 27 20 one_table all_sat 4
+week_info 28 21 one_table all_wed 4
+fixtures_info League8_4
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+unblock AND_PLAYOFF1
+done 06.30

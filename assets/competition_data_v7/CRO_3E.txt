@@ -1,0 +1,57 @@
+LEAGUE
+promotion 1 1
+game_over 11 12
+tv_rights 1
+fans_behaviour 1.4
+fans_attendance 0.2
+table 1 1 -1 -1 -1 -1 11 12
+add_teams first_time 12 CRO_3E
+add_teams next_time 16 16 CRO_2 previous_season
+add_teams next_time 2 10 CRO_3E previous_season
+add_teams next_time 9 10 CRO_4 previous_season
+week_info 1 30 one_table six_match_weekend
+week_info 2 31 one_table six_match_weekend
+week_info 3 32 one_table six_match_weekend
+week_info 4 33 one_table six_match_weekend
+week_info 5 34 one_table six_match_weekend
+week_info 6 35 one_table six_match_weekend
+week_info 7 37 one_table six_match_weekend
+week_info 8 38 one_table six_match_weekend
+week_info 9 39 one_table six_match_weekend
+week_info 10 40 one_table six_match_weekend
+week_info 11 42 one_table six_match_weekend
+week_info 12 9 one_table six_match_weekend
+week_info 13 10 one_table six_match_weekend
+week_info 14 11 one_table six_match_weekend
+week_info 15 13 one_table six_match_weekend
+week_info 16 14 one_table six_match_weekend
+week_info 17 15 one_table six_match_weekend
+week_info 18 16 one_table six_match_weekend
+week_info 19 17 one_table six_match_weekend
+week_info 20 18 one_table six_match_weekend
+week_info 21 19 one_table six_match_weekend
+week_info 22 20 one_table all_sat 6
+fixtures_info League12
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+done 06.30

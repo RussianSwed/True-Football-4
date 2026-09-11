@@ -1,0 +1,22 @@
+LEAGUE
+relegation 4 4
+fans_behaviour 1.1
+fans_attendance 0.3
+table -1 -1 -1 -1 -1 -1 4 4
+order scottish
+block
+add_teams 5 8 AND_1 current_season
+week_info 1 67 table_with_sco_1 all_sun 2
+week_info 2 68 table_with_sco_1 all_sun 2
+week_info 3 69 table_with_sco_1 all_sun 2
+week_info 4 70 table_with_sco_1 all_sun 2
+week_info 5 71 table_with_sco_1 all_sun 2
+week_info 6 72 table_with_sco_1 all_sun 2
+fixtures_info League4
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+done 06.30

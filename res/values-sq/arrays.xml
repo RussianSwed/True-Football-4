@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>çkyçur</item>
+        <item>çdo 7 ditë</item>
+        <item>çdo 30 ditë</item>
+        <item>çdo 60 ditë</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>shumë mbrojtës</item>
+        <item>mbrojtës</item>
+        <item>normal</item>
+        <item>sulmues</item>
+        <item>shumë sulmues</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>mbrenda</item>
+        <item>jashtë</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Pasimet</item>
+        <item>Gjuajtjet</item>
+        <item>Dribling</item>
+        <item>Ndërhyrja</item>
+        <item>Rrëzimi (kërcimi)</item>
+        <item>Rivënie nga këndi</item>
+        <item>Goditje e lirë nga larg</item>
+        <item>Goditje e lirë nga afër</item>
+        <item>Penalti</item>
+        <item>Kapiten</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Pasimet</item>
+        <item>Gjuajtjet</item>
+        <item>Dribling</item>
+        <item>Ndërhyrja</item>
+        <item>Rrëzimi (kërcimi)</item>
+        <item>Rivënie nga këndi</item>
+        <item>Goditje e lirë nga larg</item>
+        <item>Goditje e lirë nga afër</item>
+        <item>Penalti</item>
+        <item>Kapiten</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>asnjëherë</item>
+        <item>gjithmonë</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>asnjëherë</item>
+        <item>gjithmonë</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>ulët</item>
+        <item>normal</item>
+        <item>lartë</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>Ditë</item>
+        <item>3 Ditë</item>
+        <item>7 Ditë</item>
+        <item>Deri në ndeshjen e ardhme</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>asnjëher</item>
+        <item>kur jemi duke fituar</item>
+        <item>gjithmonë</item>
+    </string-array>
+</resources>

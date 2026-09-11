@@ -1,0 +1,17 @@
+DOMESTIC_CUP
+cup_winner
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+add_teams 2 CAM_2 shuffled
+add_teams 14 CAM_1 reversed
+week_info 1 4 ko_one_match all_sat 8 round_of_16
+week_info 2 6 ko_one_match all_sat 4 quarterfinal
+week_info 3 8 ko_one_match all_sat 2 semifinal
+week_info 4 10 ko_one_match all_sat 1 final neutral 
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+done 01.01

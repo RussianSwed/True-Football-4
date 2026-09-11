@@ -1,0 +1,63 @@
+LEAGUE
+champion
+tv_rights 1
+prize 1
+fans_behaviour 1.2
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 -1 -1
+add_teams first_time 13 NCL_1
+add_teams next_time 1 13 NCL_1 previous_season
+week_info 1 2 one_table six_match_weekend
+week_info 2 3 one_table six_match_weekend
+week_info 3 5 one_table six_match_weekend
+week_info 4 7 one_table six_match_weekend
+week_info 5 9 one_table six_match_weekend
+week_info 6 11 one_table six_match_weekend
+week_info 7 12 one_table six_match_weekend
+week_info 8 13 one_table six_match_weekend
+week_info 9 14 one_table six_match_weekend
+week_info 10 15 one_table six_match_weekend
+week_info 11 16 one_table six_match_weekend
+week_info 12 17 one_table six_match_weekend
+week_info 13 18 one_table six_match_weekend
+week_info 14 20 one_table six_match_weekend
+week_info 15 21 one_table six_match_weekend
+week_info 16 22 one_table six_match_weekend
+week_info 17 24 one_table six_match_weekend
+week_info 18 25 one_table six_match_weekend
+week_info 19 26 one_table six_match_weekend
+week_info 20 28 one_table six_match_weekend
+week_info 21 29 one_table six_match_weekend
+week_info 22 30 one_table six_match_weekend
+week_info 23 31 one_table six_match_weekend
+week_info 24 32 one_table six_match_weekend
+week_info 25 33 one_table six_match_weekend
+week_info 26 34 one_table all_sat 6
+fixtures_info League13
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+done 01.01

@@ -1,0 +1,14 @@
+LEAGUE_PLAYOFF
+fans_behaviour 1.1
+fans_attendance 0.1
+block
+add_teams 1 4 TGA_1A current_season
+add_teams 1 4 TGA_1B current_season
+add_teams 1 4 TGA_1C current_season
+add_teams 1 4 TGA_1D current_season
+week_info 1 37 ko_one_match all_sat 8 final
+fixtures_info Knockout
+play_week 1
+unblock TGA_1E
+unblock TGA_1F
+done 01.01

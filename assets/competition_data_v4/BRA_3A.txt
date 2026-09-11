@@ -1,0 +1,51 @@
+LEAGUE
+game_over 9 10
+prize 1
+tv_rights 1
+fans_behaviour 1.1
+fans_attendance 0.1
+table -1 -1 1 4 -1 -1 9 10
+add_teams first_time 10 BRA_3A
+add_teams next_time 5 6 BRA_PLAYOFF1 previous_season
+add_teams next_time 5 8 BRA_3A previous_season
+add_teams next_time 17 17 BRA_2 previous_season
+add_teams next_time 20 20 BRA_2 previous_season
+add_teams next_time 1 2 BRA_4 previous_season
+week_info 1 20 one_table five_match_weekend
+week_info 2 21 one_table five_match_weekend
+week_info 3 22 one_table five_match_weekend
+week_info 4 23 one_table five_match_weekend
+week_info 5 24 one_table five_match_weekend
+week_info 6 25 one_table five_match_weekend
+week_info 7 26 one_table five_match_weekend
+week_info 8 27 one_table five_match_weekend
+week_info 9 28 one_table five_match_weekend
+week_info 10 31 one_table five_match_weekend
+week_info 11 32 one_table five_match_weekend
+week_info 12 33 one_table five_match_weekend
+week_info 13 34 one_table five_match_weekend
+week_info 14 35 one_table five_match_weekend
+week_info 15 36 one_table five_match_weekend
+week_info 16 37 one_table five_match_weekend
+week_info 17 38 one_table all_sat 5
+week_info 18 39 one_table all_sat 5
+fixtures_info League10
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+done 01.01

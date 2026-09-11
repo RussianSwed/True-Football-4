@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:id="@id/flag"
+        android:layout_width="@dimen/player_info_flag_size"
+        android:layout_height="@dimen/player_info_flag_size"
+        android:layout_marginRight="@dimen/player_info_flag_padding" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_20"
+        android:textColor="#ffffffff"
+        android:id="@id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

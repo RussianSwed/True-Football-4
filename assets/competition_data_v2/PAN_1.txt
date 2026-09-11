@@ -1,0 +1,13 @@
+LEAGUE
+game_over 10 10
+tv_rights 1
+fans_behaviour 1.5
+fans_attendance 0.2
+table 0 0 0 0 -1 -1 10 10
+order south_american
+add_teams first_time 10 PAN_1
+add_teams next_time 1 9 PAN_1 previous_season
+add_teams next_time 1 1 PAN_2 previous_season
+unblock PAN_1_1
+unblock PAN_1_2
+done 06.30

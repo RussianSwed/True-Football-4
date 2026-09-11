@@ -1,0 +1,32 @@
+LEAGUE
+champion
+prize 2
+tv_rights 1
+fans_behaviour 1.5
+fans_attendance 0.1
+table 0 0 0 0 -1 -1 -1 -1
+order polish
+block
+add_teams 1 6 BIH_1 current_season
+week_info 23 63 table_with_pol_1 all_sun 3
+week_info 24 64 table_with_pol_1 all_sun 3
+week_info 25 65 table_with_pol_1 all_sun 3
+week_info 26 66 table_with_pol_1 all_sun 3
+week_info 27 67 table_with_pol_1 all_sun 3
+week_info 28 68 table_with_pol_1 all_sun 3
+week_info 29 69 table_with_pol_1 all_sun 3
+week_info 30 70 table_with_pol_1 all_sun 3
+week_info 31 71 table_with_pol_1 all_sun 3
+week_info 32 72 table_with_pol_1 all_sun 3
+fixtures_info League6
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+done 06.30

@@ -1,0 +1,65 @@
+LEAGUE
+champion
+relegation 14 14
+tv_rights 4
+prize 4
+fans_behaviour 1.4
+fans_attendance 0.3
+table 0 0 0 0 -1 -1 14 14
+add_teams first_time 14 UKR_1
+add_teams next_time 1 13 UKR_1 previous_season
+add_teams next_time 1 1 UKR_2 previous_season
+week_info 1 28 one_table ukrainian_1_1_2
+week_info 2 29 one_table ukrainian_1_1_2
+week_info 3 30 one_table ukrainian_1_1_2
+week_info 4 31 one_table ukrainian_1_1_2
+week_info 5 32 one_table ukrainian_1_1_2
+week_info 6 33 one_table ukrainian_1_1_2
+week_info 7 34 one_table ukrainian_1_1_2
+week_info 8 35 one_table ukrainian_1_1_2
+week_info 9 37 one_table ukrainian_1_1_2
+week_info 10 39 one_table ukrainian_1_1_2
+week_info 11 40 one_table ukrainian_1_1_2
+week_info 12 42 one_table ukrainian_1_1_2
+week_info 13 43 one_table ukrainian_1_1_2
+week_info 14 44 one_table ukrainian_1_1_2
+week_info 15 45 one_table ukrainian_1_1_2
+week_info 16 46 one_table ukrainian_1_1_2
+week_info 17 47 one_table ukrainian_1_1_2
+week_info 18 13 one_table ukrainian_1_1_2
+week_info 19 14 one_table ukrainian_1_1_2
+week_info 20 15 one_table ukrainian_1_1_2
+week_info 21 16 one_table ukrainian_1_1_2
+week_info 22 17 one_table ukrainian_1_1_2
+week_info 23 18 one_table ukrainian_1_1_2
+week_info 24 19 one_table ukrainian_1_1_2
+week_info 25 20 one_table all_sat 7
+week_info 26 21 one_table all_sat 7
+fixtures_info League14
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+done 06.30

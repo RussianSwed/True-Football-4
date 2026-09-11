@@ -1,0 +1,74 @@
+LEAGUE
+champion
+relegation 15 15
+tv_rights 2
+prize 2
+fans_behaviour 1.5
+fans_attendance 0.1
+table 0 0 0 0 14 14 15 15
+add_teams first_time 15 BLR_1
+add_teams next_time 1 13 BLR_1 previous_season
+add_teams next_time 1 1 BLR_PLAYOFF1 previous_season
+add_teams next_time 1 1 BLR_2 previous_season
+week_info 1 13 one_table seven_match_weekend
+week_info 2 14 one_table seven_match_weekend
+week_info 3 15 one_table seven_match_weekend
+week_info 4 16 one_table seven_match_weekend
+week_info 5 17 one_table seven_match_weekend
+week_info 6 18 one_table seven_match_weekend
+week_info 7 19 one_table seven_match_weekend
+week_info 8 20 one_table seven_match_weekend
+week_info 9 21 one_table seven_match_weekend
+week_info 10 22 one_table seven_match_weekend
+week_info 11 23 one_table seven_match_weekend
+week_info 12 24 one_table seven_match_weekend
+week_info 13 25 one_table seven_match_weekend
+week_info 14 26 one_table seven_match_weekend
+week_info 15 27 one_table seven_match_weekend
+week_info 16 28 one_table seven_match_weekend
+week_info 17 29 one_table seven_match_weekend
+week_info 18 30 one_table seven_match_weekend
+week_info 19 31 one_table seven_match_weekend
+week_info 20 32 one_table seven_match_weekend
+week_info 21 33 one_table seven_match_weekend
+week_info 22 35 one_table seven_match_weekend
+week_info 23 37 one_table seven_match_weekend
+week_info 24 38 one_table seven_match_weekend
+week_info 25 39 one_table seven_match_weekend
+week_info 26 40 one_table seven_match_weekend
+week_info 27 42 one_table seven_match_weekend
+week_info 28 43 one_table seven_match_weekend
+week_info 29 44 one_table seven_match_weekend
+week_info 30 45 one_table all_sun 7
+fixtures_info League15
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+done 01.01

@@ -1,0 +1,14 @@
+LEAGUE_PLAYOFF
+game_over 2 2
+fans_behaviour 1.2
+fans_attendance 0.5
+block
+update_team_group
+add_teams 14 14 SWE_1 current_season
+add_teams 3 3 SWE_2 current_season
+week_info 1 46 ko_first_leg all_wed 1 playoff
+week_info 2 46 ko_second_leg all_sun 1 playoff
+fixtures_info Knockout
+play_week 1
+play_week 2
+done 01.01

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="darkgreen">#00113311</item>
+    <item type="drawable" name="green">#ff344f0c</item>
+    <item type="drawable" name="notification_template_icon_bg">#3333b5e5</item>
+    <item type="drawable" name="notification_template_icon_low_bg">#0cffffff</item>
+    <item type="drawable" name="orange">#ffff7f00</item>
+    <item type="drawable" name="tab_active">#00998805</item>
+    <item type="drawable" name="tab_inactive">#66172205</item>
+    <item type="drawable" name="tab_pressed">#aa172205</item>
+    <item type="drawable" name="tab_selected">#66172205</item>
+    <item type="drawable" name="transparent">#00000000</item>
+    <item type="drawable" name="white">#ffffffff</item>
+</resources>

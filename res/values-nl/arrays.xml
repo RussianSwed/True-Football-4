@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>uit</item>
+        <item>Om de 7 dagen</item>
+        <item>Om de 30 dagen</item>
+        <item>Om de 60 dagen</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra verdedigend</item>
+        <item>verdedigend</item>
+        <item>normaal</item>
+        <item>aanvallend</item>
+        <item>ultra aanvallend</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>thuis</item>
+        <item>uit</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Passes</item>
+        <item>Schieten</item>
+        <item>Dribbelen</item>
+        <item>Tackelen</item>
+        <item>Schwalbe</item>
+        <item>Corners</item>
+        <item>Vrije trap (ver weg)</item>
+        <item>Vrije trap (dichtbij)</item>
+        <item>Stafschoppen</item>
+        <item>Aanvoerder</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Passes</item>
+        <item>Schieten</item>
+        <item>Dribbelen</item>
+        <item>Tackelen</item>
+        <item>Schwalbe</item>
+        <item>Corners</item>
+        <item>Vrije trap (ver weg)</item>
+        <item>Vrije trap (dichtbij)</item>
+        <item>Stafschoppen</item>
+        <item>Aanvoerder</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nooit</item>
+        <item>altijd</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nooit</item>
+        <item>altijd</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>laag</item>
+        <item>normaal</item>
+        <item>hoog</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>dag</item>
+        <item>3 dagen</item>
+        <item>7 dagen</item>
+        <item>tot aan de volgende wedstrijd</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nooit</item>
+        <item>als we voor staan</item>
+        <item>altijd</item>
+    </string-array>
+</resources>

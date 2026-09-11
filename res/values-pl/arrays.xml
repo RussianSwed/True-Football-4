@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>wyłączony</item>
+        <item>co 7 dni</item>
+        <item>co 30 dni</item>
+        <item>co 60 dni</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultradefensywny</item>
+        <item>defensywny</item>
+        <item>normalny</item>
+        <item>ofensywny</item>
+        <item>ultraofensywny</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>dom</item>
+        <item>wyjazd</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Podania</item>
+        <item>Strzały</item>
+        <item>Drybling</item>
+        <item>Odbiór piłki</item>
+        <item>Symulowanie fauli</item>
+        <item>Rzuty rożne</item>
+        <item>Dalekie rzuty wolne</item>
+        <item>Bliskie rzuty wolne</item>
+        <item>Rzuty karne</item>
+        <item>Kapitan</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Podania</item>
+        <item>Strzały</item>
+        <item>Drybling</item>
+        <item>Odbiór piłki</item>
+        <item>Symulowanie fauli</item>
+        <item>Rzuty rożne</item>
+        <item>Dalekie rzuty wolne</item>
+        <item>Bliskie rzuty wolne</item>
+        <item>Rzuty karne</item>
+        <item>Kapitan</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nigdy</item>
+        <item>zawsze</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nigdy</item>
+        <item>zawsze</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>niski</item>
+        <item>normalny</item>
+        <item>wysoki</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>dzień</item>
+        <item>3 dni</item>
+        <item>7 dni</item>
+        <item>do następnego meczu</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nigdy</item>
+        <item>podczas prowadzenia</item>
+        <item>zawsze</item>
+    </string-array>
+</resources>

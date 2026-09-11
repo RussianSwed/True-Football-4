@@ -1,0 +1,74 @@
+LEAGUE
+champion
+game_over 15 16
+tv_rights 3
+prize 3
+fans_behaviour 1.5
+fans_attendance 0.1
+table 0 0 0 0 14 14 15 16
+add_teams first_time 16 SRB_1
+add_teams next_time 1 13 SRB_1 previous_season
+add_teams next_time 1 1 SRB_PLAYOFF1 previous_season
+add_teams next_time 1 2 SRB_2 previous_season
+week_info 1 32 one_table serbian_1_1
+week_info 2 33 one_table serbian_1_1
+week_info 3 34 one_table serbian_1_1
+week_info 4 35 one_table serbian_1_2
+week_info 5 37 one_table serbian_1_2
+week_info 6 38 one_table serbian_1_2
+week_info 7 39 one_table serbian_1_2
+week_info 8 40 one_table serbian_1_2
+week_info 9 42 one_table serbian_1_2
+week_info 10 43 one_table serbian_1_1
+week_info 11 44 one_table serbian_1_2
+week_info 12 45 one_table serbian_1_2
+week_info 13 46 one_table serbian_1_1
+week_info 14 47 one_table serbian_1_1
+week_info 15 48 one_table serbian_1_2
+week_info 16 9 one_table all_wed 8
+week_info 17 9 one_table serbian_1_2
+week_info 18 10 one_table serbian_1_1
+week_info 19 11 one_table serbian_1_2
+week_info 20 13 one_table serbian_1_1
+week_info 21 14 one_table all_wed 8
+week_info 22 14 one_table serbian_1_2
+week_info 23 15 one_table serbian_1_2
+week_info 24 16 one_table serbian_1_1
+week_info 25 17 one_table serbian_1_1
+week_info 26 18 one_table serbian_1_1
+week_info 27 19 one_table serbian_1_2
+week_info 28 20 one_table serbian_1_2
+week_info 29 21 one_table all_wed 8
+week_info 30 21 one_table all_sat 8
+fixtures_info League16
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+play_week 7
+play_week 8
+play_week 9
+play_week 10
+play_week 11
+play_week 12
+play_week 13
+play_week 14
+play_week 15
+play_week 16
+play_week 17
+play_week 18
+play_week 19
+play_week 20
+play_week 21
+play_week 22
+play_week 23
+play_week 24
+play_week 25
+play_week 26
+play_week 27
+play_week 28
+play_week 29
+play_week 30
+done 06.30

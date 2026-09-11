@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>αποσυνδεση</item>
+        <item>καθε 7 μερες</item>
+        <item>καθε 30 μερες</item>
+        <item>καθε 60 μερες</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>πολύ αμυντικά</item>
+        <item>αμυντικά</item>
+        <item>κανονικά</item>
+        <item>επιθετικά</item>
+        <item>πολύ επιθετικά</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>εντός έδρας</item>
+        <item>εκτός έδρας</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Πάσσες</item>
+        <item>Σουτ</item>
+        <item>Ντρίπλα</item>
+        <item>Τάκλινγκ</item>
+        <item>Βουτιές</item>
+        <item>Κόρνερ</item>
+        <item>Μακρινά ελεύθερα</item>
+        <item>Κοντινά ελεύθερα</item>
+        <item>Πέναλντι</item>
+        <item>Αρχηγός</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Πάσσες</item>
+        <item>Σουτ</item>
+        <item>Ντρίπλα</item>
+        <item>Τάκλινγκ</item>
+        <item>Βουτιές</item>
+        <item>Κόρνερ</item>
+        <item>Μακρινά ελεύθερα</item>
+        <item>Κοντινά ελεύθερα</item>
+        <item>Πέναλντι</item>
+        <item>Αρχηγός</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>ποτέ</item>
+        <item>πάντα</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>ποτέ</item>
+        <item>πάντα</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>χαμηλά</item>
+        <item>κανονικά</item>
+        <item>υψηλά</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>Καθημερινά</item>
+        <item>Κάθε 3 μέρες</item>
+        <item>Κάθε 7 μέρες</item>
+        <item>Μέχρι τον επόμενο αγώνα</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>ποτέ</item>
+        <item>όταν προηγούμαστε</item>
+        <item>πάντα</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>ugasiti</item>
+        <item>svakih 7 dana</item>
+        <item>svakih 30 dana</item>
+        <item>svakih 60 dana</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra obrambeni</item>
+        <item>obrambeni</item>
+        <item>normalno</item>
+        <item>napadački</item>
+        <item>ultra napadački</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>kod kuće</item>
+        <item>u gostima</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Dodavanja</item>
+        <item>Udarci</item>
+        <item>Dribljanje</item>
+        <item>Uklizavanje</item>
+        <item>Simuliranje</item>
+        <item>Korneri</item>
+        <item>Daleki slobodni udarci</item>
+        <item>Bliski slobodni udarci</item>
+        <item>Penali</item>
+        <item>Kapetan</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Dodavanja</item>
+        <item>Udarci</item>
+        <item>Dribljanje</item>
+        <item>Uklizavanje</item>
+        <item>Simuliranje</item>
+        <item>Korneri</item>
+        <item>Daleki slobodni udarci</item>
+        <item>Bliski slobodni udarci</item>
+        <item>Penali</item>
+        <item>Kapetan</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>nikad</item>
+        <item>uvijek</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>nikad</item>
+        <item>uvijek</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>nisko</item>
+        <item>normalno</item>
+        <item>visoko</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>dnevni</item>
+        <item>svaka 3 dana</item>
+        <item>svakih 7 dana</item>
+        <item>do zadnje utakmice</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>nikad</item>
+        <item>dok vodimo</item>
+        <item>uvijek</item>
+    </string-array>
+</resources>

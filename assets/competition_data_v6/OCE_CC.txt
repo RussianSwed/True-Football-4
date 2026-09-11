@@ -1,0 +1,20 @@
+CHAMPIONS_CUP
+champions_cup_winner
+fans_behaviour 1.2
+fans_attendance 0.1
+table 1 2 -1 -1 -1 -1 -1 -1
+add_teams oceanian_champions_cup
+week_info 1 6 group_table all_wed 8 group_phase_1
+week_info 2 7 group_table all_wed 8 group_phase_2
+week_info 3 8 group_table all_wed 8 group_phase_3
+week_info 4 15 ko_one_match all_wed 4 quarterfinal
+week_info 5 18 ko_one_match all_wed 2 semifinal
+week_info 6 21 ko_one_match all_wed 1 final
+fixtures_info OceanianChampionsCup
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+play_week 5
+play_week 6
+done 01.01

@@ -1,0 +1,18 @@
+DOMESTIC_CUP
+cup_winner
+prize 1
+fans_behaviour 1.1
+fans_attendance 0.1
+add_teams 1 CAN_OTHER shuffled
+add_teams 2 CAN_1E shuffled
+add_teams 1 CAN_1W shuffled
+week_info 1 15 ko_first_leg all_wed 2 semifinal
+week_info 2 16 ko_second_leg all_wed 2 semifinal
+week_info 3 18 ko_first_leg all_sat 1 final
+week_info 4 20 ko_second_leg all_sat 1 final
+fixtures_info Knockout
+play_week 1
+play_week 2
+play_week 3
+play_week 4
+done 01.01

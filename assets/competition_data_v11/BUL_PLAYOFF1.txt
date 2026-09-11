@@ -1,0 +1,15 @@
+LEAGUE_PLAYOFF
+promotion_or_staying 1 1
+relegation_or_staying 2 2
+fans_behaviour 1.8
+fans_attendance 0.4
+block
+update_team_group
+add_teams 4 4 BUL_1C current_season
+add_teams 3 3 BUL_2 current_season
+week_info 1 74 ko_first_leg all_fri 1 playoff
+week_info 2 75 ko_second_leg all_tue 1 playoff
+fixtures_info Knockout
+play_week 1
+play_week 2
+done 06.30

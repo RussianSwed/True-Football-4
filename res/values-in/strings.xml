@@ -1,0 +1,1823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AFG">Afganistan</string>
+    <string name="AIA">Anguilla</string>
+    <string name="ALB">Albania</string>
+    <string name="ALG">Aljazair</string>
+    <string name="AND">Andorra</string>
+    <string name="ANG">Angola</string>
+    <string name="ARG">Argentina</string>
+    <string name="ARM">Armenia</string>
+    <string name="ARU">Aruba</string>
+    <string name="ASA">Samoa Amerika</string>
+    <string name="ATG">Antigua dan Barbuda</string>
+    <string name="AUS">Australia</string>
+    <string name="AUT">Austria</string>
+    <string name="AZE">Azerbaijan</string>
+    <string name="BAH">Bahama</string>
+    <string name="BAN">Bangladesh</string>
+    <string name="BDI">Burundi</string>
+    <string name="BEL">Belgia</string>
+    <string name="BEN">Benin</string>
+    <string name="BER">Bermuda</string>
+    <string name="BFA">Burkina Faso</string>
+    <string name="BHR">Bahrain</string>
+    <string name="BHU">Bhutan</string>
+    <string name="BIH">Bosnia dan Herzegovina</string>
+    <string name="BLR">Belarus</string>
+    <string name="BLZ">Belize</string>
+    <string name="BOE">Bonaire</string>
+    <string name="BOL">Bolivia</string>
+    <string name="BOT">Botswana</string>
+    <string name="BRA">Brasil</string>
+    <string name="BRB">Barbados</string>
+    <string name="BRU">Brunei</string>
+    <string name="BUL">Bulgaria</string>
+    <string name="CAM">Kamboja</string>
+    <string name="CAN">Kanada</string>
+    <string name="CAY">Kepulauan Cayman</string>
+    <string name="CGO">Republik Kongo</string>
+    <string name="CHA">Chad</string>
+    <string name="CHI">Chili</string>
+    <string name="CHN">Tiongkok</string>
+    <string name="CIV">Pantai Gading</string>
+    <string name="CMR">Kamerun</string>
+    <string name="COD">Republik Demokratik Kongo</string>
+    <string name="COK">Kepulauan Cook</string>
+    <string name="COL">Kolombia</string>
+    <string name="COM">Komoro</string>
+    <string name="CPV">Tanjung Verde</string>
+    <string name="CRC">Kosta Rika</string>
+    <string name="CRO">Kroasia</string>
+    <string name="CTA">Republik Afrika Tengah</string>
+    <string name="CUB">Kuba</string>
+    <string name="CUW">Curaçao</string>
+    <string name="CYP">Siprus</string>
+    <string name="CZE">Ceko</string>
+    <string name="DEN">Denmark</string>
+    <string name="DJI">Djibouti</string>
+    <string name="DMA">Dominika</string>
+    <string name="DOM">Republik Dominika</string>
+    <string name="ECU">Ekuador</string>
+    <string name="EGY">Mesir</string>
+    <string name="ENG">Inggris</string>
+    <string name="EQG">Guinea Khatulistiwa</string>
+    <string name="ERI">Eritrea</string>
+    <string name="ESP">Spanyol</string>
+    <string name="EST">Estonia</string>
+    <string name="ETH">Ethiopia</string>
+    <string name="FIJ">Fiji</string>
+    <string name="FIN">Finlandia</string>
+    <string name="FRA">Perancis</string>
+    <string name="FRO">Kepulauan Faroe</string>
+    <string name="GAB">Gabon</string>
+    <string name="GAM">Gambia</string>
+    <string name="GEO">Georgia</string>
+    <string name="GER">Jerman</string>
+    <string name="GHA">Ghana</string>
+    <string name="GIB">Gibraltar</string>
+    <string name="GLP">Guadeloupe</string>
+    <string name="GNB">Guinea-Bissau</string>
+    <string name="GRE">Yunani</string>
+    <string name="GRL">Greenland</string>
+    <string name="GRN">Grenada</string>
+    <string name="GUA">Guatemala</string>
+    <string name="GUF">Guyana Prancis</string>
+    <string name="GUI">Guinea</string>
+    <string name="GUM">Guam</string>
+    <string name="GUY">Guyana</string>
+    <string name="HAI">Haiti</string>
+    <string name="HKG">Hong Kong</string>
+    <string name="HON">Honduras</string>
+    <string name="HUN">Hongaria</string>
+    <string name="IDN">Indonesia</string>
+    <string name="IND">India</string>
+    <string name="IRL">Republik Irlandia</string>
+    <string name="IRN">Iran</string>
+    <string name="IRQ">Irak</string>
+    <string name="ISL">Islandia</string>
+    <string name="ISR">Israel</string>
+    <string name="ITA">Italia</string>
+    <string name="JAM">Jamaika</string>
+    <string name="JOR">Yordania</string>
+    <string name="JPN">Jepang</string>
+    <string name="KAZ">Kazakhstan</string>
+    <string name="KEN">Kenya</string>
+    <string name="KGZ">Kirgizstan</string>
+    <string name="KOR">Korea Selatan</string>
+    <string name="KOS">Kosovo</string>
+    <string name="KSA">Arab Saudi</string>
+    <string name="KUW">Kuwait</string>
+    <string name="LAO">Laos</string>
+    <string name="LBR">Liberia</string>
+    <string name="LBY">Libya</string>
+    <string name="LCA">Saint Lucia</string>
+    <string name="LES">Lesotho</string>
+    <string name="LIB">Lebanon</string>
+    <string name="LIE">Liechtenstein</string>
+    <string name="LTU">Lituania</string>
+    <string name="LUX">Luksemburg</string>
+    <string name="LVA">Latvia</string>
+    <string name="MAC">Makau</string>
+    <string name="MAD">Madagaskar</string>
+    <string name="MAR">Maroko</string>
+    <string name="MAS">Malaysia</string>
+    <string name="MDA">Moldova</string>
+    <string name="MDV">Maladewa</string>
+    <string name="MEX">Meksiko</string>
+    <string name="MGL">Mongolia</string>
+    <string name="MKD">Makedonia Utara</string>
+    <string name="MLI">Mali</string>
+    <string name="MLT">Malta</string>
+    <string name="MNE">Montenegro</string>
+    <string name="MOZ">Mozambik</string>
+    <string name="MRI">Mauritius</string>
+    <string name="MSR">Montserrat</string>
+    <string name="MTN">Mauritania</string>
+    <string name="MTQ">Martinik</string>
+    <string name="MWI">Malawi</string>
+    <string name="MYA">Myanmar</string>
+    <string name="NAM">Namibia</string>
+    <string name="NCA">Nikaragua</string>
+    <string name="NCL">Kaledonia Baru</string>
+    <string name="NED">Belanda</string>
+    <string name="NEP">Nepal</string>
+    <string name="NGA">Nigeria</string>
+    <string name="NIG">Niger</string>
+    <string name="NIR">Irlandia Utara</string>
+    <string name="NOR">Norwegia</string>
+    <string name="NZL">Selandia Baru</string>
+    <string name="OMA">Oman</string>
+    <string name="PAK">Pakistan</string>
+    <string name="PAN">Panama</string>
+    <string name="PAR">Paraguay</string>
+    <string name="PER">Peru</string>
+    <string name="PHI">Filipina</string>
+    <string name="PLE">Palestina</string>
+    <string name="PNG">Papua Nugini</string>
+    <string name="POL">Polandia</string>
+    <string name="POR">Portugal</string>
+    <string name="PRK">Korea Utara</string>
+    <string name="PUR">Puerto Riko</string>
+    <string name="QAT">Qatar</string>
+    <string name="ROM">Rumania</string>
+    <string name="RSA">Afrika Selatan</string>
+    <string name="RUS">Rusia</string>
+    <string name="RWA">Rwanda</string>
+    <string name="SAM">Samoa</string>
+    <string name="SCO">Skotlandia</string>
+    <string name="SDN">Sudan</string>
+    <string name="SEN">Senegal</string>
+    <string name="SEY">Seychelles</string>
+    <string name="SIN">Singapura</string>
+    <string name="SKN">Saint Kitts dan Nevis</string>
+    <string name="SLE">Sierra Leone</string>
+    <string name="SLV">El Salvador</string>
+    <string name="SMA">Sint Maarten</string>
+    <string name="SMN">Saint Martin</string>
+    <string name="SMR">San Marino</string>
+    <string name="SOL">Kepulauan Solomon</string>
+    <string name="SOM">Somalia</string>
+    <string name="SRB">Serbia</string>
+    <string name="SRI">Sri Lanka</string>
+    <string name="SSD">Sudan Selatan</string>
+    <string name="STP">Sao Tome dan Principe</string>
+    <string name="SUI">Swiss</string>
+    <string name="SUR">Suriname</string>
+    <string name="SVK">Slowakia</string>
+    <string name="SVN">Slovenia</string>
+    <string name="SWE">Swedia</string>
+    <string name="SWZ">Swaziland</string>
+    <string name="SYR">Suriah</string>
+    <string name="TAH">Tahiti</string>
+    <string name="TAN">Tanzania</string>
+    <string name="TCA">Kepulauan Turks dan Caicos</string>
+    <string name="TGA">Tonga</string>
+    <string name="THA">Thailand</string>
+    <string name="TJK">Tajikistan</string>
+    <string name="TKM">Turkmenistan</string>
+    <string name="TLS">Timor Leste</string>
+    <string name="TOG">Togo</string>
+    <string name="TPE">Cina Taipei</string>
+    <string name="TRI">Trinidad dan Tobago</string>
+    <string name="TUN">Tunisia</string>
+    <string name="TUR">Turki</string>
+    <string name="UAE">Uni Emirat Arab</string>
+    <string name="UGA">Uganda</string>
+    <string name="UKR">Ukraina</string>
+    <string name="URU">Uruguay</string>
+    <string name="USA">Amerika Serikat</string>
+    <string name="UZB">Uzbekistan</string>
+    <string name="VAN">Vanuatu</string>
+    <string name="VEN">Venezuela</string>
+    <string name="VGB">Kepulauan Virgin Britania Raya</string>
+    <string name="VIE">Vietnam</string>
+    <string name="VIN">Saint Vincent dan Grenadines</string>
+    <string name="VIR">Kepulauan Virgin AS</string>
+    <string name="WAL">Wales</string>
+    <string name="YEM">Yaman</string>
+    <string name="ZAM">Zambia</string>
+    <string name="ZIM">Zimbabwe</string>
+    <string name="abc_action_bar_home_description">Navigasi ke beranda</string>
+    <string name="abc_action_bar_up_description">Navigasi naik</string>
+    <string name="abc_action_menu_overflow_description">Opsi lain</string>
+    <string name="abc_action_mode_done">Selesai</string>
+    <string name="abc_activity_chooser_view_see_all">Lihat semua</string>
+    <string name="abc_activitychooserview_choose_application">Pilih aplikasi</string>
+    <string name="abc_capital_off">NONAKTIF</string>
+    <string name="abc_capital_on">AKTIF</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasi</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Telusuri...</string>
+    <string name="abc_searchview_description_clear">Hapus kueri</string>
+    <string name="abc_searchview_description_query">Kueri penelusuran</string>
+    <string name="abc_searchview_description_search">Telusuri</string>
+    <string name="abc_searchview_description_submit">Kirim kueri</string>
+    <string name="abc_searchview_description_voice">Penelusuran suara</string>
+    <string name="abc_shareactionprovider_share_with">Bagikan dengan</string>
+    <string name="abc_shareactionprovider_share_with_application">Bagikan ke %s</string>
+    <string name="abc_toolbar_collapse_description">Ciutkan</string>
+    <string name="accept">Terima</string>
+    <string name="acceptOffer">Terima</string>
+    <string name="accountBalance">Keseimbangan keuangan:</string>
+    <string name="account_balance_menu">Keseimbangan keuangan</string>
+    <string name="achievement0">Memenangkan satu pertandingan</string>
+    <string name="achievement1">Memenangkan pertandingan dengan 3 gol</string>
+    <string name="achievement10">Membuat pemain anda mencetak 3 dalam satu pertandingan</string>
+    <string name="achievement11">Memenangkan pertandingan dengan 5 gol</string>
+    <string name="achievement12">Bermain 100 pertandingan dengan satu pemain</string>
+    <string name="achievement13">Mencetak 25 gol dengan satu pemain</string>
+    <string name="achievement14">Bermain selama 5 musim</string>
+    <string name="achievement15">Memenangkan 50 pertandingan</string>
+    <string name="achievement16">Mencetak 50 gol dengan satu pemain</string>
+    <string name="achievement17">Membuat pemain anda mencetak 5 dalam satu pertandingan</string>
+    <string name="achievement18">Bermain 250 pertandingan dengan satu pemain</string>
+    <string name="achievement19">Bermain selama 10 musim</string>
+    <string name="achievement2">Memenangkan 5 pertandingan</string>
+    <string name="achievement20">Memenangkan 100 pertandingan</string>
+    <string name="achievement21">Memenangkan pertandingan dengan 10 gol</string>
+    <string name="achievement22">Tidak kalah dalam seluruh pertandingan liga salam satu musim</string>
+    <string name="achievement23">Mencetak 100 gol dengan satu pemain</string>
+    <string name="achievement24">Bermain selama 25 musim</string>
+    <string name="achievement25">Memenangkan 250 pertandingan</string>
+    <string name="achievement26">Memenangkan pertandingan dengan 20 gol</string>
+    <string name="achievement27">Membuat pemain anda mencetak 10 dalam satu pertandingan</string>
+    <string name="achievement28">Bermain 500 pertandingan dengan satu pemain</string>
+    <string name="achievement29">Bermain selama 50 musim</string>
+    <string name="achievement3">Bermain 20 pertandingan dengan satu pemain</string>
+    <string name="achievement30">Memenangkan 500 pertandingan</string>
+    <string name="achievement31">Mencetak 250 gol dengan satu pemain</string>
+    <string name="achievement32">Memenangkan seluruh pertandingan liga dalam satu musim</string>
+    <string name="achievement33">Bermain 750 pertandingan dengan satu pemain</string>
+    <string name="achievement34">Bermain selama 100 musim</string>
+    <string name="achievement35">Memenangkan 1000 pertandingan</string>
+    <string name="achievement36">Bermain 1000 pertandingan dengan satu pemain</string>
+    <string name="achievement37">Mencetak 500 gol dengan satu pemain</string>
+    <string name="achievement38">Bermain selama 250 musim</string>
+    <string name="achievement39">Memenangkan 2500 pertandingan</string>
+    <string name="achievement4">Bermain satu musim penuh</string>
+    <string name="achievement40">Bermain selama 500 musim</string>
+    <string name="achievement41">Memenangkan 5000 pertandingan</string>
+    <string name="achievement42">Mencetak 1000 gol dengan satu pemain</string>
+    <string name="achievement43">Bermain selama 1000 musim</string>
+    <string name="achievement44">Memenangkan 10000 pertandingan</string>
+    <string name="achievement5">Memenangkan 10 pertandingan</string>
+    <string name="achievement6">Bermain 50 pertandingan dengan satu pemain</string>
+    <string name="achievement7">Mencetak 10 gol dengan satu pemain</string>
+    <string name="achievement8">Bermain selama 2 musim</string>
+    <string name="achievement9">Memenangkan 25 pertandingan</string>
+    <string name="achievementUnlocked">Anda mendapat penghargaan!</string>
+    <string name="achievements">Penghargaan</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Tambah</string>
+    <string name="addToFirstTeam">Tambahkan ke tim utama</string>
+    <string name="africa">Afrika</string>
+    <string name="afterOwnGoalAction1">%1$s meraih dengan kepalanya!</string>
+    <string name="afterOwnGoalAction2">%1$s tidak percaya apa yang dia lakukan!</string>
+    <string name="afterOwnGoalAction3">%1$s tidak akan tidur malam ini!</string>
+    <string name="afterOwnGoalAction4">%1$s apa yang telah dilakukannya?</string>
+    <string name="afterOwnGoalAction5">%1$s seorang lelaki yang tidak beruntung!</string>
+    <string name="afterOwnGoalAction6">%1$s sangat tidak beruntung disini!</string>
+    <string name="age">Umur</string>
+    <string name="agentWillBePaid">Agen dari pemain akan dibayar %1$s sebagai gaji.</string>
+    <string name="agentsFee">Biaya agen pemain</string>
+    <string name="aggregate">Agregat</string>
+    <string name="aggresive">agresif</string>
+    <string name="aggression">Agresifitas:</string>
+    <string name="agility">Kelincahan</string>
+    <string name="aiTransfer">"- %1$s (%2$s -> %3$s)
+"</string>
+    <string name="aiTransfersContent">"Bursa transfer telah dibuka, beberapa klub membuat langkah penawaran menarik. Inilah sedikit dari transfer terkini yang penting disebutkan:
+
+"</string>
+    <string name="aiTransfersTitle">Peninjauan transfer terkini</string>
+    <string name="all">Semua</string>
+    <string name="allCompetitions">Semua kompetisi</string>
+    <string name="allTime">Setiap Waktu</string>
+    <string name="always">selalu</string>
+    <string name="analysis_confirmation_dialog">"Apakah Anda ingin asisten Anda mengamati dan menganalisis tim %1$s?
+
+Hasilnya akan tersedia dalam 7 hari."</string>
+    <string name="analysis_results">"Berikut adalah hasil analisis kami tentang %1$s. Saat ini mereka bermain dalam formasi %2$s, dengan gameplay %3$s.
+
+Kami juga memiliki beberapa saran mengenai taktik melawan mereka:"</string>
+    <string name="analyze">Analisis</string>
+    <string name="analyzedOpponents">Lawan yang dianalisis:</string>
+    <string name="angry">marah</string>
+    <string name="app_name">True Football 3</string>
+    <string name="april">April</string>
+    <string name="areYouSure">Apakah anda yakin?</string>
+    <string name="areYouSureToDelete">Apakah kamu yakin?</string>
+    <string name="areYouSureToRemoveTeam">Apakah Anda yakin Anda akan menghapus tim ini?</string>
+    <string name="areYouSureYouWantToBuildNewTrainingField">Apakah Anda yakin Anda mau membangun Lapangan latihan yang`baru?</string>
+    <string name="areYouSureYouWantToHireThisEmployee">Apakah Anda setuju untuk menyewa %1$s? gaji bulanannya sebesar %2$s.</string>
+    <string name="areYouSureYouWantToTerminateContract">Apakah anda yakin untuk mengakhiri kontrak ini? Anda akan membayar pinalti (%1$s).</string>
+    <string name="arrangeFriendlyMatch">Mengatur pertandingan persahabatan</string>
+    <string name="arrogant">sombong</string>
+    <string name="ashamed">malu</string>
+    <string name="asia">Asia</string>
+    <string name="assign">Menugaskan...</string>
+    <string name="assistant">Asisten</string>
+    <string name="assistantStartingMessageContent">"Hay, saya asisten Anda. Saya senang bahwa kita akan bekerja sama.
+
+Pada awal, saya menyarankan Anda untuk melihat tim kami. Jendela transfer dibuka, sehingga Anda dapat memeriksa untuk pemain baru juga. Anda dapat mengirimkan salah satu Pencari bakat kami untuk melakukan pencarian, jika Anda ingin. Anda akan mendapatkan beberapa tawaran dari pemain bebas agen juga.
+
+Kami masih memiliki beberapa waktu untuk awal Liga, jadi kenapa Anda tidak mengajak tim untuk melakukan kamp pelatihan? Periksa kemungkinan kesempatan, dan memutuskan.
+
+Oh, dan jangan lupa tentang pemain muda kami. Anda akan bebas untuk memutuskan tentang jumlah dan kualitas Tim muda kami. Bagus, kan? Hanya saja uangnya terbatas. Jadi berhati-hati dengan pengeluaran.
+
+Jika Anda sangat membutuhkan uang, Anda dapat meminjam uang di bank. Tapi ini adalah pilihan terakhir! OK, saya tidak ingin berbicara terlalu banyak.
+
+Semoga beuntung, nikmatilah!"</string>
+    <string name="assistantStartingMessageTitle">Halo!</string>
+    <string name="assists">Assists terbanyak</string>
+    <string name="association">Asosiasi Sepakbola</string>
+    <string name="attacking">Serangan</string>
+    <string name="attendance">Kehadiran</string>
+    <string name="august">Agustus</string>
+    <string name="australia">Australia</string>
+    <string name="autosave">Simpan otomatis</string>
+    <string name="average">berimbang</string>
+    <string name="away">tandang</string>
+    <string name="backFromTrainingCampContent">Tuan yang terhormat, karena pertandingan resmi bertabrakan dengan kamp kami, kita harus pulang lebih awal. Sayangnya, kita tidak bisa mendapatkan uang kami kembali. Saya menyarankan Anda untuk menjadi lebih berhati-hati sambil merencanakan kamp-kamp pelatihan di masa depan.</string>
+    <string name="backFromTrainingCampTitle">Kembali lebih awal dari kamp pelatihan</string>
+    <string name="badArticleInMediaContent">"Tuan, saya tahu Anda tidak suka jurnalis dan koran, tapi kita mempunyai masalah.
+
+Ada beberapa artikel di koran dan internet mengenai klub kita sekarang.Mereka sangat tidak baik. Sepertinya mereka marah karena Anda tidak mau berbicara dengannya, dan mengabaikan pertanyaannya. Anda tahu, kita harus menjaga hubungan dengannya, karena artikel ini akan membawa kerugian bagi kita. Sebuah perusahaan tidak mau menyeponsori klub yang mempunyai citra buruk.
+
+Pikirkan hal itu."</string>
+    <string name="badArticleInMediaTitle">Media menyerang klub kita</string>
+    <string name="ballLossAction1">%1$s kehilangan bola!</string>
+    <string name="ballLossAction10">%1$s kehilangan kontrol bola...</string>
+    <string name="ballLossAction11">%1$s mengacaukannya!</string>
+    <string name="ballLossAction12">%1$s membiarkan bola melewatinya!</string>
+    <string name="ballLossAction2">%1$s kehilangan penguasaan!</string>
+    <string name="ballLossAction3">Mereka kehilangan penguasaan</string>
+    <string name="ballLossAction4">%1$s... Kehilangan bola dengan mudah!</string>
+    <string name="ballLossAction5">%1$s membuat kesalahan konyol!</string>
+    <string name="ballLossAction6">%1$s gagal untuk menahan bola...</string>
+    <string name="ballLossAction7">Tapi %1$s menjatuhkan bola...</string>
+    <string name="ballLossAction8">%1$s kehilangan bola dengan mudah...</string>
+    <string name="ballLossAction9">Bola itu lepas...</string>
+    <string name="ballPossession">Penguasaan bola</string>
+    <string name="bank">Bank</string>
+    <string name="bankLoan">Peminjaman dari bank</string>
+    <string name="bankLoansTaken">Peminjaman bank yang diambil:</string>
+    <string name="bankrupcyContent">"Bencana!
+
+Rekening klub kita benar-benar kosong! Bagaimana bisa saya membuat Anda bertanggung jawab untuk mengendalikan keuangan kami? Sekarang saya menyesal... Lagi pula, kita sudah selesai! Kita tidak bisa apa-apa, jadi kita harus keluar dari semua kompetisi. 
+
+Sudah selesai!"</string>
+    <string name="bankrupcyTitle">Kita tidak punya cukup uang!</string>
+    <string name="beforeMatch1">\"Kawan, 5:0 adalah minimal.\"</string>
+    <string name="beforeMatch2">\"Ayo Anak-anak, ini akan menjadi sepotong kue keberhasilan!\"</string>
+    <string name="beforeMatch3">\"Saya percaya pada kalian, kalian bisa melakukan ini!\"</string>
+    <string name="beforeMatch4">\"Saya mau melihat darah dan air mata!\"</string>
+    <string name="beforeMatch5">\"Ini tidak akan mudah, Anak-anak.\"</string>
+    <string name="beforeMatch6">\"Ayo, jangan membuat saya malu kali ini.\"</string>
+    <string name="beforeMatch7">\"Ya tuhan, saya tidak mau melihat itu.\"</string>
+    <string name="biggestAttendance">Kehadiran terbesar:</string>
+    <string name="bonusesForPlayers">Bonus untuk pemain</string>
+    <string name="bonusesFromSponsors">Bonus dari sponsor</string>
+    <string name="brazil">Amerika Selatan (Brazil)</string>
+    <string name="buildNewField">Bangun lapangan baru</string>
+    <string name="businessman">Pengusaha</string>
+    <string name="businessmanTalk1">"Halo, manajer yang terhormat!
+
+Senang berbicara dengan Anda! Saya seorang pengusaha lokal, yang sangat mendukung klub kami yang indah. Saya ingin menjadi yang paling kuat ... Tapi saya tahu betul bahwa tanpa uang itu tidak mungkin. Jadi saya pikir itu bisa menyumbangkan klub dengan jumlah tertentu.
+
+Yang saya ingin Anda lakukan hanyalah menonton video pendek, dan uang itu milik Anda. Bagaimana tentang itu"</string>
+    <string name="businessmanTalk2">"Halo, manajer yang terhormat!
+
+Saya tidak bisa menyumbang Anda lagi bulan ini. Kembali lagi nanti!"</string>
+    <string name="buy">Beli</string>
+    <string name="buyOffer">Beli</string>
+    <string name="buyOfferTitle">"%1$s ingin membeli pemain Anda seharga %2$s.
+
+Anda bisa menegosiasikan tawaran tersebut."</string>
+    <string name="calendar">Kalender</string>
+    <string name="calm">tenang</string>
+    <string name="canada">Amerika Utara (Kanada)</string>
+    <string name="cancel">Batal</string>
+    <string name="cannotGoToTrainingCamp">Anda tidak dapat merencanakan sebuah kamp pelatihan sekarang, ketika Anda memiliki terlalu banyak jadwal dalam waktu dekat. Coba beberapa hari lagi.</string>
+    <string name="cantUpgradeMore">- Setelah upgrade, tribun akan mencapain kapasitas maksimum.</string>
+    <string name="capsGoals">Penampilan/gol</string>
+    <string name="carribean">Karibia</string>
+    <string name="category1">Kategori 1</string>
+    <string name="category2">Kategori 2</string>
+    <string name="category3">Kategori 3</string>
+    <string name="central_africa">Afrika (tengah)</string>
+    <string name="central_america">Amerika Tengah</string>
+    <string name="central_asia">Asia (tengah)</string>
+    <string name="central_east_europe">Eropa (timur-tengah)</string>
+    <string name="chairman">Pemilik</string>
+    <string name="chairmanStartingMessageContent">"Dear tuan! Selamat datang di klub kami.
+
+Saya sangat senang Anda telah bergabung dengan kami. Saya percaya bahwa %1$s memiliki masa depan yang besar, dan saya berharap bahwa Anda akan memainkan peran penting dalam membuat itu.
+
+Saya berharap keberuntungan dan banyak emosi selama pertandingan."</string>
+    <string name="chairmanStartingMessageTitle">Selamat datang di %1$s!</string>
+    <string name="champion">Juara</string>
+    <string name="championContentFavorite">"Siapakah yang terbaik? %1$s!
+
+Saya sangat senang bahwa kami membuatnya. Kami adalah yang terbaik, dan kita benar-benar pantas mendapatkan gelar juara. Saya sangat menghormati Anda dan semua pemain Anda. Itu jelas keputusan yang baik untuk menyewa Anda sebagai manajer.
+
+Sekarang, kita bebas untuk merayakan, Anda adalah seorang pahlawan malam ini!"</string>
+    <string name="championContentNonFavorite">"Dapatkah Anda percaya? Kitalah yang terbaik!
+
+Tidak ada yang bisa bertaruh bahwa kita bisa menang kejuaraan, sehingga mengagumkan bahwa Anda berhasil melakukannya! Saya berharap Anda akan tinggal dengan tim ini selamanya. Kau sudah legenda! Terima kasih banyak untuk musim ini tak terlupakan.
+
+Malam ini akan menjadi gila!"</string>
+    <string name="championTitle">Kita adalah sang juara!</string>
+    <string name="championsCup">Piala Champion</string>
+    <string name="championsCupContent">"Ini gila, kita tim terbaik di benua!
+
+Tuan, Anda adalah seorang manajer yang hebat, dan saya selalu percaya dalam pekerjaan Anda dan pemain Anda. Saya suka sepak bola untuk saat-saat seperti itu. Saya cinta %1$s dan saya yakin bahwa kami akan memiliki masa depan yang fantastis dengan Anda sebagai manajer, dan bahkan lebih banyak kesuksesan seperti itu!
+
+Kami ucapkan Terima kasih kembali!"</string>
+    <string name="championsCupTitle">Menakjubkan</string>
+    <string name="change_trainer">Ganti pelatih</string>
+    <string name="chaosInPenaltyAreaAction1">Kekacauan di kotak pinalti!</string>
+    <string name="chaosInPenaltyAreaAction2">Benar-benar kekacauan!</string>
+    <string name="chaosInPenaltyAreaAction3">Kekacauan terjadi di kotak pinalti!</string>
+    <string name="chaosInPenaltyAreaAction4">...</string>
+    <string name="character">Sifat</string>
+    <string name="charisma">Karisma</string>
+    <string name="chooseTeamToEdit">Pilih tim untuk diedit:</string>
+    <string name="chooseYourTeam">Pilih teammu:</string>
+    <string name="choose_edit_file">Pilih edit file</string>
+    <string name="cleanSheets">Clean sheets</string>
+    <string name="clear">Membersihkan</string>
+    <string name="clubRanking">Peringkat klub</string>
+    <string name="clubStaff">Karyawan klub</string>
+    <string name="clubStaffDescription">"Di sini Anda dapat sepenuhnya mengendalikan siapa yang bekerja di klub Anda. Semua karyawan memiliki kontrak, pengalaman, dan usia sendiri. Setiap peran dalam klub itu penting dengan cara yang berbeda:
+
+ Pelatih penjaga gawang bertanggung jawab penuh atas pelatihan dan kinerja penjaga gawang Anda.
+
+ Pelatih pemain muda bekerja dengan pemain yang lebih muda dibawah team senior. Semakin banyak pelatih pemuda yang Anda miliki - semakin banyak tim pemuda yang bisa Anda pelihara. Pelatih pemain muda yang baik dapat membuat anak muda berbakat Anda berkembang lebih baik dan lebih cepat.
+
+ Fisioterapis berpengalaman dapat secara signifikan mengurangi risiko cedera pemain Anda. Pastikan Anda juga mempekerjakan dokter yang baik, karena mereka akan membawa pemain Anda yang cedera pulih dengan cepat.
+
+ Pemasar bertanggung jawab untuk menarik orang dan sponsor ke klub Anda. Mereka menghasilkan cukup banyak, tetapi pekerjaan mereka dapat membawa banyak keuntungan bagi klub Anda."</string>
+    <string name="common_google_play_services_enable_button">Aktifkan</string>
+    <string name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string name="common_google_play_services_install_button">Instal</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan layanan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_wear_update_text">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Login dengan Google</string>
+    <string name="communityCup">Piala Komunitas</string>
+    <string name="competitions">Kompetisi</string>
+    <string name="concentration">Konsentrasi:</string>
+    <string name="condition">Kondisi</string>
+    <string name="confidence">Kepercayaan diri</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="conflict">Dalam konflik</string>
+    <string name="conflictBeginningContent">Yang Terhormat, pengamatan terbaru kami kali ini terhadap para pemain dengan jelas menunjukkan bahwa dua pemain kami (%1$s &amp; %2$s) saling berselisih . Tentu saja, tim sepak bola adalah sekelompok orang yang berbeda, dan mereka tidak akan menjadi teman, tetapi jika kita ingin sukses, kita harus hidup bersama dengan baik dan bisa bekerja sama. Kita harus melakukan pemanggilan kepada mereka berdua ke lobi team atau mengajak mereka minum kopi diwarung sebelah untuk menyelesaikan masalahnya, agar menghasilkan dampak positif pada kinerja team kita ketika keduanya akan bermain bersama.</string>
+    <string name="conflictBeginningTitle">%1$s dan %2$s tampaknya mengalami perselisihan</string>
+    <string name="conflictEndContent">Berita bagus, tuan. Sepertinya konflik dua pemain kami (%1$s, %2$s) tidak ada lagi. Kedua pemain terlihat mengobrol dan bercanda ria dengan satu sama lain, kadang-kadang mereka berdua saling mentraktir minum kopi diwarung sebelah setelah pertandingan. dan kita dapat mengasumsikan bahwa hubungan antara keduanya baik-baik saja. Kerja bagus!</string>
+    <string name="conflictEndTitle">Persilisihan antara %1$s dan %2$s sudah terselesaikan</string>
+    <string name="confused">bingung</string>
+    <string name="continentalCupsTickets">Pertandingan piala internasional</string>
+    <string name="continentalFederationPrizes">Hadiah dari asosiasi benua</string>
+    <string name="continueGame">Lanjutkan</string>
+    <string name="continueMatch">Lanjutkan pertandingan</string>
+    <string name="contractEnd">Akhir kontrak</string>
+    <string name="contractExpiredContent">%1$s bukan pemain kita lagi – kontraknya telah berakhir hari ini.</string>
+    <string name="contractExpiredTitle">Kontrak %1$s telah beakhir</string>
+    <string name="contractOffer">Kontrak</string>
+    <string name="contractOfferAcceptedContent">"Penawaran kontrak anda kami terima.
+
+"</string>
+    <string name="contractOfferAcceptedMuchWorseTeamContent">"Meskipun %1$s mengambil satu langkah ke belakang dalam karirnya, dia menilai tawaran anda sangat menarik dan memutuskan untuk bergabung dengan timmu.
+
+"</string>
+    <string name="contractOfferAcceptedSimilarTeamContent">"%1$s tertarik dari sisi keuangan, sehingga memutuskan untuk mempekuat timmu.
+
+"</string>
+    <string name="contractOfferAcceptedTitle">%1$s - penawaran kontrak diterima</string>
+    <string name="contractOfferAcceptedUnhappyContent">"%1$s memutuskan bergabung dengan timmu, karena tidak bahagia di tim sebelumnya. 
+
+"</string>
+    <string name="contractOfferAcceptedWorseTeamContent">"%1$s tertarik dari sisi keuangan, sehingga memutuskan untuk mempekuat timmu.
+
+"</string>
+    <string name="contractOfferRejectedContent">"Penawaran kontrak anda kami tolak.
+
+"</string>
+    <string name="contractOfferRejectedHappyContent">"%1$s sangat bahagia dengan timnya dan dia tidak mau meninggalkannya dalam waktu dekat.
+
+"</string>
+    <string name="contractOfferRejectedMuchWorseTeamContent">"%1$s tidak mau bermain di tim yang lemahs.
+
+"</string>
+    <string name="contractOfferRejectedSimilarTeamContent">"%1$s berpikir penawaran tersebut tidak cukup menariknya untuk pindah ke tempat baru.
+
+"</string>
+    <string name="contractOfferRejectedTitle">%1$s - penawaran kontrak ditolak</string>
+    <string name="contractOfferRejectedWorseTeamContent">"%1$s berpikir jika bergabung dengan tim yang lemah akan buruk untuk karirnya.
+
+"</string>
+    <string name="contractOfferTitle">Agen dari %1$s senang mendengar tawaran kontrak untuk pemainnya.</string>
+    <string name="contractOfferWithdrawnContent">Tuan yang terhormat, karena kurangnya tanggapan Anda, tawaran kontrak untuk %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="contractOfferWithdrawnTitle">%1$s - penawaran kontrak ditarik</string>
+    <string name="contractSignedContent">%1$s menandatangani kontrak dengan team kita hari ini. Dia pindah dari %2$s seharga %3$s.</string>
+    <string name="contractSignedTitle">%1$s menandatangani kontrak</string>
+    <string name="contractTerminatePenalty">Hukuman</string>
+    <string name="contractUntil">Kontrak sampai:</string>
+    <string name="contractWillBeSigned">Kontrak akan ditandatangani pada %1$s.</string>
+    <string name="contractWillBeSignedToday">Kontrak akan ditandatangani hari ini.</string>
+    <string name="contractWithFreeAgentSignedContent">%1$s bergabung dengan tim kami hari ini. Dia menandatangani kontrak dengan status bebas transfer.</string>
+    <string name="contractWithFreeAgentSignedTitle">%1$s menandatangani kontrak</string>
+    <string name="contract_expiration_reminder_content1">"Halo, Pak.
+
+Saya hanya ingin mengingatkan Anda, bahwa kontrak pemain kita berikut akan berakhir dalam 30 hari:
+
+"</string>
+    <string name="contract_expiration_reminder_content2">"- %1$s (%2$s)
+"</string>
+    <string name="contract_expiration_reminder_content3">Jika Anda ingin mempertahankan beberapa pemain ini di klub, Anda harus mengajukan penawaran kontrak perpanjangan kepada mereka.</string>
+    <string name="contract_expiration_reminder_title">Peringatan masa kedaluwarsa kontrak</string>
+    <string name="copy_toast_msg">Link disalin ke papan klip</string>
+    <string name="cornerKick">Sepak pojok (%1$s)</string>
+    <string name="costOfCamp">Biaya:</string>
+    <string name="counterAttackAction1">%1$s memulai serangan balik!</string>
+    <string name="counterAttackAction2">Serangan balik!</string>
+    <string name="counterAttackAction3">%1$s sedang melakukan serangan balik!</string>
+    <string name="countriesExplored">Negara yang dijelajahi:</string>
+    <string name="countriesToExplore">Negara untuk dijelajahi:</string>
+    <string name="countryRanking">Peringkat Negara</string>
+    <string name="countryRankingDescription">Peringkat negara memutuskan tentang jumlah kuota yang disediakan konfederasi benua untuk negara-negara di piala internasional. Jika Anda bekerja dengan baik dengan tim Anda, Anda dapat menaikkan peringkat negara Anda, jadi mungkin lebih mudah untuk berpartisipasi di Piala Champions atau Piala Federasi di tahun-tahun mendatang.</string>
+    <string name="createCustomPlayer">Buat pemain imajinasi</string>
+    <string name="createNewFormation">Buat formasi baru</string>
+    <string name="createNewTeam">Buat tim baru</string>
+    <string name="credits">Tentang</string>
+    <string name="crossAction1">%1$s mengumpan!</string>
+    <string name="crossAction2">Crossing menuju kotak pinalti!</string>
+    <string name="crossAction3">%1$s melakukan crossing menuju kotak pinalti!</string>
+    <string name="crossAction4">%1$s mengangkatnya ke dalam area!</string>
+    <string name="crossAction5">%1$s dengan umpan silang!</string>
+    <string name="crossAction6">%1$smencoba melakukan umpan silang!</string>
+    <string name="crossing">Crossing</string>
+    <string name="cup">piala</string>
+    <string name="currency">Mata uang:</string>
+    <string name="currentAssignment">Tugas saat ini:</string>
+    <string name="currentRecommendations">Rekomendasi saat ini:</string>
+    <string name="currentSponsors">Sponsor sekarang</string>
+    <string name="customPlayers">Pemain imajinasi:</string>
+    <string name="database">Database:</string>
+    <string name="date">Tanggal:</string>
+    <string name="days">hari</string>
+    <string name="daysLeft">Sisa hari:</string>
+    <string name="days_left_to_results">Hasil hari tersisa:</string>
+    <string name="days_to_expire">hari kedaluwarsa:</string>
+    <string name="december">Desember</string>
+    <string name="defending">Pertahanan</string>
+    <string name="delete">Hapus</string>
+    <string name="demotivated">kehilangan motivasi</string>
+    <string name="departureDate">Tanggal keberangkatan:</string>
+    <string name="detail">Detail</string>
+    <string name="distanceShotAction1">%1$s memutuskan untuk menendang dari jarak jauh!</string>
+    <string name="distanceShotAction2">%1$s menendang dari kejauhan!</string>
+    <string name="distanceShotAction3">%1$s menedang dari jauh!</string>
+    <string name="distanceShotAction4">%1$s Menembak dari jarak 25 meter!</string>
+    <string name="distanceShotAction5">%1$s menembak dari luar area penalti!</string>
+    <string name="distanceShotAction6">%1$s menendangnya dari kejauhan!</string>
+    <string name="distanceShotAction7">%1$s mencoba keberuntungannya dari jarak jauh!</string>
+    <string name="distanceShotAction8">masih jauh dari gawang. Tapi %1$s menembak!</string>
+    <string name="distanceShotAction9">%1$s mencoba dari jarak jauh!</string>
+    <string name="doYouWantToSaveChanges">Apakah anda ingin menyimpan?</string>
+    <string name="doctor">Dokter</string>
+    <string name="domesticCupContent">"Tuan, selamat!
+
+Saya sangat senang bahwa Kita bisa melakukannya dan memenangkan Piala nasional ini luar biasa! Saya sudah percaya kepada tim kami dari awal.
+
+Terima kasih atas pekerjaan Anda dan saya berharap untuk lebih di masa depan!"</string>
+    <string name="domesticCupTitle">Kerja bagus!</string>
+    <string name="domesticCupsTickets">Pertandingan piala lokal</string>
+    <string name="domesticFederationPrizes">Hadiah dari asosiasi nasional</string>
+    <string name="donationsForFans">Donasi untuk penggemar:</string>
+    <string name="donationsForFans2">Sumbangan untuk penggemar</string>
+    <string name="donationsHigh">Tinggi</string>
+    <string name="donationsHighDescription">Penggemar klub mendapat donasi yang banyak` baik pertandingan kandang ataupun tandang. Ini meningkatkan suasana dan menyediakan dukungan yang lebih baik bagi para pemain.</string>
+    <string name="donationsNone">Tidak ada</string>
+    <string name="donationsNoneDescription">Klub tidak memberikan donasi ke penggemar sama sekali. Ini memperburuk Suasana hati mereka. Tapi Anda dapat menghemat uang.</string>
+    <string name="donationsNormal">Normal</string>
+    <string name="donationsNormalDescription">Sebagian uang dari tiket dan transportasi untuk pertandingan tandang.</string>
+    <string name="drawAllTeams">Draw all teams</string>
+    <string name="drawNextTeam">Draw next team</string>
+    <string name="draws">Seri:</string>
+    <string name="drawsTable">S</string>
+    <string name="dribblingAction1">%1$s mencoba melakukan tembakan!</string>
+    <string name="dribblingAction10">%1$s menembus pemain belakang!</string>
+    <string name="dribblingAction11">%1$s mengalahkan pemain belakang!</string>
+    <string name="dribblingAction2">%1$s memutuskan untuk menggiring bola melewati pemain lawan!</string>
+    <string name="dribblingAction3">%1$s mengambil kesempatan untuk menggiring bola!</string>
+    <string name="dribblingAction4">%1$s pergi menggiring bola!</string>
+    <string name="dribblingAction5">%1$s mencoba untuk menggiring bola!</string>
+    <string name="dribblingAction6">%1$s!</string>
+    <string name="dribblingAction7">%1$s mencoba untuk menipu lawannya!</string>
+    <string name="dribblingAction8">langkah yang bagus dari %1$s!</string>
+    <string name="dribblingAction9">%1$s melewati bek lawan!</string>
+    <string name="duration">Durasi:</string>
+    <string name="durationDays">Durasi (Hari):</string>
+    <string name="east">Timur</string>
+    <string name="eastGroup">timur</string>
+    <string name="east_africa">Afrika (timur)</string>
+    <string name="east_asia">Asia (timur)</string>
+    <string name="east_europe">Eropa (timur)</string>
+    <string name="edit">Edit</string>
+    <string name="editTeamName">Edit nama</string>
+    <string name="edit_emblem">Edit lambang tim</string>
+    <string name="edit_file_already_set_to_default">Edit file sudah diatur ke default.</string>
+    <string name="edit_file_set_to_default_successfully">Edit file yang disetel ke default berhasil!</string>
+    <string name="edit_file_status">Edit status file</string>
+    <string name="edit_file_uploaded_successfully">Edit file yang berhasil diunggah!</string>
+    <string name="edit_players">Edit pemain</string>
+    <string name="edit_teams">Edit tim</string>
+    <string name="editor">Editor</string>
+    <string name="emblem_successfully_changed">Emblem berhasil diubah!</string>
+    <string name="employeeEndOfCareerContent">Pegawai kita, %2$s (%1$s usia %3$s) memutuskan untuk pensiun hari ini</string>
+    <string name="employeeEndOfCareerTitle">%1$s Pensiun</string>
+    <string name="employees">Karyawan</string>
+    <string name="employeesSalaries">Gaji pegawai</string>
+    <string name="endOfCareerContent">%1$s (%2$s) memutuskan untuk pensiun hai ini.</string>
+    <string name="endOfCareerTitle">%1$s pensiun</string>
+    <string name="error_while_upload_edit_file">Kesalahan saat mengunggah file edit.</string>
+    <string name="europe">Eropah</string>
+    <string name="execute">mengeksekusi</string>
+    <string name="exo_controls_fastforward_description">Maju cepat</string>
+    <string name="exo_controls_next_description">Lagu berikutnya</string>
+    <string name="exo_controls_pause_description">Jeda</string>
+    <string name="exo_controls_play_description">Putar</string>
+    <string name="exo_controls_previous_description">Lagu sebelumnya</string>
+    <string name="exo_controls_rewind_description">Putar Ulang</string>
+    <string name="exo_controls_stop_description">Berhenti</string>
+    <string name="expectedSalary">Harapan gaji</string>
+    <string name="expenditures">Pengeluaran:</string>
+    <string name="experience">Pengalaman</string>
+    <string name="fallback_menu_item_copy_link">Salin link</string>
+    <string name="fallback_menu_item_open_in_browser">Buka di browser</string>
+    <string name="fallback_menu_item_share_link">Bagikan link</string>
+    <string name="fans">Fans</string>
+    <string name="fansBehaviourPenaltyContent">Karena kelakuan buruk fans (%1$s) saat melawan %2$s, tim anda didenda %3$s.</string>
+    <string name="fansBehaviourPenaltyTitle">Hukuman atas perilaku fans</string>
+    <string name="fansMoods">Suasana hati penggemar</string>
+    <string name="favouritePlayers">Pemain faforit:</string>
+    <string name="february">Februari</string>
+    <string name="federationCup">Piala Federasi</string>
+    <string name="federationCupContent">"Tuan, kerja yang baik baik!
+
+Piala Federasi adalah milik kita! Ucapan Selamat sebesar-besarnya dan penuh hormat untuk Anda dan untuk semua pemain. Terima kasih untuk permainan indah inii! Sekarang Anda harus minum satu atau dua, Anda pasti pantas mendapatkannya!"</string>
+    <string name="federationCupTitle">Fantastis!</string>
+    <string name="feeNote">- Tim lawan akan mendapatkan (%1$s)</string>
+    <string name="fifthDivision">Divisi 5</string>
+    <string name="finalGame">Final</string>
+    <string name="financePeriod">Periode finansial: %1$s-%2$s</string>
+    <string name="financialBonus">bonus keuangan (%1$s)</string>
+    <string name="financing">Keuangan</string>
+    <string name="fine">denda %1$s</string>
+    <string name="fired">Kamu dipecat, permainan berakhir!</string>
+    <string name="firstChampionship">Turnamen 1</string>
+    <string name="firstDivision">Divisi 1</string>
+    <string name="firstGroup">A</string>
+    <string name="firstLeg">leg pertama</string>
+    <string name="fitness">Kebugaran</string>
+    <string name="fixtures">Laga</string>
+    <string name="fixturesAndTables">Laga dan tabel</string>
+    <string name="followedCountries">Negara yang diikuti:</string>
+    <string name="footballPlayer">Pemain sepak bola</string>
+    <string name="formation">Formasi</string>
+    <string name="formationName">Nama formasi:</string>
+    <string name="fourthDivision">Divisi 4</string>
+    <string name="freeAgentRecommendedContent">"Halo, nama saya %1$s, saya seorang agen pemain.
+
+Saya merekomendasikan kepada Anda salah satu pemain saya - %2$s. Dia bermain sebagai %6$s dan sebelumnya bermain untuk tim %3$s.
+
+Jika Anda tertarik untuk mendapatkan dia, silahkan bicara dengan saya tentang kontraknya. Gaji yang diminta sekitar %4$s. Biaya transfernya mungkin hanya %5$s.
+
+Saya harap Anda mempertimbangkan tawaran saya. Semoga harimu menyenangkan!"</string>
+    <string name="freeAgentRecommendedTitle">Rekomendasi dari bebas agen - %1$s</string>
+    <string name="freeKick">Tendangan bebas (%1$s)</string>
+    <string name="freeKickAction1">%1$s menendang!</string>
+    <string name="freeKickLength">%1$s meter dari gawang</string>
+    <string name="friday">Jum</string>
+    <string name="friendlies">Pertandingan persahabatan</string>
+    <string name="friendliesThisSeason">Pertandingan persahabatan musim ini</string>
+    <string name="friendliesTickets">Pertandingan persahabatan</string>
+    <string name="friendlyFees">Biaya untuk saingan</string>
+    <string name="friendlyMatchCancelledContent">Pertandingan persahabatan kita melawan %1$s yang semula direncanakan pada %2$s telah dibatalkan karena bertabrakan dengan jadwal pertandingan resmu.</string>
+    <string name="friendlyMatchCancelledTitle">Pertandingan persahabaran melawan %1$s dibatalkan</string>
+    <string name="friendlyMatchOfferAcceptedContent">"Kami menerima proposal anda atas rencana pertandingan persahabatan antara team kita.
+
+Pertandingan akan dimainkan pada %1$s"</string>
+    <string name="friendlyMatchOfferAcceptedTitle">%1$s - proposal pertandingan persahabatan diterima</string>
+    <string name="friendlyMatchOfferRejectedContent">Kami menolak proposal anda atas rencana pertandingan persahabatan antara team kita.</string>
+    <string name="friendlyMatchOfferRejectedTitle">%1$s - proposal pertandingan persahabatan ditolak</string>
+    <string name="friendlyOfferAwaitingContent">Kami mempunyai tawaran uji coba yang menunggu keputusan Anda dari %1$s. Tolong lihat dan jawab ia, jika Anda mau itu.</string>
+    <string name="friendlyOfferAwaitingTitle">Tawaran uji coba baru dai %1$s</string>
+    <string name="friendlyOfferSent">Penawaran pertandingan persahabatan telah dikirim.</string>
+    <string name="friendlyOfferWithdrawnContent">tuan yang terhormat, karena kurangnya respons Anda, penawaran ramah dari %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="friendlyOfferWithdrawnTitle">penawaran terhadap %1$s ditarik</string>
+    <string name="friendlyOffers">Penawaran</string>
+    <string name="friendship">Dalam persahabatan</string>
+    <string name="friendshipBeginningContent">Pak, saya hanya ingin membagikan perasaan saya tentang dua pemain kami (%1$s, %2$s). Mereka tampaknya saling memahami dengan sangat baik dan memiliki hubungan yang sangat ramah. Ini bagus, karena membuat suasana lebih baik, dan kita dapat mengasumsikan keduanya juga akan bekerja sama dengan baik di lapangan.</string>
+    <string name="friendshipBeginningTitle">%1$s dan %2$s terlihat seperti Sahabat</string>
+    <string name="from">Dari:</string>
+    <string name="fullExtraTime">Pertandingan berakhir</string>
+    <string name="fullExtraTimePenalties">Belum ada pemenang! Adu pinalti!</string>
+    <string name="fullTime">Pertandingan berakhir</string>
+    <string name="fullTime1">\"Wow! Ya! Luar biasa!\"</string>
+    <string name="fullTime2">\"Ini adalah permainan hebat! Saya berharap lebih!\"</string>
+    <string name="fullTime3">\"Kerja bagus, bro. Selamat\"</string>
+    <string name="fullTime4">\"Saya tidak senang. Anda bisa melakukan lebih dari yang Anda lakukan sekarang.\"</string>
+    <string name="fullTime5">Apa itu? Saya tidak pernah ingin melihat sesuatu seperti itu!</string>
+    <string name="fullTime6">\"Sayang. Kalian tidak berharga.\"</string>
+    <string name="fullTimeExtraTime">Belum ada pemenang!</string>
+    <string name="gameOverContent">"Tuan, minggu terakhir ini bencana.
+
+Tampaknya Anda tidak tahu bagaimana untuk meningkatkan kinerja tim. Pemain terlihat sangat buruk, mereka lambat, dan membuat terlalu banyak kesalahan. Aku tidak bisa melihat apapun semangat dalam tim. Maaf karena mengatakan ini, tapi dalam hal ini saya harus mengakhiri kerjasama kami.
+
+Semoga beruntung di tim Anda berikutnya."</string>
+    <string name="gameOverTitle">Cukup, terima kasih...</string>
+    <string name="gameplay">Gaya bermain:</string>
+    <string name="gastronomy">Keahlian memasak</string>
+    <string name="gentle">keramahan</string>
+    <string name="goAhead">- Ya, lanjutkan.</string>
+    <string name="go_for_headers">menyundul</string>
+    <string name="goal">GOAL!!!</string>
+    <string name="goal1Text1">%1$s mengalahkan musuhnya!</string>
+    <string name="goal1Text10">Mereka tidak memberi kesempatan pada lawannya malam ini!</string>
+    <string name="goal1Text11">Belum ada gol lagi dari %1$s!</string>
+    <string name="goal1Text12">%1$s! Satu lagi dari mereka!</string>
+    <string name="goal1Text13">%1$s sangat senang malam ini!</string>
+    <string name="goal1Text14">%1$s mencetak gol lagi!</string>
+    <string name="goal1Text15">Ini hasil yang menggemparkan!</string>
+    <string name="goal1Text16">%1$s mendominasi permainan!</string>
+    <string name="goal1Text17">Ini memalukan!</string>
+    <string name="goal1Text18">Pertandingan yang buruk bagi %1$s!</string>
+    <string name="goal1Text19">%1$s dihancurkan malam ini!</string>
+    <string name="goal1Text2">%1$s tidak bermain dengan baik di lapangan!</string>
+    <string name="goal1Text3">%1$s tidak terhentikan malam ini!</string>
+    <string name="goal1Text4">Pembantaian!</string>
+    <string name="goal1Text5">Pembantaian!</string>
+    <string name="goal1Text6">%1$s berharap permainan cepat berakhir...</string>
+    <string name="goal1Text7">Mereka melakukan apa yang ingin mereka lakukan malam ini!</string>
+    <string name="goal1Text8">%1$s menghancurkan musuh mereka!</string>
+    <string name="goal1Text9">%1$s tidak lagi mempunyai harapan</string>
+    <string name="goal2Text1">%1$s memperbesar keunggulan!</string>
+    <string name="goal2Text10">%1$s mendapatkan masalah serius!</string>
+    <string name="goal2Text11">%1$sbermain lebih baik malam ini!</string>
+    <string name="goal2Text12">%1$s harus menarik diri mereka bersama!</string>
+    <string name="goal2Text2">%1$s semakin dekat dengan kemenangan!</string>
+    <string name="goal2Text3">Hal yang menyakitkan bagi %1$s</string>
+    <string name="goal2Text4">%1$s berada di posisi yang nyaman!</string>
+    <string name="goal2Text5">%1$s memperbesar keunggulan!</string>
+    <string name="goal2Text6">Apakah ini berakhir?</string>
+    <string name="goal2Text7">%1$s sangat kebingungan sekarang!</string>
+    <string name="goal2Text8">Sepertinya penggemar %1$s dapat bersantai sekarang!</string>
+    <string name="goal2Text9">apakah ini Gol kemenangan?</string>
+    <string name="goal3Text1">%1$s mengambil keunggulan!</string>
+    <string name="goal3Text10">%1$s Memimpin!</string>
+    <string name="goal3Text11">%1$s bersiap menyerang!</string>
+    <string name="goal3Text2">%1$s! Mereka harus mempertahankan keunggulan!</string>
+    <string name="goal3Text3">%1$s harus mencetak goal secepatnya sekarang!</string>
+    <string name="goal3Text4">%1$s! Mereka memimpin!</string>
+    <string name="goal3Text5">%1$s! Mereka menciptakan goal!</string>
+    <string name="goal3Text6">%1$s akan bermain lebih tenang sekarang!</string>
+    <string name="goal3Text7">%1$s harus menyerang sekarang juga!</string>
+    <string name="goal3Text8">%1$s memimpin satu gol!</string>
+    <string name="goal3Text9">%1$s berhasil memimpin!</string>
+    <string name="goal4Text1">%1$s! Mereka masih ada di pertandingan ini!</string>
+    <string name="goal4Text10">Gol yang sangat penting bagi %1$s!</string>
+    <string name="goal4Text11">Mereka telah kembali ke pertandingan!</string>
+    <string name="goal4Text12">Itu memunculkan harapan bagi mereka!</string>
+    <string name="goal4Text13">Bisakah mereka mendapatkan satu lagi?</string>
+    <string name="goal4Text14">Mereka membutuhkan satu lagi!</string>
+    <string name="goal4Text15">Tapi mereka masih tertinggal satu Gol!</string>
+    <string name="goal4Text16">Mereka telah dapat satu lagi!</string>
+    <string name="goal4Text2">Belum ada yang kalah!</string>
+    <string name="goal4Text3">Mengembalikan harapan bagi fans %1$s!</string>
+    <string name="goal4Text4">%1$s hanya berselisih satu goal sekarang!</string>
+    <string name="goal4Text5">%1$s hanya berselisih tipis dengan musuh mereka sekarang!</string>
+    <string name="goal4Text6">Apakah %1$s mempertahankan hasil itu?</string>
+    <string name="goal4Text7">Membuang bola dengan cepat dari jaring</string>
+    <string name="goal4Text8">%1$s bertarung sampai titik darah penghabisan!</string>
+    <string name="goal4Text9">Gol penting untuk %1$s!</string>
+    <string name="goal5Text1">Apakah ini terlambat?</string>
+    <string name="goal5Text10">Mereka tidak melakukan selebrasi, terlalu telat untuk mereka</string>
+    <string name="goal5Text11">Hasilnya akan tampak sedikit lebih baik bagi mereka</string>
+    <string name="goal5Text12">Ini sudah sangat terlambat!</string>
+    <string name="goal5Text13">Apakah mereka mempunyai waktu untuk mendapatkan yang lainnya?</string>
+    <string name="goal5Text14">Wow, mereka mencetak gol! bisakah Anda mempercayainya?</string>
+    <string name="goal5Text15">Gagah, tetapi mereka masih jauh dari hasil yang baik!</string>
+    <string name="goal5Text2">Apakah mereka akan melakukan lebih dari ini?</string>
+    <string name="goal5Text3">Membuang bola dengan cepat dari jaring</string>
+    <string name="goal5Text4">Mereka masih mempunyai waktu!</string>
+    <string name="goal5Text5">Momen kelengahan %1$s</string>
+    <string name="goal5Text6">Goal hiburan pun tercipta</string>
+    <string name="goal5Text7">%1$s dengan lambat memperkecil ketertinggalan</string>
+    <string name="goal5Text8">Apakah goal tersebut mempunyai arti penting?</string>
+    <string name="goal5Text9">%1$s! Mereka mencetak goal penghibur</string>
+    <string name="goal6Text1">%1$s kehilangan keunggulan!</string>
+    <string name="goal6Text2">%1$s menyamakan kedudukan!</string>
+    <string name="goal6Text3">Pertandingan dimulai lagi!</string>
+    <string name="goal6Text4">Skor kembali imbang!</string>
+    <string name="goal6Text5">Mereka kembali dari kekalahan!</string>
+    <string name="goal6Text6">Mereka menyamakan kedudukan!</string>
+    <string name="goal6Text7">Mereka kembali ke dalam permainan!</string>
+    <string name="goal6Text8">Mereka telah berhasil merespon!</string>
+    <string name="goal6Text9">Mereka melakukannya!</string>
+    <string name="goal7Text1">%1$s menjadi pahlawan %2$s!</string>
+    <string name="goal7Text2">Sukacita di tribun %1$s!</string>
+    <string name="goal7Text3">Selebrasi yang gila-gilaan!</string>
+    <string name="goal7Text4">Goal di menit-menit akhir!</string>
+    <string name="goal7Text5">Sebuah pertandingan yang dramatis!</string>
+    <string name="goal7Text6">Fans %1$s terkejut!</string>
+    <string name="goal7Text7">Bisakah kamu mempercayainya!</string>
+    <string name="goal7Text8">%1$s mencetak gol di momen terakhir pertandingan itu!</string>
+    <string name="goalAfterChaosAction1">Bola entah bagaimana menuju ke jaring!</string>
+    <string name="goalAfterChaosAction2">Masuk!</string>
+    <string name="goalAfterChaosAction3">%1$s menerima ucapan selamat!</string>
+    <string name="goalAfterChaosAction4">%1$s! Dia mencetak gol!</string>
+    <string name="goalAfterChaosAction5">%1$s adalah pencetak golnya!</string>
+    <string name="goalAfterChaosAction6">%1$s menepatkan bola ke jaring gawang!</string>
+    <string name="goalAfterChaosAction7">%1$s membuatnya!</string>
+    <string name="goalText1">%1$s! Apakah mereka ingin mencetak satu gol lagi?</string>
+    <string name="goalkeeper_trainer">Pelatih penjaga gawang</string>
+    <string name="goalkeeping">Goalkeeping</string>
+    <string name="goals">Gol terbanyak</string>
+    <string name="goalsTable">G</string>
+    <string name="goodPerformance">performa baik</string>
+    <string name="goodPlayerBoughtAnswer1">Dia salah satu pemain yang hebat, saya sangat senang dia setuju untuk bergabung dengan kita!</string>
+    <string name="goodPlayerBoughtAnswer2">Dia adalah pemain berbakat, tapi saya berharap dia bekerja keras, seperti pemain lainnya.</string>
+    <string name="goodPlayerBoughtAnswer3">Baik... sejujurnya saya tidak tahu banyak mengenai dia</string>
+    <string name="goodPlayerBoughtQuestion">Penggemar sangat senang melihat %1$s dengan seragam %2$s. apa yang Anda harapkan dari pemain ini?</string>
+    <string name="graphics_team_emblems">Grafis (lambang tim)</string>
+    <string name="greeting1">Selamat pagi, pak. Nama saya %1$s, saya bekerja untuk koran lokal, bolehkah kita berbicara sebentar?</string>
+    <string name="greeting2">Selamat pagi, tuan. ini %1$s lagi. bisakah saya Menanyai anda?</string>
+    <string name="group">Group</string>
+    <string name="groupStage">Babak grup</string>
+    <string name="groupStageDraw">Group stage draw</string>
+    <string name="groupX">Grup %1$s</string>
+    <string name="halfTime">Turun minum</string>
+    <string name="halfTime1">\"Luar biasa! Aku mencintai kalian anak-anak!\"</string>
+    <string name="halfTime2">\"Permainan yang bagus sejauh ini! Jaga kinerja Kalian!\"</string>
+    <string name="halfTime3">\"Tidak buruk. Kalian dapat melakukan itu!\"</string>
+    <string name="halfTime4">\"Terlalu banyak kesalahan. Kalian perlu berusaha lebih keras!\"</string>
+    <string name="halfTime5">\"Apa yang Kalian lakukan? Mulai bermain!</string>
+    <string name="halfTime6">\"Ini adalah mimpi buruk. Kalian tidak tahu bagaimana untuk bermain sepak bola.\"</string>
+    <string name="hallOfFame">Aula:</string>
+    <string name="hallOfTrophies">Daftar Piala</string>
+    <string name="happy">senang</string>
+    <string name="headerShotAction1">%1$s menyundul!</string>
+    <string name="headerShotAction2">%1$s dengan sebuah sundulan!</string>
+    <string name="headerShotAction3">%1$s melompat sangat tinggi!</string>
+    <string name="headerShotAction4">%1$s menyundul dengan keras!</string>
+    <string name="headerShotAction5">%1$s menyundul disertai lompatan lurus ke deapan!</string>
+    <string name="heading">Sundulan</string>
+    <string name="heelShotAction1">%1$s menendang dengan tumitnya!</string>
+    <string name="heelShotAction2">%1$s menendang dengan tumitnya!</string>
+    <string name="high">Tinggi</string>
+    <string name="highShotAction1">%1$s menendang tanpa berpikir!</string>
+    <string name="highShotAction2">%1$s mencungkil bola!</string>
+    <string name="highShotAction3">%1$s menyerang dengan berapi-api!!</string>
+    <string name="highShotAction4">%1$s dengan tendangan dahsyat!</string>
+    <string name="higherOfferAcceptedContent">Kami senang untuk menerima usulan tawaran untuk pemain Anda %1$s.</string>
+    <string name="higherOfferAcceptedTitle">Penawaran tertinggi untuk %1$s diterima</string>
+    <string name="higherOfferRejectedContent">Kami telah menolak usulan penawaran Anda untuk pemain Anda %1$s.</string>
+    <string name="higherOfferRejectedTitle">Penawaran tertinggi untuk %1$s ditolak</string>
+    <string name="highestLoss">Kekalahan terbesar:</string>
+    <string name="highestRank">Peringkat tertinggi:</string>
+    <string name="highestWin">Kemenangan terbesar:</string>
+    <string name="hire">Sewa</string>
+    <string name="hireMoreTrainers">Anda tidak memiliki satupun pelatih pemain muda. Kontrak beberapa pelatih.</string>
+    <string name="history">Sejarah</string>
+    <string name="home">kandang</string>
+    <string name="hooligansFight">membuat kerusuhan</string>
+    <string name="hooligansPoliceFight">berkelahi dengan pihak keamanan</string>
+    <string name="host">Host</string>
+    <string name="importantMatchForFansAnswer1">Tentu Saja! saya dan semua pemain tahu bahwa ini akan menjadi pertandingan sengit, dan kami siap untuk itu!</string>
+    <string name="importantMatchForFansAnswer2">Setiap pertandingan itu penting untuk kita, tidak peduli siapapun lawannya.</string>
+    <string name="importantMatchForFansAnswer3">Sungguh? tidak,saya tidak peduli tentang itu.</string>
+    <string name="importantMatchForFansQuestion">Penggemar melihat pertandingan berikutnya melawan %1$s.mereka menganggapnya sebagai musuh bebuyutan. apakah pertandingan ini memiliki arti penting bagi anda?</string>
+    <string name="inbox">Pesan masuk</string>
+    <string name="includeEditedPlayers">Sertakan pemain yang diedit</string>
+    <string name="includeRandomPlayers">Sertakan pemain yang dibuat secara acak</string>
+    <string name="incorrect_emblem_file">File salah. Hanya imajinasi .png dan .jpg yang dibolehkan.</string>
+    <string name="individualOrders">Perintah individu</string>
+    <string name="injuredFor">Cedera (%1$s minggu untuk memulihkan)</string>
+    <string name="insertNewTeamName">Masukkan nama tim:</string>
+    <string name="insert_new_league_name">Masukkan nama liga baru:</string>
+    <string name="interceptionOfPassAction1">%1$s mengambil bola itu!</string>
+    <string name="interceptionOfPassAction10">%1$s memotong umpan!</string>
+    <string name="interceptionOfPassAction2">Penghalauan bola yang sangat baik oleh %1$s!</string>
+    <string name="interceptionOfPassAction3">Bola dihalau oleh %1$s!</string>
+    <string name="interceptionOfPassAction4">%1$s menghalau bola itu!</string>
+    <string name="interceptionOfPassAction5">%1$s mencuri bola!</string>
+    <string name="interceptionOfPassAction6">Didapatkan oleh %1$s</string>
+    <string name="interceptionOfPassAction7">%1$s mencurinya!</string>
+    <string name="interceptionOfPassAction8">%1$s memungut bola!</string>
+    <string name="interceptionOfPassAction9">%1$s mendapat bola lebih dulu!</string>
+    <string name="invalidSquadInjuredSuspended">Ada pemain Cedera atau dalam masa hukuman di tim utama Anda:</string>
+    <string name="invalidSquadTooLittlePlayersStartingLineup">Pemain utama Anda belum berjumah 11 pemain.</string>
+    <string name="invalidSquadTooLittleSubs">Anda harus memilih pemain pengganti setidaknya 4 pemain.</string>
+    <string name="isolation">Masalah adaptasi</string>
+    <string name="isolationBeginningContent">Tuan. Pemain baru kami (%1$s) tampaknya memiliki banyak kesulitan untuk menjadi anggota penuh tim kami. Dia jarang berbicara dengan siapa pun dan mengikuti caranya sendiri. Kita harus membantunya entah bagaimana, karena dengan cara ini dia tidak akan dapat bekerja sama dengan baik dengan rekan tim dan menunjukkan potensi penuhnya.</string>
+    <string name="isolationBeginningTitle">%1$s mengalami kesulitan beradaptasi dengan rekan setim</string>
+    <string name="isolationEndingContent">Pak, kabar baik! Sepertinya %1$s tidak memiliki masalah evaluasi dengan anggota tim lainnya. Saya baru saja melihatnya dia dengan para pemain tim kita dan mereka tampaknya bersenang-senang bersama. Saya pikir kita tidak perlu khawatir tentang dia lagi.</string>
+    <string name="isolationEndingTitle">%1$s sekarang bisa beradaptasi dengan rekan setim</string>
+    <string name="january">Januari</string>
+    <string name="jobOfferWithdrawnContent">Dear Sir, karena kurangnya respons Anda, tawaran pekerjaan dari %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="jobOfferWithdrawnTitle">tawaran pekerjaan dari %1$s ditarik</string>
+    <string name="jobOffers">Tawaran pekerjaan</string>
+    <string name="journalist">Jurnalis</string>
+    <string name="july">Juli</string>
+    <string name="june">Juni</string>
+    <string name="keeperReflectAction1">Kiper menepis bola!</string>
+    <string name="keeperReflectAction2">%1$s menepis bola!</string>
+    <string name="keeperReflectAction3">%1$s menepis bola!</string>
+    <string name="keeperReflectAction4">%1$s meninju bola!</string>
+    <string name="keeperReflectAction5">%1$s mengamankan bola!</string>
+    <string name="keeperReflectAction6">%1$s mendorong bola kembali!</string>
+    <string name="keeperReflectAction7">%1$s menghalangi tembakan!</string>
+    <string name="keeperSaveAction1">Diselamatkan oleh %1$s</string>
+    <string name="keeperSaveAction2">Penyelamatan yang baik dari kiper!</string>
+    <string name="keeperSaveAction3">%1$s menjaga gawang dengan baik!</string>
+    <string name="keeperSaveAction4">%1$s menangkap bola!</string>
+    <string name="keeperSaveAction5">penyelamatan yang baik dari %1$s</string>
+    <string name="keeperSaveAction6">%1$s! Penyelamatan hebat!</string>
+    <string name="keeperSaveAction7">Penyelamatan luar biasa oleh %1$s!</string>
+    <string name="keeperSaveAction8">Penyelamatan mudah oleh penjaga gawang</string>
+    <string name="keeperSaveAction9">%1$s mendapatkan bola dengan mudah</string>
+    <string name="knownPlayers">Pemain yang tersedia (%1$s):</string>
+    <string name="last_edit_date">Tanggal edit terakhir:</string>
+    <string name="leader">Diperlakukan seperti seorang pemimpin</string>
+    <string name="leaderBeginningContent">Pak, setelah saya observasi dan melakukan penelitian hubungan pemain dalam satu tim dengan waktu yang lama, serta hasilnya memperhatikan hal yang penting seperti berikut. Salah satunya, %1$s, tampaknya memiliki banyak rasa hormat dan kepercayaan dari pemain lain. Karismanya yang luar biasa menjadikannya pemimpin tim yang alami dan pilihan yang bagus untuk menjadi kapten. Tolong dipikirkan.</string>
+    <string name="leaderBeginningTitle">%1$s sangat populer dengan rekan satu tim</string>
+    <string name="leagueTickets">Pertandingan liga</string>
+    <string name="league_names_edited">Nama liga yang diedit:</string>
+    <string name="light">lemah</string>
+    <string name="light_">sedikit</string>
+    <string name="live_results">Hasil langsung:</string>
+    <string name="load">Lanjutkan</string>
+    <string name="loadGame">Lanjutkan permainan</string>
+    <string name="loading">Memuat...</string>
+    <string name="loading_new_game">Memuat permainan baru...</string>
+    <string name="loading_teams_and_leagues">Menunggu Liga dan Tim</string>
+    <string name="loan">Pinjam</string>
+    <string name="loanAmount">Jumlah uang yang dipinjam:</string>
+    <string name="loanBeganContent">%1$s (%2$s) bergabung dengan tim kami hari ini. Dia akan dipinjam sampa %3$s.</string>
+    <string name="loanBeganTitle">%1$s telah dipinjam tim kami</string>
+    <string name="loanOffer">Pinjam</string>
+    <string name="loanOfferAcceptedContent">"Penawaran peminjaman anda untuk (%1$s) kami terima.
+
+"</string>
+    <string name="loanOfferAcceptedTitle">%1$s - penawaran peminjaman diterima</string>
+    <string name="loanOfferReceivedContent">"%1$s ingin meminjam pemain kita %2$s.
+
+Lihat dan jawab tawaran yang mereka kirim."</string>
+    <string name="loanOfferReceivedTitle">%1$s ingin meminjam %2$s</string>
+    <string name="loanOfferRejectedBenchContent">"Dia ingin tinggal di timmnya dan berjuang mendapatkan tempat di tim utama.
+
+"</string>
+    <string name="loanOfferRejectedContent">"Penawaran peminjaman anda untuk (%1$s) kami tolak.
+
+"</string>
+    <string name="loanOfferRejectedFirstSquadContent">"Dia adalah pemain yang penting bagi kami, jadi kami tidak bepikir untuk meminjamkan dia.
+
+"</string>
+    <string name="loanOfferRejectedTitle">%1$s - penawaran peminjaman ditolak</string>
+    <string name="loanOfferTitle">"%1$s ingin meminjam pemain Anda.
+
+Peminjaman dimulai segera dan berakhir pada %2$s."</string>
+    <string name="loanOfferWithdrawnContent">Dear Sir, karena kurangnya tanggapan Anda, penawaran pinjaman untuk %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="loanOfferWithdrawnTitle">%1$s - penawaran pinjaman ditarik</string>
+    <string name="loanOutBeganContent">%1$s joined %2$s today. He will be on loan until %3$s.</string>
+    <string name="loanOutBeganTitle">%1$s on loan in %2$s</string>
+    <string name="loanRepayment">Pelunasan peminjaman</string>
+    <string name="lockerRoomDescription">"Jika kita ingin sukses, kita pasti perlu memiliki pemain yang terampil. Tetapi jika mereka tidak dapat bekerja dengan baik satu sama lain dan suasana di ruang ganti dingin, maka mereka tidak akan dapat menunjukkan potensi penuh mereka. Jika ruang ganti diisi dengan semangat tim yang baik, itu membuat kami kuat dan kami bisa menghadapi setiap lawan. Hal-hal yang harus Anda perhatikan:
+
+ Jika dua pemain dengan karisma tinggi dan temperamen yang sulit akan bertemu satu sama lain, mereka sering menciptakan konflik. Jika keduanya bersama-sama di lapangan, itu berdampak negatif pada kinerja tim.
+
+ Pemain yang pemarah dan ramah dengan karisma tinggi cenderung hidup dalam hubungan yang baik. Itu bahkan bisa mengarah pada pertemanan, yang baik bagi kita. Mereka memahami satu sama lain juga di lapangan sehingga memiliki keduanya di barisan itu baik untuk kita.
+
+ Ketika seorang pemain baru datang ke tim, ia kadang-kadang merasa sulit untuk berintegrasi dengan yang lain, terutama ketika ia memiliki karisma yang rendah. Ini lebih sering terjadi pada pemain muda dan orang asing. Pemain seperti itu tidak akan dapat melakukan yang terbaik selama pertandingan.
+
+ Terkadang Anda akan melihat bahwa salah satu pemain sangat populer di antara rekan satu tim, dan mereka sangat menghormatinya. Akan jelas bahwa mereka menginginkannya sebagai pemimpin. Pilihan yang sangat bagus untuk menjadikannya kapten. Namun, jika Anda tidak memilihnya sebagai anggota tim, yang lain akan merindukannya di lapangan dan itu mungkin berdampak negatif.
+
+ Apa yang dapat Anda lakukan untuk meningkatkan suasana di ruang ganti? Mengapa Anda tidak mengajak tim Anda makan malam? Atau bahkan ke pesta? Semua orang butuh kesenangan. Tentu saja, semuanya juga memiliki konsekuensi."</string>
+    <string name="locker_room">Ruang ganti</string>
+    <string name="longCornerKickAction1">%1$s mengumpan!</string>
+    <string name="long_passes">panjang</string>
+    <string name="losses">Kalah:</string>
+    <string name="lossesTable">K</string>
+    <string name="low">Rendah</string>
+    <string name="lowShotAction1">%1$s dengan tendangan yang rendah!</string>
+    <string name="lowShotAction2">%1$s Melakukan Tembakan menyusur tanah!</string>
+    <string name="lowShotAction3">%1$s menggiringnya perlahan!</string>
+    <string name="lowestRank">Peringkat terendah:</string>
+    <string name="main">Utama</string>
+    <string name="maintenance">Perawatan stadium</string>
+    <string name="majorRivals">Saingan utama:</string>
+    <string name="makeOffer">Buat penawaran</string>
+    <string name="march">Maret</string>
+    <string name="marketer">Pemasar</string>
+    <string name="marketing">Marketing</string>
+    <string name="matchOrganisation">Organisasi pertandingan</string>
+    <string name="matchSpeed">Kecepatan pertandingan:</string>
+    <string name="matches">Total pertandingan</string>
+    <string name="matchesTable">M</string>
+    <string name="maxSkill">Kemampuan (max.):</string>
+    <string name="may">Mei</string>
+    <string name="media">Media</string>
+    <string name="medicalServices">Layanan medis</string>
+    <string name="medium_">menengah</string>
+    <string name="mental">Latihan mental</string>
+    <string name="merchandiseSale">Penjualan merchandise</string>
+    <string name="mexico">Amerika Utara (Meksiko)</string>
+    <string name="middle_east">Timur Tengah</string>
+    <string name="minSkill">Kemampuan (min.):</string>
+    <string name="mixed">campuran</string>
+    <string name="monday">Sen</string>
+    <string name="monthlyBalance">Saldo bulanan:</string>
+    <string name="monthlyCost">Biaya bulanan:</string>
+    <string name="monthlyIncome">Pembayaran bulanan</string>
+    <string name="monthlyInstalment">Cicilan bulanan - %1$s</string>
+    <string name="monthlyInstalment2">Cicilan bulanan:</string>
+    <string name="monthlySalary">Gaji</string>
+    <string name="monthlySpending">Pengeluaran bulanan</string>
+    <string name="monthsToRepayment">Bulan untuk pembayaran:</string>
+    <string name="morale">Moral</string>
+    <string name="mostApps">Pemain yang paling sering berlaga:</string>
+    <string name="mostPromisingPlayersContent">Pemain yang menjanjikan dari mereka telah ditemukan, diantaranya adalah %1$s dan %2$s. Hasil lengkapnya bisa dilihat di halaman Pencari bakat.</string>
+    <string name="motivated">termotivasi</string>
+    <string name="motivationalSpeech">Pidato motivasi</string>
+    <string name="move">Pindah...</string>
+    <string name="moveTo">Pindah ke...</string>
+    <string name="moveToFirstTeam">Memindahkan ke tim utama</string>
+    <string name="multi_release">Mengakhiri kontrak</string>
+    <string name="nameCannotBeEmpty">Nama formasi tidak boleh kosong.</string>
+    <string name="nationalCup">Piala Nasional</string>
+    <string name="native_body">Isi</string>
+    <string name="native_headline">Judul</string>
+    <string name="native_media_view">Tampilan Media</string>
+    <string name="nature">Biasa saja</string>
+    <string name="negotiateOffer">Tawar</string>
+    <string name="negotiation">Negosiasi</string>
+    <string name="negotiationTitle">"%1$s ingin menegosiasikan tawaran Anda untuk pemainnya.
+
+Mereka menginginkan setidaknya %2$s. Ini adalah penawaran terakhir. Dari pihak mereka."</string>
+    <string name="never">tidak pernah</string>
+    <string name="newGame">Permainan baru</string>
+    <string name="newJobOfferContent">"Tuan.
+
+Klub %1$s telah mengirim sebuah tawaran pekerjaan untuk Anda, Meskipun saya tidak suka itu, Anda bebas melihatnya dan memutuskan tentang masa depan Anda."</string>
+    <string name="newJobOfferTitle">Tawaran pekerjaan baru dari %1$s</string>
+    <string name="newPlayer">Pemain baru...</string>
+    <string name="newSave">Slot baru...</string>
+    <string name="newSponsorshipOfferContent">Berita bagus! kami menerima tawaran kontrak dari perusahaan bernama %1$s. Anda bisa melihat tawaran dan menjawab itu jika Anda menyukainya.</string>
+    <string name="newSponsorshipOfferTitle">Tawaran sponsor baru dari %1$s</string>
+    <string name="newTrophy">Piala baru!</string>
+    <string name="next">Berikutnya</string>
+    <string name="nextMatch">Pertandingan selanjutnya:</string>
+    <string name="no">Tidak</string>
+    <string name="noAssignment">Pemandu bakat ini tidak ditugaskan ke daerah manapun.</string>
+    <string name="noDataToShow">Tidak ada data untuk ditampilkan.</string>
+    <string name="noFriendlies">Tidak ada pertandingan persahabatan.</string>
+    <string name="noFriendlyOffers">Tidak ada tawaran laga uji coba sejauh ini.</string>
+    <string name="noGoalAction1">Tunggu, goal dibatalkan!</string>
+    <string name="noGoalAction2">Tidak, goal dibatalkan!</string>
+    <string name="noGoalAction3">Tidak, bendera offside sudah diangkat!</string>
+    <string name="noGoalAction4">Tapi wasit berkata tidak gol!</string>
+    <string name="noGoalAction5">Tidak, tindakan itu dihentikan oleh wasit!</string>
+    <string name="noGoalOffsideAction1">Protes yang tidak berguna, pencetak gol dalam posisi offside!</string>
+    <string name="noGoalOffsideAction2">Benarkan dia offside? Saya tidak percaya!</string>
+    <string name="noGoalOffsideAction3">Pencetak goal tersebut offside!</string>
+    <string name="noGoalOffsideAction4">Pencetak gol membantu dirinya dengan tangannya!</string>
+    <string name="noGoalOffsideAction5">Ini pelanggaran? atau Offside? Saya tidak Yakin!</string>
+    <string name="noGoalOffsideAction6">Penjaga gawang jelas dilanggar di sini!</string>
+    <string name="noInternetConnection">Tidak ada koneksi internet!</string>
+    <string name="noMatchesToShow">Tidak ada pertandingan pada tahap ini.</string>
+    <string name="noMatchesYet">Belum ada pertandingan yang kamu jalani.</string>
+    <string name="noNever">- Tidak. Dan jangan panggil saya lagi.</string>
+    <string name="noNewsObservations">Tidak ada berita atau pengamatan sejauh ini</string>
+    <string name="noOffers">Tidak ada tawaran.</string>
+    <string name="noPlayerAssigned">(tidak ada pemain yang dipilih)</string>
+    <string name="noRecommendations">Tidak ada rekomendasi saat ini.</string>
+    <string name="noResults">Tidak ada hasil.</string>
+    <string name="noRoomForSponsor">"You can't have more sponsorships of this type. Terminate other contract to make place for that one."</string>
+    <string name="noScoutsInClub">Anda tidak memiliki pencari bakat di klub Anda. sewa beberapa untuk menggunakan fasilitas Pencarian bakat.</string>
+    <string name="noTeamsAnalysed">Tidak ada tim yang sedang dianalisis saat ini.</string>
+    <string name="noThanks">Tidak, Terima kasih</string>
+    <string name="noTrainer">tidak ada pelatih</string>
+    <string name="noTrophies">Maaf,Anda tidak memiliki piala untuk saat ini...</string>
+    <string name="noYouthTeams">Tidak ada tim muda.</string>
+    <string name="none">tidak ada</string>
+    <string name="normal">normal</string>
+    <string name="normal2">Normal</string>
+    <string name="north">Utara</string>
+    <string name="north_africa">Afrika (utara)</string>
+    <string name="north_america">Amerika Utara</string>
+    <string name="north_central_africa">Afrika (utara-tengah)</string>
+    <string name="north_east">Timur laut</string>
+    <string name="north_europe">Eropa (utara)</string>
+    <string name="north_south_america">Amerika Selatan (utara)</string>
+    <string name="north_west">Barat laut</string>
+    <string name="notThisTime">- Tidak, mungkin lain waktu.</string>
+    <string name="not_recommended">Tidak disarankan:</string>
+    <string name="notes">Catatan:</string>
+    <string name="notifications_permission_confirm">Izinkan</string>
+    <string name="notifications_permission_decline">Jangan izinkan</string>
+    <string name="notifications_permission_title">Izinkan aplikasi mengirim notifikasi kepada Anda?</string>
+    <string name="november">November</string>
+    <string name="numberOfSeats">Jumlah kursi:</string>
+    <string name="oceania">Oseania</string>
+    <string name="oceania_2">Oceania (2)</string>
+    <string name="october">Oktober</string>
+    <string name="offTheBarAction1">Melenceng!</string>
+    <string name="offTheBarAction2">Terkena tiang gawang!</string>
+    <string name="offTheBarAction3">Bola mengenai mistar gawang!</string>
+    <string name="offTheBarAction4">Peluang hilang!</string>
+    <string name="offerAcceptedBenchContent">"%1$s merupakan seorang pemain pengganti di tim kami dan kami pikir penawaran tesebut cukup menarik.
+
+"</string>
+    <string name="offerAcceptedContent">"Penawaran transfer anda kami terima.
+
+"</string>
+    <string name="offerAcceptedFirstSquadContent">"%1$s memainkan peran penting di tim kami, tapi tawaran anda jauh lebih menarik.
+
+"</string>
+    <string name="offerAcceptedProposeContract">Silahkan hubungi agen %1$s untuk negosisasi kontrak.</string>
+    <string name="offerAcceptedReserveContent">"Karena %1$s tidak cukup baik untuk tim kami, kami dengan senang menerima tawaran anda.
+
+"</string>
+    <string name="offerAcceptedTitle">%1$s - penawaran transfer diterima</string>
+    <string name="offerContract">Penawaran kontrak</string>
+    <string name="offerNegotiatingContent">"Kami senang untuk bernegosiasi terkait tawaran Anda untuk pemain kami %2$s.
+
+Kami menginginkan tawaran sebesar %1$s untuk pemain ini."</string>
+    <string name="offerNegotiatingTitle">%1$s menjadi incaran transfer</string>
+    <string name="offerReceivedContent">%1$s ingin membeli (%2$s). Cek dan jawab tawaran yang mereka kirim.</string>
+    <string name="offerReceivedTitle">%1$s membuat penawaran untuk %2$s</string>
+    <string name="offerRejectedBenchContent">"%1$s adalah pemain pengganti di tim kami, tetapi kami tidak tertarik dengan tawaran anda.
+
+"</string>
+    <string name="offerRejectedContent">"Penawaran transfer anda kami tolak.
+
+"</string>
+    <string name="offerRejectedFirstSquadContent">"%1$s memainkan peran penting di tim kami dan kami tidak akan menjualnya semudah itu.
+
+"</string>
+    <string name="offerRejectedReserveContent">"Meskipun %1$s tidak cukup baik untuk tim kami, kami menginginkan tawaran yg lebih besar.
+
+"</string>
+    <string name="offerRejectedTitle">%1$s - penawaran transfer ditolak</string>
+    <string name="offerType">Tipe penawaran:</string>
+    <string name="offeredPrice">Harga yang ditawarkan:</string>
+    <string name="offeredSalary">Gaji yang ditawarkan:</string>
+    <string name="offersMade">Tawaran yang telah dibuat</string>
+    <string name="offersReceived">Tawaran yang diterima</string>
+    <string name="office">Kantor</string>
+    <string name="offline_notification_text">Ketuk untuk membuka iklan</string>
+    <string name="offline_notification_title">Lihat iklan yang Anda simpan ketika offline</string>
+    <string name="offline_opt_in_confirm">Oke</string>
+    <string name="offline_opt_in_confirmation">Anda akan menerima notifikasi berisi link ketika Anda kembali online</string>
+    <string name="offline_opt_in_decline">Tidak</string>
+    <string name="offline_opt_in_message">Kami akan mengirimkan notifikasi kepada Anda berisi link ke situs pengiklan.</string>
+    <string name="offline_opt_in_title">Buka iklan ketika Anda kembali online.</string>
+    <string name="offsideAction1">Wasit menggangap offside!</string>
+    <string name="offsideAction2">Offside!</string>
+    <string name="offsideAction3">Wasit meniup peluit! Offside!</string>
+    <string name="offsideAction4">Penjaga garis mengangkat bendera, offside!</string>
+    <string name="offsideAction5">Ini offside, bendera terangkat!</string>
+    <string name="offsideTraps">Jebakan offside:</string>
+    <string name="often">sering</string>
+    <string name="ok">OK</string>
+    <string name="onTrainingCamp">Saat ini di sebuah kamp pelatihan di %1$s (tanggal kembali - %2$s)</string>
+    <string name="oneOnOneAction1">Situasi satu lawan satu!</string>
+    <string name="oneOnOneAction10">%1$s harus menempatkannya!</string>
+    <string name="oneOnOneAction11">Peluang mudah untuk %1$s!</string>
+    <string name="oneOnOneAction2">Satu lawan satu dengan penjaga gawang!</string>
+    <string name="oneOnOneAction3">%1$s saling berhadapan dengan penjaga gawang!</string>
+    <string name="oneOnOneAction4">%1$s! Tinggal penjaga gawang untuk ditaklukkan!</string>
+    <string name="oneOnOneAction5">%1$s! Dia mencetak gol!</string>
+    <string name="oneOnOneAction6">%1$s! Dia mendapat kesempatan!</string>
+    <string name="oneOnOneAction7">%1$s punya banyak waktu!</string>
+    <string name="oneOnOneAction8">%1$s berada di belakang pertahanan!</string>
+    <string name="oneOnOneAction9">Tidak terjebak offside! %1$s!</string>
+    <string name="opponents">Lawan</string>
+    <string name="options">Pilihan</string>
+    <string name="organisationCostNote">- Biaya pengaturan sebesar %1$s</string>
+    <string name="organize_dinner">Atur makan malam</string>
+    <string name="organize_dinner_cons_1">Biaya %1$s</string>
+    <string name="organize_dinner_pros_1">Membantu menyelesaikan konflik dan mengintegrasikan pemain yang terisolasi</string>
+    <string name="organize_dinner_pros_2">Sedikit meningkatkan semangat para pemain</string>
+    <string name="organize_party">Mengatur pesta</string>
+    <string name="organize_party_cons_1">Menurunkan bentuk semua pemain saat ini</string>
+    <string name="organize_party_cons_2">Biaya %1$s</string>
+    <string name="organize_party_pros_1">Sangat efektif dalam menyelesaikan konflik dan Evaluasi Psikologi pemain</string>
+    <string name="organize_party_pros_2">Meningkatkan moral para pemain</string>
+    <string name="other">divisi lain</string>
+    <string name="otherRivals">Saingan lainnya:</string>
+    <string name="overview">Ikhtisar</string>
+    <string name="ownGoal">o.g.</string>
+    <string name="ownGoalAction1">Kita menyaksikan gol bunuh diri!</string>
+    <string name="ownGoalAction2">Gol bunuh diri!</string>
+    <string name="passFarFromPenaltyAreaAction1">%1$s mengoper dengan cepat</string>
+    <string name="passFarFromPenaltyAreaAction2">%1$s mengoper dengan baik</string>
+    <string name="passFarFromPenaltyAreaAction3">%1$s mengoper dengan lihai</string>
+    <string name="passFarFromPenaltyAreaAction4">%1$s menyundul bola ke temannya</string>
+    <string name="passFarFromPenaltyAreaAction5">%1$s menggiring bola kedepan</string>
+    <string name="passFarFromPenaltyAreaAction6">%1$s melakukan sebuah umpan</string>
+    <string name="passInPenaltyAreaAction1">%1$s melakukan umpan terobosan!</string>
+    <string name="passInPenaltyAreaAction2">%1$s opersan di kotak pinalti!</string>
+    <string name="passInPenaltyAreaAction3">%1$s akan menendang! Tidak! Dia memberikan bola ke temannya!</string>
+    <string name="passInPenaltyAreaAction4">%1$s memeberikan bola ke temannya!</string>
+    <string name="passInPenaltyAreaAction5">%1$s bermain dengan Pasangannya!</string>
+    <string name="passIntoPenaltyAreaAction1">%1$s berlari menuju kotak pinalti!</string>
+    <string name="passIntoPenaltyAreaAction2">%1$s melakukan umpan terobosan!</string>
+    <string name="passIntoPenaltyAreaAction3">%1$s memainkan bola menuju kotak pinalti!</string>
+    <string name="passIntoPenaltyAreaAction4">%1$s membawa bola ke area!</string>
+    <string name="passIntoPenaltyAreaAction5">%1$s mengirim bola ke kotak penalti!</string>
+    <string name="passToCenterAction1">%1$s berlari di tengah</string>
+    <string name="passToCenterAction2">%1$s memainkan bola menuju tengah</string>
+    <string name="passToCenterAction3">%1$s memusatkan bola</string>
+    <string name="passToLeftSideAction1">%1$s memainkan bola menuju kiri</string>
+    <string name="passToLeftSideAction2">%1$s berlari di kiri</string>
+    <string name="passToLeftSideAction3">%1$s membawa bola ke kiri!</string>
+    <string name="passToLeftSideAction4">%1$s melabarkan permainan ke samping kiri</string>
+    <string name="passToLeftSideAction5">%1$s mengirim bola ke sayap kiri</string>
+    <string name="passToRightSideAction1">%1$s memainkan bola menuju kanan</string>
+    <string name="passToRightSideAction2">%1$s berlari di kanan</string>
+    <string name="passToRightSideAction3">%1$s membawa bola ke samping kanan</string>
+    <string name="passToRightSideAction4">%1$s melebarkan permainan ke samping kanan</string>
+    <string name="passToRightSideAction5">%1$s mengirim bola ke sayap kanan</string>
+    <string name="passing">Operan</string>
+    <string name="pauseMatch">Jeda</string>
+    <string name="penalize">Menghukum</string>
+    <string name="penaltyFailText1">Kesalahan yang fatal!</string>
+    <string name="penaltyFailText2">Berhasil ditangkap kiper!</string>
+    <string name="penaltyFailText3">Sedikit diatas tiang!</string>
+    <string name="penaltyFailText4">Melenceng!!!</string>
+    <string name="penaltyFailText5">Diselamatkan kiper!</string>
+    <string name="penaltyGoal">pen.</string>
+    <string name="penaltyKick">Pinalty!</string>
+    <string name="penaltyKickAction1">Tidak ada keraguan tentang keputusan ini!</string>
+    <string name="penaltyKickAction2">Tapi wasit tidak meniup peluit!</string>
+    <string name="penaltyKickAction3">Protes tidak berguna, bola sudah berada di titik pinalti!</string>
+    <string name="penaltyKickAction4">Keputusan wasit yang sangat baik!</string>
+    <string name="penaltyKickAction5">Peluang emas untuk mencetak gol!</string>
+    <string name="penaltyKickAction6">Wasit mengabaikan protes!</string>
+    <string name="penaltyKickAction7">Jelas ini adalah keputusan yang bagus!</string>
+    <string name="penaltyKickAction8">Oh, ini kesalahan dari wasit!</string>
+    <string name="penaltyKickExecution1">%1$s bersiap menendang...</string>
+    <string name="penaltyKickExecution2">%1$s mengambil napas...</string>
+    <string name="penaltyKickExecution3">%1$s mengambil ancang-ancang...</string>
+    <string name="penaltyKickExecution4">%1$s dengan peluangnya...</string>
+    <string name="penaltyKickExecution5">%1$s menempatkan bola mendatar..</string>
+    <string name="penaltyKickExecution6">%1$s bersiap untuk melakukan penyerangan...</string>
+    <string name="penaltyKickReason1">%1$s (%2$s) dilanggar!</string>
+    <string name="penaltyKickReason2">%1$s (%2$s) memegang bola dengan tangannya di kotak pinalti!</string>
+    <string name="penaltyType">Jenis hukuman:</string>
+    <string name="penalty_area">area pinalti</string>
+    <string name="peopleToHire">Orang untuk disewa</string>
+    <string name="phoneCall">Panggilan telepon</string>
+    <string name="physiotherapist">Fisio</string>
+    <string name="placeOfCamp">Lokasi latihah:</string>
+    <string name="playFriendlyMatches">Bermain pertandingan persahabatan dengan tim lokal?</string>
+    <string name="playerAge">Umur:</string>
+    <string name="playerAgeMax">Usia (max.):</string>
+    <string name="playerAgeMin">Usia (min.):</string>
+    <string name="playerCaughtClubbingContent">Bos, saya punya beberapa berita buruk. Seseorang melihat %1$s semalam minum banyak alkohol dan berhura-hura di klub malam. Kamu tidak bisa membiarkan pemainmu melakukan hal ini, itu terlalu jauh dari gaya hidup seorang yang profesional.</string>
+    <string name="playerCaughtClubbingTitle">%1$s terlihat di klub malam kemarin</string>
+    <string name="playerDidBadTweetsContent">Bos, saya pikir Anda harus bicara dengan %1$s. Dia tetap mengeluarkan sesuatu yang tidak masuk akal pada twitternya. Diantaranya menyinggung lawan kita berikutnya. Ini bukan sebuah persoalan yang besar. Tetapi seorang pemain profesional seharusnya tidak berperilaku seperti itu.</string>
+    <string name="playerDidBadTweetsTitle">%1$s menghina lawan di Internet</string>
+    <string name="playerDoesntPlayAnswer1">Aku membiarkan dia beristirahat untuk sementara, ia masih menjadi pemain penting untuk saya.</string>
+    <string name="playerDoesntPlayAnswer2">Baik, pemain lain bermain baik juga. Jika dia bekerja keras, dia juga akan memberikan banyak peluang.</string>
+    <string name="playerDoesntPlayAnswer3">%1$s? dia bermain sangat buruk kemarin, ini sebabnya</string>
+    <string name="playerDoesntPlayQuestion">%1$s tidak mendapat banyak peluang di pertandingan terakhir, mengapa?</string>
+    <string name="playerGaveBadInterviewContent">Bos, sudahkah Anda membaca surat kabar hari ini? Oh, saya lupa - Anda belum membacanya... Bagaimanapun, pemain kita, %1$s, memberikan pernyataan, dan mengucapkan sesuatu yang tidak wajar tentang Anda dan beberapa rekan setimnya. Hal demikian dapat mempengaruhi atmosfer tim, jadi saya pikir Anda harus berbuat sesuatu.</string>
+    <string name="playerGaveBadInterviewTitle">%1$s memberikan pernyataan kontroversial</string>
+    <string name="playerGoodFormAnswer1">Pasti, saya tidak bisa membayangkan %1$s tanpanya.</string>
+    <string name="playerGoodFormAnswer2">Benar, tapi pemain lain juga di bermain bagus saat itu.</string>
+    <string name="playerGoodFormAnswer3">Tidak, saya tidak berpikir demikian.</string>
+    <string name="playerGoodFormQuestion">%1$s bermain bagus akhir akhir ini, dan menjadi pemain yang berharga untuk tim Anda. apakah Anda setuju?</string>
+    <string name="playerInformation">Informasi Pemain</string>
+    <string name="playerInjured">%1$s (%2$s) cedera</string>
+    <string name="playerInjuredAction1">Dia akan meninggalkan lapangan</string>
+    <string name="playerInjuredAction2">Dia tidak bisa melanjutkan pertandingan</string>
+    <string name="playerInjuredAction3">Ini adalah akhir dari permainan baginya</string>
+    <string name="playerInjuredMatchContent">%1$s menderita cedera ketika bertanding. Penyembuhannya memerlukan waktu sekitar %2$s minggu.</string>
+    <string name="playerInjuredTitle">%1$s cedera</string>
+    <string name="playerInjuredTrainingContent">%1$s menderita cedera ketika latihan. Penyembuhannya memerlukan waktu sekitar %2$s minggu.</string>
+    <string name="playerIsInjured">%1$s cedera!</string>
+    <string name="playerMissedTrainingContent">Bos, saya yakin Anda mengetahui absennya %1$s sepanjang latihan hari ini. Saya harap Anda akan membuatnya menyesal atas tindakan indisipliner tersebut.</string>
+    <string name="playerMissedTrainingTitle">%1$s melewatkan latihan</string>
+    <string name="playerName">Nama:</string>
+    <string name="playerNationality">Kebangsaan:</string>
+    <string name="playerOfTheMonthContent">%1$s (%2$s) telah memenangkan penghargaan pemain terbaik bulan ini (%3$s, %4$s). %5$s (%6$s) dan %7$s (%8$s} berada di peringkat dua dan tiga.</string>
+    <string name="playerOfTheMonthTitle">Pemaik terbaik bulan ini - %1$s</string>
+    <string name="playerOfTheYearContent">%1$s (%2$s) Telah memenangkan penghargaan pemain terbaik tahun ini (%3$s). %4$s (%5$s) dan %6$s (%7$s) berada di peringkat dua dan tiga.</string>
+    <string name="playerOfTheYearTitle">Pemain terbaik tahun ini - %1$s</string>
+    <string name="playerOptions">Pilihan...</string>
+    <string name="playerPosition">Posisi pilihan:</string>
+    <string name="playerPunishments">Hukuman pemain</string>
+    <string name="playerRatings">Pemain terbaik</string>
+    <string name="playerReaction">Reaksi dari %1$s:</string>
+    <string name="playerRefusedLoanContent">"%1$s menolak tawaran peminjaman dari %2$s.
+
+Dia merasa kontrak tersebut tidak menarik perhatiannya untuk meninggalkan klub."</string>
+    <string name="playerRefusedLoanTitle">%1$s menolak tawaran peminjaman dari %2$s</string>
+    <string name="playerRefusedToRenewContractContent">"%1$s menolak perpanjangan kontrak.
+
+Dia menginginkan tawaran yang lebih baik."</string>
+    <string name="playerRefusedToRenewContractTitle">%1$s - penawaran kontrak ditolak</string>
+    <string name="playerRefusedToSignContractContent">"%1$s rejected your contract offer.
+
+He said that he deserves better offer."</string>
+    <string name="playerRefusedTransferContent">%1$s menolak penawaran kontrak dari %2$s. Menurut dia penawaran tersebut tidak cukup menariknya meninggalkan timnya.</string>
+    <string name="playerRefusedTransferTitle">%1$s menolak penawaran %2$s</string>
+    <string name="playerRenewedContractContent">"%1$s menerima perpanjangan kontrak.
+
+Kontak baru akan berakhir pada %2$s"</string>
+    <string name="playerRenewedContractTitle">%1$s mempebarui kontrak</string>
+    <string name="playerReturnedAfterInjuryContent">Kabar baik! %1$s baru saja pulih sepenuhnya dari cederanya, dia tidak sabar untuk kembali ke lapangan</string>
+    <string name="playerReturnedAfterInjuryTitle">%1$s telah pulih dari cedera</string>
+    <string name="playerReturnedContent">%1$s kembali ke tim, beberapa bulan lalu, dia telah dipinjamkan ke %2$s</string>
+    <string name="playerReturnedTitle">%1$s kembali dari pinjaman ke %2$s</string>
+    <string name="playerRewards">Hadiah pemain</string>
+    <string name="playerSalaries">Gaji pemain</string>
+    <string name="playerSkill">Keahlian:</string>
+    <string name="playerSoldContent">%1$s menandatangani kontrak dengan %2$s hari ini. Pemain tersebut dijual seharga %3$s.</string>
+    <string name="playerSoldTitle">%1$s dijual ke %2$s</string>
+    <string name="playerStats">Status pemain</string>
+    <string name="playerTapToShowDetails">Pemain (ketuk untuk melihat secara rinci):</string>
+    <string name="playerTrainedHardContent">Bos, saya beritahukan bahwa %1$s bekerja lebih keras selama latihan terakhir. Terkadang dia berlatih lebih lama untuk melatih tendangan bebas dan lainnya. Anda harus memberitahu dia bahwa Anda menghargai usahanya.</string>
+    <string name="playerTrainedHardTitle">%1$s bekerja lebih keras dibandingkan biasanya</string>
+    <string name="playerTrainedWithYouthContent">Bos, saya baru saja melihat bahwa %1$s cukup baik untuk menetap selama latihan dan sesekali bekerja dengan pemain muda kita. Dia menunjukkan suatu trik dan berbicara dengan mereka. Ini tentu memberikan pengalaman berharga bagi pemain muda kita. Mengapa Anda tidak memberikan penghargaan kepadanya atas perilakunya tersebut?</string>
+    <string name="playerTrainedWithYouthTitle">%1$s membantu pemain muda kita</string>
+    <string name="playerVisitedChildrenContent">Bos, sudahkah Anda dengar? %1$s membuat tindakan yang mulia. Selama waktu luangnya, dia mengunjungi rumah sakit terdekat dan bertemu dengan seorang anak yang mengidolakannya. Saya pikir akan sangat baik untuk membiarkannya melakukan hal yang baik ini atau mungkin memberikan sesuatu?</string>
+    <string name="playerVisitedChildrenTitle">%1$s mengunjungi anak-anak di rumah sakit.</string>
+    <string name="players">Pemain</string>
+    <string name="players_edited">Pemain diedit:</string>
+    <string name="playoff">Play-Off</string>
+    <string name="playoffs">Play-Off</string>
+    <string name="pleasePlusOne">...dan dengan +1 di Google+!</string>
+    <string name="pleaseRate">"Anda menyukai permainan True Football 3?
+
+Tolong bantu kami dengan memberikan nilai di Google Play Store:"</string>
+    <string name="points">p.</string>
+    <string name="points2">poin</string>
+    <string name="pointsForAchievements">Poin untuk Prestasi:</string>
+    <string name="pointsForTrophies">Poin untuk Piala:</string>
+    <string name="pointsTable">N</string>
+    <string name="poorPerformance">performa buruk</string>
+    <string name="possesionCenterAction1">%1$s membawa bola</string>
+    <string name="possesionCenterAction2">%1$s memasuki tengah lapangan!</string>
+    <string name="possesionCenterAction3">%1$s menunggu temannya</string>
+    <string name="possesionCenterAction4">%1$s menguasai permainan</string>
+    <string name="possesionCenterAction5">%1$s menguasai bola</string>
+    <string name="possesionCenterAction6">%1$s Memperlambat tempo permainan</string>
+    <string name="possesionCenterAction7">Kontrol yang baik dari %1$s</string>
+    <string name="possesionCenterAction8">%1$s maju kedepan membawa bola</string>
+    <string name="possesionLeftSideAction1">%1$s membawa bola melalui sisi kiri</string>
+    <string name="possesionLeftSideAction2">%1$s berlari di sisi kiri!</string>
+    <string name="possesionLeftSideAction3">%1$s turun ke sayap kiri!</string>
+    <string name="possesionLeftSideAction4">%1$s bergerak ke sebelah kiri!</string>
+    <string name="possesionRightSideAction1">%1$s membawa bola melalui sisi kanan</string>
+    <string name="possesionRightSideAction2">%1$s berlari di sisi kanan!</string>
+    <string name="possesionRightSideAction3">%1$s Memajukan bola rendah ke sayap kanan!</string>
+    <string name="possesionRightSideAction4">%1$s bergerak ke sebelah kanan!</string>
+    <string name="pot">Pot</string>
+    <string name="preferredPosition">Posisi pilihan</string>
+    <string name="pressConference">Konferensi pers</string>
+    <string name="pressing">Pressing:</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="privateCompliment">pujian pribadi</string>
+    <string name="privateReprimand">teguran pribadi</string>
+    <string name="proceedToMatch">Proses ke pertandingan</string>
+    <string name="professionalBehavior">tindakan professional</string>
+    <string name="profile">Profil</string>
+    <string name="promotionContent">"Tuan, kami sangat senang bahwa kami dapat melakukannya!
+
+promosi ke Divisi lebih tinggi adalah sukses besar kami. Sebagai manajer, Anda melakukan pekerjaan yang fantastis, jadi terima kasih banyak dan saya berharap bahwa kita akan terus berada di jalur kemenangan di musim berikutnya. Dengan keberhasilan ini, kita dapat mengharapkan lebih banyak uang dari siaran TV dan Federasi.
+
+Selamat!"</string>
+    <string name="promotionTitle">Selamat!</string>
+    <string name="publicCompliment">pujian umum</string>
+    <string name="publicReprimand">teguran umum</string>
+    <string name="pyrotechnics">menyalakan kembang api</string>
+    <string name="qualification">Kualifikasi</string>
+    <string name="quarterfinals">Perempat-final</string>
+    <string name="quitMatch">Kamu yakin mengakhiri pertandingan? Kamu akan kalah (0:3)</string>
+    <string name="racism">teriakan rasis</string>
+    <string name="random_pick">Pilihan acak</string>
+    <string name="rankings">Peringkat</string>
+    <string name="rate">Pergi ke Play Store</string>
+    <string name="reason">Alasan:</string>
+    <string name="rebellious">memberontak</string>
+    <string name="received">diterima</string>
+    <string name="recommended">Direkomendasikan:</string>
+    <string name="recommendedPlayers">Rekomendasi pemain:</string>
+    <string name="records">Rekor</string>
+    <string name="redCard">Kartu merah!</string>
+    <string name="redCards">Kartu merah terbanyak</string>
+    <string name="regionToExplore">Daerah:</string>
+    <string name="reject">Tolak</string>
+    <string name="rejectOffer">Tolak</string>
+    <string name="release">Mengakhiri kontrak</string>
+    <string name="relegationContent">"Tuan, saya ingin memberitahu Anda bahwa saya sangat kecewa dengan hasil akhir liga. Degradasi ini adalah pukulan besar bagi klub kami. Untuk memperbaikinya, dan mendapatkan kembali kepercayaan dari pendukung, kita harus meningkatkan kinerja kita, dan berjuang untuk promosi di musim berikutnya.
+
+Ini adalah kesempatan terakhir Anda untuk tinggal di sini di %1$s..."</string>
+    <string name="relegationGameOverContent">"Tuan, apa yang bisa saya katakan?
+
+Degradasi ini adalah pukulan besar bagi kita. Seluruh musim adalah bencana. Kami memiliki potensi jauh lebih dari itu. Saya tidak tahu bagaimana masa depan klub sekarang, tapi aku pasti tahu bahwa Anda tidak akan menjadi bagian dari itu.
+
+Selamat tinggal!"</string>
+    <string name="relegationTitle">Sayang sekali!</string>
+    <string name="remove">Menghapus</string>
+    <string name="removeFromFirstTeam">Memindahkan dari tim utama</string>
+    <string name="removeThisTeam">Hapus tim ini</string>
+    <string name="remove_analysis_confirmation_dialog">Apakah Anda ingin menghentikan analisis untuk tim %1$s?</string>
+    <string name="remove_results_confirmation_dialog">Apakah Anda ingin menghapus hasil analisis %1$s?</string>
+    <string name="renewContract">Memperbarui kontrak</string>
+    <string name="replay">ulangan</string>
+    <string name="reportCost">Biaya Laporan:</string>
+    <string name="reportTime">Waktu yang dibutuhkan:</string>
+    <string name="reset_edit_file">Setel ulang file edit</string>
+    <string name="results">Hasil</string>
+    <string name="results_available">Hasil tersedia</string>
+    <string name="returnDate">Tanggal kepulangan:</string>
+    <string name="returnToMainMenu">Kembali ke menu awal?</string>
+    <string name="revenue">Pendapatan:</string>
+    <string name="reward">Hadiah</string>
+    <string name="rewardType">Jenis penghargaan:</string>
+    <string name="rival">Lawan:</string>
+    <string name="role">Peran</string>
+    <string name="roundOf16">Babak 16 besar</string>
+    <string name="roundOf32">Babak 32 besar</string>
+    <string name="roundOf64">Babak 64 besar</string>
+    <string name="roundX">Minggu %1$s</string>
+    <string name="s1">Simpan gambar</string>
+    <string name="s2">Izinkan Iklan menyimpan gambar di Galeri foto?</string>
+    <string name="s3">Terima</string>
+    <string name="s4">Tolak</string>
+    <string name="s5">Buat acara kalender</string>
+    <string name="s6">Izinkan Iklan membuat acara kalender?</string>
+    <string name="s7">Tes Iklan</string>
+    <string name="salary">Gaji</string>
+    <string name="saturday">Sab</string>
+    <string name="save">Simpan</string>
+    <string name="saveGame">Simpan permainan</string>
+    <string name="saving">Menyimpan...</string>
+    <string name="scout">Mencari bakat</string>
+    <string name="scoutContinuesSearchingContent">Pencari bakat kita, %1$s melanjutkan pencariannya. Saat ini dia menyiapkan daftar %2$s pemain yang layak dipantau.</string>
+    <string name="scoutContinuesSearchingTitle">Pencari bakat %1$s sedang melakukan pencarian</string>
+    <string name="scoutReport">Laporan Pencari Bakat</string>
+    <string name="scoutReportContent">"Halo, Pak. Ini laporan saya tentang %1$s.
+
+"</string>
+    <string name="scoutReportContent2">"%1$s bermain sebagai seorang %2$s.
+"</string>
+    <string name="scoutReportContentHighPotential">"Dia punya potensi tinggi, dan saya tidak ragu dia akan jauh meningkat selama karirnya.
+"</string>
+    <string name="scoutReportContentLowPotential">"Potensinya cukup rendah. Saya tidak berpikir dia akan meningkat pesat.
+"</string>
+    <string name="scoutReportContentMuchBetter">"Dia jauh lebih baik dibanding pemain terbaik kami di posisinya %1$s.
+"</string>
+    <string name="scoutReportContentMuchWorse">"Dia jauh lebih buruk dibanding pemain terbaik kita di posisinya %1$s.
+"</string>
+    <string name="scoutReportContentNotYoung">"Dia bukan pemain muda lagi. Jadi jangan berharap dia akan mengalami peningkatan signifikan.
+"</string>
+    <string name="scoutReportContentOld">"Dia sudah menjadi pemain tua, jadi berhati-hatilah, dia akan mengalami penurunan.
+"</string>
+    <string name="scoutReportContentQuiteHighPotential">"Jika dia giat bekerja. Dia bisa menjadi pemain yang lebih hebat di masa depan.
+"</string>
+    <string name="scoutReportContentSlightlyBetter">"Dia sedikit lebih baik dibanding pemain terbaik kita di posisinya %1$s.
+"</string>
+    <string name="scoutReportContentSlightlyWorse">"Dia sedikit lebih buruk dibanding pemain terbaik kita di posisinya %1$s.
+"</string>
+    <string name="scoutReportContentVeryHighPotential">"Potensinya sangat tinggi, dan saya yakin bahwa dia akan menjadi pemain yang jauh lebih hebat di masa depan.
+"</string>
+    <string name="scoutReportContentVeryLowPotential">"Saya tidak melihat potensi apapun darinya. Pendapat saya, kemampuannya tidak akan menjadi lebih tinggi.
+"</string>
+    <string name="scoutReportTitle">%1$s - laporan pencari bakat</string>
+    <string name="scouting">Pencarian bakat</string>
+    <string name="scoutingDescription">"pencarian bakat adalah hal yang cukup penting jika Anda mencari beberapa pemain berbakat. Agen Pencari Bakat Anda siap menjelajahi berbagai wilayah dunia untuk mencari pemain yang berpotensi dan cocok dengan tim kita.
+
+ Setiap pemain memiliki potensi sendiri, yang memutuskan apakah dia akan tumbuh dengan cepat atau lambat. Hanya pengintai yang bisa melihat potensi itu. Scout yang lebih berpengalaman adalah - semakin benar harapannya tentang pemain.
+
+ Jika Anda tidak memutuskan untuk menetapkan scout Anda ke wilayah mana pun - mereka masih berguna dalam membuat laporan tentang pemain yang Anda amati di wilayah Anda sendiri."</string>
+    <string name="scoutsInClub">Pencari bakat di klub:</string>
+    <string name="search">Pencarian</string>
+    <string name="search2">Pencarian...</string>
+    <string name="searchForPlayers">Pencarian pemain</string>
+    <string name="searchForPosition">Posisi pilihan:</string>
+    <string name="search_menu_title">Telusuri</string>
+    <string name="secondChampionship">Turnamen 2</string>
+    <string name="secondDivision">Divisi 2</string>
+    <string name="secondGroup">B</string>
+    <string name="secondLeg">leg kedua</string>
+    <string name="secondPosition">Posisi lain</string>
+    <string name="secondShotAction1">%1$s akan menuntaskannya!</string>
+    <string name="secondShotAction2">%1$s belari untuk menuntaskannya!</string>
+    <string name="secondShotAction3">%1$s meraih bola!</string>
+    <string name="secondShotAction4">%1$s akan mendapat peluang!</string>
+    <string name="secondShotAction5">%1$s! Peluang lain!</string>
+    <string name="secondYellowCard">Kartu kuning kedua!!! Pertandingan pun berakhir untuk dia!</string>
+    <string name="security">Keamanan</string>
+    <string name="selectCountriesToFollow">Pilih hingga 5 negara untuk mengikuti kompetisi mereka:</string>
+    <string name="selectTeamToAnalyze">Pilih tim untuk dianalisis:</string>
+    <string name="semifinals">Semi-final</string>
+    <string name="sent">dikirimkan</string>
+    <string name="september">September</string>
+    <string name="setPieces">Bola mati</string>
+    <string name="settings">Pengaturan</string>
+    <string name="seventhDivision">Divisi 7</string>
+    <string name="shape">Ketajaman</string>
+    <string name="shirt_primary">Jersey (utama)</string>
+    <string name="shirt_secondary">Jersey (kedua)</string>
+    <string name="shooting">Tendangan</string>
+    <string name="shop">Toko</string>
+    <string name="shopRevenue">Pendapatan toko</string>
+    <string name="shortCornerKickAction1">%1$s takes a short corner kick!</string>
+    <string name="short_passes">pendek</string>
+    <string name="shotAction1">%1$s! Tendangan yang sangat keras!</string>
+    <string name="shotAction2">%1$s menendang!</string>
+    <string name="shotAction3">%1$s! Tembakan yang tepat!</string>
+    <string name="shotAction4">%1$s dengan tembakan!</string>
+    <string name="shotAction5">%1$s mengambil tembakan!</string>
+    <string name="shotAction6">%1$s berupaya mencetak gol!</string>
+    <string name="shotAction7">%1$s mencoba menembak!</string>
+    <string name="shotAction8">%1$s mencoba keberuntungannya!</string>
+    <string name="shotAction9">%1$s mencoba mengalahkan penjaga gawang!</string>
+    <string name="shotMissedAction1">Kesalahan yang fatal!</string>
+    <string name="shotMissedAction10">Jauh dari target...</string>
+    <string name="shotMissedAction11">Wow, sangat tipis!!</string>
+    <string name="shotMissedAction12">Meleset, tapi itu usaha yang bagus</string>
+    <string name="shotMissedAction13">masih diatas mistar gawang</string>
+    <string name="shotMissedAction14">Bukan penempatan terbaik</string>
+    <string name="shotMissedAction15">Nyaris saja!!</string>
+    <string name="shotMissedAction16">Ini kegagalan yang memalukan...</string>
+    <string name="shotMissedAction2">Tipis sekali!</string>
+    <string name="shotMissedAction3">Tidak mengenai sarasan...</string>
+    <string name="shotMissedAction4">Melambung ke atas gawang!</string>
+    <string name="shotMissedAction5">Bergerak melebar...</string>
+    <string name="shotMissedAction6">Upaya yang baik! Tetapi dia kehilangan kesempatan!</string>
+    <string name="shotMissedAction7">Tapi itu bergerak mengerikan ke samping...</string>
+    <string name="shotMissedAction8">masih jauh dari sasaran</string>
+    <string name="shotMissedAction9">Wow, itu sebuah tembakan yang bagus!</string>
+    <string name="show_squad">Tampilkan regu</string>
+    <string name="simulationMode">Simulasi:</string>
+    <string name="sixthDivision">Divisi 6</string>
+    <string name="skill">Keahlian</string>
+    <string name="sometimes">kadang-kadang</string>
+    <string name="sort">Mengurutkan</string>
+    <string name="sound">Suara:</string>
+    <string name="south">Selatan</string>
+    <string name="south_africa">Afrika (selatan)</string>
+    <string name="south_america">Amerika Selatan</string>
+    <string name="south_asia">Asia (selatan)</string>
+    <string name="south_east">Tenggara</string>
+    <string name="south_east_asia">Asia (tenggara)</string>
+    <string name="south_east_europe">Eropa (tenggara)</string>
+    <string name="south_south_america">Amerika Selatan (selatan)</string>
+    <string name="south_west">Barat daya</string>
+    <string name="south_west_europe">Eropa (barat daya)</string>
+    <string name="specialThanks">"Terima kasih khusus untuk dukungan yang luar biasa
+(database, kompetisi, terjemahan):"</string>
+    <string name="speechResults">Pengumuman hasil:</string>
+    <string name="spokesmanForFans">Perwakilan fans</string>
+    <string name="sponsorBonusContent">Berita bagus, tuan! sponsor kita, %1$s memutuskan untuk menghadiahi klub dengan bonus sebesar %2$s. Anda bisa melihatnya Hasil baik dari tim bisa membawa sebuah keuntungan. jaga kerja baik anda!</string>
+    <string name="sponsorBonusTitle">Tambahan uang dari %1$s!</string>
+    <string name="sponsors">Sponsor</string>
+    <string name="sponsorshipOfferWithdrawnContent">Dear Sir, karena kurangnya tanggapan Anda, tawaran sponsor dari %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="sponsorshipOfferWithdrawnTitle">penawaran sponsor %1$s ditarik</string>
+    <string name="sponsorshipOffers">Tawaran dari sponsor</string>
+    <string name="sponsorshipType">Tipe sponsor</string>
+    <string name="sponsorships">Pendapatan dari sponsor</string>
+    <string name="squad">Tim</string>
+    <string name="stadium">Stadium</string>
+    <string name="stadiumCapacity">Kapasitas stadium:</string>
+    <string name="stadiumEmployeesDescription">"Anda bisa mengontrol jumlah orang yang bekerja di stadion.
+
+ Mengontrak lebih banyak pelayan toko dan kios bisa meningkatkan pendapatan Anda selama pertandingan.
+
+ Jika stadion cukup besar untuk menampung wisatawan - kamu juga akan membutuhkan pemandu wisata untuk menyediakan beberapa agenda tur.
+
+ Petugas keamanan bisa mencegah kemungkinan buruk dari penggemar yang agresif. Coba sewa beberapa - Hukuman jauh lebih menyakitkan.
+
+ Saat stadionmu berkembang, ini membutuhkan lebih banyak orang untuk mengurusnya. Jika Anda tidak memiliki cukup staf - ini bisa menyebabkan kerusakan dan Kehancuran"</string>
+    <string name="stadiumMaintenance">Perawatan stadium</string>
+    <string name="starPlayerBoughtAnswer1">Saya sangat setuju, dia pemain yang hebat! saya selalu bermimpi membawa dia ke tim saya!</string>
+    <string name="starPlayerBoughtAnswer2">Benar, saya pikir dia akan menjadi bagian terpenting dari tim kita.</string>
+    <string name="starPlayerBoughtAnswer3">Di tim saya tidak ada pemain bintang. Dia harus bekerja keras, jika dia mau bermain disini.</string>
+    <string name="starPlayerBoughtQuestion">Berita yang Mengejutkan. %1$s akan bermain untuk tim anda! apa Anda pikir dia akan jadi bintang bagi %2$s?</string>
+    <string name="start">Start!</string>
+    <string name="startingLineup">Formasi awal</string>
+    <string name="stats">Status pemain</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_away">menjauh</string>
+    <string name="strength">Kekuatan</string>
+    <string name="strong_">kuat</string>
+    <string name="subInText1">%1$s sudah berada di lapangan</string>
+    <string name="subInText2">%1$s menggantikan dia</string>
+    <string name="subInText3">%1$s masuk</string>
+    <string name="subInText4">%1$s akan menggantikannya</string>
+    <string name="subInText5">%1$s mendapat kesempatan</string>
+    <string name="subInText6">%1$s berjalan ke lapangan</string>
+    <string name="subInText7">%1$s datang untuk menggantikannya</string>
+    <string name="subInText8">%1$s datang sebagai pemain pengganti</string>
+    <string name="subOutText1">%1$s tidak akan melanjutkan permainan</string>
+    <string name="subOutText2">%1$s keluar</string>
+    <string name="subOutText3">%1$s keluar</string>
+    <string name="subOutText4">%1$s meninggalkan lapangan</string>
+    <string name="subOutText5">Permainan selesai untuk %1$s</string>
+    <string name="subOutText6">%1$s akan digantikan</string>
+    <string name="subOutText7">%1$s ditarik keluar dari lapangan</string>
+    <string name="subOutText8">Tampaknya %1$s akan ditarik keluar</string>
+    <string name="submitScore">Konfirmasi skor!</string>
+    <string name="substitutions">Penggantian pemain</string>
+    <string name="sunday">Min</string>
+    <string name="superCup">Piala Super</string>
+    <string name="suspendedFor">Hukuman 1 minggu</string>
+    <string name="swap">Tukar</string>
+    <string name="swapWith">Tukar denga ...</string>
+    <string name="swapWithOtherTeam">Tukar dengan tim lain</string>
+    <string name="table">Klasemen</string>
+    <string name="tackling">Tekel</string>
+    <string name="tactics">Taktik</string>
+    <string name="takeABankLoan">Meminjam uang</string>
+    <string name="team">Klub</string>
+    <string name="teamAlreadyExists">Tim dengan nama tersebut sudah ada. Masukkan nama yang berbeda</string>
+    <string name="teamBudget">Anggaran:</string>
+    <string name="teamDoctor">Dokter team</string>
+    <string name="teamOrders">Perintah tim</string>
+    <string name="teamSkill">Skill:</string>
+    <string name="teamStadiumCapacity">Kapasitas stadium:</string>
+    <string name="team_emblems_edited">Lambang tim yang telah diedit:</string>
+    <string name="team_integration">Integrasi pemain</string>
+    <string name="team_names_edited">Nama tim yang diedit:</string>
+    <string name="team_swapped">Menukarkan Team:</string>
+    <string name="teamsManaged">Tim yang dikelola:</string>
+    <string name="technical">Teknik</string>
+    <string name="technicalShotAction1">%1$s! Tendangan salto yang indah!</string>
+    <string name="technicalShotAction2">%1$s dengan tembakan akrobat!</string>
+    <string name="technicalShotAction3">%1$s melakukan tendangan salto!</string>
+    <string name="technicalShotAction4">%1$s! Tendangan yang sangat indah!</string>
+    <string name="technicalShotAction5">%1$s dengan tembakan voli!</string>
+    <string name="technicalShotAction6">%1$s dengan penempatan yang spektakuler!</string>
+    <string name="technicalShotAction7">%1$s mencoba tendangan setengah voli!</string>
+    <string name="technique">Teknik</string>
+    <string name="terminateContract">Berhentikan kontrak</string>
+    <string name="thanks">Ucapan terima kasih:</string>
+    <string name="thatsAll">Terimakasih untuk waktunya, tuan!</string>
+    <string name="thirdDivision">Divisi 3</string>
+    <string name="thirdGroup">C</string>
+    <string name="thisTeamHasNoTrainer">Tim ini tidak memiliki pelatih. kontrak satu orang pelatuh untuk meningkatkan kemampuan pemainmu</string>
+    <string name="thursday">Kam</string>
+    <string name="ticketIncome">Penghasilan dari penjualan tiket</string>
+    <string name="ticketPrices">Harga tiker</string>
+    <string name="timeWasting">Memperlambat permainan:</string>
+    <string name="toTransferList">Tambahkan ke daftar jual</string>
+    <string name="topScorer">Pencetak gol terbanyak:</string>
+    <string name="totalCost">Total biaya:</string>
+    <string name="tours">Tur</string>
+    <string name="toursRevenue">Pendapatan wisata</string>
+    <string name="toursTickets">Tiket tur</string>
+    <string name="trainer">Pelatih</string>
+    <string name="training">Latihan</string>
+    <string name="trainingCamp">Tempat berlatih</string>
+    <string name="trainingCampInfo">Selama berlatih, Semua pelatihan dimaksimalkan, yang membuat pelatihan Anda lebih efektif. Ini juga menimbulkan semangat pemain Anda dan membiarkan Anda bermain beberapa ujicoba dengan tim lokal.</string>
+    <string name="trainingCampPlanned">Kamp pelatihan telah disiapkan.</string>
+    <string name="trainingCamps">Kamp latihan</string>
+    <string name="trainingFields">Lapangan latihan</string>
+    <string name="trainingFieldsDescription">Semakin banyak lapangan latihan yang Anda punya, semakin banyak tim muda bisa dibuat. setiap lapangan harganya %1$s setiap bulan</string>
+    <string name="trainingResults">Hasil terakhir</string>
+    <string name="trainingSettings">Latihan</string>
+    <string name="transferCancelledContent">Karena masalah keuangan, transfer %1$s dibatalkan.</string>
+    <string name="transferCancelledTitle">%1$s - transfer dibatalkan</string>
+    <string name="transferOfferWithdrawnContent">Dear Sir, karena kurangnya tanggapan Anda, penawaran transfer untuk %1$s telah ditarik dan tidak lagi tersedia.</string>
+    <string name="transferOfferWithdrawnTitle">tawaran transfer terhadap %1$s ditarik</string>
+    <string name="transferWindowClosedContent">Jendela transfer telah ditutup.</string>
+    <string name="transferWindowClosedTitle">Jendela transfer ditutup</string>
+    <string name="transferWindowOpenedContent">Jendela transfer telah dibuka. Anda dibolehkan melakukan aktivitasTransfer sampai %1$s.</string>
+    <string name="transferWindowOpenedTitle">Jendela transfer dibuka</string>
+    <string name="transfers">Transfer</string>
+    <string name="transfersIn">Transfer masuk</string>
+    <string name="transfersOut">Transfer keluar</string>
+    <string name="translation">Terjemahan:</string>
+    <string name="tribuneClosedDueToMaintenanceContent">"Terkait persoalan pembangunan, salah satu dari tribun stadion kita %1$s telah ditutup.
+
+Ini akan menghabiskan waktu sekitar %2$s hari untuk membangun kembali semuanya, dan selama itu tribun tersebut tidak tersedia."</string>
+    <string name="tribuneClosedDueToMaintenanceTitle">Tribun ditutup untuk pembangunan</string>
+    <string name="tribunes">Tribun:</string>
+    <string name="tripCostNote">- Biaya perjalanan sebesar %1$s</string>
+    <string name="tripsAcommodations">Perjalanan dan akomodasi</string>
+    <string name="trophies">Piala</string>
+    <string name="tuesday">Sel</string>
+    <string name="tvRights">Hak siar televisi</string>
+    <string name="u21">U-21 team</string>
+    <string name="uk_and_ireland">Eropa (Inggris dan Irlandia)</string>
+    <string name="undoTransferList">Hapus dari daftar jual</string>
+    <string name="unprofessionalBehavior">tindakan tidak profesional</string>
+    <string name="upgradeCost">- Biaya upgrade %1$s.</string>
+    <string name="upgradeTime">- Upgrade memerlukan waktu %1$s bulan. Selama upgrade, tribun akan ditutup.</string>
+    <string name="upgradeTribune">Mengupgrade</string>
+    <string name="upset">terganggu</string>
+    <string name="usa">Amerika Utara (Amerika Serikat)</string>
+    <string name="useEditedNames">Menggunakan pemain dengan nama yang sudah diedit</string>
+    <string name="useRandomNames">Menggunakan pemain dengan nama acak</string>
+    <string name="value">Harga</string>
+    <string name="venue">Stadium</string>
+    <string name="veryHappy">sangat senang</string>
+    <string name="veryHigh">Sangat tinggi</string>
+    <string name="veryLow">Sangat rendah</string>
+    <string name="very_light_">sangat ringan tangan</string>
+    <string name="very_strong_">sangat kuat</string>
+    <string name="wantToTakeThisTeam">Apakah Anda ingin melatih tim ini?</string>
+    <string name="watchVideoYouWillBeRewarded">Apakah Anda ingin menonton iklan video? Anda akan diberi hadiah %1$s!</string>
+    <string name="watermark_label_prefix">AdMob -</string>
+    <string name="weakPlayerBoughtAnswer1">Omong kosong. dia adalah pemain yang bagus dan saya yakin dia akan membuat tim kami semakin kuat</string>
+    <string name="weakPlayerBoughtAnswer2">Baik, saya percaya dia bisa bermain di level kita.</string>
+    <string name="weakPlayerBoughtAnswer3">Saya membeli dia hanya untuk bersenang senang. Dia memang pemain lemah.</string>
+    <string name="weakPlayerBoughtQuestion">Seorang ahli berpikir bahwa pemain baru Anda, %1$s, bukan pemain bagus untuk tim Anda. apa yang bisa Anda katakan tentang pembelian ini?</string>
+    <string name="weatherConditions">Kondisi cuaca:</string>
+    <string name="wednesday">Rab</string>
+    <string name="weekX">Minggu %1$s</string>
+    <string name="west">Barat</string>
+    <string name="westGroup">barat</string>
+    <string name="west_africa">Afrika (barat)</string>
+    <string name="west_europe">Eropa (barat)</string>
+    <string name="west_south_america">Amerika Selatan (barat)</string>
+    <string name="whatDoYouWantToSay">Apa yang ingin Anda katakan?</string>
+    <string name="wins">Menang:</string>
+    <string name="winsTable">M</string>
+    <string name="world">Dunia</string>
+    <string name="worldCup">Piala Dunia</string>
+    <string name="worldRanking">Peringkat dunia</string>
+    <string name="xBookedRed">%1$s (%2$s) dikeluarkan!</string>
+    <string name="xBookedYellow">%1$s (%2$s) terkena kartu kuning</string>
+    <string name="yellowCard">Kartu kuning</string>
+    <string name="yellowCards">Kartu kuning terbanyak</string>
+    <string name="yes">Ya</string>
+    <string name="yesyes">Hore!!!</string>
+    <string name="youAlreadyHaveAnAssistant">Anda tidak bisa mempunyai lebih dari satu asisten.</string>
+    <string name="youAlreadyHaveAnGoalkeeperTrainer">Anda tidak bisa mempunyai lebih dari satu pelatih penjaga gawang di klub Anda.</string>
+    <string name="youCanAnalyzeUpToFiveTeams">Anda dapat menganalisis hingga 5 tim sekaligus.</string>
+    <string name="youCantHaveMoreTeams">Kamu tidak bisa memiliki lebih banyak anggota tim muda lagi.</string>
+    <string name="youCantTakeMoreLoans">Anda tidak dapat mengambil lebih banyak pinjaman pada saat ini.</string>
+    <string name="youDontHaveFreeScouts">Anda tidak memiliki pencari bakat menganggur untuk menyiapkan laporan ini.</string>
+    <string name="yourCountry">Negara anda:</string>
+    <string name="yourName">Nama anda:</string>
+    <string name="yourScore">Skor anda:</string>
+    <string name="youreWelcome">Sama sama.</string>
+    <string name="youthPlayerMovedContent">%1$s lulus dari tim junior dan pindah ke tim utama.</string>
+    <string name="youthPlayerMovedTitle">%1$s bergabung dengan tim utama</string>
+    <string name="youthTeamTrainer">Pelatih:</string>
+    <string name="youthTeamType">Jenis tim:</string>
+    <string name="youthTeams">Tim muda</string>
+    <string name="youthTrainers">Pelatih pemain muda</string>
+    <string name="youthTraining">Akademi</string>
+    <string name="youth_trainer">Pelatih pemain muda</string>
+</resources>

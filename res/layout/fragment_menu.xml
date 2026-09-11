@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginTop="@dimen/margin_4dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res/pl.mkrstudio.truefootball3">
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:weightSum="3.0">
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_menu_team"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/team"
+            custom:tileText="@string/team" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_menu_office"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/office"
+            custom:tileText="@string/office" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_menu_competitions"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/competitions"
+            custom:tileText="@string/competitions" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="3.0">
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_menu_save_game"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/disc"
+            custom:tileText="@string/saveGame" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_settings"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_marginRight="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/settings"
+            custom:tileText="@string/settings" />
+        <pl.mkrstudio.truefootball3.views.TileButton
+            android:id="@id/button_menu_continue"
+            android:layout_width="0.0dip"
+            android:layout_height="fill_parent"
+            android:layout_marginLeft="@dimen/margin_2dp"
+            android:layout_weight="1.0"
+            custom:tileDrawable="@drawable/continue_drawable"
+            custom:tileText="@string/continueString" />
+    </LinearLayout>
+</LinearLayout>

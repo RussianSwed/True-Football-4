@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="11.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@id/emblem"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/save_game_emblem_size"
+        android:layout_weight="2.0" />
+    <LinearLayout
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_10dp"
+        android:layout_width="0.0dip"
+        android:layout_height="@dimen/save_game_emblem_size"
+        android:layout_weight="9.0">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_15"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="left"
+            android:layout_gravity="center_vertical"
+            android:id="@id/team"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_12"
+            android:textStyle="bold"
+            android:textColor="#ffffffff"
+            android:gravity="left"
+            android:layout_gravity="center_vertical"
+            android:id="@id/date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

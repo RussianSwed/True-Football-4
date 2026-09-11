@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>off</item>
+        <item>every 7 days</item>
+        <item>every 30 days</item>
+        <item>every 60 days</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ultra defensive</item>
+        <item>defensive</item>
+        <item>normal</item>
+        <item>offensive</item>
+        <item>ultra offensive</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>home</item>
+        <item>away</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Passes</item>
+        <item>Shots</item>
+        <item>Dribbling</item>
+        <item>Tackling</item>
+        <item>Diving</item>
+        <item>Corner kicks</item>
+        <item>Far free kicks</item>
+        <item>Close free kicks</item>
+        <item>Penalty kicks</item>
+        <item>Captain</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Passes</item>
+        <item>Shots</item>
+        <item>Dribbling</item>
+        <item>Tackling</item>
+        <item>Diving</item>
+        <item>Corner kicks</item>
+        <item>Far free kicks</item>
+        <item>Close free kicks</item>
+        <item>Penalty kicks</item>
+        <item>Captain</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>never</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>never</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>low</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>day</item>
+        <item>3 days</item>
+        <item>7 days</item>
+        <item>until next match</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>never</item>
+        <item>while leading</item>
+        <item>always</item>
+    </string-array>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="autosaveModes">
+        <item>Անջատում</item>
+        <item>Jուրաքանչյուր 7 օր</item>
+        <item>Jուրաքանչյուր 30 օր</item>
+        <item>Jուրաքանչյուր 60 օր</item>
+    </string-array>
+    <string-array name="gameplays">
+        <item>ուլտրա պաշտպանողական</item>
+        <item>պաշտպանողական</item>
+        <item>սովորական</item>
+        <item>գրոհական</item>
+        <item>ուլտրա գրոհական</item>
+    </string-array>
+    <string-array name="homeAway">
+        <item>տանը</item>
+        <item>դրսում</item>
+    </string-array>
+    <string-array name="individualOrders">
+        <item>Փոխանցումներ</item>
+        <item>Հարվածներ</item>
+        <item>Դրիբլինգ</item>
+        <item>Խլում</item>
+        <item>Սուզում</item>
+        <item>Անկյունային հարվածներ</item>
+        <item>Ազատ հարվածներ</item>
+        <item>Տուգանային հարվածներ</item>
+        <item>11 մետրանոց հարվածներ</item>
+        <item>Ավագ</item>
+    </string-array>
+    <string-array name="individualOrdersArray">
+        <item>Փոխանցումներ</item>
+        <item>Հարվածներ</item>
+        <item>Դրիբլինգ</item>
+        <item>Խլում</item>
+        <item>Սուզում</item>
+        <item>Անկյունային հարվածներ</item>
+        <item>Ազատ հարվածներ</item>
+        <item>Տուգանային հարվածներ</item>
+        <item>11 մետրանոց հարվածներ</item>
+        <item>Ավագ</item>
+    </string-array>
+    <string-array name="offsideTraps">
+        <item>երբեք</item>
+        <item>միշտ</item>
+    </string-array>
+    <string-array name="offsideTrapsArray">
+        <item>երբեք</item>
+        <item>միշտ</item>
+    </string-array>
+    <string-array name="pressings">
+        <item>ցածր</item>
+        <item>սովորական</item>
+        <item>բարձր</item>
+    </string-array>
+    <string-array name="ranges">
+        <item>1-10</item>
+        <item>11-20</item>
+        <item>21-30</item>
+        <item>31-40</item>
+        <item>41-50</item>
+    </string-array>
+    <string-array name="simulationModes">
+        <item>Օր</item>
+        <item>3 օր</item>
+        <item>7 օր</item>
+        <item>մինչեւ հաջորդ խաղ</item>
+    </string-array>
+    <string-array name="timeWastings">
+        <item>երբեք</item>
+        <item>երբ առաջ էս անցնում</item>
+        <item>միշտ</item>
+    </string-array>
+</resources>

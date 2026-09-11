@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@layout/selector_background_message"
+    android:padding="@dimen/margin_4dp"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:minWidth="@dimen/dialog_width"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/conference_face_size"
+            android:weightSum="5.0">
+            <LinearLayout
+                android:background="#ffcccccc"
+                android:layout_width="@dimen/conference_face_size"
+                android:layout_height="@dimen/conference_face_size"
+                android:layout_marginRight="@dimen/margin_2dp">
+                <ImageView
+                    android:id="@id/face"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent" />
+            </LinearLayout>
+            <LinearLayout
+                android:orientation="vertical"
+                android:background="@layout/shape_background"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="@dimen/margin_2dp" />
+        </LinearLayout>
+        <ScrollView
+            android:background="@layout/shape_background"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="@dimen/margin_4dp">
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+                <pl.mkrstudio.truefootball3.views.CustomFontTextView
+                    android:textSize="@dimen/text_size_12"
+                    android:textColor="#ffffffff"
+                    android:id="@id/help"
+                    android:padding="@dimen/margin_3dp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:lineSpacingExtra="1.0dip" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

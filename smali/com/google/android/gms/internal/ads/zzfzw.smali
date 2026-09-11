@@ -1,0 +1,34 @@
+.class public final Lcom/google/android/gms/internal/ads/zzfzw;
+.super Lcom/google/android/gms/internal/ads/zzfyt;
+.source "com.google.android.gms:play-services-ads@@22.3.0"
+
+
+# instance fields
+.field private final zza:Lcom/google/android/gms/internal/ads/zzgae;
+
+.field private final zzb:Lcom/google/android/gms/internal/ads/zzgnl;
+
+.field private final zzc:Lcom/google/android/gms/internal/ads/zzgnk;
+
+.field private final zzd:Ljava/lang/Integer;
+    .annotation runtime Ljavax/annotation/Nullable;
+    .end annotation
+.end field
+
+
+# direct methods
+.method synthetic constructor <init>(Lcom/google/android/gms/internal/ads/zzgae;Lcom/google/android/gms/internal/ads/zzgnl;Lcom/google/android/gms/internal/ads/zzgnk;Ljava/lang/Integer;Lcom/google/android/gms/internal/ads/zzfzv;)V
+    .locals 0
+
+    invoke-direct {p0}, Lcom/google/android/gms/internal/ads/zzfyt;-><init>()V
+
+    iput-object p1, p0, Lcom/google/android/gms/internal/ads/zzfzw;->zza:Lcom/google/android/gms/internal/ads/zzgae;
+
+    iput-object p2, p0, Lcom/google/android/gms/internal/ads/zzfzw;->zzb:Lcom/google/android/gms/internal/ads/zzgnl;
+
+    iput-object p3, p0, Lcom/google/android/gms/internal/ads/zzfzw;->zzc:Lcom/google/android/gms/internal/ads/zzgnk;
+
+    iput-object p4, p0, Lcom/google/android/gms/internal/ads/zzfzw;->zzd:Ljava/lang/Integer;
+
+    return-void
+.end method
