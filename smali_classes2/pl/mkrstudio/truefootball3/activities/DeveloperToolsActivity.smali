@@ -17,6 +17,10 @@
 
 .field simulateButton:Landroid/widget/Button;
 
+.field simulateMonthButton:Landroid/widget/Button;
+
+.field simulateThreeMonthsButton:Landroid/widget/Button;
+
 .field simulationRunning:Z
 
 .field statusTV:Landroid/widget/TextView;
@@ -30,6 +34,41 @@
 
     invoke-direct {p0}, Landroid/app/Activity;-><init>()V
 
+    return-void
+.end method
+
+.method private confirmAndStart(Ljava/lang/String;Ljava/lang/String;I)V
+    .locals 3
+
+    iget-boolean v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulationRunning:Z
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Landroid/app/AlertDialog$Builder;
+
+    invoke-direct {v0, p0}, Landroid/app/AlertDialog$Builder;-><init>(Landroid/content/Context;)V
+
+    invoke-virtual {v0, p1}, Landroid/app/AlertDialog$Builder;->setTitle(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+
+    invoke-virtual {v0, p2}, Landroid/app/AlertDialog$Builder;->setMessage(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
+
+    const-string v1, "\u041d\u0430\u0447\u0430\u0442\u044c"
+
+    new-instance v2, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$ConfirmListener;
+
+    invoke-direct {v2, p0, p3}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$ConfirmListener;-><init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;I)V
+
+    invoke-virtual {v0, v1, v2}, Landroid/app/AlertDialog$Builder;->setPositiveButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
+
+    const-string v1, "\u041e\u0442\u043c\u0435\u043d\u0430"
+
+    const/4 v2, 0x0
+
+    invoke-virtual {v0, v1, v2}, Landroid/app/AlertDialog$Builder;->setNegativeButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
+
+    invoke-virtual {v0}, Landroid/app/AlertDialog$Builder;->show()Landroid/app/AlertDialog;
+
+    :cond_0
     return-void
 .end method
 
@@ -216,6 +255,34 @@
 
     iput-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateButton:Landroid/widget/Button;
 
+    const-string v0, "developerSimulateMonth"
+
+    invoke-direct {p0, v0, v1}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->getResourceId(Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result v0
+
+    invoke-virtual {p0, v0}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/Button;
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateMonthButton:Landroid/widget/Button;
+
+    const-string v0, "developerSimulateThreeMonths"
+
+    invoke-direct {p0, v0, v1}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->getResourceId(Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result v0
+
+    invoke-virtual {p0, v0}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->findViewById(I)Landroid/view/View;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/widget/Button;
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateThreeMonthsButton:Landroid/widget/Button;
+
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
 
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
@@ -224,9 +291,17 @@
 
     if-nez v0, :cond_0
 
+    const/4 v1, 0x0
+
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateButton:Landroid/widget/Button;
 
-    const/4 v1, 0x0
+    invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateMonthButton:Landroid/widget/Button;
+
+    invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateThreeMonthsButton:Landroid/widget/Button;
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
@@ -244,51 +319,54 @@
     return-void
 .end method
 
-.method public simulateSeason(Landroid/view/View;)V
+.method public simulateMonth(Landroid/view/View;)V
     .locals 3
 
-    iget-boolean p1, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulationRunning:Z
+    const-string v0, "\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u0442\u044c \u043e\u0434\u0438\u043d \u043c\u0435\u0441\u044f\u0446?"
 
-    if-nez p1, :cond_0
+    const-string v1, "\u0411\u0443\u0434\u0443\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u044b\u0433\u0440\u0430\u043d\u044b \u043c\u0430\u0442\u0447\u0438 \u0432\u0430\u0448\u0435\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u044b 30 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u0446\u0438\u043a\u043b\u043e\u0432 \u0438\u0433\u0440\u044b. \u0422\u0435\u043a\u0443\u0449\u0430\u044f \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f; \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043f\u0443\u0441\u043a\u043e\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0435\u0451 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u043e\u0442."
 
-    new-instance p1, Landroid/app/AlertDialog$Builder;
+    const/16 v2, 0x1e
 
-    invoke-direct {p1, p0}, Landroid/app/AlertDialog$Builder;-><init>(Landroid/content/Context;)V
+    invoke-direct {p0, v0, v1, v2}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->confirmAndStart(Ljava/lang/String;Ljava/lang/String;I)V
 
-    const-string v0, "\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u0442\u044c \u043e\u0434\u0438\u043d \u0441\u0435\u0437\u043e\u043d?"
-
-    invoke-virtual {p1, v0}, Landroid/app/AlertDialog$Builder;->setTitle(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
-
-    const-string v0, "\u0411\u0443\u0434\u0443\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u044b\u0433\u0440\u0430\u043d\u044b \u043c\u0430\u0442\u0447\u0438 \u0432\u0430\u0448\u0435\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u044b 365 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u0446\u0438\u043a\u043b\u043e\u0432 \u0438\u0433\u0440\u044b. \u0422\u0435\u043a\u0443\u0449\u0430\u044f \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f; \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043f\u0443\u0441\u043a\u043e\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0435\u0451 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u043e\u0442."
-
-    invoke-virtual {p1, v0}, Landroid/app/AlertDialog$Builder;->setMessage(Ljava/lang/CharSequence;)Landroid/app/AlertDialog$Builder;
-
-    const-string v0, "\u041d\u0430\u0447\u0430\u0442\u044c"
-
-    new-instance v1, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$ConfirmListener;
-
-    invoke-direct {v1, p0}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$ConfirmListener;-><init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;)V
-
-    invoke-virtual {p1, v0, v1}, Landroid/app/AlertDialog$Builder;->setPositiveButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
-
-    const-string v0, "\u041e\u0442\u043c\u0435\u043d\u0430"
-
-    const/4 v1, 0x0
-
-    invoke-virtual {p1, v0, v1}, Landroid/app/AlertDialog$Builder;->setNegativeButton(Ljava/lang/CharSequence;Landroid/content/DialogInterface$OnClickListener;)Landroid/app/AlertDialog$Builder;
-
-    invoke-virtual {p1}, Landroid/app/AlertDialog$Builder;->show()Landroid/app/AlertDialog;
-
-    :cond_0
     return-void
 .end method
 
-.method public startSeasonSimulation()V
+.method public simulateSeason(Landroid/view/View;)V
+    .locals 3
+
+    const-string v0, "\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u0442\u044c \u043e\u0434\u0438\u043d \u0441\u0435\u0437\u043e\u043d?"
+
+    const-string v1, "\u0411\u0443\u0434\u0443\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u044b\u0433\u0440\u0430\u043d\u044b \u043c\u0430\u0442\u0447\u0438 \u0432\u0430\u0448\u0435\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u044b 365 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u0446\u0438\u043a\u043b\u043e\u0432 \u0438\u0433\u0440\u044b. \u0422\u0435\u043a\u0443\u0449\u0430\u044f \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f; \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043f\u0443\u0441\u043a\u043e\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0435\u0451 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u043e\u0442."
+
+    const/16 v2, 0x16d
+
+    invoke-direct {p0, v0, v1, v2}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->confirmAndStart(Ljava/lang/String;Ljava/lang/String;I)V
+
+    return-void
+.end method
+
+.method public simulateThreeMonths(Landroid/view/View;)V
+    .locals 3
+
+    const-string v0, "\u041f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u0442\u044c \u0442\u0440\u0438 \u043c\u0435\u0441\u044f\u0446\u0430?"
+
+    const-string v1, "\u0411\u0443\u0434\u0443\u0442 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u0438 \u0441\u044b\u0433\u0440\u0430\u043d\u044b \u043c\u0430\u0442\u0447\u0438 \u0432\u0430\u0448\u0435\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u044b \u0438 \u0432\u044b\u043f\u043e\u043b\u043d\u0435\u043d\u044b 90 \u043e\u0431\u044b\u0447\u043d\u044b\u0445 \u0435\u0436\u0435\u0434\u043d\u0435\u0432\u043d\u044b\u0445 \u0446\u0438\u043a\u043b\u043e\u0432 \u0438\u0433\u0440\u044b. \u0422\u0435\u043a\u0443\u0449\u0430\u044f \u043a\u0430\u0440\u044c\u0435\u0440\u0430 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0441\u044f; \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u043f\u0443\u0441\u043a\u043e\u043c \u0440\u0435\u043a\u043e\u043c\u0435\u043d\u0434\u0443\u0435\u0442\u0441\u044f \u0441\u043e\u0445\u0440\u0430\u043d\u0438\u0442\u044c \u0435\u0451 \u0432 \u043e\u0442\u0434\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u043b\u043e\u0442."
+
+    const/16 v2, 0x5a
+
+    invoke-direct {p0, v0, v1, v2}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->confirmAndStart(Ljava/lang/String;Ljava/lang/String;I)V
+
+    return-void
+.end method
+
+.method public startSimulation(I)V
     .locals 2
 
     new-instance v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;
 
-    invoke-direct {v0, p0}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;-><init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;)V
+    invoke-direct {v0, p0, p1}, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;-><init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;I)V
 
     const/4 v1, 0x0
 

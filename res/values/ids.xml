@@ -931,5 +931,7 @@
     <item type="id" name="developerProgress" />
     <item type="id" name="developerRoot" />
     <item type="id" name="developerSimulateSeason" />
+    <item type="id" name="developerSimulateMonth" />
+    <item type="id" name="developerSimulateThreeMonths" />
     <item type="id" name="developerStatus" />
 </resources>
