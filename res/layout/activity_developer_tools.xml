@@ -61,6 +61,28 @@
             android:textSize="@dimen/text_size_14"
             android:textColor="#ffffffff"
             android:gravity="center"
+            android:id="@id/developerSimulateMonth"
+            android:background="@layout/shape_background_transparent"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:text="Перемотать 1 месяц (30 дней)"
+            android:onClick="simulateMonth" />
+        <pl.mkrstudio.truefootball3.views.CustomFontButton
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
+            android:id="@id/developerSimulateThreeMonths"
+            android:background="@layout/shape_background_transparent"
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/button_height"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:text="Перемотать 3 месяца (90 дней)"
+            android:onClick="simulateThreeMonths" />
+        <pl.mkrstudio.truefootball3.views.CustomFontButton
+            android:textSize="@dimen/text_size_14"
+            android:textColor="#ffffffff"
+            android:gravity="center"
             android:background="@layout/shape_background_transparent"
             android:layout_width="fill_parent"
             android:layout_height="@dimen/button_height"

@@ -29,18 +29,22 @@
 
 .field private daysProcessed:I
 
+.field private final daysToSimulate:I
+
 .field private failureMessage:Ljava/lang/String;
 
 .field private matchesSimulated:I
 
 
 # direct methods
-.method constructor <init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;)V
+.method constructor <init>(Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;I)V
     .locals 0
 
     invoke-direct {p0}, Landroid/os/AsyncTask;-><init>()V
 
     iput-object p1, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;->activity:Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;
+
+    iput p2, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;->daysToSimulate:I
 
     return-void
 .end method
@@ -54,7 +58,7 @@
 
     :goto_0
     :try_start_0
-    const/16 v1, 0x16d
+    iget v1, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;->daysToSimulate:I
 
     if-ge v0, v1, :cond_1
 
@@ -145,9 +149,17 @@
 
     invoke-virtual {v2, v3}, Landroid/widget/ProgressBar;->setVisibility(I)V
 
+    const/4 v3, 0x1
+
     iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateButton:Landroid/widget/Button;
 
-    const/4 v3, 0x1
+    invoke-virtual {v2, v3}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateMonthButton:Landroid/widget/Button;
+
+    invoke-virtual {v2, v3}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateThreeMonthsButton:Landroid/widget/Button;
 
     invoke-virtual {v2, v3}, Landroid/widget/Button;->setEnabled(Z)V
 
@@ -187,6 +199,30 @@
     goto :goto_0
 
     :cond_1
+    iget p1, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;->daysToSimulate:I
+
+    const/16 v4, 0x16d
+
+    if-eq p1, v4, :cond_3
+
+    const/16 v4, 0x1e
+
+    if-eq p1, v4, :cond_2
+
+    const-string p1, "3 \u043c\u0435\u0441\u044f\u0446\u0430 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u043d\u044b."
+
+    invoke-virtual {v2, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    goto :goto_0
+
+    :cond_2
+    const-string p1, "\u041c\u0435\u0441\u044f\u0446 \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u043d."
+
+    invoke-virtual {v2, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    goto :goto_0
+
+    :cond_3
     const-string p1, "\u0421\u0435\u0437\u043e\u043d \u0443\u0441\u043f\u0435\u0448\u043d\u043e \u043f\u0435\u0440\u0435\u043c\u043e\u0442\u0430\u043d."
 
     invoke-virtual {v2, p1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
@@ -260,9 +296,17 @@
 
     iput-boolean v1, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulationRunning:Z
 
+    const/4 v1, 0x0
+
     iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateButton:Landroid/widget/Button;
 
-    const/4 v1, 0x0
+    invoke-virtual {v2, v1}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateMonthButton:Landroid/widget/Button;
+
+    invoke-virtual {v2, v1}, Landroid/widget/Button;->setEnabled(Z)V
+
+    iget-object v2, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->simulateThreeMonthsButton:Landroid/widget/Button;
 
     invoke-virtual {v2, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
@@ -270,9 +314,30 @@
 
     invoke-virtual {v2, v1}, Landroid/widget/ProgressBar;->setVisibility(I)V
 
-    iget-object v0, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->statusTV:Landroid/widget/TextView;
+    iget v1, p0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity$SeasonTask;->daysToSimulate:I
 
+    const/16 v2, 0x16d
+
+    if-eq v1, v2, :cond_1
+
+    const/16 v2, 0x1e
+
+    if-eq v1, v2, :cond_0
+
+    const-string v1, "\u0421\u0438\u043c\u0443\u043b\u044f\u0446\u0438\u044f 3 \u043c\u0435\u0441\u044f\u0446\u0435\u0432\u2026 \u041d\u0435 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u0433\u0440\u0443."
+
+    goto :goto_0
+
+    :cond_0
+    const-string v1, "\u0421\u0438\u043c\u0443\u043b\u044f\u0446\u0438\u044f \u043c\u0435\u0441\u044f\u0446\u0430\u2026 \u041d\u0435 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u0433\u0440\u0443."
+
+    goto :goto_0
+
+    :cond_1
     const-string v1, "\u0421\u0438\u043c\u0443\u043b\u044f\u0446\u0438\u044f \u0441\u0435\u0437\u043e\u043d\u0430\u2026 \u041d\u0435 \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u0433\u0440\u0443."
+
+    :goto_0
+    iget-object v0, v0, Lpl/mkrstudio/truefootball3/activities/DeveloperToolsActivity;->statusTV:Landroid/widget/TextView;
 
     invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
