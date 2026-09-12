@@ -1896,6 +1896,8 @@
 
     .line 246
     :cond_12
+    goto :cond_14
+
     invoke-interface {v1}, Ljava/util/List;->size()I
 
     move-result p2

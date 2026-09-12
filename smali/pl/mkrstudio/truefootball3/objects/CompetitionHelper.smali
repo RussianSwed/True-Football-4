@@ -13,6 +13,559 @@
     return-void
 .end method
 
+.method private static addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+    .locals 1
+
+    if-eqz p0, :cond_0
+
+    if-nez p1, :cond_1
+
+    :cond_0
+    return-void
+
+    :cond_1
+    invoke-interface {p0, p1}, Ljava/util/List;->contains(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-nez v0, :cond_2
+
+    invoke-interface {p0, p1}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    :cond_2
+    return-void
+.end method
+
+.method public static addContinentalCompetitionIds(Ljava/util/List;Ljava/lang/String;)V
+    .locals 2
+
+    if-eqz p0, :cond_6
+
+    if-nez p1, :cond_0
+
+    goto/16 :goto_0
+
+    :cond_0
+    invoke-static {p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getContinentalPrefixFromCode(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p1
+
+    const-string v0, "EUR"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    const-string p1, "EUR_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "EUR_EC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "EUR_FC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "EUR_SUP"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_1
+    const-string v0, "ASI"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_2
+
+    const-string p1, "ASI_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "ASI_EC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_2
+    const-string v0, "AFR"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_3
+
+    const-string p1, "AFR_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "AFR_EC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "AFR_SUP"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_3
+    const-string v0, "NAM"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_4
+
+    const-string p1, "NAM_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "NAM_EC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_4
+    const-string v0, "SAM"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_5
+
+    const-string p1, "SAM_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "SAM_EC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    const-string p1, "SAM_SUP"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    return-void
+
+    :cond_5
+    const-string v0, "OCE"
+
+    invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p1
+
+    if-eqz p1, :cond_6
+
+    const-string p1, "OCE_CC"
+
+    invoke-static {p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIdIfAbsent(Ljava/util/List;Ljava/lang/String;)V
+
+    :cond_6
+    :goto_0
+    return-void
+.end method
+
+.method public static getContinentalPrefix(Lpl/mkrstudio/truefootball3/objects/Continent;)Ljava/lang/String;
+    .locals 0
+
+    if-nez p0, :cond_0
+
+    const-string p0, ""
+
+    return-object p0
+
+    :cond_0
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+
+    move-result-object p0
+
+    invoke-static {p0}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getContinentalPrefixFromCode(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static getContinentalPrefixFromCode(Ljava/lang/String;)Ljava/lang/String;
+    .locals 2
+
+    if-nez p0, :cond_0
+
+    const-string p0, ""
+
+    return-object p0
+
+    :cond_0
+    const-string v0, "europe"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_c
+
+    const-string v0, "EUR"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_1
+
+    goto/16 :goto_5
+
+    :cond_1
+    const-string v0, "asia"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_b
+
+    const-string v0, "ASI"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_2
+
+    goto/16 :goto_4
+
+    :cond_2
+    const-string v0, "africa"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_a
+
+    const-string v0, "AFR"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_3
+
+    goto :goto_3
+
+    :cond_3
+    const-string v0, "north_america"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_9
+
+    const-string v0, "NAM"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_4
+
+    goto :goto_2
+
+    :cond_4
+    const-string v0, "south_america"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_8
+
+    const-string v0, "SAM"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-eqz v1, :cond_5
+
+    goto :goto_1
+
+    :cond_5
+    const-string v0, "oceania"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_7
+
+    const-string v0, "OCE"
+
+    invoke-virtual {v0, p0}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result p0
+
+    if-eqz p0, :cond_6
+
+    goto :goto_0
+
+    :cond_6
+    const-string p0, ""
+
+    return-object p0
+
+    :cond_7
+    :goto_0
+    const-string p0, "OCE"
+
+    return-object p0
+
+    :cond_8
+    :goto_1
+    const-string p0, "SAM"
+
+    return-object p0
+
+    :cond_9
+    :goto_2
+    const-string p0, "NAM"
+
+    return-object p0
+
+    :cond_a
+    :goto_3
+    const-string p0, "AFR"
+
+    return-object p0
+
+    :cond_b
+    :goto_4
+    const-string p0, "ASI"
+
+    return-object p0
+
+    :cond_c
+    :goto_5
+    const-string p0, "EUR"
+
+    return-object p0
+.end method
+
+.method public static getCompetitionsForCountry(Lpl/mkrstudio/truefootball3/objects/Competitions;Lpl/mkrstudio/truefootball3/objects/Country;)Ljava/util/List;
+    .locals 5
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    if-eqz p0, :cond_2
+
+    if-nez p1, :cond_0
+
+    goto :goto_1
+
+    :cond_0
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
+
+    move-result-object p1
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCurrentCompetitions()Ljava/util/HashMap;
+
+    move-result-object p0
+
+    invoke-virtual {p0}, Ljava/util/HashMap;->keySet()Ljava/util/Set;
+
+    move-result-object v1
+
+    invoke-interface {v1}, Ljava/util/Set;->iterator()Ljava/util/Iterator;
+
+    move-result-object v1
+
+    :cond_1
+    :goto_0
+    invoke-interface {v1}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v2
+
+    if-eqz v2, :cond_2
+
+    invoke-interface {v1}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v2
+
+    check-cast v2, Ljava/lang/String;
+
+    invoke-virtual {v2, p1}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
+
+    move-result v3
+
+    if-eqz v3, :cond_1
+
+    invoke-virtual {p0, v2}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object v2
+
+    check-cast v2, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    if-eqz v2, :cond_1
+
+    invoke-interface {v0, v2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    goto :goto_0
+
+    :cond_2
+    :goto_1
+    return-object v0
+.end method
+
+.method public static getLoadedCountries(Lpl/mkrstudio/truefootball3/objects/Competitions;Lpl/mkrstudio/truefootball3/objects/World;Lpl/mkrstudio/truefootball3/objects/Continent;)Ljava/util/List;
+    .locals 6
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    if-eqz p0, :cond_6
+
+    if-eqz p1, :cond_6
+
+    if-nez p2, :cond_0
+
+    goto/16 :goto_2
+
+    :cond_0
+    new-instance v1, Ljava/util/HashSet;
+
+    invoke-direct {v1}, Ljava/util/HashSet;-><init>()V
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCurrentCompetitions()Ljava/util/HashMap;
+
+    move-result-object p0
+
+    invoke-virtual {p0}, Ljava/util/HashMap;->keySet()Ljava/util/Set;
+
+    move-result-object p0
+
+    invoke-interface {p0}, Ljava/util/Set;->iterator()Ljava/util/Iterator;
+
+    move-result-object p0
+
+    :cond_1
+    :goto_0
+    invoke-interface {p0}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v2
+
+    if-eqz v2, :cond_6
+
+    invoke-interface {p0}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v2
+
+    check-cast v2, Ljava/lang/String;
+
+    if-eqz v2, :cond_1
+
+    invoke-virtual {v2}, Ljava/lang/String;->length()I
+
+    move-result v3
+
+    const/4 v4, 0x3
+
+    if-ge v3, v4, :cond_2
+
+    goto :goto_0
+
+    :cond_2
+    const-string v3, "WORLD"
+
+    invoke-virtual {v2, v3}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
+
+    move-result v3
+
+    if-eqz v3, :cond_3
+
+    goto :goto_0
+
+    :cond_3
+    const/4 v3, 0x0
+
+    invoke-virtual {v2, v3, v4}, Ljava/lang/String;->substring(II)Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {v2}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getContinentalPrefixFromCode(Ljava/lang/String;)Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-virtual {v3}, Ljava/lang/String;->length()I
+
+    move-result v3
+
+    if-eqz v3, :cond_4
+
+    goto :goto_0
+
+    :cond_4
+    invoke-interface {v1, v2}, Ljava/util/Set;->contains(Ljava/lang/Object;)Z
+
+    move-result v3
+
+    if-eqz v3, :cond_5
+
+    goto :goto_0
+
+    :cond_5
+    invoke-virtual {p1, v2}, Lpl/mkrstudio/truefootball3/objects/World;->getCountryByCode(Ljava/lang/String;)Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v3
+
+    if-eqz v3, :cond_1
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_1
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+
+    move-result-object v4
+
+    invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+
+    move-result-object v5
+
+    invoke-virtual {v4, v5}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v4
+
+    if-eqz v4, :cond_1
+
+    invoke-interface {v1, v2}, Ljava/util/Set;->add(Ljava/lang/Object;)Z
+
+    invoke-interface {v0, v3}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    goto :goto_0
+
+    :cond_6
+    :goto_2
+    return-object v0
+.end method
+
 .method public static getCompetitionByCode(Lpl/mkrstudio/truefootball3/objects/Competitions;Ljava/lang/String;)Ljava/util/List;
     .locals 2
     .annotation system Ldalvik/annotation/MethodParameters;
@@ -848,10 +1401,19 @@
 
     move-result-object p0
 
-    invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+    invoke-static {p2}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getContinentalPrefix(Lpl/mkrstudio/truefootball3/objects/Continent;)Ljava/lang/String;
 
     move-result-object p1
 
+    invoke-virtual {p1}, Ljava/lang/String;->length()I
+
+    move-result p2
+
+    if-nez p2, :cond_3
+
+    return-object v0
+
+    :cond_3
     const-string p2, "_"
 
     invoke-virtual {p1, p2}, Ljava/lang/String;->concat(Ljava/lang/String;)Ljava/lang/String;
