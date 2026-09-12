@@ -806,13 +806,89 @@
     .line 720
     :cond_a
     :goto_3
-    invoke-static {v3}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addAllContinentalCompetitionIds(Ljava/util/List;)V
+    invoke-virtual {v10}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
 
+    move-result-object v4
+
+    if-eqz v4, :cond_player_done
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_player_done
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_player_done
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+
+    move-result-object v4
+
+    invoke-static {v3, v4}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addContinentalCompetitionIds(Ljava/util/List;Ljava/lang/String;)V
+
+    :cond_player_done
     iget-object v4, v8, Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;->this$0:Lpl/mkrstudio/truefootball3/activities/NewGameActivity;
 
     iget-object v4, v4, Lpl/mkrstudio/truefootball3/activities/NewGameActivity;->observedCountries:Ljava/util/List;
 
-    if-eqz v4, :cond_f
+    if-eqz v4, :cond_obs_done
+
+    invoke-virtual {v10}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v7
+
+    invoke-interface {v4}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object v4
+
+    :cond_obs
+    :goto_obs
+    invoke-interface {v4}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v11
+
+    if-eqz v11, :cond_obs_done
+
+    invoke-interface {v4}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v11
+
+    check-cast v11, Ljava/lang/String;
+
+    invoke-virtual {v7, v11}, Lpl/mkrstudio/truefootball3/objects/World;->getCountryByCode(Ljava/lang/String;)Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v11
+
+    if-nez v11, :cond_obs_country
+
+    goto :goto_obs
+
+    :cond_obs_country
+    invoke-virtual {v11}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    move-result-object v11
+
+    if-nez v11, :cond_obs_cont
+
+    goto :goto_obs
+
+    :cond_obs_cont
+    invoke-virtual {v11}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
+
+    move-result-object v11
+
+    invoke-static {v3, v11}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addContinentalCompetitionIds(Ljava/util/List;Ljava/lang/String;)V
+
+    goto :goto_obs
+
+    :cond_obs_done
+    iget-object v4, v8, Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;->this$0:Lpl/mkrstudio/truefootball3/activities/NewGameActivity;
+
+    iget-object v4, v4, Lpl/mkrstudio/truefootball3/activities/NewGameActivity;->observedCountries:Ljava/util/List;
 
     invoke-interface {v4}, Ljava/util/List;->iterator()Ljava/util/Iterator;
 
