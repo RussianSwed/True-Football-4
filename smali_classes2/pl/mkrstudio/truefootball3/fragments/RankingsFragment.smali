@@ -12,6 +12,8 @@
 
 .field ud:Lpl/mkrstudio/truefootball3/objects/UserData;
 
+.field continent:Lpl/mkrstudio/truefootball3/objects/Continent;
+
 
 # direct methods
 .method public constructor <init>()V
@@ -19,6 +21,24 @@
 
     .line 34
     invoke-direct {p0}, Landroidx/fragment/app/Fragment;-><init>()V
+
+    return-void
+.end method
+
+.method public constructor <init>(Lpl/mkrstudio/truefootball3/objects/Continent;)V
+    .locals 0
+    .annotation system Ldalvik/annotation/MethodParameters;
+        accessFlags = {
+            0x0
+        }
+        names = {
+            "continent"
+        }
+    .end annotation
+
+    invoke-direct {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;-><init>()V
+
+    iput-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continent:Lpl/mkrstudio/truefootball3/objects/Continent;
 
     return-void
 .end method
@@ -45,17 +65,7 @@
     invoke-direct {v1}, Ljava/util/ArrayList;-><init>()V
 
     .line 98
-    iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
-
-    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
-
-    move-result-object v2
-
-    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
-
-    move-result-object v2
-
-    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
 
     move-result-object v2
 
@@ -455,17 +465,7 @@
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
 
     .line 152
-    iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
 
     move-result-object v1
 
@@ -480,17 +480,7 @@
     invoke-static {v1, v2}, Ljava/util/Collections;->sort(Ljava/util/List;Ljava/util/Comparator;)V
 
     .line 162
-    iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
 
     move-result-object v1
 
@@ -906,6 +896,33 @@
     invoke-direct {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->initClubRanking(Landroid/view/View;)V
 
     return-void
+.end method
+
+.method getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continent:Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    if-eqz v0, :cond_0
+
+    return-object v0
+
+    :cond_0
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    move-result-object v0
+
+    return-object v0
 .end method
 
 .method public onCreateView(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;

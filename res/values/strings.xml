@@ -1798,6 +1798,7 @@ It would take about %2$s days to repair all the issues, and during this time the
     <string name="whatDoYouWantToSay">What do you want to say?</string>
     <string name="wins">Wins:</string>
     <string name="winsTable">W</string>
+    <string name="otherLeagues">Other leagues</string>
     <string name="world">World</string>
     <string name="worldCup">World Cup</string>
     <string name="worldRanking">World ranking</string>

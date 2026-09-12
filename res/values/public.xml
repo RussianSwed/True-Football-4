@@ -2975,6 +2975,7 @@
     <public type="layout" name="view_valuepicker_narrow" id="0x7f0a00e3" />
     <public type="layout" name="whole_list_bg" id="0x7f0a00e4" />
     <public type="layout" name="activity_developer_tools" id="0x7f0a00e5" />
+    <public type="layout" name="fragment_world" id="0x7f0a00e6" />
     <public type="raw" name="away_goal" id="0x7f0b0000" />
     <public type="raw" name="crowd" id="0x7f0b0001" />
     <public type="raw" name="crowd2" id="0x7f0b0002" />
@@ -4633,6 +4634,7 @@
     <public type="string" name="youthTrainers" id="0x7f0c0676" />
     <public type="string" name="youthTraining" id="0x7f0c0677" />
     <public type="string" name="youth_trainer" id="0x7f0c0678" />
+    <public type="string" name="otherLeagues" id="0x7f0c0679" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f0d0000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f0d0001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f0d0002" />

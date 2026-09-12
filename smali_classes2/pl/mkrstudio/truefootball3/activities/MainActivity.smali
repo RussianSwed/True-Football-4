@@ -3398,47 +3398,17 @@
 
     .line 820
     :pswitch_14
-    new-instance p1, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
+    iget p1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->fragmentsOnStack:I
 
-    iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+    add-int/2addr p1, v2
 
-    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getCompetitions()Lpl/mkrstudio/truefootball3/objects/Competitions;
+    iput p1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->fragmentsOnStack:I
 
-    move-result-object v0
+    new-instance p1, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;
 
-    iget-object v1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+    invoke-direct {p1}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;-><init>()V
 
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
-
-    move-result-object v1
-
-    invoke-static {v0, v1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getOtherCountriesCompetition(Lpl/mkrstudio/truefootball3/objects/Competitions;Ljava/lang/String;)Ljava/util/List;
-
-    move-result-object v0
-
-    invoke-direct {p1, p0, v0, p0}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;-><init>(Landroid/content/Context;Ljava/util/List;Lpl/mkrstudio/truefootball3/listeners/ISelectCompetitionDialog;)V
-
-    iput-object p1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->scd:Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
-
-    .line 821
-    new-instance v0, Lpl/mkrstudio/truefootball3/activities/MainActivity$7;
-
-    invoke-direct {v0, p0}, Lpl/mkrstudio/truefootball3/activities/MainActivity$7;-><init>(Lpl/mkrstudio/truefootball3/activities/MainActivity;)V
-
-    invoke-virtual {p1, v0}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;->setOnDismissListener(Landroid/content/DialogInterface$OnDismissListener;)V
-
-    .line 827
-    iget-object p1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->scd:Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
-
-    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;->show()V
+    invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/activities/MainActivity;->openFragment(Landroidx/fragment/app/Fragment;)V
 
     goto/16 :goto_0
 
@@ -4566,6 +4536,74 @@
 
     .line 561
     invoke-virtual {v0}, Landroidx/fragment/app/FragmentTransaction;->commit()I
+
+    return-void
+.end method
+
+.method public openStackedFragment(Landroidx/fragment/app/Fragment;)V
+    .locals 1
+    .annotation system Ldalvik/annotation/MethodParameters;
+        accessFlags = {
+            0x0
+        }
+        names = {
+            "fragment"
+        }
+    .end annotation
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->fragmentsOnStack:I
+
+    add-int/lit8 v0, v0, 0x1
+
+    iput v0, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->fragmentsOnStack:I
+
+    invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/activities/MainActivity;->openFragment(Landroidx/fragment/app/Fragment;)V
+
+    return-void
+.end method
+
+.method public showOtherCountriesCompetitionsDialog()V
+    .locals 3
+
+    new-instance v0, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
+
+    iget-object v1, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getCompetitions()Lpl/mkrstudio/truefootball3/objects/Competitions;
+
+    move-result-object v1
+
+    iget-object v2, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
+
+    move-result-object v2
+
+    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v2
+
+    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
+
+    move-result-object v2
+
+    invoke-static {v1, v2}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getOtherCountriesCompetition(Lpl/mkrstudio/truefootball3/objects/Competitions;Ljava/lang/String;)Ljava/util/List;
+
+    move-result-object v1
+
+    invoke-direct {v0, p0, v1, p0}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;-><init>(Landroid/content/Context;Ljava/util/List;Lpl/mkrstudio/truefootball3/listeners/ISelectCompetitionDialog;)V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->scd:Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
+
+    new-instance v1, Lpl/mkrstudio/truefootball3/activities/MainActivity$7;
+
+    invoke-direct {v1, p0}, Lpl/mkrstudio/truefootball3/activities/MainActivity$7;-><init>(Lpl/mkrstudio/truefootball3/activities/MainActivity;)V
+
+    invoke-virtual {v0, v1}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;->setOnDismissListener(Landroid/content/DialogInterface$OnDismissListener;)V
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/activities/MainActivity;->scd:Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/dialogs/SelectCompetitionDialog;->show()V
 
     return-void
 .end method

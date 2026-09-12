@@ -3306,6 +3306,8 @@
 
 .field public static final youth_trainer:I = 0x7f0c0678
 
+.field public static final otherLeagues:I = 0x7f0c0679
+
 
 # direct methods
 .method private constructor <init>()V
