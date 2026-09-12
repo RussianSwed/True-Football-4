@@ -2856,7 +2856,7 @@
 
     const/4 v3, 0x3
 
-    if-icmpne v2, v3, :cup_child
+    if-ne v2, v3, :cup_child
 
     const/4 v1, 0x1
 
