@@ -2589,17 +2589,35 @@
     .end annotation
 
     .line 490
+    if-nez p1, :cond_ok
+
+    return-void
+
+    :cond_ok
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
 
     move-result-object v0
+
+    if-eqz v0, :cond_fail
 
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/fixtures/Fixtures;->getWeeks()Ljava/util/List;
 
     move-result-object v0
 
+    if-eqz v0, :cond_fail
+
     invoke-interface {v0}, Ljava/util/List;->size()I
 
     move-result v0
+
+    if-eqz v0, :cond_fail
+
+    goto :cond_ready
+
+    :cond_fail
+    return-void
+
+    :cond_ready
 
     .line 492
     new-array v1, v0, [Ljava/lang/String;
@@ -2682,6 +2700,8 @@
     .line 501
     iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->weeksSpinner:Landroid/widget/Spinner;
 
+    if-eqz v1, :cond_fail
+
     invoke-virtual {v1, v0}, Landroid/widget/Spinner;->setAdapter(Landroid/widget/SpinnerAdapter;)V
 
     .line 502
@@ -2724,7 +2744,7 @@
 .end method
 
 .method private showCompetitionDetails(Landroid/view/View;)V
-    .locals 3
+    .locals 4
     .annotation system Ldalvik/annotation/MethodParameters;
         accessFlags = {
             0x10
@@ -2735,11 +2755,25 @@
     .end annotation
 
     .line 239
-    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitionsHeader:Landroid/widget/TextView;
-
     iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitions:Ljava/util/List;
 
+    if-eqz v1, :fail
+
+    invoke-interface {v1}, Ljava/util/List;->isEmpty()Z
+
+    move-result v0
+
+    if-nez v0, :fail
+
     iget v2, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->showedCompetition:I
+
+    if-ltz v2, :fail
+
+    invoke-interface {v1}, Ljava/util/List;->size()I
+
+    move-result v0
+
+    if-ge v2, v0, :fail
 
     invoke-interface {v1, v2}, Ljava/util/List;->get(I)Ljava/lang/Object;
 
@@ -2747,26 +2781,36 @@
 
     check-cast v1, Lpl/mkrstudio/truefootball3/objects/Competition;
 
+    if-eqz v1, :fail
+
     invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
 
-    move-result-object v1
+    move-result-object v0
 
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
+    if-eqz v0, :fail
 
-    move-result-object v1
+    iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitionsHeader:Landroid/widget/TextView;
+
+    if-eqz v2, :header_ok
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
+
+    move-result-object v0
 
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
 
-    move-result-object v2
+    move-result-object v3
 
-    invoke-static {v1, v2}, Lpl/mkrstudio/truefootball3/helpers/StringHelper;->getNameForCompetition(Ljava/lang/String;Landroid/content/Context;)Ljava/lang/String;
+    invoke-static {v0, v3}, Lpl/mkrstudio/truefootball3/helpers/StringHelper;->getNameForCompetition(Ljava/lang/String;Landroid/content/Context;)Ljava/lang/String;
 
-    move-result-object v1
+    move-result-object v0
 
-    invoke-virtual {v0, v1}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+    invoke-virtual {v2, v0}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
-    .line 241
-    iget-boolean v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->leagueTables:Z
+    :header_ok
+    invoke-static {v1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->showsLeagueTable(Lpl/mkrstudio/truefootball3/objects/Competition;)Z
+
+    move-result v0
 
     const/4 v1, 0x0
 
@@ -2806,6 +2850,17 @@
     .line 249
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->displayTypeVF:Landroid/widget/ViewFlipper;
 
+    invoke-virtual {v0}, Landroid/widget/ViewFlipper;->getChildCount()I
+
+    move-result v2
+
+    const/4 v3, 0x3
+
+    if-icmpne v2, v3, :cup_child
+
+    const/4 v1, 0x1
+
+    :cup_child
     invoke-virtual {v0, v1}, Landroid/widget/ViewFlipper;->setDisplayedChild(I)V
 
     .line 250
@@ -2818,14 +2873,19 @@
     :goto_0
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->arrowLeft2:Landroid/widget/Button;
 
+    if-eqz p1, :skip_l2
+
     new-instance v0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment$4;
 
     invoke-direct {v0, p0}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment$4;-><init>(Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;)V
 
     invoke-virtual {p1, v0}, Landroid/widget/Button;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    :skip_l2
     .line 263
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->arrowRight2:Landroid/widget/Button;
+
+    if-eqz p1, :skip_r2
 
     new-instance v0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment$5;
 
@@ -2833,16 +2893,23 @@
 
     invoke-virtual {p1, v0}, Landroid/widget/Button;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    :skip_r2
     .line 272
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->arrowLeft2:Landroid/widget/Button;
 
+    if-eqz p1, :skip_dis
+
     invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->disableLeftButton(Landroid/widget/Button;)V
 
+    :skip_dis
     .line 273
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->arrowRight2:Landroid/widget/Button;
 
+    if-eqz p1, :fail
+
     invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->enableRightButton(Landroid/widget/Button;)V
 
+    :fail
     return-void
 .end method
 
@@ -12393,6 +12460,17 @@
     .end annotation
 
     .line 113
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitions:Ljava/util/List;
+
+    if-eqz v0, :keep_list
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitions:Ljava/util/List;
+
+    :keep_list
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitions:Ljava/util/List;
 
     new-instance v1, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment$1;

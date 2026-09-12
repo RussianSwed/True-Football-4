@@ -62,63 +62,47 @@
     .line 116
     check-cast p2, Lpl/mkrstudio/truefootball3/objects/Competition;
 
-    .line 117
-    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
+    const-string v0, ""
 
-    move-result-object v0
+    if-eqz p1, :id1
 
-    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
-
-    move-result-object v0
-
-    invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
-
-    move-result-object v1
-
-    invoke-virtual {v0, v1}, Ljava/lang/String;->compareTo(Ljava/lang/String;)I
-
-    move-result v0
-
-    if-gez v0, :cond_0
-
-    const/4 p1, -0x1
-
-    return p1
-
-    .line 119
-    :cond_0
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
 
     move-result-object p1
+
+    if-eqz p1, :id1
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
 
     move-result-object p1
 
+    if-eqz p1, :id1
+
+    move-object v0, p1
+
+    :id1
+    const-string v1, ""
+
+    if-eqz p2, :id2
+
     invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
 
-    move-result-object p2
+    move-result-object p1
 
-    invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
+    if-eqz p1, :id2
 
-    move-result-object p2
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
 
-    invoke-virtual {p1, p2}, Ljava/lang/String;->compareTo(Ljava/lang/String;)I
+    move-result-object p1
+
+    if-eqz p1, :id2
+
+    move-object v1, p1
+
+    :id2
+    invoke-virtual {v0, v1}, Ljava/lang/String;->compareTo(Ljava/lang/String;)I
 
     move-result p1
-
-    if-lez p1, :cond_1
-
-    const/4 p1, 0x1
-
-    return p1
-
-    :cond_1
-    const/4 p1, 0x0
 
     return p1
 .end method

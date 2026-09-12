@@ -2737,6 +2737,8 @@
 
     move-result-object v3
 
+    if-eqz v3, :cond_0
+
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
 
     move-result-object v3

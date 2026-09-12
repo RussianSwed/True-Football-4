@@ -140,12 +140,16 @@
 
     check-cast p1, Ljava/util/HashMap;
 
+    if-eqz p1, :empty_row
+
     const-string v4, "flag"
 
     .line 48
     invoke-virtual {p1, v4}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object v5
+
+    if-eqz v5, :cond_1
 
     invoke-virtual {v5}, Ljava/lang/Object;->toString()Ljava/lang/String;
 
@@ -188,12 +192,15 @@
 
     move-result-object p3
 
+    if-eqz p3, :skip_rank
+
     invoke-virtual {p3}, Ljava/lang/Object;->toString()Ljava/lang/String;
 
     move-result-object p3
 
     invoke-virtual {v0, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
+    :skip_rank
     const-string p3, "name"
 
     .line 54
@@ -201,12 +208,15 @@
 
     move-result-object p3
 
+    if-eqz p3, :skip_name
+
     invoke-virtual {p3}, Ljava/lang/Object;->toString()Ljava/lang/String;
 
     move-result-object p3
 
     invoke-virtual {v1, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
+    :skip_name
     const-string p3, "points"
 
     .line 55
@@ -214,18 +224,23 @@
 
     move-result-object p3
 
+    if-eqz p3, :skip_points
+
     invoke-virtual {p3}, Ljava/lang/Object;->toString()Ljava/lang/String;
 
     move-result-object p3
 
     invoke-virtual {v2, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
+    :skip_points
     const-string p3, "player"
 
     .line 57
     invoke-virtual {p1, p3}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
 
     move-result-object p1
+
+    if-eqz p1, :cond_2
 
     const-string p3, "true"
 
@@ -261,5 +276,6 @@
     invoke-virtual {v2, p1}, Landroid/widget/TextView;->setTextColor(I)V
 
     :goto_1
+    :empty_row
     return-object p2
 .end method

@@ -81,6 +81,8 @@
 
     check-cast v2, Lpl/mkrstudio/truefootball3/views/TileButton;
 
+    if-eqz v2, :goto_0
+
     const/16 v4, 0x8
 
     invoke-virtual {v2, v4}, Lpl/mkrstudio/truefootball3/views/TileButton;->setVisibility(I)V
@@ -114,7 +116,7 @@
 
     move-result v1
 
-    invoke-virtual {p0, v0, v1}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->placeCountryTiles(Ljava/util/List;I)V
+    invoke-virtual {p0, v0, v1}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->placeWorldContentTiles(Ljava/util/List;I)V
 
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
 
@@ -142,6 +144,8 @@
     move-result-object v2
 
     check-cast v2, Lpl/mkrstudio/truefootball3/views/TileButton;
+
+    if-eqz v2, :goto_1
 
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/views/TileButton;->getLayoutParams()Landroid/view/ViewGroup$LayoutParams;
 
@@ -459,6 +463,10 @@
         }
     .end annotation
 
+    iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    if-eqz v1, :cond_3
+
     const-string v0, "CC"
 
     invoke-virtual {v0, p1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
@@ -625,6 +633,17 @@
     return-void
 
     :cond_4
+    instance-of v0, p1, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    if-eqz v0, :cond_comp_str
+
+    check-cast p1, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->openCompetition(Lpl/mkrstudio/truefootball3/objects/Competition;)V
+
+    return-void
+
+    :cond_comp_str
     instance-of v0, p1, Ljava/lang/String;
 
     if-nez v0, :cond_5
@@ -773,6 +792,60 @@
     return-object p1
 .end method
 
+.method openCompetition(Lpl/mkrstudio/truefootball3/objects/Competition;)V
+    .locals 3
+
+    if-nez p1, :cond_0
+
+    return-void
+
+    :cond_0
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
+
+    move-result-object v0
+
+    if-eqz v0, :cond_1
+
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
+
+    move-result-object v0
+
+    if-nez v0, :cond_2
+
+    :cond_1
+    return-void
+
+    :cond_2
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    invoke-interface {v0, p1}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    invoke-static {p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->showsLeagueTable(Lpl/mkrstudio/truefootball3/objects/Competition;)Z
+
+    move-result p1
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
+
+    move-result-object v1
+
+    check-cast v1, Lpl/mkrstudio/truefootball3/activities/MainActivity;
+
+    if-nez v1, :cond_3
+
+    return-void
+
+    :cond_3
+    new-instance v2, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;
+
+    invoke-direct {v2, v0, p1}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;-><init>(Ljava/util/List;Z)V
+
+    invoke-virtual {v1, v2}, Lpl/mkrstudio/truefootball3/activities/MainActivity;->openStackedFragment(Landroidx/fragment/app/Fragment;)V
+
+    return-void
+.end method
+
 .method openCup(Ljava/lang/String;)V
     .locals 3
 
@@ -839,14 +912,252 @@
 
     check-cast v0, Lpl/mkrstudio/truefootball3/activities/MainActivity;
 
-    new-instance v1, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;
+    if-nez v0, :cond_act
 
-    const/4 v2, 0x0
+    return-void
+
+    :cond_act
+    invoke-static {p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->listHasLeagueTable(Ljava/util/List;)Z
+
+    move-result v2
+
+    new-instance v1, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;
 
     invoke-direct {v1, p1, v2}, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;-><init>(Ljava/util/List;Z)V
 
     invoke-virtual {v0, v1}, Lpl/mkrstudio/truefootball3/activities/MainActivity;->openStackedFragment(Landroidx/fragment/app/Fragment;)V
 
+    return-void
+.end method
+
+.method placeWorldContentTiles(Ljava/util/List;I)V
+    .locals 4
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/views/TileButton;",
+            ">;I)V"
+        }
+    .end annotation
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    if-nez v0, :cond_0
+
+    return-void
+
+    :cond_0
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getCompetitions()Lpl/mkrstudio/truefootball3/objects/Competitions;
+
+    move-result-object v0
+
+    iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v1
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->currentContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    move-result-object v2
+
+    invoke-static {v0, v1, v2}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->getLoadedCompetitionsForContinent(Lpl/mkrstudio/truefootball3/objects/Competitions;Lpl/mkrstudio/truefootball3/objects/World;Lpl/mkrstudio/truefootball3/objects/Continent;)Ljava/util/List;
+
+    move-result-object v0
+
+    invoke-interface {v0}, Ljava/util/List;->size()I
+
+    move-result v1
+
+    add-int/2addr v1, p2
+
+    invoke-interface {p1}, Ljava/util/List;->size()I
+
+    move-result v2
+
+    if-le v1, v2, :cond_1
+
+    invoke-virtual {p0, p1, p2}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->placeCountryTiles(Ljava/util/List;I)V
+
+    return-void
+
+    :cond_1
+    invoke-virtual {p0, p1, p2, v0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->placeCompetitionTiles(Ljava/util/List;ILjava/util/List;)V
+
+    return-void
+.end method
+
+.method placeCompetitionTiles(Ljava/util/List;ILjava/util/List;)V
+    .locals 2
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/util/List;",
+            "I",
+            "Ljava/util/List;",
+            ")V"
+        }
+    .end annotation
+
+    if-eqz p1, :cond_2
+
+    if-nez p3, :cond_0
+
+    goto :goto_1
+
+    :cond_0
+    invoke-interface {p3}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object p3
+
+    :goto_0
+    invoke-interface {p3}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_2
+
+    invoke-interface {p1}, Ljava/util/List;->size()I
+
+    move-result v0
+
+    if-lt p2, v0, :cond_1
+
+    return-void
+
+    :cond_1
+    invoke-interface {p3}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    invoke-virtual {p0, p1, p2, v0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->placeCompetitionTile(Ljava/util/List;ILpl/mkrstudio/truefootball3/objects/Competition;)V
+
+    add-int/lit8 p2, p2, 0x1
+
+    goto :goto_0
+
+    :cond_2
+    :goto_1
+    return-void
+.end method
+
+.method placeCompetitionTile(Ljava/util/List;ILpl/mkrstudio/truefootball3/objects/Competition;)V
+    .locals 5
+
+    if-eqz p1, :cond_3
+
+    if-nez p3, :cond_0
+
+    goto/16 :goto_end
+
+    :cond_0
+    invoke-interface {p1}, Ljava/util/List;->size()I
+
+    move-result v0
+
+    if-ge p2, v0, :cond_3
+
+    invoke-interface {p1, p2}, Ljava/util/List;->get(I)Ljava/lang/Object;
+
+    move-result-object p1
+
+    check-cast p1, Lpl/mkrstudio/truefootball3/views/TileButton;
+
+    if-nez p1, :cond_1
+
+    return-void
+
+    :cond_1
+    const/4 p2, 0x0
+
+    invoke-virtual {p1, p2}, Lpl/mkrstudio/truefootball3/views/TileButton;->setVisibility(I)V
+
+    invoke-virtual {p3}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
+
+    move-result-object p2
+
+    if-nez p2, :cond_2
+
+    return-void
+
+    :cond_2
+    invoke-virtual {p2}, Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;->getId()Ljava/lang/String;
+
+    move-result-object p2
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
+
+    move-result-object v0
+
+    invoke-static {p2, v0}, Lpl/mkrstudio/truefootball3/helpers/StringHelper;->getNameForCompetition(Ljava/lang/String;Landroid/content/Context;)Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-virtual {p1, v0}, Lpl/mkrstudio/truefootball3/views/TileButton;->setTileText(Ljava/lang/String;)V
+
+    if-eqz p2, :cond_flag
+
+    invoke-virtual {p2}, Ljava/lang/String;->length()I
+
+    move-result v0
+
+    const/4 v1, 0x3
+
+    if-ge v0, v1, :cond_code
+
+    goto :cond_flag
+
+    :cond_code
+    const/4 v0, 0x0
+
+    invoke-virtual {p2, v0, v1}, Ljava/lang/String;->substring(II)Ljava/lang/String;
+
+    move-result-object p2
+
+    new-instance v0, Ljava/util/Locale;
+
+    const-string v1, "en"
+
+    invoke-direct {v0, v1}, Ljava/util/Locale;-><init>(Ljava/lang/String;)V
+
+    invoke-virtual {p2, v0}, Ljava/lang/String;->toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+
+    move-result-object p2
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->getResources()Landroid/content/res/Resources;
+
+    move-result-object v0
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
+
+    move-result-object v1
+
+    if-eqz v1, :cond_flag
+
+    invoke-virtual {v1}, Landroidx/fragment/app/FragmentActivity;->getPackageName()Ljava/lang/String;
+
+    move-result-object v1
+
+    const-string v2, "drawable"
+
+    invoke-virtual {v0, p2, v2, v1}, Landroid/content/res/Resources;->getIdentifier(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result p2
+
+    if-eqz p2, :cond_flag
+
+    invoke-virtual {p1, p2}, Lpl/mkrstudio/truefootball3/views/TileButton;->setTileDrawableResource(I)V
+
+    :cond_flag
+    invoke-virtual {p0, p1, p3}, Lpl/mkrstudio/truefootball3/fragments/WorldFragment;->tagTile(Lpl/mkrstudio/truefootball3/views/TileButton;Ljava/lang/Object;)V
+
+    invoke-virtual {p1, p0}, Lpl/mkrstudio/truefootball3/views/TileButton;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    :cond_3
+    :goto_end
     return-void
 .end method
 
@@ -1092,6 +1403,14 @@
         }
     .end annotation
 
+    if-eqz p1, :skip_tile
+
+    invoke-interface {p1}, Ljava/util/List;->size()I
+
+    move-result v0
+
+    if-ge p2, v0, :skip_tile
+
     const-string v0, "CC"
 
     invoke-virtual {v0, p3}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
@@ -1229,5 +1548,6 @@
     return p2
 
     :cond_7
+    :skip_tile
     return p2
 .end method

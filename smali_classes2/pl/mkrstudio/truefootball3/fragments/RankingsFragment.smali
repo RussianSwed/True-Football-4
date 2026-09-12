@@ -83,9 +83,13 @@
 
     move-result-object v2
 
+    if-eqz v2, :cond_7
+
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCountries()Ljava/util/List;
 
     move-result-object v2
+
+    if-eqz v2, :cond_7
 
     invoke-interface {v2}, Ljava/util/List;->iterator()Ljava/util/Iterator;
 
@@ -104,10 +108,14 @@
 
     check-cast v3, Lpl/mkrstudio/truefootball3/objects/Country;
 
+    if-eqz v3, :cond_0
+
     .line 100
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
 
     move-result-object v4
+
+    if-eqz v4, :cond_0
 
     const-string v5, "USA"
 
@@ -120,6 +128,8 @@
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
 
     move-result-object v4
+
+    if-eqz v4, :cond_0
 
     const-string v5, "CAN"
 
@@ -136,6 +146,14 @@
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getPlayableLeagues()Ljava/util/List;
 
     move-result-object v4
+
+    if-eqz v4, :cond_0
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getTeamGroups()Ljava/util/Map;
+
+    move-result-object v5
+
+    if-eqz v5, :cond_0
 
     invoke-interface {v4}, Ljava/util/List;->iterator()Ljava/util/Iterator;
 
@@ -198,6 +216,8 @@
 
     check-cast v7, Ljava/util/List;
 
+    if-eqz v7, :cond_3
+
     invoke-interface {v7}, Ljava/util/List;->iterator()Ljava/util/Iterator;
 
     move-result-object v7
@@ -230,6 +250,12 @@
     .line 101
     :cond_5
     :goto_1
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getTeamGroups()Ljava/util/Map;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_0
+
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getAllTeams()Ljava/util/List;
 
     move-result-object v3
@@ -252,6 +278,14 @@
     move-result-object v4
 
     check-cast v4, Lpl/mkrstudio/truefootball3/objects/Team;
+
+    if-eqz v4, :cond_6
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v5
+
+    if-eqz v5, :cond_6
 
     .line 103
     invoke-interface {v1, v4}, Ljava/util/List;->contains(Ljava/lang/Object;)Z
@@ -293,6 +327,14 @@
     move-result-object v4
 
     check-cast v4, Lpl/mkrstudio/truefootball3/objects/Team;
+
+    if-eqz v4, :goto_3
+
+    invoke-virtual {v4}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
+
+    move-result-object v5
+
+    if-eqz v5, :goto_3
 
     .line 129
     new-instance v5, Ljava/util/HashMap;
@@ -387,6 +429,8 @@
 
     move-result-object v4
 
+    if-eqz v4, :goto_3
+
     new-instance v8, Ljava/util/Locale;
 
     const-string v9, "en"
@@ -401,6 +445,8 @@
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
 
     move-result-object v8
+
+    if-eqz v8, :goto_3
 
     invoke-virtual {v8}, Landroidx/fragment/app/FragmentActivity;->getPackageName()Ljava/lang/String;
 
@@ -445,6 +491,8 @@
 
     check-cast p1, Landroid/widget/ListView;
 
+    if-eqz p1, :cond_a
+
     .line 146
     new-instance v1, Lpl/mkrstudio/truefootball3/adapters/RankingAdapter;
 
@@ -459,6 +507,7 @@
     .line 147
     invoke-virtual {p1, v1}, Landroid/widget/ListView;->setAdapter(Landroid/widget/ListAdapter;)V
 
+    :cond_a
     return-void
 .end method
 
@@ -483,24 +532,25 @@
 
     move-result-object v1
 
+    if-eqz v1, :cond_2
+
     invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCountries()Ljava/util/List;
 
     move-result-object v1
+
+    if-eqz v1, :cond_2
+
+    new-instance v2, Ljava/util/ArrayList;
+
+    invoke-direct {v2, v1}, Ljava/util/ArrayList;-><init>(Ljava/util/Collection;)V
+
+    move-object v1, v2
 
     new-instance v2, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$4;
 
     invoke-direct {v2, p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$4;-><init>(Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;)V
 
     invoke-static {v1, v2}, Ljava/util/Collections;->sort(Ljava/util/List;Ljava/util/Comparator;)V
-
-    .line 162
-    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
-
-    move-result-object v1
-
-    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCountries()Ljava/util/List;
-
-    move-result-object v1
 
     invoke-interface {v1}, Ljava/util/List;->iterator()Ljava/util/Iterator;
 
@@ -522,6 +572,8 @@
 
     check-cast v3, Lpl/mkrstudio/truefootball3/objects/Country;
 
+    if-eqz v3, :cond_0
+
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getOriginalContinentalRankPoints()I
 
     move-result v4
@@ -538,13 +590,22 @@
     .line 164
     iget-object v5, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
 
+    const/4 v6, 0x0
+
+    if-eqz v5, :cond_player_null
+
     invoke-virtual {v5}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
 
     move-result-object v5
 
+    if-eqz v5, :cond_player_null
+
     invoke-virtual {v5}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
 
-    move-result-object v5
+    move-result-object v6
+
+    :cond_player_null
+    move-object v5, v6
 
     const-string v6, "player"
 
@@ -597,13 +658,11 @@
     invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 171
-    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getResources()Landroid/content/res/Resources;
-
-    move-result-object v5
-
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Country;->getCode()Ljava/lang/String;
 
     move-result-object v6
+
+    if-eqz v6, :cond_0
 
     new-instance v7, Ljava/util/Locale;
 
@@ -615,9 +674,15 @@
 
     move-result-object v6
 
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getResources()Landroid/content/res/Resources;
+
+    move-result-object v5
+
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
 
     move-result-object v7
+
+    if-eqz v7, :cond_0
 
     invoke-virtual {v7}, Landroidx/fragment/app/FragmentActivity;->getPackageName()Ljava/lang/String;
 
@@ -629,10 +694,18 @@
 
     move-result v5
 
+    if-nez v5, :cond_name_ok
+
+    move-object v5, v6
+
+    goto :goto_name
+
+    :cond_name_ok
     invoke-virtual {p0, v5}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getString(I)Ljava/lang/String;
 
     move-result-object v5
 
+    :goto_name
     const-string v6, "name"
 
     invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
@@ -667,6 +740,8 @@
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
 
     move-result-object v7
+
+    if-eqz v7, :cond_0
 
     invoke-virtual {v7}, Landroidx/fragment/app/FragmentActivity;->getPackageName()Ljava/lang/String;
 
@@ -711,6 +786,8 @@
 
     check-cast p1, Landroid/widget/ListView;
 
+    if-eqz p1, :cond_list
+
     .line 180
     new-instance v1, Lpl/mkrstudio/truefootball3/adapters/RankingAdapter;
 
@@ -725,6 +802,7 @@
     .line 181
     invoke-virtual {p1, v1}, Landroid/widget/ListView;->setAdapter(Landroid/widget/ListAdapter;)V
 
+    :cond_list
     return-void
 .end method
 
@@ -735,6 +813,8 @@
 
     .line 185
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->leftButton:Landroid/widget/Button;
+
+    if-eqz v0, :cond_0
 
     const/4 v1, 0x0
 
@@ -747,6 +827,7 @@
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
+    :cond_0
     return-void
 .end method
 
@@ -755,6 +836,8 @@
 
     .line 195
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->rightButton:Landroid/widget/Button;
+
+    if-eqz v0, :cond_0
 
     const/4 v1, 0x0
 
@@ -767,6 +850,7 @@
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
+    :cond_0
     return-void
 .end method
 
@@ -775,6 +859,8 @@
 
     .line 190
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->leftButton:Landroid/widget/Button;
+
+    if-eqz v0, :cond_0
 
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getResources()Landroid/content/res/Resources;
 
@@ -797,6 +883,7 @@
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
+    :cond_0
     return-void
 .end method
 
@@ -805,6 +892,8 @@
 
     .line 200
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->rightButton:Landroid/widget/Button;
+
+    if-eqz v0, :cond_0
 
     invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getResources()Landroid/content/res/Resources;
 
@@ -827,6 +916,7 @@
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setEnabled(Z)V
 
+    :cond_0
     return-void
 .end method
 
@@ -877,20 +967,27 @@
     .line 57
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->leftButton:Landroid/widget/Button;
 
+    if-eqz v0, :skip_left
+
     new-instance v1, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;
 
     invoke-direct {v1, p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;-><init>(Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;Landroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    :skip_left
     .line 71
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->rightButton:Landroid/widget/Button;
+
+    if-eqz v0, :skip_right
 
     new-instance v1, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;
 
     invoke-direct {v1, p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;-><init>(Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;Landroid/view/View;)V
 
     invoke-virtual {v0, v1}, Landroid/widget/Button;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    :skip_right
 
     const/4 v0, 0x0
 
@@ -915,7 +1012,7 @@
 .end method
 
 .method getRankingContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
-    .locals 1
+    .locals 2
 
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continent:Lpl/mkrstudio/truefootball3/objects/Continent;
 
@@ -926,17 +1023,51 @@
     :cond_0
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
 
+    if-eqz v0, :cond_team
+
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
 
     move-result-object v0
+
+    if-eqz v0, :cond_team
 
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
 
     move-result-object v0
 
+    if-eqz v0, :cond_team
+
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
 
     move-result-object v0
+
+    if-eqz v0, :cond_team
+
+    return-object v0
+
+    :cond_team
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continents:Ljava/util/List;
+
+    if-eqz v0, :cond_null
+
+    invoke-interface {v0}, Ljava/util/List;->isEmpty()Z
+
+    move-result v1
+
+    if-nez v1, :cond_null
+
+    const/4 v1, 0x0
+
+    invoke-interface {v0, v1}, Ljava/util/List;->get(I)Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    return-object v0
+
+    :cond_null
+    const/4 v0, 0x0
 
     return-object v0
 .end method
@@ -1121,9 +1252,15 @@
 
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
 
+    const/4 v1, 0x0
+
+    if-eqz v0, :no_world
+
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
 
     move-result-object v0
+
+    if-eqz v0, :no_world
 
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/World;->getContinents()Ljava/util/List;
 
@@ -1131,8 +1268,14 @@
 
     iput-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continents:Ljava/util/List;
 
-    const/4 v1, 0x0
+    goto :got_world
 
+    :no_world
+    const/4 v0, 0x0
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continents:Ljava/util/List;
+
+    :got_world
     iput v1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continentIndex:I
 
     iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continent:Lpl/mkrstudio/truefootball3/objects/Continent;
@@ -1140,6 +1283,8 @@
     if-nez v2, :cond_0
 
     iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    if-eqz v2, :cond_0
 
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/UserData;->getChosenTeam()Lpl/mkrstudio/truefootball3/objects/Team;
 
@@ -1151,11 +1296,15 @@
 
     move-result-object v2
 
+    if-eqz v2, :cond_0
+
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Country;->getContinent()Lpl/mkrstudio/truefootball3/objects/Continent;
 
     move-result-object v2
 
     :cond_0
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continents:Ljava/util/List;
+
     if-eqz v2, :cond_3
 
     if-eqz v0, :cond_3
@@ -1163,6 +1312,8 @@
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
 
     move-result-object v2
+
+    if-eqz v2, :cond_3
 
     :goto_0
     invoke-interface {v0}, Ljava/util/List;->size()I
@@ -1176,6 +1327,8 @@
     move-result-object v3
 
     check-cast v3, Lpl/mkrstudio/truefootball3/objects/Continent;
+
+    if-eqz v3, :cond_2
 
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Continent;->getCode()Ljava/lang/String;
 
@@ -1204,13 +1357,19 @@
 
     invoke-interface {v0}, Ljava/util/List;->isEmpty()Z
 
-    move-result v0
+    move-result v1
 
-    if-nez v0, :cond_4
-
-    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continents:Ljava/util/List;
+    if-nez v1, :cond_4
 
     iget v1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->continentIndex:I
+
+    if-ltz v1, :cond_4
+
+    invoke-interface {v0}, Ljava/util/List;->size()I
+
+    move-result v2
+
+    if-ge v1, v2, :cond_4
 
     invoke-interface {v0, v1}, Ljava/util/List;->get(I)Ljava/lang/Object;
 
@@ -1223,11 +1382,18 @@
     :cond_4
     invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->bindContinentHeader(Landroid/view/View;)V
 
+    if-nez p1, :cond_arrows
+
+    return-void
+
+    :cond_arrows
     const v0, 0x7f080061
 
     invoke-virtual {p1, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
     move-result-object v0
+
+    if-eqz v0, :skip_left
 
     new-instance v1, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$6;
 
@@ -1235,11 +1401,14 @@
 
     invoke-virtual {v0, v1}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    :skip_left
     const v0, 0x7f080069
 
     invoke-virtual {p1, v0}, Landroid/view/View;->findViewById(I)Landroid/view/View;
 
     move-result-object p1
+
+    if-eqz p1, :skip_right
 
     new-instance v0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$7;
 
@@ -1247,6 +1416,7 @@
 
     invoke-virtual {p1, v0}, Landroid/view/View;->setOnClickListener(Landroid/view/View$OnClickListener;)V
 
+    :skip_right
     return-void
 .end method
 

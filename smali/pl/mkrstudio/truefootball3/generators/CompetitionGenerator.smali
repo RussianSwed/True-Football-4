@@ -2356,10 +2356,20 @@
         }
     .end annotation
 
+    if-nez p1, :ret_null
+
     .line 76
     new-instance v0, Lpl/mkrstudio/truefootball3/objects/Competition;
 
     invoke-direct {v0}, Lpl/mkrstudio/truefootball3/objects/Competition;-><init>()V
+
+    invoke-virtual {p1}, Ljava/lang/String;->length()I
+
+    move-result v2
+
+    const/4 v1, 0x5
+
+    if-ge v2, v1, :cond_0
 
     const/4 v1, 0x4
 
@@ -2558,6 +2568,11 @@
 
     :goto_3
     return-object v0
+
+    :ret_null
+    const/4 v0, 0x0
+
+    return-object v0
 .end method
 
 .method public generateCompetitions(Ljava/lang/String;Ljava/util/List;Lpl/mkrstudio/truefootball3/objects/UserData;Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;)V
@@ -2677,6 +2692,14 @@
 
     move-result-object v7
 
+    if-eqz v7, :cond_2
+
+    invoke-virtual {v7}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
+
+    move-result-object v8
+
+    if-eqz v8, :cond_2
+
     invoke-virtual {v2, p1, v7}, Ljava/util/HashMap;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
 
     .line 56
@@ -2764,13 +2787,19 @@
 
     move-result-object v8
 
+    if-eqz v8, :cond_7
+
     invoke-virtual {v8}, Lpl/mkrstudio/truefootball3/objects/Team;->getCountry()Lpl/mkrstudio/truefootball3/objects/Country;
 
     move-result-object v8
 
+    if-eqz v8, :cond_7
+
     invoke-virtual {v8}, Lpl/mkrstudio/truefootball3/objects/Country;->getBeginDate()Ljava/lang/String;
 
     move-result-object v8
+
+    if-eqz v8, :cond_7
 
     const-string v9, "07.01"
 
@@ -2827,6 +2856,20 @@
     invoke-virtual {p0, v2, p3, v7}, Lpl/mkrstudio/truefootball3/generators/CompetitionGenerator;->generateCompetition(Ljava/lang/String;Lpl/mkrstudio/truefootball3/objects/UserData;I)Lpl/mkrstudio/truefootball3/objects/Competition;
 
     move-result-object v7
+
+    if-eqz v7, :cond_3
+
+    invoke-virtual {v7}, Lpl/mkrstudio/truefootball3/objects/Competition;->getCompetitionInfo()Lpl/mkrstudio/truefootball3/objects/CompetitionInfo;
+
+    move-result-object v9
+
+    if-eqz v9, :cond_3
+
+    invoke-virtual {v7}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
+
+    move-result-object v9
+
+    if-eqz v9, :cond_3
 
     invoke-virtual {v8, v2, v7}, Ljava/util/HashMap;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
 
