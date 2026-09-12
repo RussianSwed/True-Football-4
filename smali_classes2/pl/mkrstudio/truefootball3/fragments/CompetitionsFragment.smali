@@ -12462,7 +12462,7 @@
     .line 113
     iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/CompetitionsFragment;->competitions:Ljava/util/List;
 
-    if-eqz v0, :keep_list
+    if-nez v0, :keep_list
 
     new-instance v0, Ljava/util/ArrayList;
 

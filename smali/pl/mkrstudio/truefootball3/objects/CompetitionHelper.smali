@@ -1012,7 +1012,7 @@
 
     move-result v5
 
-    if-nez v5, :cond_0
+    if-eqz v5, :cond_0
 
     const-string v5, "_"
 
@@ -1024,7 +1024,7 @@
 
     move-result v2
 
-    if-nez v2, :cond_0
+    if-eqz v2, :cond_0
 
     invoke-interface {v0, v1}, Ljava/util/List;->add(Ljava/lang/Object;)Z
 
