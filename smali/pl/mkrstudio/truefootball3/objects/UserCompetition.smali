@@ -31,6 +31,16 @@
     .end annotation
 .end field
 
+.field userAssistants:Ljava/util/List;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;",
+            ">;"
+        }
+    .end annotation
+.end field
+
 
 # direct methods
 .method public constructor <init>()V
@@ -52,6 +62,12 @@
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
 
     iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userApps:Ljava/util/List;
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userAssistants:Ljava/util/List;
 
     return-void
 .end method
@@ -140,6 +156,49 @@
 
     .line 20
     iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userScorers:Ljava/util/List;
+
+    return-void
+.end method
+
+.method public getUserAssistants()Ljava/util/List;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;",
+            ">;"
+        }
+    .end annotation
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userAssistants:Ljava/util/List;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userAssistants:Ljava/util/List;
+
+    :cond_0
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userAssistants:Ljava/util/List;
+
+    return-object v0
+.end method
+
+.method public setUserAssistants(Ljava/util/List;)V
+    .locals 0
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;",
+            ">;)V"
+        }
+    .end annotation
+
+    iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->userAssistants:Ljava/util/List;
 
     return-void
 .end method

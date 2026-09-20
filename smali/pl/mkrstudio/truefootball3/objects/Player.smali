@@ -39,6 +39,16 @@
 
 .field unavailable:Z
 
+.field careerSeasons:Ljava/util/List;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerSeasonRecord;",
+            ">;"
+        }
+    .end annotation
+.end field
+
 
 # direct methods
 .method public constructor <init>()V
@@ -4544,4 +4554,31 @@
 
     :cond_0
     return-void
+.end method
+
+.method public getCareerSeasons()Ljava/util/List;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerSeasonRecord;",
+            ">;"
+        }
+    .end annotation
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->careerSeasons:Ljava/util/List;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->careerSeasons:Ljava/util/List;
+
+    :cond_0
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->careerSeasons:Ljava/util/List;
+
+    return-object v0
 .end method

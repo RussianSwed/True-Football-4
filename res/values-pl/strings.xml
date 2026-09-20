@@ -1782,4 +1782,8 @@ Oczekiwany czas prac wynosi %2$s dni, i przez ten czas będzie ona dla kibiców 
     <string name="youthTrainers">Trenerzy juniorów</string>
     <string name="youthTraining">Szkolenie młodzieży</string>
     <string name="youth_trainer">Trener młodzieży</string>
+    <string name="ntWorldCup">Mistrzostwa świata</string>
+    <string name="euroChampionship">Mistrzostwa Europy</string>
+    <string name="worldCupQualifiers">Eliminacje MŚ</string>
+    <string name="euroQualifiers">Eliminacje ME</string>
 </resources>

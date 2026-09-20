@@ -4633,6 +4633,10 @@
     <public type="string" name="youthTrainers" id="0x7f0c0676" />
     <public type="string" name="youthTraining" id="0x7f0c0677" />
     <public type="string" name="youth_trainer" id="0x7f0c0678" />
+    <public type="string" name="ntWorldCup" id="0x7f0c0679" />
+    <public type="string" name="euroChampionship" id="0x7f0c067a" />
+    <public type="string" name="worldCupQualifiers" id="0x7f0c067b" />
+    <public type="string" name="euroQualifiers" id="0x7f0c067c" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f0d0000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f0d0001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f0d0002" />

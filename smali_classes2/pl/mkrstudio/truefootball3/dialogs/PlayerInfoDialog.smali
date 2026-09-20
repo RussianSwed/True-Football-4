@@ -1546,6 +1546,8 @@
     goto/16 :goto_4
 
     :cond_e
+    invoke-static {v0, v8}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->addCareerHistoryRows(Landroid/widget/LinearLayout;Lpl/mkrstudio/truefootball3/objects/Player;)V
+
     const v0, 0x7f0801c0
 
     move-object/from16 v1, p0

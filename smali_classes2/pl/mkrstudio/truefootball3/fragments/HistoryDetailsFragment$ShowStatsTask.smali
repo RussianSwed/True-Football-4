@@ -453,11 +453,17 @@
     .line 229
     iget-object v3, p0, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment$ShowStatsTask;->this$0:Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;
 
+    invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->getUserAssistants()Ljava/util/List;
+
+    move-result-object v5
+
     invoke-virtual {v2}, Lpl/mkrstudio/truefootball3/objects/Competition;->getUserScorers()Ljava/util/List;
 
     move-result-object v2
 
     invoke-static {v3, v2}, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->access$100(Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;Ljava/util/List;)V
+
+    invoke-static {v3, v5}, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->access$200(Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;Ljava/util/List;)V
 
     goto/16 :goto_0
 
@@ -678,11 +684,17 @@
     .line 244
     iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment$ShowStatsTask;->this$0:Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;
 
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->getUserAssistants()Ljava/util/List;
+
+    move-result-object v5
+
     invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/HistoricalCompetition;->getUserScorers()Ljava/util/List;
 
     move-result-object v0
 
     invoke-static {v2, v0}, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->access$100(Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;Ljava/util/List;)V
+
+    invoke-static {v2, v5}, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->access$200(Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;Ljava/util/List;)V
 
     goto/16 :goto_2
 
@@ -800,6 +812,26 @@
     invoke-direct {v6}, Ljava/lang/StringBuilder;-><init>()V
 
     invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->getGoals()I
+
+    move-result v7
+
+    invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v6, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v6}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v6
+
+    invoke-interface {v4, v5, v6}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    const-string v5, "assists"
+
+    new-instance v6, Ljava/lang/StringBuilder;
+
+    invoke-direct {v6}, Ljava/lang/StringBuilder;-><init>()V
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->getAssists()I
 
     move-result v7
 

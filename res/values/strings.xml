@@ -1825,4 +1825,8 @@ It would take about %2$s days to repair all the issues, and during this time the
     <string name="youthTrainers">Youth trainers</string>
     <string name="youthTraining">Youth training</string>
     <string name="youth_trainer">Youth trainer</string>
+    <string name="ntWorldCup">World Cup</string>
+    <string name="euroChampionship">European Championship</string>
+    <string name="worldCupQualifiers">World Cup Qualifiers</string>
+    <string name="euroQualifiers">European Championship Qualifiers</string>
 </resources>

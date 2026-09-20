@@ -3848,6 +3848,8 @@
 
     move-result-object v8
 
+    invoke-static {p3, p4, p5, p6, p13}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->recordMove(Lpl/mkrstudio/truefootball3/objects/Player;Lpl/mkrstudio/truefootball3/objects/Team;JLpl/mkrstudio/truefootball3/objects/Time;)V
+
     if-ne v11, v8, :cond_0
 
     const/4 v8, 0x1

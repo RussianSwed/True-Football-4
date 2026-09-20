@@ -72,7 +72,7 @@
 .end method
 
 .method public static getCompetitionByTypeAndCountry(Lpl/mkrstudio/truefootball3/objects/Competitions;Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;Lpl/mkrstudio/truefootball3/objects/Country;)Ljava/util/List;
-    .locals 6
+    .locals 7
     .annotation system Ldalvik/annotation/MethodParameters;
         accessFlags = {
             0x0,
@@ -103,6 +103,8 @@
     new-instance v0, Ljava/util/ArrayList;
 
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    move-object v6, p0
 
     .line 115
     invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCompetitionByDetailedType(Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;)Ljava/util/List;
@@ -240,7 +242,32 @@
 
     goto :goto_0
 
-    :cond_5
+        :cond_5
+    sget-object v1, Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;->WORLD_CUP:Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;
+
+    if-ne p1, v1, :cond_nt_done
+
+    invoke-virtual {v6}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCurrentCompetitions()Ljava/util/HashMap;
+
+    move-result-object p0
+
+    const-string p1, "NTWCF"
+
+    invoke-static {v0, p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIfPresent(Ljava/util/List;Ljava/util/HashMap;Ljava/lang/String;)V
+
+    const-string p1, "NTEUR"
+
+    invoke-static {v0, p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIfPresent(Ljava/util/List;Ljava/util/HashMap;Ljava/lang/String;)V
+
+    const-string p1, "NTWCQ"
+
+    invoke-static {v0, p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIfPresent(Ljava/util/List;Ljava/util/HashMap;Ljava/lang/String;)V
+
+    const-string p1, "NTEUQ"
+
+    invoke-static {v0, p0, p1}, Lpl/mkrstudio/truefootball3/objects/CompetitionHelper;->addIfPresent(Ljava/util/List;Ljava/util/HashMap;Ljava/lang/String;)V
+
+    :cond_nt_done
     return-object v0
 .end method
 
@@ -1214,4 +1241,43 @@
 
     :cond_2
     return v0
+.end method
+
+.method private static addIfPresent(Ljava/util/List;Ljava/util/HashMap;Ljava/lang/String;)V
+    .locals 1
+
+    if-eqz p0, :cond_2
+
+    if-eqz p1, :cond_2
+
+    if-nez p2, :cond_0
+
+    goto :goto_0
+
+    :cond_0
+    invoke-virtual {p1, p2}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object p1
+
+    check-cast p1, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    if-eqz p1, :cond_2
+
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
+
+    move-result-object p2
+
+    if-eqz p2, :cond_2
+
+    invoke-interface {p0, p1}, Ljava/util/List;->contains(Ljava/lang/Object;)Z
+
+    move-result p2
+
+    if-nez p2, :cond_2
+
+    invoke-interface {p0, p1}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    :cond_2
+    :goto_0
+    return-void
 .end method

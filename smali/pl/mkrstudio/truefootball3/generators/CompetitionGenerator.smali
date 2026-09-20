@@ -2421,7 +2421,49 @@
 
     goto :goto_2
 
-    :cond_2
+        :cond_2
+    const-string v1, "NTWCF"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt
+
+    const-string v1, "NTEUR"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt
+
+    const-string v1, "NTWCQ"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt
+
+    const-string v1, "NTEUQ"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt
+
+    goto :cond_nt_skip
+
+    :cond_nt
+    sget-object v1, Lpl/mkrstudio/truefootball3/enums/CompetitionType;->CHAMPIONS_CUP:Lpl/mkrstudio/truefootball3/enums/CompetitionType;
+
+    invoke-virtual {v0, v1}, Lpl/mkrstudio/truefootball3/objects/Competition;->setCompetitionType(Lpl/mkrstudio/truefootball3/enums/CompetitionType;)V
+
+    goto :goto_2
+
+    :cond_nt_skip
     const-string v1, "_FC"
 
     .line 84
@@ -2597,6 +2639,23 @@
 
     invoke-virtual {p3, v0}, Lpl/mkrstudio/truefootball3/objects/UserData;->setCompetitions(Lpl/mkrstudio/truefootball3/objects/Competitions;)V
 
+    invoke-virtual {p3}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v0
+
+    :try_start_nt
+    invoke-static {v0}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->ensure(Lpl/mkrstudio/truefootball3/objects/World;)V
+    :try_end_nt
+    .catch Ljava/lang/Exception; {:try_start_nt .. :try_end_nt} :catch_nt
+
+    goto :goto_nt_ok
+
+    :catch_nt
+    move-exception v0
+
+    invoke-virtual {v0}, Ljava/lang/Exception;->printStackTrace()V
+
+    :goto_nt_ok
     .line 50
     invoke-virtual {p3}, Lpl/mkrstudio/truefootball3/objects/UserData;->getTime()Lpl/mkrstudio/truefootball3/objects/Time;
 

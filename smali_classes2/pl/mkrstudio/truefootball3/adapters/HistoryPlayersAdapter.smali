@@ -28,7 +28,7 @@
 
 # virtual methods
 .method public getView(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;
-    .locals 7
+    .locals 8
     .annotation system Ldalvik/annotation/MethodParameters;
         accessFlags = {
             0x0,
@@ -94,6 +94,14 @@
 
     check-cast v2, Landroid/widget/TextView;
 
+    const v7, 0x7f080074
+
+    invoke-virtual {p2, v7}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v7
+
+    check-cast v7, Landroid/widget/TextView;
+
     const v3, 0x7f08018b
 
     .line 40
@@ -125,6 +133,12 @@
     move-result v5
 
     invoke-virtual {v2, v5}, Landroid/widget/TextView;->setBackgroundColor(I)V
+
+    invoke-static {v4, v4, v4, v4}, Landroid/graphics/Color;->argb(IIII)I
+
+    move-result v5
+
+    invoke-virtual {v7, v5}, Landroid/widget/TextView;->setBackgroundColor(I)V
 
     .line 45
     invoke-static {v4, v4, v4, v4}, Landroid/graphics/Color;->argb(IIII)I
@@ -220,6 +234,28 @@
 
     invoke-virtual {v2, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
 
+    const-string p3, "assists"
+
+    invoke-virtual {p1, p3}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object p3
+
+    if-eqz p3, :hist_assists_zero
+
+    invoke-virtual {p3}, Ljava/lang/Object;->toString()Ljava/lang/String;
+
+    move-result-object p3
+
+    invoke-virtual {v7, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    goto :hist_assists_done
+
+    :hist_assists_zero
+    const-string p3, "0"
+
+    invoke-virtual {v7, p3}, Landroid/widget/TextView;->setText(Ljava/lang/CharSequence;)V
+
+    :hist_assists_done
     const-string p3, "edited"
 
     .line 58

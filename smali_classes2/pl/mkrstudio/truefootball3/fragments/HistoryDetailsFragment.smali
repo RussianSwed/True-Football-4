@@ -154,6 +154,14 @@
     return-void
 .end method
 
+.method static synthetic access$200(Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;Ljava/util/List;)V
+    .locals 0
+
+    invoke-direct {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->addAssists(Ljava/util/List;)V
+
+    return-void
+.end method
+
 .method private addApps(Ljava/util/List;)V
     .locals 6
     .annotation system Ldalvik/annotation/MethodParameters;
@@ -397,6 +405,117 @@
     goto :goto_0
 
     :cond_3
+    return-void
+.end method
+
+.method private addAssists(Ljava/util/List;)V
+    .locals 6
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "(",
+            "Ljava/util/List<",
+            "Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;",
+            ">;)V"
+        }
+    .end annotation
+
+    if-nez p1, :cond_a0
+
+    return-void
+
+    :cond_a0
+    invoke-interface {p1}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object p1
+
+    :cond_a
+    :goto_a
+    invoke-interface {p1}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_a3
+
+    invoke-interface {p1}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;
+
+    const/4 v1, 0x0
+
+    iget-object v2, p0, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->players:Ljava/util/List;
+
+    invoke-interface {v2}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object v2
+
+    :cond_a1
+    :goto_a1
+    invoke-interface {v2}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v3
+
+    if-eqz v3, :cond_a2
+
+    invoke-interface {v2}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v3
+
+    check-cast v3, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->getPlayer()Lpl/mkrstudio/truefootball3/objects/Player;
+
+    move-result-object v4
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getPlayer()Lpl/mkrstudio/truefootball3/objects/Player;
+
+    move-result-object v5
+
+    if-ne v4, v5, :cond_a1
+
+    const/4 v1, 0x1
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->getAssists()I
+
+    move-result v4
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getResult()I
+
+    move-result v5
+
+    add-int/2addr v4, v5
+
+    invoke-virtual {v3, v4}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->setAssists(I)V
+
+    goto :goto_a1
+
+    :cond_a2
+    if-nez v1, :cond_a
+
+    new-instance v1, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;
+
+    invoke-direct {v1}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;-><init>()V
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getPlayer()Lpl/mkrstudio/truefootball3/objects/Player;
+
+    move-result-object v2
+
+    invoke-virtual {v1, v2}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->setPlayer(Lpl/mkrstudio/truefootball3/objects/Player;)V
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getResult()I
+
+    move-result v0
+
+    invoke-virtual {v1, v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->setAssists(I)V
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/HistoryDetailsFragment;->players:Ljava/util/List;
+
+    invoke-interface {v0, v1}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    goto :goto_a
+
+    :cond_a3
     return-void
 .end method
 

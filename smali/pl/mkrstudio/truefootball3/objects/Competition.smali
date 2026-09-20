@@ -1164,6 +1164,8 @@
         }
     .end annotation
 
+    invoke-static {p1, p0, p2, p3}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->recordMatchEvent(Lpl/mkrstudio/truefootball3/objects/Player;Lpl/mkrstudio/truefootball3/objects/Competition;Lpl/mkrstudio/truefootball3/enums/MatchEventType;I)V
+
     .line 869
     invoke-virtual {p6, p1}, Lpl/mkrstudio/truefootball3/objects/Transfers;->isOnLoan(Lpl/mkrstudio/truefootball3/objects/Player;)Z
 
@@ -1390,7 +1392,62 @@
     :cond_a
     if-eqz p5, :cond_28
 
-    .line 920
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->getUserAssistants()Ljava/util/List;
+
+    move-result-object p2
+
+    invoke-interface {p2}, Ljava/util/List;->iterator()Ljava/util/Iterator;
+
+    move-result-object p2
+
+    const/4 p6, 0x0
+
+    :cond_ua1
+    :goto_ua
+    invoke-interface {p2}, Ljava/util/Iterator;->hasNext()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_ua2
+
+    invoke-interface {p2}, Ljava/util/Iterator;->next()Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getPlayer()Lpl/mkrstudio/truefootball3/objects/Player;
+
+    move-result-object v3
+
+    if-ne v3, p1, :cond_ua1
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->getResult()I
+
+    move-result p6
+
+    add-int/2addr p6, p3
+
+    invoke-virtual {v0, p6}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;->setResult(I)V
+
+    const/4 p6, 0x1
+
+    goto :goto_ua
+
+    :cond_ua2
+    if-nez p6, :cond_ua3
+
+    new-instance p2, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;
+
+    invoke-direct {p2, p1, p3}, Lpl/mkrstudio/truefootball3/objects/PlayerStatsTableItem;-><init>(Lpl/mkrstudio/truefootball3/objects/Player;I)V
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->getUserAssistants()Ljava/util/List;
+
+    move-result-object p6
+
+    invoke-interface {p6, p2}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    :cond_ua3
     invoke-virtual {p4}, Lpl/mkrstudio/truefootball3/objects/History;->getHistoricalAssistants()Ljava/util/List;
 
     move-result-object p2
@@ -9915,6 +9972,35 @@
 
     .line 219
     :cond_14
+    invoke-virtual {v12}, Lpl/mkrstudio/truefootball3/objects/CompetitionQuery;->getParams()Ljava/util/ArrayList;
+
+    move-result-object v0
+
+    invoke-virtual {v0, v1}, Ljava/util/ArrayList;->get(I)Ljava/lang/Object;
+
+    move-result-object v0
+
+    check-cast v0, Ljava/lang/String;
+
+    const-string v2, "national_teams"
+
+    invoke-virtual {v0, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    if-eqz v0, :cond_nt_teams
+
+    invoke-virtual/range {p4 .. p4}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v0
+
+    invoke-static {v7, v0}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->addTeams(Lpl/mkrstudio/truefootball3/objects/Competition;Lpl/mkrstudio/truefootball3/objects/World;)V
+
+    invoke-virtual {v12, v6}, Lpl/mkrstudio/truefootball3/objects/CompetitionQuery;->setDone(Z)V
+
+    goto/16 :goto_1
+
+    :cond_nt_teams
     invoke-virtual {v12}, Lpl/mkrstudio/truefootball3/objects/CompetitionQuery;->getParams()Ljava/util/ArrayList;
 
     move-result-object v0

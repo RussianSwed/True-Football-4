@@ -224,7 +224,12 @@
 
     iput-object p2, p0, Lpl/mkrstudio/truefootball3/objects/HistoricalCompetition;->userScorers:Ljava/util/List;
 
-    .line 40
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/UserCompetition;->getUserAssistants()Ljava/util/List;
+
+    move-result-object p2
+
+    iput-object p2, p0, Lpl/mkrstudio/truefootball3/objects/HistoricalCompetition;->userAssistants:Ljava/util/List;
+
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/objects/Competition;->getUserApps()Ljava/util/List;
 
     move-result-object p1

@@ -3,7 +3,7 @@
     android:orientation="horizontal"
     android:layout_width="fill_parent"
     android:layout_height="@dimen/list_item_player_stats_height"
-    android:weightSum="11.0"
+    android:weightSum="12.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <ImageView
         android:layout_gravity="left"
@@ -35,6 +35,15 @@
         android:textColor="#ffffffff"
         android:gravity="center"
         android:id="@id/goals"
+        android:layout_width="0.0dip"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_11"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/assists"
         android:layout_width="0.0dip"
         android:layout_height="fill_parent"
         android:layout_weight="1.0" />

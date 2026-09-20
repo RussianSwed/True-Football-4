@@ -1818,4 +1818,8 @@ He said that he deserves better offer."</string>
     <string name="youthTrainers">Тренеры молодёжи</string>
     <string name="youthTraining">Тренировка молодежи</string>
     <string name="youth_trainer">Молодежный тренер</string>
+    <string name="ntWorldCup">Чемпионат мира</string>
+    <string name="euroChampionship">Чемпионат Европы</string>
+    <string name="worldCupQualifiers">Отбор ЧМ</string>
+    <string name="euroQualifiers">Отбор ЧЕ</string>
 </resources>

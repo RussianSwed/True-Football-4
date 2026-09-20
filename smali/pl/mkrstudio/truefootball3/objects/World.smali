@@ -33,6 +33,17 @@
     .end annotation
 .end field
 
+.field nationalTeams:Ljava/util/HashMap;
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "Ljava/util/HashMap<",
+            "Ljava/lang/String;",
+            "Lpl/mkrstudio/truefootball3/objects/Team;",
+            ">;"
+        }
+    .end annotation
+.end field
+
 
 # direct methods
 .method public constructor <init>()V
@@ -47,6 +58,12 @@
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
 
     iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->freeAgents:Ljava/util/List;
+
+    new-instance v0, Ljava/util/HashMap;
+
+    invoke-direct {v0}, Ljava/util/HashMap;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
 
     return-void
 .end method
@@ -20466,4 +20483,32 @@
 
     :cond_0
     return-void
+.end method
+
+.method public getNationalTeams()Ljava/util/HashMap;
+    .locals 1
+    .annotation system Ldalvik/annotation/Signature;
+        value = {
+            "()",
+            "Ljava/util/HashMap<",
+            "Ljava/lang/String;",
+            "Lpl/mkrstudio/truefootball3/objects/Team;",
+            ">;"
+        }
+    .end annotation
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    if-nez v0, :cond_0
+
+    new-instance v0, Ljava/util/HashMap;
+
+    invoke-direct {v0}, Ljava/util/HashMap;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    :cond_0
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    return-object v0
 .end method

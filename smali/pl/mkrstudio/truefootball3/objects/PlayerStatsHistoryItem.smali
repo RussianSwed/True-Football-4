@@ -15,6 +15,8 @@
 
 .field goals:I
 
+.field assists:I
+
 .field player:Lpl/mkrstudio/truefootball3/objects/Player;
 
 
@@ -178,6 +180,22 @@
 
     .line 34
     iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->player:Lpl/mkrstudio/truefootball3/objects/Player;
+
+    return-void
+.end method
+
+.method public getAssists()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->assists:I
+
+    return v0
+.end method
+
+.method public setAssists(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/PlayerStatsHistoryItem;->assists:I
 
     return-void
 .end method

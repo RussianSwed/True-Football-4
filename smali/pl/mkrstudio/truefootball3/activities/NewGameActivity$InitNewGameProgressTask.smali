@@ -914,6 +914,22 @@
     .line 740
     invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
 
+    const-string v0, "NTWCF"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTEUR"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTWCQ"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTEUQ"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
     .line 742
     iget-object v0, v8, Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;->this$0:Lpl/mkrstudio/truefootball3/activities/NewGameActivity;
 
