@@ -8,7 +8,7 @@ update_team_group
 add_teams 9 9 GEO_1 current_season
 add_teams 8 8 GEO_1 current_season
 add_teams 2 3 GEO_2 current_season
-week_info 1 47 ko_first_leg all_fri 2 playoff
+week_info 1 47 ko_first_leg all_sat 2 playoff
 week_info 2 48 ko_second_leg all_sat 2 playoff
 fixtures_info Knockout
 play_week 1

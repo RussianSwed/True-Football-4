@@ -7,17 +7,17 @@ table 1 1 -1 -1 -1 -1 -1 -1
 block
 add_teams first_time 18 CHI_1
 add_teams next_time 1 18 CHI_1 current_season
-week_info 1 33 one_table all_wed 9
+week_info 1 33 one_table all_sat 9
 week_info 2 33 one_table chilean_1_1
 week_info 3 34 one_table chilean_1_1
 week_info 4 35 one_table chilean_1_1
 week_info 5 36 one_table chilean_1_1
 week_info 6 37 one_table chilean_1_1
-week_info 7 38 one_table all_wed 9
+week_info 7 38 one_table all_sat 9
 week_info 8 38 one_table chilean_1_1
-week_info 9 39 one_table all_wed 9
+week_info 9 39 one_table all_sat 9
 week_info 10 39 one_table chilean_1_1
-week_info 11 40 one_table all_wed 9
+week_info 11 40 one_table all_sat 9
 week_info 12 40 one_table chilean_1_1
 week_info 13 41 one_table chilean_1_1
 week_info 14 42 one_table chilean_1_1

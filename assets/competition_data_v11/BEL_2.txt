@@ -12,9 +12,9 @@ add_teams next_time 1 5 BEL_2B previous_season
 add_teams next_time 18 18 BEL_1 previous_season
 add_teams next_time 1 1 BEL_3 previous_season
 week_info 1 32 one_table six_match_weekend
-week_info 2 33 one_table all_wed 6
+week_info 2 33 one_table all_sat 6
 week_info 3 34 one_table six_match_weekend
-week_info 4 35 one_table all_wed 6
+week_info 4 35 one_table all_sat 6
 week_info 5 35 one_table six_match_weekend
 week_info 6 36 one_table six_match_weekend
 week_info 7 37 one_table six_match_weekend

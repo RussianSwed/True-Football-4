@@ -40,15 +40,15 @@ week_info 26 8 one_table dutch_2_2
 week_info 27 9 one_table dutch_2_2
 week_info 28 10 one_table dutch_2_2
 week_info 29 11 one_table dutch_2_2
-week_info 30 13 one_table all_fri 9
-week_info 31 14 one_table all_mon 9
+week_info 30 13 one_table all_sat 9
+week_info 31 14 one_table all_sat 9
 week_info 32 14 one_table dutch_2_2
 week_info 33 15 one_table dutch_2_2
 week_info 34 16 one_table dutch_2_2
-week_info 35 17 one_table all_fri 9
-week_info 36 18 one_table all_fri 9
-week_info 37 19 one_table all_fri 9
-week_info 38 20 one_table all_fri 9
+week_info 35 17 one_table all_sat 9
+week_info 36 18 one_table all_sat 9
+week_info 37 19 one_table all_sat 9
+week_info 38 20 one_table all_sat 9
 fixtures_info League19
 play_week 1
 play_week 2

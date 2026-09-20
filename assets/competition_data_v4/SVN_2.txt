@@ -31,11 +31,11 @@ week_info 17 9 one_table eight_match_weekend
 week_info 18 10 one_table eight_match_weekend
 week_info 19 11 one_table eight_match_weekend
 week_info 20 12 one_table eight_match_weekend
-week_info 21 13 one_table all_wed 8
+week_info 21 13 one_table all_sat 8
 week_info 22 13 one_table eight_match_weekend
 week_info 23 14 one_table eight_match_weekend
 week_info 24 15 one_table eight_match_weekend
-week_info 25 16 one_table all_wed 8
+week_info 25 16 one_table all_sat 8
 week_info 26 16 one_table eight_match_weekend
 week_info 27 17 one_table eight_match_weekend
 week_info 28 18 one_table all_sat 8

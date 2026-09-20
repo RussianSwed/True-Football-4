@@ -11,21 +11,21 @@ add_teams next_time 1 10 TAH_1 previous_season
 add_teams next_time 1 2 TAH_2 previous_season
 week_info 1 15 one_table finnish_1_1
 week_info 2 16 one_table finnish_1_1
-week_info 3 17 one_table all_wed 6
+week_info 3 17 one_table all_sat 6
 week_info 4 17 one_table finnish_1_1
 week_info 5 18 one_table finnish_1_1
-week_info 6 19 one_table all_wed 6
+week_info 6 19 one_table all_sat 6
 week_info 7 19 one_table finnish_1_1
 week_info 8 20 one_table finnish_1_1
 week_info 9 21 one_table finnish_1_1
 week_info 10 22 one_table finnish_1_1
 week_info 11 23 one_table finnish_1_1
-week_info 12 24 one_table all_wed 6
+week_info 12 24 one_table all_sat 6
 week_info 13 24 one_table finnish_1_1
-week_info 14 25 one_table all_wed 6
+week_info 14 25 one_table all_sat 6
 week_info 15 25 one_table finnish_1_1
 week_info 16 26 one_table finnish_1_1
-week_info 17 27 one_table all_wed 6
+week_info 17 27 one_table all_sat 6
 week_info 18 27 one_table finnish_1_1
 week_info 19 28 one_table finnish_1_1
 week_info 20 29 one_table finnish_1_1

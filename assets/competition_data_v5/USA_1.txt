@@ -8,23 +8,23 @@ add_teams american_league
 week_info 1 9 one_table eleven_match_weekend
 week_info 2 10 one_table eleven_match_weekend
 week_info 3 11 one_table eleven_match_weekend
-week_info 4 12 one_table all_sun 11
-week_info 5 13 one_table all_sun 11
+week_info 4 12 one_table all_sat 11
+week_info 5 13 one_table all_sat 11
 week_info 6 14 one_table eleven_match_weekend
 week_info 7 15 one_table eleven_match_weekend
 week_info 8 16 one_table eleven_match_weekend
 week_info 9 17 one_table eleven_match_weekend
 week_info 10 18 one_table eleven_match_weekend
-week_info 11 19 one_table all_sun 11
+week_info 11 19 one_table all_sat 11
 week_info 12 20 one_table eleven_match_weekend
-week_info 13 21 one_table all_sun 11
+week_info 13 21 one_table all_sat 11
 week_info 14 22 one_table eleven_match_weekend
 week_info 15 23 one_table eleven_match_weekend
-week_info 16 24 one_table all_sun 11
+week_info 16 24 one_table all_sat 11
 week_info 17 25 one_table eleven_match_weekend
 week_info 18 26 one_table eleven_match_weekend
-week_info 19 27 one_table all_sun 11
-week_info 20 28 one_table all_sun 11
+week_info 19 27 one_table all_sat 11
+week_info 20 28 one_table all_sat 11
 week_info 21 29 one_table eleven_match_weekend
 week_info 22 30 one_table eleven_match_weekend
 week_info 23 31 one_table six_match_weekend
@@ -32,16 +32,16 @@ week_info 24 32 one_table six_match_weekend
 week_info 25 33 one_table five_match_weekend
 week_info 26 34 one_table eleven_match_weekend
 week_info 27 35 one_table eleven_match_weekend
-week_info 28 36 one_table all_wed 11
-week_info 29 36 one_table all_sun 11
-week_info 30 37 one_table all_sun 11
+week_info 28 36 one_table all_sat 11
+week_info 29 36 one_table all_sat 11
+week_info 30 37 one_table all_sat 11
 week_info 31 38 one_table eleven_match_weekend
 week_info 32 39 one_table eleven_match_weekend
 week_info 33 40 one_table eleven_match_weekend
-week_info 34 41 one_table all_sun 11
+week_info 34 41 one_table all_sat 11
 week_info 35 42 one_table eleven_match_weekend
 week_info 36 43 one_table eleven_match_weekend
-week_info 37 44 one_table all_sun 11
+week_info 37 44 one_table all_sat 11
 fixtures_info AmericanLeague2018
 play_week 1
 play_week 2

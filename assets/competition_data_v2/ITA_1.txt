@@ -47,7 +47,7 @@ week_info 34 17 one_table italian_1_1
 week_info 35 18 one_table italian_1_1
 week_info 36 19 one_table italian_1_2
 week_info 37 19 one_table italian_1_1
-week_info 38 20 one_table all_sun 10
+week_info 38 20 one_table all_sat 10
 fixtures_info League20
 play_week 1
 play_week 2

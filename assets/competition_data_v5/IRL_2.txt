@@ -12,17 +12,17 @@ add_teams next_time 2 2 IRL_PLAYOFF1 previous_season
 add_teams next_time 3 8 IRL_2 previous_season
 add_teams next_time 1 2 IRL_3 previous_season
 week_info 1 10 one_table five_match_weekend
-week_info 2 11 one_table all_tue 5
+week_info 2 11 one_table all_sat 5
 week_info 3 11 one_table five_match_weekend
 week_info 4 12 one_table five_match_weekend
 week_info 5 13 one_table five_match_weekend
-week_info 6 14 one_table all_tue 5
+week_info 6 14 one_table all_sat 5
 week_info 7 14 one_table five_match_weekend
 week_info 8 15 one_table five_match_weekend
 week_info 9 16 one_table five_match_weekend
 week_info 10 17 one_table five_match_weekend
 week_info 11 18 one_table five_match_weekend
-week_info 12 19 one_table all_tue 5
+week_info 12 19 one_table all_sat 5
 week_info 13 19 one_table five_match_weekend
 week_info 14 20 one_table five_match_weekend
 week_info 15 21 one_table five_match_weekend
@@ -46,7 +46,7 @@ week_info 32 42 one_table five_match_weekend
 week_info 33 43 one_table five_match_weekend
 week_info 34 44 one_table five_match_weekend
 week_info 35 45 one_table five_match_weekend
-week_info 36 46 one_table all_fri 5
+week_info 36 46 one_table all_sat 5
 fixtures_info League10_4
 play_week 1
 play_week 2

@@ -35,7 +35,7 @@ week_info 22 2 one_table ten_match_weekend
 week_info 23 3 one_table ten_match_weekend
 week_info 24 4 one_table ten_match_weekend
 week_info 25 5 one_table ten_match_weekend
-week_info 26 6 one_table all_wed 10
+week_info 26 6 one_table all_sat 10
 week_info 27 6 one_table ten_match_weekend
 week_info 28 7 one_table ten_match_weekend
 week_info 29 8 one_table ten_match_weekend
@@ -50,8 +50,8 @@ week_info 37 16 one_table ten_match_weekend
 week_info 38 17 one_table ten_match_weekend
 week_info 39 18 one_table ten_match_weekend
 week_info 40 19 one_table ten_match_weekend
-week_info 41 20 one_table all_sun 10
-week_info 42 21 one_table all_sun 10
+week_info 41 20 one_table all_sat 10
+week_info 42 21 one_table all_sat 10
 fixtures_info League21
 play_week 1
 play_week 2

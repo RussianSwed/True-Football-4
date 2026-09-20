@@ -14,21 +14,21 @@ week_info 4 57 one_table six_match_weekend_3
 week_info 5 58 one_table six_match_weekend_3
 week_info 6 59 one_table six_match_weekend_3
 week_info 7 60 one_table six_match_weekend_3
-week_info 8 61 one_table all_wed 6
+week_info 8 61 one_table all_sat 6
 week_info 9 61 one_table all_sat 6
 week_info 10 62 one_table six_match_weekend_3
-week_info 11 63 one_table all_wed 6
+week_info 11 63 one_table all_sat 6
 week_info 12 63 one_table all_sat 6
 week_info 13 64 one_table six_match_weekend_3
-week_info 14 65 one_table all_wed 6
+week_info 14 65 one_table all_sat 6
 week_info 15 65 one_table all_sat 6
 week_info 16 66 one_table six_match_weekend_3
-week_info 17 67 one_table all_wed 6
+week_info 17 67 one_table all_sat 6
 week_info 18 67 one_table all_sat 6
 week_info 19 68 one_table all_sat 6
-week_info 20 69 one_table all_wed 6
-week_info 21 69 one_table all_sun 6
-week_info 22 70 one_table all_sun 6
+week_info 20 69 one_table all_sat 6
+week_info 21 69 one_table all_sat 6
+week_info 22 70 one_table all_sat 6
 fixtures_info League12
 play_week 1
 play_week 2

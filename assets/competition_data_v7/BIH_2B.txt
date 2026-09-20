@@ -30,7 +30,7 @@ week_info 17 46 one_table five_match_weekend
 week_info 18 47 one_table five_match_weekend
 week_info 19 7 one_table five_match_weekend
 week_info 20 8 one_table five_match_weekend
-week_info 21 9 one_table all_wed 5
+week_info 21 9 one_table all_sat 5
 week_info 22 9 one_table five_match_weekend
 week_info 23 10 one_table five_match_weekend
 week_info 24 11 one_table five_match_weekend

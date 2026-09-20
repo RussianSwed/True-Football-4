@@ -8,16 +8,16 @@ block
 add_teams 1 2 VEN_1A current_season
 add_teams 1 2 VEN_1B current_season
 add_teams 1 2 VEN_1C current_season
-week_info 1 40 one_table all_sun 3
-week_info 2 41 one_table all_sun 3
-week_info 3 42 one_table all_sun 3
-week_info 4 43 one_table all_sun 3
-week_info 5 44 one_table all_sun 3
-week_info 6 45 one_table all_sun 3
-week_info 7 46 one_table all_sun 3
-week_info 8 47 one_table all_wed 3
-week_info 9 48 one_table all_wed 3
-week_info 10 49 one_table all_wed 3
+week_info 1 40 one_table all_sat 3
+week_info 2 41 one_table all_sat 3
+week_info 3 42 one_table all_sat 3
+week_info 4 43 one_table all_sat 3
+week_info 5 44 one_table all_sat 3
+week_info 6 45 one_table all_sat 3
+week_info 7 46 one_table all_sat 3
+week_info 8 47 one_table all_sat 3
+week_info 9 48 one_table all_sat 3
+week_info 10 49 one_table all_sat 3
 fixtures_info League6
 play_week 1
 play_week 2

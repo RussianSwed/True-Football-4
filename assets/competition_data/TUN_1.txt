@@ -18,10 +18,10 @@ week_info 6 47 one_table tunisian_1_2
 week_info 7 48 one_table tunisian_1_2
 week_info 8 49 one_table tunisian_1_2
 week_info 9 51 one_table tunisian_1_2
-week_info 10 52 one_table all_wed 8
+week_info 10 52 one_table all_sat 8
 week_info 11 52 one_table tunisian_1_2
 week_info 12 1 one_table tunisian_1_2
-week_info 13 2 one_table all_wed 8
+week_info 13 2 one_table all_sat 8
 week_info 14 3 one_table tunisian_1_2
 week_info 15 4 one_table tunisian_1_2
 week_info 16 5 one_table tunisian_1_2

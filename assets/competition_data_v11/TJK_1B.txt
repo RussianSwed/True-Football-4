@@ -8,7 +8,7 @@ block
 add_teams 6 10 TJK_1 current_season
 week_info 1 41 table_with_pol_1 all_sat 2
 week_info 2 42 table_with_pol_1 all_sat 2
-week_info 3 43 table_with_pol_1 all_wed 2
+week_info 3 43 table_with_pol_1 all_sat 2
 week_info 4 44 table_with_pol_1 all_sat 2
 week_info 5 45 table_with_pol_1 all_sat 2
 fixtures_info League5_0

@@ -9,14 +9,14 @@ add_teams 20 HUN_3B shuffled
 add_teams 20 HUN_3C shuffled
 add_teams 20 HUN_2 shuffled
 add_teams 12 HUN_1 shuffled
-week_info 1 41 ko_one_match half_tue_wed 32 round_1
-week_info 2 44 ko_one_match all_wed 32 round_2
-week_info 3 48 ko_one_match all_tue 16 round_of_32
-week_info 4 5 ko_one_match all_tue 8 round_of_16
-week_info 5 9 ko_one_match all_wed 4 quarterfinal
-week_info 6 12 ko_first_leg all_wed 2 semifinal
-week_info 7 13 ko_second_leg all_wed 2 semifinal
-week_info 8 19 ko_one_match all_wed 1 final neutral
+week_info 1 41 ko_one_match all_mon 32 round_1
+week_info 2 44 ko_one_match all_mon 32 round_2
+week_info 3 48 ko_one_match all_mon 16 round_of_32
+week_info 4 5 ko_one_match all_mon 8 round_of_16
+week_info 5 9 ko_one_match all_mon 4 quarterfinal
+week_info 6 12 ko_first_leg all_mon 2 semifinal
+week_info 7 13 ko_second_leg all_mon 2 semifinal
+week_info 8 19 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

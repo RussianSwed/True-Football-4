@@ -20,18 +20,18 @@ week_info 7 19 one_table nine_match_weekend
 week_info 8 20 one_table nine_match_weekend
 week_info 9 21 one_table nine_match_weekend
 week_info 10 22 one_table nine_match_weekend
-week_info 11 23 one_table all_wed 9
+week_info 11 23 one_table all_sat 9
 week_info 12 23 one_table nine_match_weekend
 week_info 13 24 one_table nine_match_weekend
 week_info 14 25 one_table nine_match_weekend
-week_info 15 26 one_table all_wed 9
+week_info 15 26 one_table all_sat 9
 week_info 16 26 one_table nine_match_weekend
 week_info 17 27 one_table nine_match_weekend
-week_info 18 28 one_table all_wed 9
-week_info 19 31 one_table all_wed 9
+week_info 18 28 one_table all_sat 9
+week_info 19 31 one_table all_sat 9
 week_info 20 31 one_table nine_match_weekend
 week_info 21 32 one_table nine_match_weekend
-week_info 22 33 one_table all_wed 9
+week_info 22 33 one_table all_sat 9
 week_info 23 33 one_table nine_match_weekend
 week_info 24 34 one_table nine_match_weekend
 week_info 25 35 one_table nine_match_weekend
@@ -43,7 +43,7 @@ week_info 30 40 one_table nine_match_weekend
 week_info 31 41 one_table nine_match_weekend
 week_info 32 42 one_table nine_match_weekend
 week_info 33 43 one_table nine_match_weekend
-week_info 34 44 one_table all_sun 9
+week_info 34 44 one_table all_sat 9
 fixtures_info League18
 play_week 1
 play_week 2

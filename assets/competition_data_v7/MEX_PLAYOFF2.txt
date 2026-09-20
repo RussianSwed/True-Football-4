@@ -10,12 +10,12 @@ add_teams 3 3 MEX_1_2 current_season
 add_teams 2 2 MEX_1_2 current_season
 add_teams 1 1 MEX_1_2 current_season
 add_teams 5 8 MEX_1_2 current_season
-week_info 1 72 ko_first_leg half_wed_thu 4 quarterfinal
-week_info 2 72 ko_second_leg half_sat_sun 4 quarterfinal
-week_info 3 73 ko_first_leg all_fri 2 semifinal
-week_info 4 74 ko_second_leg all_mon 2 semifinal
-week_info 5 74 ko_first_leg all_fri 1 final
-week_info 6 75 ko_second_leg all_mon 1 final
+week_info 1 72 ko_first_leg all_sat 4 quarterfinal
+week_info 2 72 ko_second_leg all_sat 4 quarterfinal
+week_info 3 73 ko_first_leg all_sat 2 semifinal
+week_info 4 74 ko_second_leg all_sat 2 semifinal
+week_info 5 74 ko_first_leg all_sat 1 final
+week_info 6 75 ko_second_leg all_sat 1 final
 fixtures_info Knockout
 play_week 1
 play_week 2

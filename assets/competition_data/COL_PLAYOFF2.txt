@@ -7,14 +7,14 @@ fans_attendance 0.6
 table 1 1 -1 -1 -1 -1 -1 -1
 block
 add_teams 1 8 COL_1_2 current_season
-week_info 1 45 group_table half_sat_sun 4 group_phase_1
-week_info 2 46 group_table half_wed_thu 4 group_phase_2
-week_info 3 46 group_table half_sat_sun 4 group_phase_3
-week_info 4 47 group_table half_sat_sun 4 group_phase_4
-week_info 5 48 group_table half_sat_sun 4 group_phase_5
-week_info 6 49 group_table all_wed 4 group_phase_6
-week_info 7 50 ko_first_leg all_wed 1 final
-week_info 8 51 ko_second_leg all_wed 1 final
+week_info 1 45 group_table all_sat 4 group_phase_1
+week_info 2 46 group_table all_sat 4 group_phase_2
+week_info 3 46 group_table all_sat 4 group_phase_3
+week_info 4 47 group_table all_sat 4 group_phase_4
+week_info 5 48 group_table all_sat 4 group_phase_5
+week_info 6 49 group_table all_sat 4 group_phase_6
+week_info 7 50 ko_first_leg all_sat 1 final
+week_info 8 51 ko_second_leg all_sat 1 final
 fixtures_info ColombianPlayoff
 play_week 1
 play_week 2

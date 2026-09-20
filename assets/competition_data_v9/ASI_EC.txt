@@ -6,19 +6,19 @@ table 1 1 2 2 -1 -1 -1 -1
 add_teams asian_continental_cup
 week_info 1 6 ko_one_match all_wed 4 qualification
 week_info 2 7 ko_one_match all_wed 5 qualification
-week_info 3 9 group_table half_tue_wed 20 group_phase_1
-week_info 4 11 group_table half_tue_wed 20 group_phase_2
-week_info 5 14 group_table half_tue_wed 20 group_phase_3
-week_info 6 15 group_table half_tue_wed 20 group_phase_4
-week_info 7 17 group_table half_tue_wed 20 group_phase_5
-week_info 8 18 group_table half_tue_wed 20 group_phase_6
-week_info 9 27 ko_first_leg half_tue_wed 8 round_of_16
-week_info 10 28 ko_second_leg half_tue_wed 8 round_of_16
+week_info 3 9 group_table all_wed 20 group_phase_1
+week_info 4 11 group_table all_wed 20 group_phase_2
+week_info 5 14 group_table all_wed 20 group_phase_3
+week_info 6 15 group_table all_wed 20 group_phase_4
+week_info 7 17 group_table all_wed 20 group_phase_5
+week_info 8 18 group_table all_wed 20 group_phase_6
+week_info 9 27 ko_first_leg all_wed 8 round_of_16
+week_info 10 28 ko_second_leg all_wed 8 round_of_16
 week_info 11 34 ko_first_leg all_wed 4 quarterfinal
 week_info 12 35 ko_second_leg all_wed 4 quarterfinal
 week_info 13 39 ko_first_leg all_wed 2 semifinal
 week_info 14 40 ko_second_leg all_wed 2 semifinal
-week_info 15 43 ko_one_match all_sat 1 final
+week_info 15 43 ko_one_match all_wed 1 final
 fixtures_info AsianContinentalCup2021
 play_week 1
 play_week 2

@@ -39,7 +39,7 @@ week_info 26 39 one_table swedish_1_1
 week_info 27 40 one_table swedish_1_1
 week_info 28 42 one_table swedish_1_1
 week_info 29 43 one_table swedish_1_1
-week_info 30 44 one_table all_sun 8
+week_info 30 44 one_table all_sat 8
 fixtures_info League16
 play_week 1
 play_week 2

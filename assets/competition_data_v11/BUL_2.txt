@@ -13,7 +13,7 @@ add_teams next_time 2 2 BUL_PLAYOFF1 previous_season
 add_teams next_time 1 4 BUL_3 previous_season
 week_info 1 32 one_table nine_match_weekend
 week_info 2 33 one_table nine_match_weekend
-week_info 3 34 one_table all_sun 9
+week_info 3 34 one_table all_sat 9
 week_info 4 35 one_table nine_match_weekend
 week_info 5 37 one_table nine_match_weekend
 week_info 6 38 one_table nine_match_weekend
@@ -41,8 +41,8 @@ week_info 27 14 one_table nine_match_weekend
 week_info 28 15 one_table nine_match_weekend
 week_info 29 16 one_table nine_match_weekend
 week_info 30 17 one_table nine_match_weekend
-week_info 31 18 one_table all_wed 9
-week_info 32 18 one_table all_sun 9
+week_info 31 18 one_table all_sat 9
+week_info 32 18 one_table all_sat 9
 week_info 33 19 one_table all_sat 9
 week_info 34 20 one_table all_sat 9
 fixtures_info League18

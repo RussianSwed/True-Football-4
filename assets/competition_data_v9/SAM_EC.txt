@@ -18,7 +18,7 @@ week_info 11 34 ko_first_leg all_wed 4 quarterfinal
 week_info 12 35 ko_second_leg all_wed 4 quarterfinal
 week_info 13 40 ko_first_leg all_wed 2 semifinal
 week_info 14 41 ko_second_leg all_wed 2 semifinal
-week_info 15 48 ko_one_match all_sat 1 final
+week_info 15 48 ko_one_match all_wed 1 final
 fixtures_info SouthAmericanContinentalCup2021
 play_week 1
 play_week 2

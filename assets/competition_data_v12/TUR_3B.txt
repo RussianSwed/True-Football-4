@@ -16,34 +16,34 @@ week_info 2 35 one_table nine_match_weekend
 week_info 3 36 one_table nine_match_weekend
 week_info 4 37 one_table nine_match_weekend
 week_info 5 38 one_table nine_match_weekend
-week_info 6 39 one_table all_tue 9
+week_info 6 39 one_table all_sat 9
 week_info 7 39 one_table nine_match_weekend
 week_info 8 40 one_table nine_match_weekend
 week_info 9 41 one_table nine_match_weekend
 week_info 10 42 one_table nine_match_weekend
-week_info 11 43 one_table all_tue 9
+week_info 11 43 one_table all_sat 9
 week_info 12 43 one_table all_sat 9
 week_info 13 44 one_table nine_match_weekend
 week_info 14 45 one_table nine_match_weekend
 week_info 15 46 one_table nine_match_weekend
 week_info 16 47 one_table nine_match_weekend
 week_info 17 48 one_table nine_match_weekend
-week_info 18 49 one_table all_mon 9
+week_info 18 49 one_table all_sat 9
 week_info 19 49 one_table all_sat 9
 week_info 20 5 one_table nine_match_weekend
 week_info 21 6 one_table nine_match_weekend
 week_info 22 7 one_table nine_match_weekend
-week_info 23 8 one_table all_wed 9
+week_info 23 8 one_table all_sat 9
 week_info 24 8 one_table all_sat 9
 week_info 25 9 one_table nine_match_weekend
 week_info 26 10 one_table nine_match_weekend
-week_info 27 11 one_table all_mon 9
+week_info 27 11 one_table all_sat 9
 week_info 28 11 one_table all_sat 9
 week_info 29 12 one_table nine_match_weekend
 week_info 30 13 one_table nine_match_weekend
 week_info 31 14 one_table nine_match_weekend
 week_info 32 15 one_table nine_match_weekend
-week_info 33 16 one_table all_tue 9
+week_info 33 16 one_table all_sat 9
 week_info 34 16 one_table all_sat 9
 week_info 35 17 one_table nine_match_weekend
 week_info 36 18 one_table nine_match_weekend

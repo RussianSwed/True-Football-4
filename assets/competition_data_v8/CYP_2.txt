@@ -44,7 +44,7 @@ week_info 30 13 one_table nine_match_weekend
 week_info 31 14 one_table nine_match_weekend
 week_info 32 15 one_table nine_match_weekend
 week_info 33 16 one_table nine_match_weekend
-week_info 34 17 one_table all_sun 9
+week_info 34 17 one_table all_sat 9
 fixtures_info League18
 play_week 1
 play_week 2

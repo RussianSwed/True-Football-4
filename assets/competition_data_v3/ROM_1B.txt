@@ -20,7 +20,7 @@ week_info 10 70 table_with_rom_1 all_sat 4
 week_info 11 71 table_with_rom_1 all_sat 4
 week_info 12 72 table_with_rom_1 all_sat 4
 week_info 13 73 table_with_rom_1 all_sat 4
-week_info 14 74 table_with_rom_1 all_sun 4
+week_info 14 74 table_with_rom_1 all_sat 4
 fixtures_info League8
 play_week 1
 play_week 2

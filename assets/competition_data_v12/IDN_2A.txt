@@ -20,7 +20,7 @@ week_info 10 17 one_table three_match_weekend
 week_info 11 18 one_table three_match_weekend
 week_info 12 19 one_table three_match_weekend
 week_info 13 21 one_table three_match_weekend
-week_info 14 22 one_table all_sun 3
+week_info 14 22 one_table all_sat 3
 fixtures_info League7
 play_week 1
 play_week 2

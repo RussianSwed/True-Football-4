@@ -16,7 +16,7 @@ week_info 6 69 table_with_rom_1 all_sat 5
 week_info 7 70 table_with_rom_1 all_sat 5
 week_info 8 71 table_with_rom_1 all_sat 5
 week_info 9 73 table_with_rom_1 all_sat 5
-week_info 10 74 table_with_rom_1 all_sun 5
+week_info 10 74 table_with_rom_1 all_sat 5
 fixtures_info League10_0
 play_week 1
 play_week 2

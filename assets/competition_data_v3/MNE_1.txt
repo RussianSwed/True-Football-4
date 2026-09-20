@@ -13,10 +13,10 @@ add_teams next_time 1 1 MNE_2 previous_season
 week_info 1 32 one_table six_match_weekend
 week_info 2 33 one_table six_match_weekend
 week_info 3 34 one_table six_match_weekend
-week_info 4 35 one_table all_wed 6
+week_info 4 35 one_table all_sat 6
 week_info 5 35 one_table six_match_weekend
 week_info 6 37 one_table six_match_weekend
-week_info 7 38 one_table all_wed 6
+week_info 7 38 one_table all_sat 6
 week_info 8 38 one_table six_match_weekend
 week_info 9 39 one_table six_match_weekend
 week_info 10 40 one_table six_match_weekend
@@ -30,10 +30,10 @@ week_info 17 49 one_table six_match_weekend
 week_info 18 8 one_table six_match_weekend
 week_info 19 9 one_table six_match_weekend
 week_info 20 10 one_table six_match_weekend
-week_info 21 11 one_table all_wed 6
+week_info 21 11 one_table all_sat 6
 week_info 22 11 one_table six_match_weekend
 week_info 23 12 one_table six_match_weekend
-week_info 24 13 one_table all_wed 6
+week_info 24 13 one_table all_sat 6
 week_info 25 13 one_table six_match_weekend
 week_info 26 14 one_table six_match_weekend
 week_info 27 15 one_table six_match_weekend

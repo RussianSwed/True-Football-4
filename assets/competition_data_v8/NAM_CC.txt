@@ -4,14 +4,14 @@ fans_behaviour 1.0
 fans_attendance 0.1
 table 1 1 -1 -1 -1 -1 -1 -1
 add_teams north_american_champions_cup
-week_info 1 7 ko_first_leg all_tue 8 round_of_16
-week_info 2 8 ko_second_leg all_tue 8 round_of_16
-week_info 3 10 ko_first_leg all_tue 4 quarterfinal
-week_info 4 11 ko_second_leg all_tue 4 quarterfinal
-week_info 5 14 ko_first_leg all_tue 2 semifinal
-week_info 6 15 ko_second_leg all_tue 2 semifinal
-week_info 7 17 ko_first_leg all_tue 1 final
-week_info 8 18 ko_second_leg all_tue 1 final
+week_info 1 7 ko_first_leg all_wed 8 round_of_16
+week_info 2 8 ko_second_leg all_wed 8 round_of_16
+week_info 3 10 ko_first_leg all_wed 4 quarterfinal
+week_info 4 11 ko_second_leg all_wed 4 quarterfinal
+week_info 5 14 ko_first_leg all_wed 2 semifinal
+week_info 6 15 ko_second_leg all_wed 2 semifinal
+week_info 7 17 ko_first_leg all_wed 1 final
+week_info 8 18 ko_second_leg all_wed 1 final
 fixtures_info NorthAmericanChampionsCup2020
 play_week 1
 play_week 2

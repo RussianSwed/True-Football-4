@@ -16,9 +16,9 @@ week_info 4 35 one_table armenian_1_1
 week_info 5 37 one_table all_sat 4
 week_info 6 38 one_table armenian_1_1
 week_info 7 39 one_table armenian_1_1
-week_info 8 40 one_table all_wed 4
+week_info 8 40 one_table all_sat 4
 week_info 9 42 one_table armenian_1_1
-week_info 10 43 one_table all_sun 4
+week_info 10 43 one_table all_sat 4
 week_info 11 44 one_table armenian_1_1
 week_info 12 45 one_table armenian_1_1
 week_info 13 47 one_table armenian_1_1
@@ -35,7 +35,7 @@ week_info 23 17 one_table armenian_1_1
 week_info 24 18 one_table armenian_1_1
 week_info 25 19 one_table armenian_1_1
 week_info 26 20 one_table armenian_1_1
-week_info 27 21 one_table all_sun 4
+week_info 27 21 one_table all_sat 4
 week_info 28 22 one_table all_sat 4
 fixtures_info League8_4
 play_week 1

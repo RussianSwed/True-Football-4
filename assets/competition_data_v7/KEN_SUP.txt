@@ -5,7 +5,7 @@ fans_behaviour 1.1
 fans_attendance 0.6
 block
 add_teams super_cup
-week_info 1 47 ko_one_match all_sun 1 final neutral
+week_info 1 47 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 done 01.01

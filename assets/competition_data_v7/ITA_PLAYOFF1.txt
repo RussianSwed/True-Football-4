@@ -4,9 +4,9 @@ fans_behaviour 1.5
 fans_attendance 0.9
 block
 add_teams 3 6 ITA_2 current_season
-week_info 1 75 ko_first_leg all_wed 2 semifinal
+week_info 1 75 ko_first_leg all_sat 2 semifinal
 week_info 2 75 ko_second_leg all_sat 2 semifinal
-week_info 3 76 ko_first_leg all_wed 1 final
+week_info 3 76 ko_first_leg all_sat 1 final
 week_info 4 76 ko_second_leg all_sat 1 final
 fixtures_info Knockout
 play_week 1

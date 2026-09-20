@@ -7,9 +7,9 @@ add_teams 6 6 NOR_2 current_season
 add_teams 5 5 NOR_2 current_season
 add_teams 4 4 NOR_2 current_season
 add_teams 3 3 NOR_2 current_season
-week_info 1 45 ko_one_match all_wed 1 round_1
-week_info 2 45 ko_one_match all_sun 1 round_2
-week_info 3 46 ko_one_match all_wed 1 round_3
+week_info 1 45 ko_one_match all_sat 1 round_1
+week_info 2 45 ko_one_match all_sat 1 round_2
+week_info 3 46 ko_one_match all_sat 1 round_3
 fixtures_info Knockout
 play_week 1
 play_week 2

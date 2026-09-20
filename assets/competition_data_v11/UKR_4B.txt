@@ -35,7 +35,7 @@ week_info 24 17 one_table azeri_1_3
 week_info 25 18 one_table azeri_1_3
 week_info 26 19 one_table azeri_1_3
 week_info 27 20 one_table all_sat 4
-week_info 28 21 one_table all_wed 4
+week_info 28 21 one_table all_sat 4
 fixtures_info League8_4
 play_week 1
 play_week 2

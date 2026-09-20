@@ -7,11 +7,11 @@ block
 add_teams first_time 20 VEN_1
 add_teams next_time 1 20 VEN_1 current_season
 week_info 1 5 one_table ten_match_weekend
-week_info 2 6 one_table all_wed 10
+week_info 2 6 one_table all_sat 10
 week_info 3 6 one_table ten_match_weekend
 week_info 4 7 one_table ten_match_weekend
 week_info 5 8 one_table ten_match_weekend
-week_info 6 9 one_table all_wed 10
+week_info 6 9 one_table all_sat 10
 week_info 7 9 one_table ten_match_weekend
 week_info 8 10 one_table ten_match_weekend
 week_info 9 11 one_table ten_match_weekend
@@ -24,7 +24,7 @@ week_info 15 18 one_table ten_match_weekend
 week_info 16 19 one_table ten_match_weekend
 week_info 17 20 one_table ten_match_weekend
 week_info 18 21 one_table ten_match_weekend
-week_info 19 22 one_table all_sun 10
+week_info 19 22 one_table all_sat 10
 fixtures_info League20_0
 play_week 1
 play_week 2

@@ -25,7 +25,7 @@ week_info 15 27 one_table all_sat 3
 week_info 16 28 one_table all_sat 3
 week_info 17 29 one_table all_sat 3
 week_info 18 30 one_table all_sat 3
-week_info 19 31 one_table all_wed 3
+week_info 19 31 one_table all_sat 3
 week_info 20 31 one_table all_sat 3
 week_info 21 32 one_table all_sat 3
 week_info 22 33 one_table all_sat 3

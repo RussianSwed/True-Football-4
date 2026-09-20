@@ -8,26 +8,26 @@ add_teams first_time 12 CRC_1
 add_teams next_time 1 12 CRC_1 current_season
 week_info 1 32 one_table costarican_1_1
 week_info 2 33 one_table costarican_1_1
-week_info 3 34 one_table all_thu 6
+week_info 3 34 one_table all_sat 6
 week_info 4 34 one_table costarican_1_1
 week_info 5 35 one_table costarican_1_1
 week_info 6 36 one_table costarican_1_1
-week_info 7 37 one_table all_thu 6
+week_info 7 37 one_table all_sat 6
 week_info 8 37 one_table costarican_1_1
 week_info 9 38 one_table costarican_1_1
-week_info 10 39 one_table all_thu 6
+week_info 10 39 one_table all_sat 6
 week_info 11 39 one_table costarican_1_1
-week_info 12 40 one_table all_thu 6
+week_info 12 40 one_table all_sat 6
 week_info 13 40 one_table costarican_1_1
 week_info 14 41 one_table costarican_1_1
 week_info 15 42 one_table costarican_1_1
-week_info 16 43 one_table all_thu 6
+week_info 16 43 one_table all_sat 6
 week_info 17 43 one_table costarican_1_1
 week_info 18 44 one_table costarican_1_1
-week_info 19 45 one_table all_thu 6
+week_info 19 45 one_table all_sat 6
 week_info 20 45 one_table costarican_1_1
-week_info 21 46 one_table all_sun 6
-week_info 22 47 one_table all_sun 6
+week_info 21 46 one_table all_sat 6
+week_info 22 47 one_table all_sat 6
 fixtures_info League12
 play_week 1
 play_week 2

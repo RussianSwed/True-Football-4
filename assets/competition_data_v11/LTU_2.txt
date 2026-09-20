@@ -18,7 +18,7 @@ week_info 4 16 one_table all_sat 8
 week_info 5 17 one_table eight_match_weekend
 week_info 6 18 one_table eight_match_weekend
 week_info 7 19 one_table eight_match_weekend
-week_info 8 20 one_table all_tue 8
+week_info 8 20 one_table all_sat 8
 week_info 9 21 one_table eight_match_weekend
 week_info 10 22 one_table eight_match_weekend
 week_info 11 23 one_table eight_match_weekend
@@ -40,7 +40,7 @@ week_info 26 40 one_table eight_match_weekend
 week_info 27 41 one_table eight_match_weekend
 week_info 28 42 one_table eight_match_weekend
 week_info 29 43 one_table eight_match_weekend
-week_info 30 44 one_table all_sun 8
+week_info 30 44 one_table all_sat 8
 fixtures_info League16
 play_week 1
 play_week 2

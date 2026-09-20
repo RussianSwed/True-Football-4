@@ -45,8 +45,8 @@ week_info 33 14 one_table ten_match_weekend
 week_info 34 15 one_table ten_match_weekend
 week_info 35 16 one_table ten_match_weekend
 week_info 36 17 one_table ten_match_weekend
-week_info 37 18 one_table all_sun 10
-week_info 38 19 one_table all_sun 10
+week_info 37 18 one_table all_sat 10
+week_info 38 19 one_table all_sat 10
 fixtures_info League20
 play_week 1
 play_week 2

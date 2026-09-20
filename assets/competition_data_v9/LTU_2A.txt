@@ -7,13 +7,13 @@ table 1 2 -1 -1 -1 -1 -1 -1
 order polish
 block
 add_teams 1 8 LTU_2 current_season
-week_info 1 41 table_with_pol_1 all_sun 4
-week_info 2 42 table_with_pol_1 all_sun 4
-week_info 3 43 table_with_pol_1 all_sun 4
-week_info 4 44 table_with_pol_1 all_sun 4
-week_info 5 45 table_with_pol_1 all_sun 4
-week_info 6 46 table_with_pol_1 all_sun 4
-week_info 7 47 table_with_pol_1 all_sun 4
+week_info 1 41 table_with_pol_1 all_sat 4
+week_info 2 42 table_with_pol_1 all_sat 4
+week_info 3 43 table_with_pol_1 all_sat 4
+week_info 4 44 table_with_pol_1 all_sat 4
+week_info 5 45 table_with_pol_1 all_sat 4
+week_info 6 46 table_with_pol_1 all_sat 4
+week_info 7 47 table_with_pol_1 all_sat 4
 fixtures_info League8_0
 play_week 1
 play_week 2

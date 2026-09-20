@@ -21,19 +21,19 @@ week_info 10 47 one_table cypriot_1_1
 week_info 11 48 one_table cypriot_1_1
 week_info 12 49 one_table cypriot_1_1
 week_info 13 50 one_table cypriot_1_1
-week_info 14 51 one_table all_wed 7
+week_info 14 51 one_table all_sat 7
 week_info 15 51 one_table cypriot_1_1
 week_info 16 52 one_table cypriot_1_1
 week_info 17 1 one_table cypriot_1_1
 week_info 18 2 one_table cypriot_1_1
 week_info 19 3 one_table cypriot_1_1
-week_info 20 4 one_table all_wed 7
+week_info 20 4 one_table all_sat 7
 week_info 21 4 one_table cypriot_1_1
 week_info 22 5 one_table cypriot_1_1
 week_info 23 6 one_table cypriot_1_1
 week_info 24 7 one_table cypriot_1_1
 week_info 25 8 one_table cypriot_1_1
-week_info 26 9 one_table all_wed 7
+week_info 26 9 one_table all_sat 7
 fixtures_info League14
 play_week 1
 play_week 2

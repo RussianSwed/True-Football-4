@@ -11,14 +11,14 @@ add_teams next_time 16 16 BEL_1 previous_season
 add_teams next_time 2 8 BEL_2 previous_season
 add_teams next_time 1 9 BEL_3 previous_season
 week_info 1 32 one_table eight_match_weekend_2
-week_info 2 33 one_table all_wed 8
+week_info 2 33 one_table all_sat 8
 week_info 3 35 one_table eight_match_weekend_2
 week_info 4 36 one_table eight_match_weekend_2
 week_info 5 37 one_table eight_match_weekend_2
-week_info 6 39 one_table all_wed 8
+week_info 6 39 one_table all_sat 8
 week_info 7 39 one_table eight_match_weekend_2
 week_info 8 40 one_table eight_match_weekend_2
-week_info 9 41 one_table all_wed 8
+week_info 9 41 one_table all_sat 8
 week_info 10 41 one_table eight_match_weekend_2
 week_info 11 42 one_table eight_match_weekend_2
 week_info 12 43 one_table eight_match_weekend_2

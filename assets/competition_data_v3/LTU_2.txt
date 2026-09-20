@@ -21,7 +21,7 @@ week_info 7 19 one_table seven_match_weekend
 week_info 8 20 one_table seven_match_weekend
 week_info 9 21 one_table seven_match_weekend
 week_info 10 22 one_table seven_match_weekend
-week_info 11 23 one_table all_wed 7
+week_info 11 23 one_table all_sat 7
 week_info 12 23 one_table seven_match_weekend
 week_info 13 24 one_table seven_match_weekend
 week_info 14 25 one_table seven_match_weekend
@@ -40,7 +40,7 @@ week_info 26 40 one_table seven_match_weekend
 week_info 27 41 one_table seven_match_weekend
 week_info 28 42 one_table seven_match_weekend
 week_info 29 43 one_table seven_match_weekend
-week_info 30 44 one_table all_sun 7
+week_info 30 44 one_table all_sat 7
 fixtures_info League15
 play_week 1
 play_week 2

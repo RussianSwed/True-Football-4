@@ -40,8 +40,8 @@ week_info 28 16 one_table danish_1_1
 week_info 29 17 one_table danish_1_1
 week_info 30 18 one_table danish_1_1
 week_info 31 19 one_table danish_1_1
-week_info 32 20 one_table all_thu 6
-week_info 33 21 one_table all_mon 6
+week_info 32 20 one_table all_sat 6
+week_info 33 21 one_table all_sat 6
 fixtures_info League12_3
 play_week 1
 play_week 2

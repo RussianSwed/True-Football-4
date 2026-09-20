@@ -12,46 +12,46 @@ add_teams next_time 3 18 POR_2 previous_season
 add_teams next_time 1 4 POR_3 previous_season
 week_info 1 32 one_table eleven_match_weekend
 week_info 2 33 one_table eleven_match_weekend
-week_info 3 34 one_table all_sun 11
+week_info 3 34 one_table all_sat 11
 week_info 4 35 one_table eleven_match_weekend
 week_info 5 38 one_table eleven_match_weekend
 week_info 6 39 one_table eleven_match_weekend
 week_info 7 40 one_table eleven_match_weekend
 week_info 8 41 one_table eleven_match_weekend
-week_info 9 42 one_table all_wed 11
+week_info 9 42 one_table all_sat 11
 week_info 10 43 one_table eleven_match_weekend
 week_info 11 44 one_table eleven_match_weekend
 week_info 12 45 one_table eleven_match_weekend
 week_info 13 47 one_table eleven_match_weekend
-week_info 14 49 one_table all_wed 11
+week_info 14 49 one_table all_sat 11
 week_info 15 49 one_table eleven_match_weekend
 week_info 16 50 one_table eleven_match_weekend
 week_info 17 51 one_table eleven_match_weekend
 week_info 18 52 one_table eleven_match_weekend
 week_info 19 1 one_table eleven_match_weekend
-week_info 20 2 one_table all_wed 11
+week_info 20 2 one_table all_sat 11
 week_info 21 2 one_table eleven_match_weekend
 week_info 22 3 one_table eleven_match_weekend
-week_info 23 4 one_table all_wed 11
+week_info 23 4 one_table all_sat 11
 week_info 24 4 one_table eleven_match_weekend
 week_info 25 5 one_table eleven_match_weekend
 week_info 26 6 one_table eleven_match_weekend
 week_info 27 7 one_table eleven_match_weekend
 week_info 28 8 one_table eleven_match_weekend
-week_info 29 9 one_table all_wed 11
+week_info 29 9 one_table all_sat 11
 week_info 30 9 one_table eleven_match_weekend
 week_info 31 10 one_table eleven_match_weekend
 week_info 32 11 one_table eleven_match_weekend
 week_info 33 13 one_table eleven_match_weekend
 week_info 34 14 one_table eleven_match_weekend
 week_info 35 15 one_table eleven_match_weekend
-week_info 36 16 one_table all_wed 11
+week_info 36 16 one_table all_sat 11
 week_info 37 16 one_table eleven_match_weekend
 week_info 38 17 one_table eleven_match_weekend
 week_info 39 18 one_table eleven_match_weekend
-week_info 40 19 one_table all_wed 11
-week_info 41 19 one_table all_sun 11
-week_info 42 20 one_table all_sun 11
+week_info 40 19 one_table all_sat 11
+week_info 41 19 one_table all_sat 11
+week_info 42 20 one_table all_sat 11
 fixtures_info League22
 play_week 1
 play_week 2

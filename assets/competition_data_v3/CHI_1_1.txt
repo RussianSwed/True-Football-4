@@ -7,15 +7,15 @@ table 1 1 -1 -1 -1 -1 -1 -1
 block
 add_teams first_time 16 CHI_1
 add_teams next_time 1 16 CHI_1 current_season
-week_info 1 33 one_table all_wed 8
+week_info 1 33 one_table all_sat 8
 week_info 2 33 one_table eight_match_weekend
 week_info 3 34 one_table eight_match_weekend
 week_info 4 35 one_table eight_match_weekend
 week_info 5 36 one_table eight_match_weekend
 week_info 6 37 one_table eight_match_weekend
 week_info 7 38 one_table eight_match_weekend
-week_info 8 39 one_table all_wed 8
-week_info 9 39 one_table all_sun 8
+week_info 8 39 one_table all_sat 8
+week_info 9 39 one_table all_sat 8
 week_info 10 40 one_table eight_match_weekend
 week_info 11 41 one_table eight_match_weekend
 week_info 12 42 one_table eight_match_weekend

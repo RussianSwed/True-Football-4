@@ -6,13 +6,13 @@ fans_attendance 0.3
 block
 add_teams 5 12 SMR_1 current_season
 add_teams 1 4 SMR_1 current_season
-week_info 1 72 ko_first_leg all_tue 4 round_1
-week_info 2 72 ko_second_leg all_fri 4 round_1
-week_info 3 73 ko_first_leg all_tue 4 quarterfinal
-week_info 4 73 ko_second_leg all_fri 4 quarterfinal
-week_info 5 74 ko_first_leg all_tue 2 semifinal
-week_info 6 74 ko_second_leg all_fri 2 semifinal
-week_info 7 75 ko_one_match all_fri 1 final neutral
+week_info 1 72 ko_first_leg all_sat 4 round_1
+week_info 2 72 ko_second_leg all_sat 4 round_1
+week_info 3 73 ko_first_leg all_sat 4 quarterfinal
+week_info 4 73 ko_second_leg all_sat 4 quarterfinal
+week_info 5 74 ko_first_leg all_sat 2 semifinal
+week_info 6 74 ko_second_leg all_sat 2 semifinal
+week_info 7 75 ko_one_match all_sat 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

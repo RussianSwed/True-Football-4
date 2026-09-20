@@ -6,11 +6,11 @@ fans_attendance 0.2
 table 1 1 -1 -1 -1 -1 -1 -1
 add_teams 5 IND_2 shuffled
 add_teams 11 IND_1 reversed
-week_info 1 50 group_table all_wed 8 group_phase_1 neutral
-week_info 2 51 group_table all_wed 8 group_phase_2 neutral
-week_info 3 52 group_table all_wed 8 group_phase_3 neutral
-week_info 4 2 ko_one_match all_sat 2 semifinal
-week_info 5 3 ko_one_match all_sat 1 final neutral
+week_info 1 50 group_table all_mon 8 group_phase_1 neutral
+week_info 2 51 group_table all_mon 8 group_phase_2 neutral
+week_info 3 52 group_table all_mon 8 group_phase_3 neutral
+week_info 4 2 ko_one_match all_mon 2 semifinal
+week_info 5 3 ko_one_match all_mon 1 final neutral
 fixtures_info IndianCup
 play_week 1
 play_week 2

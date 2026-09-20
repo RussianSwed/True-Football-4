@@ -6,15 +6,15 @@ fans_attendance 0.1
 add_teams 12 IRL_3 shuffled
 add_teams 10 IRL_2 shuffled
 add_teams 10 IRL_1 shuffled
-week_info 1 16 ko_one_match_replay all_wed 16 round_of_32
-week_info 2 17 ko_one_match all_wed 16 round_of_32
-week_info 3 25 ko_one_match_replay all_wed 8 round_of_16
-week_info 4 26 ko_one_match all_wed 8 round_of_16
-week_info 5 32 ko_one_match_replay all_wed 4 quarterfinal
-week_info 6 33 ko_one_match all_wed 4 quarterfinal
-week_info 7 38 ko_one_match_replay all_wed 2 semifinal
-week_info 8 42 ko_one_match all_wed 2 semifinal
-week_info 9 44 ko_one_match all_wed 1 final neutral
+week_info 1 16 ko_one_match_replay all_mon 16 round_of_32
+week_info 2 17 ko_one_match all_mon 16 round_of_32
+week_info 3 25 ko_one_match_replay all_mon 8 round_of_16
+week_info 4 26 ko_one_match all_mon 8 round_of_16
+week_info 5 32 ko_one_match_replay all_mon 4 quarterfinal
+week_info 6 33 ko_one_match all_mon 4 quarterfinal
+week_info 7 38 ko_one_match_replay all_mon 2 semifinal
+week_info 8 42 ko_one_match all_mon 2 semifinal
+week_info 9 44 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

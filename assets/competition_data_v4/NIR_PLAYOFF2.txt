@@ -5,7 +5,7 @@ fans_attendance 0.4
 block
 add_teams 11 11 NIR_2 current_season
 add_teams 2 2 NIR_3 current_season
-week_info 1 74 ko_first_leg all_wed 1 playoff
+week_info 1 74 ko_first_leg all_sat 1 playoff
 week_info 2 74 ko_second_leg all_sat 1 playoff
 fixtures_info Knockout
 play_week 1

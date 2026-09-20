@@ -9,13 +9,13 @@ add_teams 8 9 ROM_2 current_season
 add_teams 12 13 ROM_2 current_season
 add_teams 16 17 ROM_2 current_season
 add_teams 20 20 ROM_2 current_season
-week_info 1 62 table_with_pol_1 all_sun 3
-week_info 2 63 table_with_pol_1 all_sun 3
-week_info 3 64 table_with_pol_1 all_sun 3
-week_info 4 65 table_with_pol_1 all_sun 3
-week_info 5 66 table_with_pol_1 all_sun 3
-week_info 6 67 table_with_pol_1 all_sun 3
-week_info 7 68 table_with_pol_1 all_sun 3
+week_info 1 62 table_with_pol_1 all_sat 3
+week_info 2 63 table_with_pol_1 all_sat 3
+week_info 3 64 table_with_pol_1 all_sat 3
+week_info 4 65 table_with_pol_1 all_sat 3
+week_info 5 66 table_with_pol_1 all_sat 3
+week_info 6 67 table_with_pol_1 all_sat 3
+week_info 7 68 table_with_pol_1 all_sat 3
 fixtures_info League7_0
 play_week 1
 play_week 2

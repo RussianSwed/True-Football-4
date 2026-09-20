@@ -13,7 +13,7 @@ add_teams next_time 1 2 ARG_2B previous_season
 week_info 1 34 one_table argentinian_1_2_2
 week_info 2 36 one_table argentinian_1_2_2
 week_info 3 37 one_table argentinian_1_2_2
-week_info 4 38 one_table all_wed 13
+week_info 4 38 one_table all_sat 13
 week_info 5 38 one_table all_sat 13
 week_info 6 39 one_table argentinian_1_2_2
 week_info 7 41 one_table argentinian_1_2_2
@@ -33,7 +33,7 @@ week_info 20 19 one_table argentinian_1_2_2
 week_info 21 20 one_table argentinian_1_2_2
 week_info 22 21 one_table argentinian_1_2_2
 week_info 23 22 one_table all_sat 13
-week_info 24 23 one_table all_wed 13
+week_info 24 23 one_table all_sat 13
 week_info 25 23 one_table all_sat 13
 fixtures_info League26_0
 play_week 1

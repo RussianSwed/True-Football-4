@@ -5,15 +5,15 @@ fans_behaviour 1.1
 fans_attendance 0.2
 table -1 -1 1 4 -1 -1 -1 -1
 add_teams 7 PHI_1 shuffled
-week_info 1 62 group_table all_thu 3 group_phase_1
-week_info 2 63 group_table all_thu 3 group_phase_2
-week_info 3 64 group_table all_thu 3 group_phase_3
-week_info 4 65 group_table all_thu 3 group_phase_4
-week_info 5 66 group_table all_thu 3 group_phase_5
-week_info 6 67 group_table all_thu 3 group_phase_6
-week_info 7 68 group_table all_thu 3 group_phase_7
-week_info 8 71 ko_one_match all_sat 2 semifinal
-week_info 9 72 ko_one_match all_sat 1 final neutral
+week_info 1 62 group_table all_mon 3 group_phase_1
+week_info 2 63 group_table all_mon 3 group_phase_2
+week_info 3 64 group_table all_mon 3 group_phase_3
+week_info 4 65 group_table all_mon 3 group_phase_4
+week_info 5 66 group_table all_mon 3 group_phase_5
+week_info 6 67 group_table all_mon 3 group_phase_6
+week_info 7 68 group_table all_mon 3 group_phase_7
+week_info 8 71 ko_one_match all_mon 2 semifinal
+week_info 9 72 ko_one_match all_mon 1 final neutral
 fixtures_info FilipinoCup
 play_week 1
 play_week 2

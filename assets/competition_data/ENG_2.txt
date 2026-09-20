@@ -35,9 +35,9 @@ week_info 20 48 one_table english_2_saturday_sunday
 week_info 21 49 one_table english_2_friday_saturday
 week_info 22 50 one_table all_sat 12
 week_info 23 51 one_table english_2_friday_saturday
-week_info 24 52 one_table all_wed 12
+week_info 24 52 one_table all_sat 12
 week_info 25 52 one_table all_sat 12
-week_info 26 1 one_table all_wed 12
+week_info 26 1 one_table all_sat 12
 week_info 27 2 one_table english_2_friday_saturday
 week_info 28 3 one_table english_2_friday_saturday
 week_info 29 4 one_table english_2_friday_saturday

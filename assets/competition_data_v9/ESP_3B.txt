@@ -42,10 +42,10 @@ week_info 28 10 one_table french_2_1
 week_info 29 11 one_table french_2_1
 week_info 30 13 one_table french_2_1
 week_info 31 14 one_table french_2_2
-week_info 32 15 one_table all_wed 10
+week_info 32 15 one_table all_sat 10
 week_info 33 15 one_table all_sat 10
 week_info 34 16 one_table french_2_1
-week_info 35 17 one_table all_wed 10
+week_info 35 17 one_table all_sat 10
 week_info 36 17 one_table all_sat 10
 week_info 37 18 one_table all_sat 10
 week_info 38 19 one_table all_sat 10

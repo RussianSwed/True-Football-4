@@ -43,8 +43,8 @@ week_info 29 16 one_table turkish_2_1
 week_info 30 17 one_table turkish_2_1
 week_info 31 18 one_table turkish_2_1
 week_info 32 19 one_table turkish_2_1
-week_info 33 20 one_table all_sun 9
-week_info 34 21 one_table all_sun 9
+week_info 33 20 one_table all_sat 9
+week_info 34 21 one_table all_sat 9
 fixtures_info League18
 play_week 1
 play_week 2

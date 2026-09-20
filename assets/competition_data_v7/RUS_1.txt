@@ -39,7 +39,7 @@ week_info 26 17 one_table russian_1_1
 week_info 27 18 one_table russian_1_3
 week_info 28 19 one_table russian_1_2
 week_info 29 20 one_table russian_1_1
-week_info 30 21 one_table all_sun 8
+week_info 30 21 one_table all_sat 8
 fixtures_info League16
 play_week 1
 play_week 2

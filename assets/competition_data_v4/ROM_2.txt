@@ -13,25 +13,25 @@ add_teams next_time 2 2 ROM_PLAYOFF1 previous_season
 add_teams next_time 1 5 ROM_3 previous_season
 week_info 1 28 one_table ten_match_weekend
 week_info 2 29 one_table ten_match_weekend
-week_info 3 30 one_table all_sun 10
+week_info 3 30 one_table all_sat 10
 week_info 4 31 one_table ten_match_weekend
 week_info 5 32 one_table ten_match_weekend
 week_info 6 33 one_table ten_match_weekend
 week_info 7 34 one_table ten_match_weekend
 week_info 8 35 one_table ten_match_weekend
-week_info 9 37 one_table all_wed 10
+week_info 9 37 one_table all_sat 10
 week_info 10 38 one_table ten_match_weekend
 week_info 11 39 one_table ten_match_weekend
 week_info 12 40 one_table ten_match_weekend
 week_info 13 42 one_table ten_match_weekend
-week_info 14 43 one_table all_wed 10
+week_info 14 43 one_table all_sat 10
 week_info 15 44 one_table ten_match_weekend
 week_info 16 45 one_table ten_match_weekend
 week_info 17 47 one_table ten_match_weekend
-week_info 18 48 one_table all_wed 10
+week_info 18 48 one_table all_sat 10
 week_info 19 48 one_table ten_match_weekend
 week_info 20 49 one_table ten_match_weekend
-week_info 21 50 one_table all_wed 10
+week_info 21 50 one_table all_sat 10
 week_info 22 50 one_table ten_match_weekend
 week_info 23 51 one_table ten_match_weekend
 week_info 24 5 one_table ten_match_weekend
@@ -39,7 +39,7 @@ week_info 25 6 one_table ten_match_weekend
 week_info 26 7 one_table all_sat 10
 week_info 27 8 one_table ten_match_weekend
 week_info 28 9 one_table ten_match_weekend
-week_info 29 10 one_table all_wed 10
+week_info 29 10 one_table all_sat 10
 week_info 30 11 one_table ten_match_weekend
 week_info 31 12 one_table ten_match_weekend
 week_info 32 13 one_table ten_match_weekend

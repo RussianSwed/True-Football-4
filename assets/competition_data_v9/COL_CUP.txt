@@ -5,16 +5,16 @@ fans_behaviour 1.5
 fans_attendance 0.3
 add_teams 12 COL_2 shuffled
 add_teams 20 COL_1 shuffled
-week_info 1 12 ko_first_leg all_wed 16 round_of_32
-week_info 2 13 ko_second_leg all_wed 16 round_of_32
-week_info 3 22 ko_first_leg all_wed 8 round_of_16
-week_info 4 23 ko_second_leg all_wed 8 round_of_16
-week_info 5 32 ko_first_leg all_wed 4 quarterfinal
-week_info 6 33 ko_second_leg all_wed 4 quarterfinal
-week_info 7 38 ko_first_leg all_wed 2 semifinal
-week_info 8 39 ko_second_leg all_wed 2 semifinal
-week_info 9 42 ko_first_leg all_wed 1 final
-week_info 10 43 ko_second_leg all_wed 1 final
+week_info 1 12 ko_first_leg all_mon 16 round_of_32
+week_info 2 13 ko_second_leg all_mon 16 round_of_32
+week_info 3 22 ko_first_leg all_mon 8 round_of_16
+week_info 4 23 ko_second_leg all_mon 8 round_of_16
+week_info 5 32 ko_first_leg all_mon 4 quarterfinal
+week_info 6 33 ko_second_leg all_mon 4 quarterfinal
+week_info 7 38 ko_first_leg all_mon 2 semifinal
+week_info 8 39 ko_second_leg all_mon 2 semifinal
+week_info 9 42 ko_first_leg all_mon 1 final
+week_info 10 43 ko_second_leg all_mon 1 final
 fixtures_info Knockout
 play_week 1
 play_week 2

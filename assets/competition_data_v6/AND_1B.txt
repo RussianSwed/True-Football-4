@@ -6,12 +6,12 @@ table -1 -1 -1 -1 -1 -1 4 4
 order scottish
 block
 add_teams 5 8 AND_1 current_season
-week_info 1 67 table_with_sco_1 all_sun 2
-week_info 2 68 table_with_sco_1 all_sun 2
-week_info 3 69 table_with_sco_1 all_sun 2
-week_info 4 70 table_with_sco_1 all_sun 2
-week_info 5 71 table_with_sco_1 all_sun 2
-week_info 6 72 table_with_sco_1 all_sun 2
+week_info 1 67 table_with_sco_1 all_sat 2
+week_info 2 68 table_with_sco_1 all_sat 2
+week_info 3 69 table_with_sco_1 all_sat 2
+week_info 4 70 table_with_sco_1 all_sat 2
+week_info 5 71 table_with_sco_1 all_sat 2
+week_info 6 72 table_with_sco_1 all_sat 2
 fixtures_info League4
 play_week 1
 play_week 2

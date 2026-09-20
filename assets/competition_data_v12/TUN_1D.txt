@@ -7,12 +7,12 @@ table -1 -1 -1 -1 -1 -1 3 4
 block
 add_teams 6 7 TUN_1A current_season
 add_teams 6 7 TUN_1B current_season
-week_info 1 62 one_table all_sun 2
-week_info 2 63 one_table all_sun 2
-week_info 3 64 one_table all_sun 2
-week_info 4 65 one_table all_sun 2
-week_info 5 66 one_table all_sun 2
-week_info 6 67 one_table all_sun 2
+week_info 1 62 one_table all_sat 2
+week_info 2 63 one_table all_sat 2
+week_info 3 64 one_table all_sat 2
+week_info 4 65 one_table all_sat 2
+week_info 5 66 one_table all_sat 2
+week_info 6 67 one_table all_sat 2
 fixtures_info League4
 play_week 1
 play_week 2

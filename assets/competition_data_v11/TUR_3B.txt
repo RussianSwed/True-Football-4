@@ -19,18 +19,18 @@ week_info 5 39 one_table italian_1_2
 week_info 6 39 one_table italian_1_1
 week_info 7 40 one_table italian_1_1
 week_info 8 42 one_table all_sat 10
-week_info 9 43 one_table all_mon 10
+week_info 9 43 one_table all_sat 10
 week_info 10 43 one_table all_sat 10
 week_info 11 44 one_table all_sat 10
 week_info 12 45 one_table italian_1_1
 week_info 13 46 one_table all_sat 10
-week_info 14 47 one_table all_mon 10
+week_info 14 47 one_table all_sat 10
 week_info 15 47 one_table all_sat 10
 week_info 16 48 one_table all_sat 10
-week_info 17 49 one_table all_mon 10
+week_info 17 49 one_table all_sat 10
 week_info 18 49 one_table all_sat 10
 week_info 19 1 one_table italian_1_1
-week_info 20 2 one_table all_tue 10
+week_info 20 2 one_table all_sat 10
 week_info 21 3 one_table italian_1_1
 week_info 22 4 one_table italian_1_1
 week_info 23 5 one_table italian_1_1
@@ -45,7 +45,7 @@ week_info 31 14 one_table italian_1_1
 week_info 32 15 one_table italian_1_1
 week_info 33 16 one_table italian_1_1
 week_info 34 17 one_table all_sat 10
-week_info 35 18 one_table all_mon 10
+week_info 35 18 one_table all_sat 10
 week_info 36 18 one_table all_sat 10
 week_info 37 19 one_table italian_1_1
 week_info 38 20 one_table all_sat 10

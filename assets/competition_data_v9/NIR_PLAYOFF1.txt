@@ -6,8 +6,8 @@ block
 update_team_group
 add_teams 5 5 NIR_1B current_season
 add_teams 2 2 NIR_2A current_season
-week_info 1 75 ko_first_leg all_wed 1 playoff
-week_info 2 75 ko_second_leg all_sun 1 playoff
+week_info 1 75 ko_first_leg all_sat 1 playoff
+week_info 2 75 ko_second_leg all_sat 1 playoff
 fixtures_info Knockout
 play_week 1
 play_week 2

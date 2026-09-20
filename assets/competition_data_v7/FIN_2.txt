@@ -12,13 +12,13 @@ add_teams next_time 3 8 FIN_2 previous_season
 add_teams next_time 1 2 FIN_3 previous_season
 week_info 1 18 one_table five_match_weekend
 week_info 2 19 one_table five_match_weekend
-week_info 3 20 one_table all_wed 5
+week_info 3 20 one_table all_sat 5
 week_info 4 20 one_table five_match_weekend
 week_info 5 21 one_table five_match_weekend
 week_info 6 22 one_table five_match_weekend
 week_info 7 23 one_table five_match_weekend
 week_info 8 24 one_table five_match_weekend
-week_info 9 25 one_table all_wed 5
+week_info 9 25 one_table all_sat 5
 week_info 10 25 one_table five_match_weekend
 week_info 11 26 one_table five_match_weekend
 week_info 12 27 one_table five_match_weekend
@@ -33,7 +33,7 @@ week_info 20 35 one_table five_match_weekend
 week_info 21 36 one_table five_match_weekend
 week_info 22 37 one_table five_match_weekend
 week_info 23 38 one_table five_match_weekend
-week_info 24 39 one_table all_wed 5
+week_info 24 39 one_table all_sat 5
 week_info 25 40 one_table five_match_weekend
 week_info 26 41 one_table all_sat 5
 week_info 27 42 one_table all_sat 5

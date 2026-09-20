@@ -23,13 +23,13 @@ week_info 11 49 one_table portuguese_1_1_2
 week_info 12 50 one_table portuguese_1_1_2
 week_info 13 51 one_table portuguese_1_1_2
 week_info 14 1 one_table portuguese_1_1_2
-week_info 15 2 one_table all_wed 9
+week_info 15 2 one_table all_sat 9
 week_info 16 2 one_table portuguese_1_1_2
 week_info 17 3 one_table portuguese_1_1_2
-week_info 18 4 one_table all_wed 9
+week_info 18 4 one_table all_sat 9
 week_info 19 4 one_table portuguese_1_1_2
 week_info 20 5 one_table portuguese_1_1_2
-week_info 21 6 one_table all_wed 9
+week_info 21 6 one_table all_sat 9
 week_info 22 6 one_table portuguese_1_1_2
 week_info 23 7 one_table portuguese_1_1_2
 week_info 24 8 one_table portuguese_1_1_2
@@ -41,7 +41,7 @@ week_info 29 14 one_table portuguese_1_1_2
 week_info 30 16 one_table portuguese_1_1_2
 week_info 31 17 one_table portuguese_1_1_2
 week_info 32 18 one_table portuguese_1_1_2
-week_info 33 19 one_table all_wed 9
+week_info 33 19 one_table all_sat 9
 week_info 34 20 one_table all_sat 9
 fixtures_info League18
 play_week 1

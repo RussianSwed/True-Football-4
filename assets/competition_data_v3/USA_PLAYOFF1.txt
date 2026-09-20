@@ -10,7 +10,7 @@ week_info 2 46 ko_first_leg all_sat 4 quarterfinal
 week_info 3 47 ko_second_leg all_sat 4 quarterfinal
 week_info 4 48 ko_first_leg all_sat 2 semifinal
 week_info 5 49 ko_second_leg all_sat 2 semifinal
-week_info 6 50 ko_one_match all_sun 1 final neutral
+week_info 6 50 ko_one_match all_sat 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

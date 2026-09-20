@@ -28,7 +28,7 @@ week_info 14 49 one_table all_sat 5
 week_info 15 50 one_table all_sat 5
 week_info 16 51 one_table all_sat 5
 week_info 17 52 one_table all_sat 5
-week_info 18 1 one_table all_wed 5
+week_info 18 1 one_table all_sat 5
 week_info 19 1 one_table all_sat 5
 week_info 20 2 one_table all_sat 5
 week_info 21 3 one_table all_sat 5
@@ -42,7 +42,7 @@ week_info 28 11 one_table all_sat 5
 week_info 29 12 one_table all_sat 5
 week_info 30 13 one_table all_sat 5
 week_info 31 14 one_table all_sat 5
-week_info 32 15 one_table all_tue 5
+week_info 32 15 one_table all_sat 5
 week_info 33 15 one_table all_sat 5
 week_info 34 16 one_table all_sat 5
 week_info 35 17 one_table all_sat 5

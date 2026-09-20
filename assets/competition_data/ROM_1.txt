@@ -25,10 +25,10 @@ week_info 14 43 one_table romanian_1_1
 week_info 15 44 one_table romanian_1_1
 week_info 16 45 one_table romanian_1_1
 week_info 17 47 one_table romanian_1_1
-week_info 18 48 one_table all_wed 7
+week_info 18 48 one_table all_sat 7
 week_info 19 48 one_table romanian_1_1
 week_info 20 49 one_table romanian_1_1
-week_info 21 50 one_table all_wed 7
+week_info 21 50 one_table all_sat 7
 week_info 22 50 one_table romanian_1_1
 week_info 23 51 one_table romanian_1_1
 week_info 24 5 one_table romanian_1_1

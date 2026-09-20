@@ -44,7 +44,7 @@ week_info 32 17 one_table albanian_1_1
 week_info 33 18 one_table albanian_1_1
 week_info 34 19 one_table albanian_1_1
 week_info 35 20 one_table albanian_1_1
-week_info 36 21 one_table all_sun 5
+week_info 36 21 one_table all_sat 5
 fixtures_info League10_4
 play_week 1
 play_week 2

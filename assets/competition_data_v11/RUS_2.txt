@@ -25,7 +25,7 @@ week_info 11 43 one_table german_2_1
 week_info 12 44 one_table german_2_1
 week_info 13 45 one_table german_2_1
 week_info 14 46 one_table german_2_1
-week_info 15 47 one_table all_wed 9
+week_info 15 47 one_table all_sat 9
 week_info 16 47 one_table all_sat 9
 week_info 17 48 one_table all_sat 9
 week_info 18 49 one_table german_2_1
@@ -43,8 +43,8 @@ week_info 29 15 one_table german_2_1
 week_info 30 16 one_table german_2_1
 week_info 31 17 one_table german_2_1
 week_info 32 18 one_table german_2_1
-week_info 33 19 one_table all_sun 9
-week_info 34 20 one_table all_sun 9
+week_info 33 19 one_table all_sat 9
+week_info 34 20 one_table all_sat 9
 fixtures_info League18
 play_week 1
 play_week 2

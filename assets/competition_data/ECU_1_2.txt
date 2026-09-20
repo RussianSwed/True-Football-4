@@ -9,7 +9,7 @@ add_teams first_time 12 ECU_1
 add_teams next_time 1 12 ECU_1 current_season
 week_info 1 27 one_table ecuadorian_1_1
 week_info 2 28 one_table ecuadorian_1_1
-week_info 3 29 one_table all_thu 6
+week_info 3 29 one_table all_sat 6
 week_info 4 29 one_table ecuadorian_1_1
 week_info 5 30 one_table ecuadorian_1_1
 week_info 6 31 one_table ecuadorian_1_1
@@ -26,7 +26,7 @@ week_info 16 43 one_table ecuadorian_1_1
 week_info 17 44 one_table ecuadorian_1_1
 week_info 18 45 one_table ecuadorian_1_1
 week_info 19 47 one_table ecuadorian_1_1
-week_info 20 48 one_table all_thu 6
+week_info 20 48 one_table all_sat 6
 week_info 21 48 one_table ecuadorian_1_1
 week_info 22 49 one_table ecuadorian_1_1
 fixtures_info League12

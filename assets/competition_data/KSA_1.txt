@@ -33,8 +33,8 @@ week_info 21 9 one_table saudi_arabian_1_5
 week_info 22 10 one_table saudi_arabian_1_4
 week_info 23 11 one_table saudi_arabian_1_5
 week_info 24 13 one_table saudi_arabian_1_5
-week_info 25 14 one_table all_wed 7
-week_info 26 15 one_table all_sun 7
+week_info 25 14 one_table all_sat 7
+week_info 26 15 one_table all_sat 7
 fixtures_info League14
 play_week 1
 play_week 2

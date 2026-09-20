@@ -39,19 +39,19 @@ week_info 25 8 one_table spanish_2_3
 week_info 26 9 one_table spanish_2_4
 week_info 27 10 one_table spanish_2_1
 week_info 28 11 one_table spanish_2_4
-week_info 29 12 one_table all_wed 11
+week_info 29 12 one_table all_sat 11
 week_info 30 12 one_table all_sat 11
 week_info 31 13 one_table spanish_2_1
 week_info 32 14 one_table spanish_2_3
 week_info 33 15 one_table spanish_2_1
-week_info 34 16 one_table all_wed 11
+week_info 34 16 one_table all_sat 11
 week_info 35 16 one_table all_sat 11
 week_info 36 17 one_table spanish_2_1
 week_info 37 18 one_table spanish_2_2
 week_info 38 19 one_table spanish_2_4
-week_info 39 20 one_table all_wed 11
+week_info 39 20 one_table all_sat 11
 week_info 40 20 one_table all_sat 11
-week_info 41 21 one_table all_wed 11
+week_info 41 21 one_table all_sat 11
 week_info 42 21 one_table all_sat 11
 fixtures_info League22
 play_week 1

@@ -8,12 +8,12 @@ block
 add_teams 1 1 BRA_3 current_season
 add_teams 4 5 BRA_3 current_season
 add_teams 8 8 BRA_3 current_season
-week_info 1 41 one_table all_sun 2
-week_info 2 42 one_table all_sun 2
-week_info 3 43 one_table all_sun 2
-week_info 4 44 one_table all_sun 2
-week_info 5 45 one_table all_sun 2
-week_info 6 46 one_table all_sun 2
+week_info 1 41 one_table all_sat 2
+week_info 2 42 one_table all_sat 2
+week_info 3 43 one_table all_sat 2
+week_info 4 44 one_table all_sat 2
+week_info 5 45 one_table all_sat 2
+week_info 6 46 one_table all_sat 2
 fixtures_info League4
 play_week 1
 play_week 2

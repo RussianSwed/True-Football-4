@@ -7,18 +7,18 @@ table 1 2 -1 -1 -1 -1 -1 -1
 add_teams 20 TUR_3 shuffled
 add_teams 19 TUR_2 shuffled
 add_teams 20 TUR_1 reversed
-week_info 1 44 ko_one_match all_tue 27 round_1
-week_info 2 48 ko_one_match all_tue 16 round_2
-week_info 3 50 ko_one_match all_tue 8 round_3
-week_info 4 51 group_table all_tue 4 group_phase_1
-week_info 5 2 group_table all_sun 4 group_phase_2
-week_info 6 3 group_table all_wed 4 group_phase_3
-week_info 7 4 group_table all_wed 4 group_phase_4
-week_info 8 5 group_table all_wed 4 group_phase_5
-week_info 9 9 group_table all_wed 4 group_phase_6
-week_info 10 12 ko_first_leg half_tue_wed 2 semifinal
-week_info 11 13 ko_second_leg half_tue_wed 2 semifinal
-week_info 12 19 ko_one_match all_wed 1 final neutral
+week_info 1 44 ko_one_match all_mon 27 round_1
+week_info 2 48 ko_one_match all_mon 16 round_2
+week_info 3 50 ko_one_match all_mon 8 round_3
+week_info 4 51 group_table all_mon 4 group_phase_1
+week_info 5 2 group_table all_mon 4 group_phase_2
+week_info 6 3 group_table all_mon 4 group_phase_3
+week_info 7 4 group_table all_mon 4 group_phase_4
+week_info 8 5 group_table all_mon 4 group_phase_5
+week_info 9 9 group_table all_mon 4 group_phase_6
+week_info 10 12 ko_first_leg all_mon 2 semifinal
+week_info 11 13 ko_second_leg all_mon 2 semifinal
+week_info 12 19 ko_one_match all_mon 1 final neutral
 fixtures_info TurkishCup
 play_week 1
 play_week 2

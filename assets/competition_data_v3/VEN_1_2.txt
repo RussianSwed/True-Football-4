@@ -8,7 +8,7 @@ add_teams first_time 18 VEN_1
 add_teams next_time 1 18 VEN_1 current_season
 week_info 1 29 one_table nine_match_weekend
 week_info 2 30 one_table nine_match_weekend
-week_info 3 31 one_table all_wed 9
+week_info 3 31 one_table all_sat 9
 week_info 4 31 one_table nine_match_weekend
 week_info 5 32 one_table nine_match_weekend
 week_info 6 33 one_table nine_match_weekend
@@ -22,7 +22,7 @@ week_info 13 40 one_table nine_match_weekend
 week_info 14 41 one_table nine_match_weekend
 week_info 15 42 one_table nine_match_weekend
 week_info 16 43 one_table nine_match_weekend
-week_info 17 44 one_table all_sun 9
+week_info 17 44 one_table all_sat 9
 fixtures_info League18_0
 play_week 1
 play_week 2

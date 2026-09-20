@@ -19,7 +19,7 @@ week_info 4 34 one_table polish_2
 week_info 5 35 one_table polish_2
 week_info 6 36 one_table polish_2
 week_info 7 37 one_table polish_2
-week_info 8 38 one_table all_wed 9
+week_info 8 38 one_table all_sat 9
 week_info 9 38 one_table polish_2
 week_info 10 39 one_table polish_2
 week_info 11 40 one_table polish_2
@@ -36,13 +36,13 @@ week_info 21 10 one_table all_sat 9
 week_info 22 11 one_table polish_2
 week_info 23 12 one_table polish_2
 week_info 24 13 one_table polish_2
-week_info 25 14 one_table all_wed 9
+week_info 25 14 one_table all_sat 9
 week_info 26 15 one_table polish_2
 week_info 27 16 one_table polish_2
-week_info 28 17 one_table all_wed 9
+week_info 28 17 one_table all_sat 9
 week_info 29 17 one_table all_sat 9
 week_info 30 18 one_table polish_2
-week_info 31 19 one_table all_wed 9
+week_info 31 19 one_table all_sat 9
 week_info 32 19 one_table all_sat 9
 week_info 33 20 one_table all_sat 9
 week_info 34 21 one_table all_sat 9

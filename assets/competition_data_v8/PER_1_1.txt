@@ -9,19 +9,19 @@ add_teams next_time 1 20 PER_1 current_season
 week_info 1 20 one_table ten_match_weekend
 week_info 2 21 one_table ten_match_weekend
 week_info 3 22 one_table ten_match_weekend
-week_info 4 23 one_table all_wed 10
+week_info 4 23 one_table all_sat 10
 week_info 5 23 one_table all_sat 10
 week_info 6 24 one_table ten_match_weekend
 week_info 7 25 one_table ten_match_weekend
-week_info 8 26 one_table all_wed 10
+week_info 8 26 one_table all_sat 10
 week_info 9 26 one_table all_sat 10
 week_info 10 27 one_table ten_match_weekend
 week_info 11 28 one_table ten_match_weekend
 week_info 12 29 one_table ten_match_weekend
 week_info 13 30 one_table ten_match_weekend
-week_info 14 31 one_table all_wed 10
+week_info 14 31 one_table all_sat 10
 week_info 15 32 one_table all_sat 10
-week_info 16 33 one_table all_wed 10
+week_info 16 33 one_table all_sat 10
 week_info 17 33 one_table all_sat 10
 week_info 18 34 one_table ten_match_weekend
 week_info 19 35 one_table ten_match_weekend

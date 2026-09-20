@@ -9,15 +9,15 @@ order scottish
 block
 add_teams 1 6 VIE_1 current_season
 week_info 1 39 table_with_sco_1 all_sat 3
-week_info 2 40 table_with_sco_1 all_fri 3
-week_info 3 41 table_with_sco_1 all_sun 3
+week_info 2 40 table_with_sco_1 all_sat 3
+week_info 3 41 table_with_sco_1 all_sat 3
 week_info 4 42 table_with_sco_1 all_sat 3
-week_info 5 43 table_with_sco_1 all_sun 3
+week_info 5 43 table_with_sco_1 all_sat 3
 week_info 6 44 table_with_sco_1 all_sat 3
 week_info 7 45 table_with_sco_1 all_sat 3
-week_info 8 46 table_with_sco_1 all_sun 3
-week_info 9 47 table_with_sco_1 all_sun 3
-week_info 10 48 table_with_sco_1 all_sun 3
+week_info 8 46 table_with_sco_1 all_sat 3
+week_info 9 47 table_with_sco_1 all_sat 3
+week_info 10 48 table_with_sco_1 all_sat 3
 fixtures_info League6
 play_week 1
 play_week 2

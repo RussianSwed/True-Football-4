@@ -5,8 +5,8 @@ fans_behaviour 1.6
 fans_attendance 0.8
 block
 add_teams mexican_2_final
-week_info 1 74 ko_first_leg all_fri 1 final
-week_info 2 75 ko_second_leg all_mon 1 final
+week_info 1 74 ko_first_leg all_sat 1 final
+week_info 2 75 ko_second_leg all_sat 1 final
 fixtures_info Knockout
 play_week 1
 play_week 2

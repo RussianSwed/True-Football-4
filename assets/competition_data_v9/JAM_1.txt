@@ -18,18 +18,18 @@ week_info 6 41 one_table five_match_weekend
 week_info 7 42 one_table five_match_weekend
 week_info 8 43 one_table five_match_weekend
 week_info 9 44 one_table five_match_weekend
-week_info 10 45 one_table all_wed 5
+week_info 10 45 one_table all_sat 5
 week_info 11 45 one_table five_match_weekend
 week_info 12 46 one_table five_match_weekend
 week_info 13 47 one_table five_match_weekend
 week_info 14 48 one_table five_match_weekend
 week_info 15 49 one_table five_match_weekend
-week_info 16 50 one_table all_thu 5
-week_info 17 50 one_table all_sun 5
+week_info 16 50 one_table all_sat 5
+week_info 17 50 one_table all_sat 5
 week_info 18 51 one_table five_match_weekend
 week_info 19 1 one_table five_match_weekend
 week_info 20 2 one_table five_match_weekend
-week_info 21 3 one_table all_wed 5
+week_info 21 3 one_table all_sat 5
 week_info 22 3 one_table five_match_weekend
 week_info 23 4 one_table five_match_weekend
 week_info 24 5 one_table five_match_weekend

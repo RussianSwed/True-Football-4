@@ -11,10 +11,10 @@ add_teams 3 3 ITA_3B current_season
 add_teams 3 3 ITA_3C current_season
 add_teams 4 4 ITA_3A current_season
 add_teams 4 4 ITA_3B current_season
-week_info 1 74 ko_one_match all_wed 4 playoff
-week_info 2 75 ko_first_leg all_wed 2 playoff
+week_info 1 74 ko_one_match all_sat 4 playoff
+week_info 2 75 ko_first_leg all_sat 2 playoff
 week_info 3 75 ko_second_leg all_sat 2 playoff
-week_info 4 76 ko_first_leg all_wed 1 playoff
+week_info 4 76 ko_first_leg all_sat 1 playoff
 week_info 5 76 ko_second_leg all_sat 1 playoff
 fixtures_info Knockout
 play_week 1

@@ -26,17 +26,17 @@ week_info 13 43 one_table bulgarian_1_1
 week_info 14 44 one_table bulgarian_1_1
 week_info 15 45 one_table bulgarian_1_1
 week_info 16 47 one_table bulgarian_1_1
-week_info 17 48 one_table all_wed 5
+week_info 17 48 one_table all_sat 5
 week_info 18 48 one_table bulgarian_1_1
 week_info 19 49 one_table bulgarian_1_1
 week_info 20 50 one_table bulgarian_1_1
 week_info 21 7 one_table bulgarian_1_1
 week_info 22 8 one_table bulgarian_1_1
-week_info 23 9 one_table all_wed 5
+week_info 23 9 one_table all_sat 5
 week_info 24 9 one_table bulgarian_1_1
 week_info 25 10 one_table bulgarian_1_1
 week_info 26 11 one_table bulgarian_1_1
-week_info 27 13 one_table all_wed 5
+week_info 27 13 one_table all_sat 5
 week_info 28 13 one_table bulgarian_1_1
 week_info 29 14 one_table bulgarian_1_1
 week_info 30 15 one_table bulgarian_1_1
@@ -45,7 +45,7 @@ week_info 32 17 one_table bulgarian_1_1
 week_info 33 18 one_table bulgarian_1_1
 week_info 34 19 one_table bulgarian_1_1
 week_info 35 20 one_table bulgarian_1_1
-week_info 36 21 one_table all_sun 5
+week_info 36 21 one_table all_sat 5
 fixtures_info League10_4
 play_week 1
 play_week 2

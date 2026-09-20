@@ -9,9 +9,9 @@ add_teams next_time 1 6 LTU_1A previous_season
 add_teams next_time 1 1 LTU_PLAYOFF1 previous_season
 add_teams next_time 1 1 LTU_2 previous_season
 week_info 1 10 one_table four_match_weekend
-week_info 2 11 one_table all_wed 4
+week_info 2 11 one_table all_sat 4
 week_info 3 11 one_table all_sat 4
-week_info 4 12 one_table all_wed 4
+week_info 4 12 one_table all_sat 4
 week_info 5 12 one_table all_sat 4
 week_info 6 13 one_table four_match_weekend
 week_info 7 14 one_table four_match_weekend
@@ -19,13 +19,13 @@ week_info 8 15 one_table four_match_weekend
 week_info 9 16 one_table four_match_weekend
 week_info 10 17 one_table four_match_weekend
 week_info 11 18 one_table four_match_weekend
-week_info 12 19 one_table all_wed 4
+week_info 12 19 one_table all_sat 4
 week_info 13 19 one_table all_sat 4
-week_info 14 21 one_table all_wed 4
+week_info 14 21 one_table all_sat 4
 week_info 15 21 one_table all_sat 4
 week_info 16 23 one_table four_match_weekend
 week_info 17 24 one_table four_match_weekend
-week_info 18 25 one_table all_wed 4
+week_info 18 25 one_table all_sat 4
 week_info 19 25 one_table all_sat 4
 week_info 20 30 one_table four_match_weekend
 week_info 21 31 one_table four_match_weekend
@@ -34,7 +34,7 @@ week_info 23 33 one_table four_match_weekend
 week_info 24 34 one_table four_match_weekend
 week_info 25 35 one_table four_match_weekend
 week_info 26 37 one_table four_match_weekend
-week_info 27 38 one_table all_wed 4
+week_info 27 38 one_table all_sat 4
 week_info 28 38 one_table all_sat 4
 fixtures_info League8_4
 play_week 1

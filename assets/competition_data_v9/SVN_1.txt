@@ -20,7 +20,7 @@ week_info 7 34 one_table slovenian_1_1
 week_info 8 35 one_table slovenian_1_1
 week_info 9 37 one_table slovenian_1_1
 week_info 10 38 one_table slovenian_1_1
-week_info 11 39 one_table all_wed 5
+week_info 11 39 one_table all_sat 5
 week_info 12 39 one_table slovenian_1_1
 week_info 13 40 one_table slovenian_1_1
 week_info 14 42 one_table slovenian_1_1
@@ -39,11 +39,11 @@ week_info 26 12 one_table slovenian_1_1
 week_info 27 13 one_table slovenian_1_1
 week_info 28 14 one_table slovenian_1_1
 week_info 29 15 one_table slovenian_1_1
-week_info 30 16 one_table all_wed 5
+week_info 30 16 one_table all_sat 5
 week_info 31 16 one_table slovenian_1_1
 week_info 32 17 one_table slovenian_1_1
 week_info 33 18 one_table slovenian_1_1
-week_info 34 19 one_table all_wed 5
+week_info 34 19 one_table all_sat 5
 week_info 35 19 one_table slovenian_1_1
 week_info 36 20 one_table all_sat 5
 fixtures_info League10_4

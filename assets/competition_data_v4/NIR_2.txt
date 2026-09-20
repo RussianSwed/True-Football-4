@@ -13,7 +13,7 @@ add_teams next_time 2 2 NIR_PLAYOFF1 previous_season
 add_teams next_time 1 1 NIR_PLAYOFF2 previous_season
 add_teams next_time 1 1 NIR_3 previous_season
 week_info 1 32 one_table six_match_weekend
-week_info 2 33 one_table all_wed 6
+week_info 2 33 one_table all_sat 6
 week_info 3 33 one_table six_match_weekend
 week_info 4 34 one_table six_match_weekend
 week_info 5 35 one_table six_match_weekend

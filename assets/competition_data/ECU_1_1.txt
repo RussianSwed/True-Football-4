@@ -21,13 +21,13 @@ week_info 11 15 one_table ecuadorian_1_1
 week_info 12 16 one_table ecuadorian_1_1
 week_info 13 17 one_table ecuadorian_1_1
 week_info 14 18 one_table ecuadorian_1_1
-week_info 15 19 one_table all_thu 6
+week_info 15 19 one_table all_sat 6
 week_info 16 19 one_table ecuadorian_1_1
 week_info 17 20 one_table ecuadorian_1_1
 week_info 18 21 one_table ecuadorian_1_1
 week_info 19 24 one_table ecuadorian_1_1
 week_info 20 25 one_table ecuadorian_1_1
-week_info 21 26 one_table all_thu 6
+week_info 21 26 one_table all_sat 6
 week_info 22 26 one_table ecuadorian_1_1
 fixtures_info League12
 play_week 1

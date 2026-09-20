@@ -11,19 +11,19 @@ add_teams 24 ENG_4 shuffled
 add_teams 24 ENG_3 shuffled
 add_teams 24 ENG_2 shuffled
 add_teams 20 ENG_1 shuffled
-week_info 1 41 ko_one_match all_wed 56 round_1
-week_info 2 42 ko_one_match all_tue 40 round_2
-week_info 3 48 ko_one_match all_wed 20 round_3
-week_info 4 53 ko_one_match_replay all_sat 32 round_of_64
-week_info 5 3 ko_one_match all_tue 32 round_of_64
-week_info 6 4 ko_one_match_replay all_sat 16 round_of_32
-week_info 7 6 ko_one_match all_tue 16 round_of_32
-week_info 8 6 ko_one_match_replay all_sat 8 round_of_16
-week_info 9 9 ko_one_match all_tue 8 round_of_16
-week_info 10 9 ko_one_match_replay all_sat 4 quarterfinal
-week_info 11 13 ko_one_match all_tue 4 quarterfinal
-week_info 12 16 ko_one_match half_sat_sun 2 semifinal neutral
-week_info 13 19 ko_one_match all_sat 1 final neutral
+week_info 1 41 ko_one_match all_mon 56 round_1
+week_info 2 42 ko_one_match all_mon 40 round_2
+week_info 3 48 ko_one_match all_mon 20 round_3
+week_info 4 53 ko_one_match_replay all_mon 32 round_of_64
+week_info 5 3 ko_one_match all_mon 32 round_of_64
+week_info 6 4 ko_one_match_replay all_mon 16 round_of_32
+week_info 7 6 ko_one_match all_mon 16 round_of_32
+week_info 8 6 ko_one_match_replay all_mon 8 round_of_16
+week_info 9 9 ko_one_match all_mon 8 round_of_16
+week_info 10 9 ko_one_match_replay all_mon 4 quarterfinal
+week_info 11 13 ko_one_match all_mon 4 quarterfinal
+week_info 12 16 ko_one_match all_mon 2 semifinal neutral
+week_info 13 19 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

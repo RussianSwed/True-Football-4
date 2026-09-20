@@ -8,31 +8,31 @@ block
 add_teams first_time 14 BOL_1
 add_teams next_time 1 14 BOL_1 current_season
 week_info 1 2 one_table seven_match_weekend
-week_info 2 3 one_table all_wed 7
+week_info 2 3 one_table all_sat 7
 week_info 3 3 one_table seven_match_weekend
 week_info 4 4 one_table seven_match_weekend
 week_info 5 5 one_table seven_match_weekend
-week_info 6 6 one_table all_wed 7
+week_info 6 6 one_table all_sat 7
 week_info 7 6 one_table seven_match_weekend
 week_info 8 7 one_table seven_match_weekend
 week_info 9 8 one_table seven_match_weekend
-week_info 10 9 one_table all_wed 7
+week_info 10 9 one_table all_sat 7
 week_info 11 9 one_table seven_match_weekend
-week_info 12 10 one_table all_wed 7
+week_info 12 10 one_table all_sat 7
 week_info 13 10 one_table seven_match_weekend
 week_info 14 11 one_table seven_match_weekend
 week_info 15 12 one_table seven_match_weekend
 week_info 16 13 one_table seven_match_weekend
 week_info 17 14 one_table seven_match_weekend
-week_info 18 15 one_table all_wed 7
+week_info 18 15 one_table all_sat 7
 week_info 19 15 one_table seven_match_weekend
 week_info 20 16 one_table seven_match_weekend
 week_info 21 17 one_table seven_match_weekend
 week_info 22 18 one_table seven_match_weekend
 week_info 23 19 one_table seven_match_weekend
 week_info 24 20 one_table seven_match_weekend
-week_info 25 21 one_table all_sun 7
-week_info 26 22 one_table all_sun 7
+week_info 25 21 one_table all_sat 7
+week_info 26 22 one_table all_sat 7
 fixtures_info League14
 play_week 1
 play_week 2

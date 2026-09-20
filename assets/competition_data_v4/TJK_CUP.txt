@@ -5,13 +5,13 @@ fans_behaviour 1.4
 fans_attendance 0.2
 add_teams 2 TJK_2 shuffled
 add_teams 8 TJK_1 shuffled
-week_info 1 19 ko_first_leg all_wed 2 round_1
-week_info 2 21 ko_second_leg all_wed 2 round_1
-week_info 3 23 ko_first_leg all_wed 4 quarterfinal
-week_info 4 24 ko_second_leg all_wed 4 quarterfinal
-week_info 5 25 ko_first_leg all_wed 2 semifinal
-week_info 6 26 ko_second_leg all_wed 2 semifinal
-week_info 7 30 ko_one_match all_sun 1 final neutral
+week_info 1 19 ko_first_leg all_mon 2 round_1
+week_info 2 21 ko_second_leg all_mon 2 round_1
+week_info 3 23 ko_first_leg all_mon 4 quarterfinal
+week_info 4 24 ko_second_leg all_mon 4 quarterfinal
+week_info 5 25 ko_first_leg all_mon 2 semifinal
+week_info 6 26 ko_second_leg all_mon 2 semifinal
+week_info 7 30 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

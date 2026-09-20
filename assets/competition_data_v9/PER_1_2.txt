@@ -6,13 +6,13 @@ table 1 1 -1 -1 -1 -1 -1 -1
 block
 add_teams first_time 18 PER_1
 add_teams next_time 1 18 PER_1 current_season
-week_info 1 36 one_table all_wed 9
+week_info 1 36 one_table all_sat 9
 week_info 2 36 one_table nine_match_weekend
 week_info 3 37 one_table nine_match_weekend
-week_info 4 38 one_table all_wed 9
+week_info 4 38 one_table all_sat 9
 week_info 5 38 one_table nine_match_weekend
 week_info 6 39 one_table nine_match_weekend
-week_info 7 40 one_table all_wed 9
+week_info 7 40 one_table all_sat 9
 week_info 8 41 one_table nine_match_weekend
 week_info 9 42 one_table nine_match_weekend
 week_info 10 43 one_table nine_match_weekend
@@ -21,8 +21,8 @@ week_info 12 45 one_table nine_match_weekend
 week_info 13 46 one_table nine_match_weekend
 week_info 14 47 one_table nine_match_weekend
 week_info 15 48 one_table nine_match_weekend
-week_info 16 49 one_table all_wed 9
-week_info 17 50 one_table all_wed 9
+week_info 16 49 one_table all_sat 9
+week_info 17 50 one_table all_sat 9
 fixtures_info League18_0_reversed
 play_week 1
 play_week 2

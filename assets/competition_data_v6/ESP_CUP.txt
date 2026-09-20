@@ -10,17 +10,17 @@ add_teams 20 ESP_3C shuffled
 add_teams 20 ESP_3D shuffled
 add_teams 22 ESP_2 shuffled
 add_teams 20 ESP_1 shuffled
-week_info 1 37 ko_one_match all_wed 48 round_1
-week_info 2 42 ko_one_match all_wed 24 round_2
-week_info 3 44 ko_one_match all_wed 32 round_of_64
-week_info 4 48 ko_one_match all_wed 16 round_of_32
-week_info 5 50 ko_first_leg all_tue 8 round_of_16
-week_info 6 2 ko_second_leg all_wed 8 round_of_16
-week_info 7 3 ko_first_leg all_wed 4 quarterfinal
-week_info 8 4 ko_second_leg all_wed 4 quarterfinal
-week_info 9 5 ko_first_leg all_wed 2 semifinal
-week_info 10 9 ko_second_leg all_wed 2 semifinal
-week_info 11 19 ko_one_match all_wed 1 final neutral
+week_info 1 37 ko_one_match all_mon 48 round_1
+week_info 2 42 ko_one_match all_mon 24 round_2
+week_info 3 44 ko_one_match all_mon 32 round_of_64
+week_info 4 48 ko_one_match all_mon 16 round_of_32
+week_info 5 50 ko_first_leg all_mon 8 round_of_16
+week_info 6 2 ko_second_leg all_mon 8 round_of_16
+week_info 7 3 ko_first_leg all_mon 4 quarterfinal
+week_info 8 4 ko_second_leg all_mon 4 quarterfinal
+week_info 9 5 ko_first_leg all_mon 2 semifinal
+week_info 10 9 ko_second_leg all_mon 2 semifinal
+week_info 11 19 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

@@ -17,7 +17,7 @@ week_info 6 65 table_with_sco_1 all_sat 3
 week_info 7 66 table_with_sco_1 all_sat 3
 week_info 8 67 table_with_sco_1 all_sat 3
 week_info 9 68 table_with_sco_1 all_sat 3
-week_info 10 69 table_with_sco_1 all_sun 3
+week_info 10 69 table_with_sco_1 all_sat 3
 fixtures_info League6
 play_week 1
 play_week 2

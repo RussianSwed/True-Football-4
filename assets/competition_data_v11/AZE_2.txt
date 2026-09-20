@@ -13,24 +13,24 @@ add_teams next_time 1 2 AZE_3 previous_season
 week_info 1 34 one_table seven_match_weekend
 week_info 2 35 one_table seven_match_weekend
 week_info 3 37 one_table seven_match_weekend
-week_info 4 38 one_table all_wed 7
+week_info 4 38 one_table all_sat 7
 week_info 5 38 one_table all_sat 7
 week_info 6 39 one_table seven_match_weekend
 week_info 7 40 one_table seven_match_weekend
 week_info 8 41 one_table seven_match_weekend
 week_info 9 42 one_table seven_match_weekend
 week_info 10 43 one_table seven_match_weekend
-week_info 11 44 one_table all_wed 7
+week_info 11 44 one_table all_sat 7
 week_info 12 44 one_table all_sat 7
 week_info 13 45 one_table seven_match_weekend
 week_info 14 46 one_table seven_match_weekend
 week_info 15 6 one_table seven_match_weekend
 week_info 16 7 one_table seven_match_weekend
-week_info 17 8 one_table all_wed 7
+week_info 17 8 one_table all_sat 7
 week_info 18 8 one_table all_sat 7
 week_info 19 9 one_table seven_match_weekend
 week_info 20 10 one_table seven_match_weekend
-week_info 21 11 one_table all_wed 7
+week_info 21 11 one_table all_sat 7
 week_info 22 11 one_table all_sat 7
 week_info 23 12 one_table all_sat 7
 week_info 24 13 one_table seven_match_weekend
@@ -39,7 +39,7 @@ week_info 26 15 one_table seven_match_weekend
 week_info 27 16 one_table seven_match_weekend
 week_info 28 17 one_table seven_match_weekend
 week_info 29 18 one_table seven_match_weekend
-week_info 30 19 one_table all_fri 7
+week_info 30 19 one_table all_sat 7
 fixtures_info League15
 play_week 1
 play_week 2

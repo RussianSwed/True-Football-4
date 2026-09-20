@@ -14,8 +14,8 @@ week_info 7 44 ko_first_leg all_wed 4 quarterfinal
 week_info 8 45 ko_second_leg all_wed 4 quarterfinal
 week_info 9 47 ko_first_leg all_wed 2 semifinal
 week_info 10 48 ko_second_leg all_wed 2 semifinal
-week_info 11 49 ko_first_leg all_sat 1 final
-week_info 12 50 ko_second_leg all_sat 1 final
+week_info 11 49 ko_first_leg all_wed 1 final
+week_info 12 50 ko_second_leg all_wed 1 final
 fixtures_info SouthAmericanContinentalCup
 play_week 1
 play_week 2

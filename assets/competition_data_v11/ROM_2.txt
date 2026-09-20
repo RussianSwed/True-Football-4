@@ -11,13 +11,13 @@ add_teams next_time 1 5 ROM_2C previous_season
 add_teams next_time 3 4 ROM_PLAYOFF1 previous_season
 add_teams next_time 1 4 ROM_3 previous_season
 week_info 1 29 one_table ten_match_weekend
-week_info 2 30 one_table all_sun 10
+week_info 2 30 one_table all_sat 10
 week_info 3 31 one_table ten_match_weekend
 week_info 4 32 one_table ten_match_weekend
 week_info 5 33 one_table ten_match_weekend
 week_info 6 34 one_table ten_match_weekend
 week_info 7 35 one_table ten_match_weekend
-week_info 8 37 one_table all_wed 10
+week_info 8 37 one_table all_sat 10
 week_info 9 38 one_table ten_match_weekend
 week_info 10 39 one_table ten_match_weekend
 week_info 11 40 one_table ten_match_weekend

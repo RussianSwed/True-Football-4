@@ -10,8 +10,8 @@ add_teams 3 3 ECU_1 current_season
 add_teams 2 2 ECU_1 current_season
 add_teams 1 1 ECU_1 current_season
 add_teams 5 8 ECU_1 current_season
-week_info 1 44 ko_first_leg half_sat_sun 4 quarterfinal
-week_info 2 45 ko_second_leg half_sat_sun 4 quarterfinal
+week_info 1 44 ko_first_leg all_sat 4 quarterfinal
+week_info 2 45 ko_second_leg all_sat 4 quarterfinal
 week_info 3 46 ko_first_leg all_sat 2 semifinal
 week_info 4 47 ko_second_leg all_sat 2 semifinal
 week_info 5 48 ko_first_leg all_sat 1 final

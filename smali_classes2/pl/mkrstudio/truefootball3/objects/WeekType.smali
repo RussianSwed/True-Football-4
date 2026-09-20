@@ -6316,7 +6316,7 @@
 .end method
 
 .method public constructor <init>([Ljava/lang/Integer;)V
-    .locals 1
+    .locals 3
     .annotation system Ldalvik/annotation/MethodParameters;
         accessFlags = {
             0x0
@@ -6336,6 +6336,26 @@
 
     iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/WeekType;->days:Ljava/util/ArrayList;
 
+    const/4 v1, 0x0
+
+    :sat_loop
+    array-length v2, p1
+
+    if-ge v1, v2, :sat_done
+
+    const/4 v2, 0x7
+
+    invoke-static {v2}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v2
+
+    aput-object v2, p1, v1
+
+    add-int/lit8 v1, v1, 0x1
+
+    goto :sat_loop
+
+    :sat_done
     .line 1869
     invoke-static {p1}, Ljava/util/Arrays;->asList([Ljava/lang/Object;)Ljava/util/List;
 

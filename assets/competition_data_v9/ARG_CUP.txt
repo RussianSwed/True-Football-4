@@ -7,12 +7,12 @@ add_teams 3 ARG_3 shuffled
 add_teams 17 ARG_2B shuffled
 add_teams 18 ARG_2A shuffled
 add_teams 26 ARG_1 shuffled
-week_info 1 33 ko_one_match all_wed 32 round_1
-week_info 2 42 ko_one_match all_wed 16 round_of_32
-week_info 3 46 ko_one_match all_wed 8 round_of_16
-week_info 4 7 ko_one_match all_wed 4 quarterfinal
-week_info 5 14 ko_one_match all_wed 2 semifinal
-week_info 6 22 ko_one_match all_wed 1 final neutral 
+week_info 1 33 ko_one_match all_mon 32 round_1
+week_info 2 42 ko_one_match all_mon 16 round_of_32
+week_info 3 46 ko_one_match all_mon 8 round_of_16
+week_info 4 7 ko_one_match all_mon 4 quarterfinal
+week_info 5 14 ko_one_match all_mon 2 semifinal
+week_info 6 22 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

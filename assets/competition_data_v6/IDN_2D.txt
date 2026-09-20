@@ -5,12 +5,12 @@ table -1 -1 1 2 -1 -1 -1 -1
 block
 add_teams 3 4 IDN_2A current_season
 add_teams 1 2 IDN_2B current_season
-week_info 1 36 one_table all_sun 2
-week_info 2 37 one_table all_sun 2
-week_info 3 38 one_table all_sun 2
-week_info 4 39 one_table all_sun 2
-week_info 5 40 one_table all_sun 2
-week_info 6 42 one_table all_sun 2
+week_info 1 36 one_table all_sat 2
+week_info 2 37 one_table all_sat 2
+week_info 3 38 one_table all_sat 2
+week_info 4 39 one_table all_sat 2
+week_info 5 40 one_table all_sat 2
+week_info 6 42 one_table all_sat 2
 fixtures_info League4
 play_week 1
 play_week 2

@@ -10,10 +10,10 @@ week_info 3 35 group_table all_wed 8 group_phase_3
 week_info 4 38 group_table all_wed 8 group_phase_4
 week_info 5 39 group_table all_wed 8 group_phase_5
 week_info 6 43 group_table all_wed 8 group_phase_6
-week_info 7 10 ko_first_leg half_tue_wed 4 quarterfinal
-week_info 8 11 ko_second_leg half_tue_wed 4 quarterfinal
-week_info 9 14 ko_first_leg half_tue_wed 2 semifinal
-week_info 10 15 ko_second_leg half_tue_wed 2 semifinal
+week_info 7 10 ko_first_leg all_wed 4 quarterfinal
+week_info 8 11 ko_second_leg all_wed 4 quarterfinal
+week_info 9 14 ko_first_leg all_wed 2 semifinal
+week_info 10 15 ko_second_leg all_wed 2 semifinal
 week_info 11 17 ko_first_leg all_wed 1 final
 week_info 12 18 ko_second_leg all_wed 1 final
 fixtures_info NorthAmericanChampionsCup

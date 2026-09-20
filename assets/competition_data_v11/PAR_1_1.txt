@@ -27,9 +27,9 @@ week_info 16 21 one_table six_match_weekend
 week_info 17 22 one_table six_match_weekend
 week_info 18 23 one_table six_match_weekend
 week_info 19 24 one_table six_match_weekend
-week_info 20 25 one_table all_sun 6
+week_info 20 25 one_table all_sat 6
 week_info 21 26 one_table six_match_weekend
-week_info 22 27 one_table all_sun 6
+week_info 22 27 one_table all_sat 6
 fixtures_info League12
 play_week 1
 play_week 2

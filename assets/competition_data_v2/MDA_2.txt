@@ -14,14 +14,14 @@ week_info 1 32 one_table seven_match_weekend_2
 week_info 2 33 one_table seven_match_weekend_2
 week_info 3 34 one_table seven_match_weekend_2
 week_info 4 35 one_table seven_match_weekend_2
-week_info 5 37 one_table all_wed 7
+week_info 5 37 one_table all_sat 7
 week_info 6 39 one_table seven_match_weekend_2
-week_info 7 40 one_table all_wed 7
+week_info 7 40 one_table all_sat 7
 week_info 8 40 one_table seven_match_weekend_2
-week_info 9 43 one_table all_wed 7
-week_info 10 45 one_table all_wed 7
+week_info 9 43 one_table all_sat 7
+week_info 10 45 one_table all_sat 7
 week_info 11 47 one_table seven_match_weekend_2
-week_info 12 48 one_table all_wed 7
+week_info 12 48 one_table all_sat 7
 week_info 13 48 one_table seven_match_weekend_2
 week_info 14 10 one_table seven_match_weekend_2
 week_info 15 11 one_table seven_match_weekend_2
@@ -33,9 +33,9 @@ week_info 20 16 one_table seven_match_weekend_2
 week_info 21 17 one_table seven_match_weekend_2
 week_info 22 18 one_table seven_match_weekend_2
 week_info 23 19 one_table seven_match_weekend_2
-week_info 24 20 one_table all_wed 7
-week_info 25 21 one_table all_wed 7
-week_info 26 21 one_table all_sun 7
+week_info 24 20 one_table all_sat 7
+week_info 25 21 one_table all_sat 7
+week_info 26 21 one_table all_sat 7
 fixtures_info League14
 play_week 1
 play_week 2

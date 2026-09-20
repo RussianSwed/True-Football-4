@@ -10,19 +10,19 @@ week_info 1 36 one_table eight_match_weekend
 week_info 2 37 one_table eight_match_weekend
 week_info 3 38 one_table eight_match_weekend
 week_info 4 39 one_table eight_match_weekend
-week_info 5 40 one_table all_wed 8
+week_info 5 40 one_table all_sat 8
 week_info 6 41 one_table eight_match_weekend
 week_info 7 42 one_table eight_match_weekend
-week_info 8 43 one_table all_wed 8
+week_info 8 43 one_table all_sat 8
 week_info 9 43 one_table eight_match_weekend
 week_info 10 44 one_table eight_match_weekend
 week_info 11 45 one_table eight_match_weekend
-week_info 12 46 one_table all_wed 8
+week_info 12 46 one_table all_sat 8
 week_info 13 46 one_table eight_match_weekend
 week_info 14 47 one_table eight_match_weekend
 week_info 15 48 one_table eight_match_weekend
-week_info 16 49 one_table all_wed 8
-week_info 17 50 one_table all_wed 8
+week_info 16 49 one_table all_sat 8
+week_info 17 50 one_table all_sat 8
 fixtures_info League17_0_reversed
 play_week 1
 play_week 2

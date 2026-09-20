@@ -16,7 +16,7 @@ week_info 3 9 one_table argentinian_2_2
 week_info 4 10 one_table argentinian_2_2
 week_info 5 11 one_table argentinian_2_2
 week_info 6 12 one_table argentinian_2_2
-week_info 7 13 one_table all_wed 11
+week_info 7 13 one_table all_sat 11
 week_info 8 13 one_table argentinian_2_2
 week_info 9 14 one_table argentinian_2_2
 week_info 10 15 one_table argentinian_2_2
@@ -33,25 +33,25 @@ week_info 20 25 one_table argentinian_2_2
 week_info 21 26 one_table argentinian_2_2
 week_info 22 27 one_table argentinian_2_2
 week_info 23 28 one_table argentinian_2_2
-week_info 24 29 one_table all_wed 11
+week_info 24 29 one_table all_sat 11
 week_info 25 29 one_table argentinian_2_2
 week_info 26 30 one_table argentinian_2_2
 week_info 27 31 one_table argentinian_2_2
-week_info 28 32 one_table all_wed 11
+week_info 28 32 one_table all_sat 11
 week_info 29 33 one_table argentinian_2_2
 week_info 30 34 one_table argentinian_2_2
 week_info 31 35 one_table argentinian_2_2
 week_info 32 36 one_table argentinian_2_2
 week_info 33 37 one_table argentinian_2_2
 week_info 34 38 one_table argentinian_2_2
-week_info 35 39 one_table all_wed 11
+week_info 35 39 one_table all_sat 11
 week_info 36 39 one_table argentinian_2_2
 week_info 37 40 one_table argentinian_2_2
 week_info 38 41 one_table argentinian_2_2
 week_info 39 42 one_table argentinian_2_2
 week_info 40 43 one_table all_sat 11
 week_info 41 44 one_table all_sat 11
-week_info 42 45 one_table all_wed 11
+week_info 42 45 one_table all_sat 11
 fixtures_info League22
 play_week 1
 play_week 2

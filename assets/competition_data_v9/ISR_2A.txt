@@ -7,13 +7,13 @@ table 1 2 -1 -1 -1 -1 -1 -1
 order israeli
 block
 add_teams 1 8 ISR_2 current_season
-week_info 1 62 table_with_isr_1 all_sun 4
-week_info 2 63 table_with_isr_1 all_sun 4
-week_info 3 65 table_with_isr_1 all_sun 4
-week_info 4 66 table_with_isr_1 all_sun 4
-week_info 5 67 table_with_isr_1 all_sun 4
-week_info 6 68 table_with_isr_1 all_sun 4
-week_info 7 69 table_with_isr_1 all_sun 4
+week_info 1 62 table_with_isr_1 all_sat 4
+week_info 2 63 table_with_isr_1 all_sat 4
+week_info 3 65 table_with_isr_1 all_sat 4
+week_info 4 66 table_with_isr_1 all_sat 4
+week_info 5 67 table_with_isr_1 all_sat 4
+week_info 6 68 table_with_isr_1 all_sat 4
+week_info 7 69 table_with_isr_1 all_sat 4
 fixtures_info League8_0
 play_week 1
 play_week 2

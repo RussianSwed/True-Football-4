@@ -30,7 +30,7 @@ week_info 17 37 one_table four_match_weekend
 week_info 18 39 one_table four_match_weekend
 week_info 19 42 one_table four_match_weekend
 week_info 20 44 one_table four_match_weekend
-week_info 21 45 one_table all_sun 4
+week_info 21 45 one_table all_sat 4
 fixtures_info League8_3
 play_week 1
 play_week 2

@@ -15,11 +15,11 @@ add_teams next_time 7 9 ITA_4 previous_season
 week_info 1 36 one_table ten_match_weekend
 week_info 2 37 one_table ten_match_weekend
 week_info 3 38 one_table ten_match_weekend
-week_info 4 39 one_table all_wed 10
+week_info 4 39 one_table all_sat 10
 week_info 5 39 one_table all_sat 10
 week_info 6 40 one_table ten_match_weekend
 week_info 7 41 one_table ten_match_weekend
-week_info 8 42 one_table all_wed 10
+week_info 8 42 one_table all_sat 10
 week_info 9 42 one_table all_sat 10
 week_info 10 43 one_table ten_match_weekend
 week_info 11 44 one_table ten_match_weekend
@@ -38,11 +38,11 @@ week_info 23 5 one_table ten_match_weekend
 week_info 24 6 one_table ten_match_weekend
 week_info 25 7 one_table ten_match_weekend
 week_info 26 8 one_table ten_match_weekend
-week_info 27 9 one_table all_wed 10
+week_info 27 9 one_table all_sat 10
 week_info 28 9 one_table all_sat 10
 week_info 29 10 one_table ten_match_weekend
 week_info 30 11 one_table ten_match_weekend
-week_info 31 12 one_table all_wed 10
+week_info 31 12 one_table all_sat 10
 week_info 32 12 one_table all_sat 10
 week_info 33 13 one_table ten_match_weekend
 week_info 34 14 one_table ten_match_weekend

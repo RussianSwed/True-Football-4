@@ -9,7 +9,7 @@ block
 add_teams 7 12 NIR_1 current_season
 week_info 1 68 table_with_sco_1 all_sat 3
 week_info 2 69 table_with_sco_1 all_sat 3
-week_info 3 70 table_with_sco_1 all_tue 3
+week_info 3 70 table_with_sco_1 all_sat 3
 week_info 4 70 table_with_sco_1 all_sat 3
 week_info 5 71 table_with_sco_1 all_sat 3
 fixtures_info League6_0

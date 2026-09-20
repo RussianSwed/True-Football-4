@@ -25,7 +25,7 @@ week_info 15 27 one_table all_sat 3
 week_info 16 28 one_table all_sat 3
 week_info 17 29 one_table all_sat 3
 week_info 18 30 one_table all_sat 3
-week_info 19 31 one_table all_wed 3
+week_info 19 31 one_table all_sat 3
 week_info 20 31 one_table all_sat 3
 week_info 21 32 one_table all_sat 3
 week_info 22 33 one_table all_sat 3
@@ -34,7 +34,7 @@ week_info 24 35 one_table all_sat 3
 week_info 25 36 one_table all_sat 3
 week_info 26 37 one_table all_sat 3
 week_info 27 38 one_table all_sat 3
-week_info 28 39 one_table all_sun 3
+week_info 28 39 one_table all_sat 3
 fixtures_info League7_4
 play_week 1
 play_week 2

@@ -6,14 +6,14 @@ fans_attendance 0.1
 add_teams 18 BEL_3 shuffled
 add_teams 12 BEL_2 shuffled
 add_teams 18 BEL_1 shuffled
-week_info 1 36 ko_one_match all_wed 16 round_1
-week_info 2 38 ko_one_match all_fri 16 round_of_32
-week_info 3 43 ko_one_match all_fri 8 round_of_16
-week_info 4 50 ko_first_leg all_wed 4 quarterfinal
-week_info 5 3 ko_second_leg all_fri 4 quarterfinal
-week_info 6 15 ko_first_leg half_thu_fri 2 semifinal
-week_info 7 16 ko_second_leg half_thu_fri 2 semifinal
-week_info 8 21 ko_one_match all_sun 1 final neutral
+week_info 1 36 ko_one_match all_mon 16 round_1
+week_info 2 38 ko_one_match all_mon 16 round_of_32
+week_info 3 43 ko_one_match all_mon 8 round_of_16
+week_info 4 50 ko_first_leg all_mon 4 quarterfinal
+week_info 5 3 ko_second_leg all_mon 4 quarterfinal
+week_info 6 15 ko_first_leg all_mon 2 semifinal
+week_info 7 16 ko_second_leg all_mon 2 semifinal
+week_info 8 21 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

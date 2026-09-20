@@ -7,10 +7,10 @@ add_teams first_time 19 MEX_1
 add_teams next_time 1 19 MEX_1 current_season
 week_info 1 53 one_table mexican_1_1
 week_info 2 54 one_table mexican_1_1
-week_info 3 55 one_table all_wed 9
+week_info 3 55 one_table all_sat 9
 week_info 4 55 one_table mexican_1_1
 week_info 5 56 one_table mexican_1_1
-week_info 6 57 one_table all_wed 9
+week_info 6 57 one_table all_sat 9
 week_info 7 57 one_table mexican_1_1
 week_info 8 58 one_table mexican_1_1
 week_info 9 59 one_table mexican_1_1

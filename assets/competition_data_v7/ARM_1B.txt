@@ -7,18 +7,18 @@ table -1 -1 -1 -1 -1 -1 4 4
 order polish
 block
 add_teams 7 10 ARM_1 current_season
-week_info 1 60 table_with_pol_1 all_sun 2
-week_info 2 61 table_with_pol_1 all_sun 2
-week_info 3 62 table_with_pol_1 all_sun 2
-week_info 4 63 table_with_pol_1 all_sun 2
-week_info 5 64 table_with_pol_1 all_sun 2
-week_info 6 65 table_with_pol_1 all_sun 2
-week_info 7 66 table_with_pol_1 all_sun 2
-week_info 8 67 table_with_pol_1 all_sun 2
-week_info 9 68 table_with_pol_1 all_sun 2
-week_info 10 69 table_with_pol_1 all_sun 2
-week_info 11 70 table_with_pol_1 all_sun 2
-week_info 12 71 table_with_pol_1 all_sun 2
+week_info 1 60 table_with_pol_1 all_sat 2
+week_info 2 61 table_with_pol_1 all_sat 2
+week_info 3 62 table_with_pol_1 all_sat 2
+week_info 4 63 table_with_pol_1 all_sat 2
+week_info 5 64 table_with_pol_1 all_sat 2
+week_info 6 65 table_with_pol_1 all_sat 2
+week_info 7 66 table_with_pol_1 all_sat 2
+week_info 8 67 table_with_pol_1 all_sat 2
+week_info 9 68 table_with_pol_1 all_sat 2
+week_info 10 69 table_with_pol_1 all_sat 2
+week_info 11 70 table_with_pol_1 all_sat 2
+week_info 12 71 table_with_pol_1 all_sat 2
 fixtures_info League4_4
 play_week 1
 play_week 2

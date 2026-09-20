@@ -28,7 +28,7 @@ week_info 16 48 one_table scottish_1_1
 week_info 17 49 one_table scottish_1_1
 week_info 18 50 one_table scottish_1_1
 week_info 19 51 one_table scottish_1_1
-week_info 20 52 one_table all_wed 6
+week_info 20 52 one_table all_sat 6
 week_info 21 52 one_table scottish_1_1
 week_info 22 1 one_table scottish_1_3
 week_info 23 3 one_table scottish_1_1

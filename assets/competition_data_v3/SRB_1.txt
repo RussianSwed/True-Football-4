@@ -15,16 +15,16 @@ week_info 5 34 one_table polish
 week_info 6 35 one_table polish
 week_info 7 37 one_table polish
 week_info 8 38 one_table polish
-week_info 9 39 one_table all_wed 8
+week_info 9 39 one_table all_sat 8
 week_info 10 39 one_table polish
 week_info 11 40 one_table polish
 week_info 12 42 one_table polish
 week_info 13 43 one_table polish
-week_info 14 44 one_table all_wed 8
+week_info 14 44 one_table all_sat 8
 week_info 15 44 one_table polish
 week_info 16 45 one_table polish
 week_info 17 47 one_table polish
-week_info 18 48 one_table all_wed 8
+week_info 18 48 one_table all_sat 8
 week_info 19 48 one_table polish
 week_info 20 49 one_table polish
 week_info 21 50 one_table polish

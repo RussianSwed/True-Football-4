@@ -34,7 +34,7 @@ week_info 22 37 one_table all_sat 6
 week_info 23 38 one_table all_sat 6
 week_info 24 39 one_table all_sat 6
 week_info 25 40 one_table all_sat 6
-week_info 26 41 one_table all_sun 6
+week_info 26 41 one_table all_sat 6
 fixtures_info League13
 play_week 1
 play_week 2

@@ -4,9 +4,9 @@ fans_behaviour 1.9
 fans_attendance 0.5
 block
 add_teams 4 7 TUR_2 current_season
-week_info 1 74 ko_first_leg half_sat_sun 2 round_1
-week_info 2 75 ko_second_leg half_tue_wed 2 round_1
-week_info 3 75 ko_one_match all_sun 1 final
+week_info 1 74 ko_first_leg all_sat 2 round_1
+week_info 2 75 ko_second_leg all_sat 2 round_1
+week_info 3 75 ko_one_match all_sat 1 final
 fixtures_info Knockout
 play_week 1
 play_week 2

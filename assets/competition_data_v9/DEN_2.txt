@@ -21,7 +21,7 @@ week_info 10 38 one_table six_match_weekend
 week_info 11 39 one_table six_match_weekend
 week_info 12 40 one_table six_match_weekend
 week_info 13 42 one_table six_match_weekend
-week_info 14 43 one_table all_sun 6
+week_info 14 43 one_table all_sat 6
 week_info 15 44 one_table six_match_weekend
 week_info 16 45 one_table six_match_weekend
 week_info 17 6 one_table six_match_weekend

@@ -17,7 +17,7 @@ week_info 9 35 one_table mexican_1_1
 week_info 10 37 one_table mexican_1_1
 week_info 11 38 one_table mexican_1_1
 week_info 12 39 one_table mexican_1_1
-week_info 13 40 one_table all_wed 9
+week_info 13 40 one_table all_sat 9
 week_info 14 40 one_table mexican_1_1
 week_info 15 41 one_table mexican_1_1
 week_info 16 42 one_table mexican_1_1

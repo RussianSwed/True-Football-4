@@ -5,10 +5,10 @@ fans_behaviour 0.9
 fans_attendance 0.3
 add_teams 4 QAT_2 shuffled
 add_teams 12 QAT_1 shuffled
-week_info 1 73 ko_one_match all_wed 8 round_of_16
-week_info 2 73 ko_one_match all_sat 4 quarterfinal
-week_info 3 74 ko_one_match all_wed 2 semifinal
-week_info 4 74 ko_one_match all_sun 1 final neutral
+week_info 1 73 ko_one_match all_mon 8 round_of_16
+week_info 2 73 ko_one_match all_mon 4 quarterfinal
+week_info 3 74 ko_one_match all_mon 2 semifinal
+week_info 4 74 ko_one_match all_mon 1 final neutral
 fixtures_info Knockout
 play_week 1
 play_week 2

@@ -39,7 +39,7 @@ week_info 26 42 one_table seven_match_weekend
 week_info 27 43 one_table seven_match_weekend
 week_info 28 44 one_table seven_match_weekend
 week_info 29 45 one_table seven_match_weekend
-week_info 30 46 one_table all_sun 7
+week_info 30 46 one_table all_sat 7
 fixtures_info League15
 play_week 1
 play_week 2

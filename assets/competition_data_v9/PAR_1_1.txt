@@ -23,8 +23,8 @@ week_info 13 18 one_table five_match_weekend
 week_info 14 19 one_table five_match_weekend
 week_info 15 21 one_table five_match_weekend
 week_info 16 23 one_table five_match_weekend
-week_info 17 25 one_table all_sun 5
-week_info 18 27 one_table all_sun 5
+week_info 17 25 one_table all_sat 5
+week_info 18 27 one_table all_sat 5
 fixtures_info League10
 play_week 1
 play_week 2

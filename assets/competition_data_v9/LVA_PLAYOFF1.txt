@@ -7,8 +7,8 @@ block
 update_team_group
 add_teams 7 7 LVA_1 current_season
 add_teams 2 2 LVA_2 current_season
-week_info 1 46 ko_first_leg all_wed 1 playoff
-week_info 2 46 ko_second_leg all_sun 1 playoff
+week_info 1 46 ko_first_leg all_sat 1 playoff
+week_info 2 46 ko_second_leg all_sat 1 playoff
 fixtures_info Knockout
 play_week 1
 play_week 2

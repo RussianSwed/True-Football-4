@@ -7,22 +7,22 @@ table -1 -1 1 1 2 7 -1 -1
 add_teams american_league
 week_info 1 10 one_table fourteen_match_weekend
 week_info 2 11 one_table fourteen_match_weekend
-week_info 3 13 one_table all_sun 14
+week_info 3 13 one_table all_sat 14
 week_info 4 14 one_table fourteen_match_weekend
 week_info 5 15 one_table fourteen_match_weekend
 week_info 6 16 one_table fourteen_match_weekend
 week_info 7 17 one_table fourteen_match_weekend
 week_info 8 18 one_table fourteen_match_weekend
-week_info 9 19 one_table all_sun 14
+week_info 9 19 one_table all_sat 14
 week_info 10 20 one_table fourteen_match_weekend
-week_info 11 21 one_table all_sun 14
+week_info 11 21 one_table all_sat 14
 week_info 12 22 one_table fourteen_match_weekend
 week_info 13 23 one_table fourteen_match_weekend
-week_info 14 24 one_table all_sun 14
+week_info 14 24 one_table all_sat 14
 week_info 15 25 one_table fourteen_match_weekend
 week_info 16 26 one_table fourteen_match_weekend
 week_info 17 27 one_table fourteen_match_weekend
-week_info 18 28 one_table all_sun 14
+week_info 18 28 one_table all_sat 14
 week_info 19 29 one_table fourteen_match_weekend
 week_info 20 31 one_table fourteen_match_weekend
 week_info 21 32 one_table fourteen_match_weekend
@@ -32,13 +32,13 @@ week_info 24 35 one_table fourteen_match_weekend
 week_info 25 36 one_table fourteen_match_weekend
 week_info 26 37 one_table fourteen_match_weekend
 week_info 27 38 one_table fourteen_match_weekend
-week_info 28 39 one_table all_sun 14
+week_info 28 39 one_table all_sat 14
 week_info 29 40 one_table fourteen_match_weekend
 week_info 30 41 one_table fourteen_match_weekend
 week_info 31 42 one_table fourteen_match_weekend
 week_info 32 43 one_table fourteen_match_weekend
 week_info 33 44 one_table fourteen_match_weekend
-week_info 34 45 one_table all_sun 14
+week_info 34 45 one_table all_sat 14
 fixtures_info AmericanLeague2022
 play_week 1
 play_week 2

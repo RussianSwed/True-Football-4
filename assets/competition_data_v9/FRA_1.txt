@@ -24,7 +24,7 @@ week_info 12 45 one_table french_1_1
 week_info 13 46 one_table french_1_1
 week_info 14 47 one_table french_1_1
 week_info 15 48 one_table french_1_1
-week_info 16 49 one_table all_wed 10
+week_info 16 49 one_table all_sat 10
 week_info 17 49 one_table all_sat 10
 week_info 18 50 one_table french_1_1
 week_info 19 51 one_table french_1_1

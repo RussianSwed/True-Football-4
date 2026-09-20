@@ -6,8 +6,8 @@ table 1 2 -1 -1 -1 -1 -1 -1
 add_teams african_champions_cup
 week_info 1 10 ko_first_leg all_wed 16 qualification
 week_info 2 11 ko_second_leg all_wed 16 qualification
-week_info 3 17 ko_first_leg all_tue 8 qualification
-week_info 4 19 ko_second_leg all_tue 8 qualification
+week_info 3 17 ko_first_leg all_wed 8 qualification
+week_info 4 19 ko_second_leg all_wed 8 qualification
 week_info 5 27 group_table all_wed 4 group_phase_1
 week_info 6 29 group_table all_wed 4 group_phase_2
 week_info 7 31 group_table all_wed 4 group_phase_3

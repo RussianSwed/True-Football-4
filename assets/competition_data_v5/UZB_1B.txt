@@ -6,16 +6,16 @@ table -1 -1 -1 -1 -1 -1 5 6
 order scottish
 block
 add_teams 7 12 UZB_1 current_season
-week_info 1 38 table_with_sco_1 all_sun 3
-week_info 2 39 table_with_sco_1 all_sun 3
-week_info 3 40 table_with_sco_1 all_sun 3
-week_info 4 41 table_with_sco_1 all_sun 3
-week_info 5 42 table_with_sco_1 all_sun 3
-week_info 6 43 table_with_sco_1 all_sun 3
-week_info 7 44 table_with_sco_1 all_sun 3
-week_info 8 45 table_with_sco_1 all_sun 3
-week_info 9 46 table_with_sco_1 all_sun 3
-week_info 10 47 table_with_sco_1 all_sun 3
+week_info 1 38 table_with_sco_1 all_sat 3
+week_info 2 39 table_with_sco_1 all_sat 3
+week_info 3 40 table_with_sco_1 all_sat 3
+week_info 4 41 table_with_sco_1 all_sat 3
+week_info 5 42 table_with_sco_1 all_sat 3
+week_info 6 43 table_with_sco_1 all_sat 3
+week_info 7 44 table_with_sco_1 all_sat 3
+week_info 8 45 table_with_sco_1 all_sat 3
+week_info 9 46 table_with_sco_1 all_sat 3
+week_info 10 47 table_with_sco_1 all_sat 3
 fixtures_info League6
 play_week 1
 play_week 2

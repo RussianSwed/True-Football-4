@@ -8,7 +8,7 @@ add_teams first_time 10 NCA_1
 add_teams next_time 1 10 NCA_1 current_season
 week_info 1 31 one_table five_match_weekend
 week_info 2 32 one_table five_match_weekend
-week_info 3 33 one_table all_wed 5
+week_info 3 33 one_table all_sat 5
 week_info 4 33 one_table five_match_weekend
 week_info 5 34 one_table five_match_weekend
 week_info 6 35 one_table five_match_weekend
@@ -18,12 +18,12 @@ week_info 9 39 one_table five_match_weekend
 week_info 10 40 one_table five_match_weekend
 week_info 11 41 one_table five_match_weekend
 week_info 12 42 one_table five_match_weekend
-week_info 13 44 one_table all_wed 5
+week_info 13 44 one_table all_sat 5
 week_info 14 44 one_table five_match_weekend
 week_info 15 45 one_table five_match_weekend
 week_info 16 46 one_table five_match_weekend
 week_info 17 47 one_table five_match_weekend
-week_info 18 48 one_table all_sun 5
+week_info 18 48 one_table all_sat 5
 fixtures_info League10
 play_week 1
 play_week 2

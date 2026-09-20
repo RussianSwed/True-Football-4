@@ -23,7 +23,7 @@ week_info 13 20 one_table nine_match_weekend
 week_info 14 21 one_table nine_match_weekend
 week_info 15 22 one_table nine_match_weekend
 week_info 16 23 one_table nine_match_weekend
-week_info 17 24 one_table all_wed 9
+week_info 17 24 one_table all_sat 9
 week_info 18 24 one_table nine_match_weekend
 week_info 19 26 one_table nine_match_weekend
 week_info 20 27 one_table nine_match_weekend

@@ -10,7 +10,7 @@ week_info 1 69 table_with_pol_1 all_sat 3
 week_info 2 70 table_with_pol_1 all_sat 3
 week_info 3 71 table_with_pol_1 all_sat 3
 week_info 4 72 table_with_pol_1 all_sat 3
-week_info 5 73 table_with_pol_1 all_sun 3
+week_info 5 73 table_with_pol_1 all_sat 3
 fixtures_info League6_0
 play_week 1
 play_week 2

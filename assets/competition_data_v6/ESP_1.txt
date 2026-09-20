@@ -46,7 +46,7 @@ week_info 33 17 one_table spanish_2
 week_info 34 18 one_table spanish_2
 week_info 35 19 one_table spanish_3
 week_info 36 20 one_table spanish_3
-week_info 37 21 one_table all_wed 10
+week_info 37 21 one_table all_sat 10
 week_info 38 21 one_table all_sat 10
 fixtures_info League20
 play_week 1

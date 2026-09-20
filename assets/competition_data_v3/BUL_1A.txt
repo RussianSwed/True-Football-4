@@ -8,16 +8,16 @@ table 0 0 0 0 -1 -1 -1 -1
 order polish
 block
 add_teams 1 6 BUL_1 current_season
-week_info 1 66 table_with_pol_1 all_sun 3
-week_info 2 67 table_with_pol_1 all_sun 3
-week_info 3 68 table_with_pol_1 all_sun 3
-week_info 4 69 table_with_pol_1 all_sun 3
-week_info 5 70 table_with_pol_1 all_sun 3
-week_info 6 71 table_with_pol_1 all_sun 3
-week_info 7 72 table_with_pol_1 all_sun 3
-week_info 8 73 table_with_pol_1 all_sun 3
-week_info 9 74 table_with_pol_1 all_sun 3
-week_info 10 75 table_with_pol_1 all_sun 3
+week_info 1 66 table_with_pol_1 all_sat 3
+week_info 2 67 table_with_pol_1 all_sat 3
+week_info 3 68 table_with_pol_1 all_sat 3
+week_info 4 69 table_with_pol_1 all_sat 3
+week_info 5 70 table_with_pol_1 all_sat 3
+week_info 6 71 table_with_pol_1 all_sat 3
+week_info 7 72 table_with_pol_1 all_sat 3
+week_info 8 73 table_with_pol_1 all_sat 3
+week_info 9 74 table_with_pol_1 all_sat 3
+week_info 10 75 table_with_pol_1 all_sat 3
 fixtures_info League6
 play_week 1
 play_week 2

@@ -12,42 +12,42 @@ add_teams next_time 3 16 POR_2 previous_season
 add_teams next_time 1 4 POR_3 previous_season
 week_info 1 32 one_table ten_match_weekend
 week_info 2 33 one_table ten_match_weekend
-week_info 3 34 one_table all_sun 10
+week_info 3 34 one_table all_sat 10
 week_info 4 35 one_table ten_match_weekend
 week_info 5 38 one_table ten_match_weekend
 week_info 6 39 one_table ten_match_weekend
 week_info 7 40 one_table ten_match_weekend
 week_info 8 41 one_table ten_match_weekend
-week_info 9 42 one_table all_wed 10
+week_info 9 42 one_table all_sat 10
 week_info 10 43 one_table ten_match_weekend
 week_info 11 44 one_table ten_match_weekend
 week_info 12 45 one_table ten_match_weekend
 week_info 13 47 one_table ten_match_weekend
-week_info 14 49 one_table all_wed 10
+week_info 14 49 one_table all_sat 10
 week_info 15 49 one_table ten_match_weekend
 week_info 16 50 one_table ten_match_weekend
 week_info 17 2 one_table ten_match_weekend
 week_info 18 3 one_table ten_match_weekend
-week_info 19 4 one_table all_wed 10
+week_info 19 4 one_table all_sat 10
 week_info 20 4 one_table ten_match_weekend
 week_info 21 5 one_table ten_match_weekend
 week_info 22 6 one_table ten_match_weekend
 week_info 23 7 one_table ten_match_weekend
 week_info 24 8 one_table ten_match_weekend
-week_info 25 9 one_table all_wed 10
+week_info 25 9 one_table all_sat 10
 week_info 26 9 one_table ten_match_weekend
 week_info 27 10 one_table ten_match_weekend
 week_info 28 11 one_table ten_match_weekend
 week_info 29 13 one_table ten_match_weekend
 week_info 30 14 one_table ten_match_weekend
 week_info 31 15 one_table ten_match_weekend
-week_info 32 16 one_table all_wed 10
+week_info 32 16 one_table all_sat 10
 week_info 33 16 one_table ten_match_weekend
 week_info 34 17 one_table ten_match_weekend
 week_info 35 18 one_table ten_match_weekend
-week_info 36 19 one_table all_wed 10
-week_info 37 19 one_table all_sun 10
-week_info 38 20 one_table all_sun 10
+week_info 36 19 one_table all_sat 10
+week_info 37 19 one_table all_sat 10
+week_info 38 20 one_table all_sat 10
 fixtures_info League20
 play_week 1
 play_week 2

@@ -12,7 +12,7 @@ add_teams next_time 1 2 CIV_2 previous_season
 week_info 1 48 one_table all_sat 7
 week_info 2 49 one_table all_sat 7
 week_info 3 50 one_table all_sat 7
-week_info 4 51 one_table all_wed 7
+week_info 4 51 one_table all_sat 7
 week_info 5 51 one_table all_sat 7
 week_info 6 52 one_table all_sat 7
 week_info 7 3 one_table all_sat 7

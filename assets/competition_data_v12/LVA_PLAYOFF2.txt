@@ -5,8 +5,8 @@ fans_attendance 0.5
 block
 add_teams 12 12 LVA_2 current_season
 add_teams 3 3 LVA_3 current_season
-week_info 1 46 ko_first_leg all_wed 1 playoff
-week_info 2 46 ko_second_leg all_sun 1 playoff
+week_info 1 46 ko_first_leg all_sat 1 playoff
+week_info 2 46 ko_second_leg all_sat 1 playoff
 fixtures_info Knockout
 play_week 1
 play_week 2

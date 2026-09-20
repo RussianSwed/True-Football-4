@@ -17,8 +17,8 @@ week_info 9 48 one_table australian_1_1
 week_info 10 49 one_table australian_1_1
 week_info 11 50 one_table australian_1_1
 week_info 12 51 one_table australian_1_1
-week_info 13 52 one_table all_wed 5
-week_info 14 2 one_table all_mon 5
+week_info 13 52 one_table all_sat 5
+week_info 14 2 one_table all_sat 5
 week_info 15 2 one_table australian_1_1
 week_info 16 3 one_table australian_1_1
 week_info 17 4 one_table australian_1_1
