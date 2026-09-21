@@ -72,7 +72,7 @@
 .end method
 
 .method public static getCompetitionByTypeAndCountry(Lpl/mkrstudio/truefootball3/objects/Competitions;Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;Lpl/mkrstudio/truefootball3/objects/Country;)Ljava/util/List;
-    .locals 6
+    .locals 7
     .annotation system Ldalvik/annotation/MethodParameters;
         accessFlags = {
             0x0,
@@ -103,6 +103,8 @@
     new-instance v0, Ljava/util/ArrayList;
 
     invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    move-object v6, p0
 
     .line 115
     invoke-virtual {p0, p1}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCompetitionByDetailedType(Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;)Ljava/util/List;
@@ -241,6 +243,60 @@
     goto :goto_0
 
     :cond_5
+    sget-object v1, Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;->WORLD_CUP:Lpl/mkrstudio/truefootball3/enums/CompetitionDetailedType;
+
+    if-ne p1, v1, :cond_nt_ret
+
+    invoke-virtual {v6}, Lpl/mkrstudio/truefootball3/objects/Competitions;->getCurrentCompetitions()Ljava/util/HashMap;
+
+    move-result-object v6
+
+    if-nez v6, :cond_nt_map
+
+    goto :cond_nt_ret
+
+    :cond_nt_map
+    const/4 v1, 0x0
+
+    :cond_nt_loop
+    invoke-static {}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->allIds()[Ljava/lang/String;
+
+    move-result-object v2
+
+    array-length v3, v2
+
+    if-ge v1, v3, :cond_nt_ret
+
+    aget-object v3, v2, v1
+
+    invoke-virtual {v6, v3}, Ljava/util/HashMap;->get(Ljava/lang/Object;)Ljava/lang/Object;
+
+    move-result-object v3
+
+    check-cast v3, Lpl/mkrstudio/truefootball3/objects/Competition;
+
+    if-eqz v3, :cond_nt_next
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/Competition;->getFixtures()Lpl/mkrstudio/truefootball3/fixtures/Fixtures;
+
+    move-result-object v4
+
+    if-eqz v4, :cond_nt_next
+
+    invoke-interface {v0, v3}, Ljava/util/List;->contains(Ljava/lang/Object;)Z
+
+    move-result v4
+
+    if-nez v4, :cond_nt_next
+
+    invoke-interface {v0, v3}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    :cond_nt_next
+    add-int/lit8 v1, v1, 0x1
+
+    goto :cond_nt_loop
+
+    :cond_nt_ret
     return-object v0
 .end method
 

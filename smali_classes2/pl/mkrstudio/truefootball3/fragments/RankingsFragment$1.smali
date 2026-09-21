@@ -82,32 +82,46 @@
 
     move-result p1
 
-    if-nez p1, :cond_0
+    if-nez p1, :cond_mid_l
 
-    .line 62
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->disableLeftButton()V
 
-    .line 63
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableRightButton()V
 
     goto :goto_0
 
-    .line 65
-    :cond_0
-    iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
+    :cond_mid_l
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
-    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableLeftButton()V
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableLeftButton()V
 
-    .line 66
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
+
+    iget-object v0, v0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->rankingsVF:Landroid/widget/ViewFlipper;
+
+    invoke-virtual {v0}, Landroid/widget/ViewFlipper;->getChildCount()I
+
+    move-result v0
+
+    add-int/lit8 v0, v0, -0x1
+
+    if-ne p1, v0, :cond_en_r
+
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->disableRightButton()V
 
-    .line 68
+    goto :goto_0
+
+    :cond_en_r
+    iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
+
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableRightButton()V
+
     :goto_0
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$1;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 

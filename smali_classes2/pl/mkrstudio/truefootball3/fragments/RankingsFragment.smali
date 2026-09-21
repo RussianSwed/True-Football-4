@@ -905,6 +905,8 @@
     .line 92
     invoke-direct {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->initClubRanking(Landroid/view/View;)V
 
+    invoke-direct {p0, p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->initNationalTeamRanking(Landroid/view/View;)V
+
     return-void
 .end method
 
@@ -951,6 +953,262 @@
     return-object p1
 .end method
 
+.method private initNationalTeamRanking(Landroid/view/View;)V
+    .locals 13
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iget-object v1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->ud:Lpl/mkrstudio/truefootball3/objects/UserData;
+
+    if-eqz v1, :cond_bind
+
+    invoke-virtual {v1}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v1
+
+    if-nez v1, :cond_rows
+
+    goto :cond_bind
+
+    :cond_rows
+    :try_start_r
+    invoke-static {v1}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->rankingRows(Lpl/mkrstudio/truefootball3/objects/World;)Ljava/util/ArrayList;
+
+    move-result-object v1
+    :try_end_r
+    .catch Ljava/lang/Exception; {:try_start_r .. :try_end_r} :catch_r
+
+    goto :have_rows
+
+    :catch_r
+    new-instance v1, Ljava/util/ArrayList;
+
+    invoke-direct {v1}, Ljava/util/ArrayList;-><init>()V
+
+    :have_rows
+    const/4 v2, 0x0
+
+    :goto_nt
+    invoke-virtual {v1}, Ljava/util/ArrayList;->size()I
+
+    move-result v3
+
+    if-ge v2, v3, :cond_bind
+
+    invoke-virtual {v1, v2}, Ljava/util/ArrayList;->get(I)Ljava/lang/Object;
+
+    move-result-object v3
+
+    instance-of v4, v3, Lpl/mkrstudio/truefootball3/objects/NationalTeam;
+
+    if-nez v4, :cond_item
+
+    goto :next_nt
+
+    :cond_item
+    check-cast v3, Lpl/mkrstudio/truefootball3/objects/NationalTeam;
+
+    new-instance v4, Ljava/util/HashMap;
+
+    invoke-direct {v4}, Ljava/util/HashMap;-><init>()V
+
+    add-int/lit8 v5, v2, 0x1
+
+    new-instance v6, Ljava/lang/StringBuilder;
+
+    invoke-direct {v6}, Ljava/lang/StringBuilder;-><init>()V
+
+    invoke-virtual {v6, v5}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    const-string v5, "."
+
+    invoke-virtual {v6, v5}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v6}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v5
+
+    const-string v6, "rank"
+
+    invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/NationalTeam;->getRankingPoints()I
+
+    move-result v5
+
+    invoke-static {v5}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
+
+    move-result-object v5
+
+    const-string v6, "points"
+
+    invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/NationalTeam;->getName()Ljava/lang/String;
+
+    move-result-object v5
+
+    if-nez v5, :cond_name
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/NationalTeam;->getCountryCode()Ljava/lang/String;
+
+    move-result-object v5
+
+    :cond_name
+    if-nez v5, :cond_name2
+
+    const-string v5, ""
+
+    :cond_name2
+    const-string v6, "name"
+
+    invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    invoke-virtual {v3}, Lpl/mkrstudio/truefootball3/objects/NationalTeam;->getCountryCode()Ljava/lang/String;
+
+    move-result-object v5
+
+    if-nez v5, :cond_code
+
+    const-string v5, ""
+
+    :cond_code
+    const-string v6, "code"
+
+    invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    const-string v6, "player"
+
+    const-string v7, "false"
+
+    invoke-interface {v4, v6, v7}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    new-instance v6, Ljava/lang/StringBuilder;
+
+    invoke-direct {v6}, Ljava/lang/StringBuilder;-><init>()V
+
+    const-string v7, "android.resource://pl.mkrstudio.truefootball3/"
+
+    invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getResources()Landroid/content/res/Resources;
+
+    move-result-object v7
+
+    new-instance v8, Ljava/util/Locale;
+
+    const-string v9, "en"
+
+    invoke-direct {v8, v9}, Ljava/util/Locale;-><init>(Ljava/lang/String;)V
+
+    invoke-virtual {v5, v8}, Ljava/lang/String;->toLowerCase(Ljava/util/Locale;)Ljava/lang/String;
+
+    move-result-object v5
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
+
+    move-result-object v8
+
+    invoke-virtual {v8}, Landroidx/fragment/app/FragmentActivity;->getPackageName()Ljava/lang/String;
+
+    move-result-object v8
+
+    const-string v9, "drawable"
+
+    invoke-virtual {v7, v5, v9, v8}, Landroid/content/res/Resources;->getIdentifier(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)I
+
+    move-result v5
+
+    invoke-virtual {v6, v5}, Ljava/lang/StringBuilder;->append(I)Ljava/lang/StringBuilder;
+
+    invoke-virtual {v6}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v5
+
+    invoke-static {v5}, Landroid/net/Uri;->parse(Ljava/lang/String;)Landroid/net/Uri;
+
+    move-result-object v5
+
+    const-string v6, "flag"
+
+    invoke-interface {v4, v6, v5}, Ljava/util/Map;->put(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;
+
+    invoke-interface {v0, v4}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    :next_nt
+    add-int/lit8 v2, v2, 0x1
+
+    goto :goto_nt
+
+    :cond_bind
+    const v1, 0x7f0803eb
+
+    invoke-virtual {p1, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object v1
+
+    check-cast v1, Landroid/widget/TextView;
+
+    if-eqz v1, :cond_lv
+
+    invoke-interface {v0}, Ljava/util/List;->isEmpty()Z
+
+    move-result v2
+
+    if-eqz v2, :cond_hide
+
+    const v2, 0x7f0c0689
+
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setText(I)V
+
+    const/4 v2, 0x0
+
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setVisibility(I)V
+
+    goto :cond_lv
+
+    :cond_hide
+    const/16 v2, 0x8
+
+    invoke-virtual {v1, v2}, Landroid/widget/TextView;->setVisibility(I)V
+
+    :cond_lv
+    const v1, 0x7f0803e5
+
+    invoke-virtual {p1, v1}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object p1
+
+    check-cast p1, Landroid/widget/ListView;
+
+    if-nez p1, :cond_ad
+
+    return-void
+
+    :cond_ad
+    new-instance v1, Lpl/mkrstudio/truefootball3/adapters/RankingAdapter;
+
+    invoke-virtual {p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->getActivity()Landroidx/fragment/app/FragmentActivity;
+
+    move-result-object v2
+
+    const v3, 0x7f0a00a0
+
+    invoke-direct {v1, v2, v3, v0}, Lpl/mkrstudio/truefootball3/adapters/RankingAdapter;-><init>(Landroid/content/Context;ILjava/util/List;)V
+
+    invoke-virtual {p1, v1}, Landroid/widget/ListView;->setAdapter(Landroid/widget/ListAdapter;)V
+
+    new-instance v0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$6;
+
+    invoke-direct {v0, p0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$6;-><init>(Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;)V
+
+    invoke-virtual {p1, v0}, Landroid/widget/ListView;->setOnItemClickListener(Landroid/widget/AdapterView$OnItemClickListener;)V
+
+    return-void
+.end method
+
 .method showHeader(Landroid/view/View;I)V
     .locals 2
     .annotation system Ldalvik/annotation/MethodParameters;
@@ -987,6 +1245,21 @@
     const/4 v1, 0x1
 
     if-eq p2, v1, :cond_0
+
+    const/4 v1, 0x2
+
+    if-eq p2, v1, :cond_nt
+
+    goto :goto_0
+
+    :cond_nt
+    const p2, 0x7f0c067f
+
+    invoke-virtual {v0, p2}, Landroid/widget/TextView;->setText(I)V
+
+    const/16 p2, 0x8
+
+    invoke-virtual {p1, p2}, Landroid/widget/Button;->setVisibility(I)V
 
     goto :goto_0
 

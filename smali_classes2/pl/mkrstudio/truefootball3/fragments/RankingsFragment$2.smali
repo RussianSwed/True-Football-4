@@ -92,32 +92,36 @@
 
     add-int/lit8 v0, v0, -0x1
 
-    if-ne p1, v0, :cond_0
+    if-ne p1, v0, :cond_mid_r
 
-    .line 76
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->disableRightButton()V
 
-    .line 77
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableLeftButton()V
 
     goto :goto_0
 
-    .line 79
-    :cond_0
+    :cond_mid_r
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
+
+    invoke-virtual {v0}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableRightButton()V
+
+    if-nez p1, :cond_en_l
+
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
     invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->disableLeftButton()V
 
-    .line 80
+    goto :goto_0
+
+    :cond_en_l
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 
-    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableRightButton()V
+    invoke-virtual {p1}, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;->enableLeftButton()V
 
-    .line 82
     :goto_0
     iget-object p1, p0, Lpl/mkrstudio/truefootball3/fragments/RankingsFragment$2;->this$0:Lpl/mkrstudio/truefootball3/fragments/RankingsFragment;
 

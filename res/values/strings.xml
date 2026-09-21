@@ -1825,4 +1825,23 @@ It would take about %2$s days to repair all the issues, and during this time the
     <string name="youthTrainers">Youth trainers</string>
     <string name="youthTraining">Youth training</string>
     <string name="youth_trainer">Youth trainer</string>
+    <string name="nt_world_cup">World Cup</string>
+    <string name="nt_euro">European Championship</string>
+    <string name="nt_world_cup_qual">World Cup Qualifiers</string>
+    <string name="nt_euro_qual">European Championship Qualifiers</string>
+    <string name="nt_u21_qual">U21 Qualifiers</string>
+    <string name="nt_u21">U21 Championship</string>
+    <string name="national_team_ranking">National teams</string>
+    <string name="national_team">National team</string>
+    <string name="national_team_u21">U21 national team</string>
+    <string name="nt_no_squad">No squad called up</string>
+    <string name="nt_no_history">No tournament history yet</string>
+    <string name="nt_no_matches">No international matches</string>
+    <string name="nt_squad">Squad</string>
+    <string name="nt_history">History</string>
+    <string name="nt_caps">National team</string>
+    <string name="nt_u21_caps">U21 national team</string>
+    <string name="nt_empty_ranking">No national teams yet. Start a new career or wait for the next season.</string>
+    <string name="nt_rank">Rank</string>
+    <string name="nt_points">Pts</string>
 </resources>

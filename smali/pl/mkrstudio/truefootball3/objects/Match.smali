@@ -10077,6 +10077,9 @@
 
     move-object/from16 v8, p0
 
+    invoke-static {v8}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->prepareMatchLineups(Lpl/mkrstudio/truefootball3/objects/Match;)V
+
+    :try_start_ntsel
     .line 245
     iget-object v0, v8, Lpl/mkrstudio/truefootball3/objects/Match;->homeTeam:Lpl/mkrstudio/truefootball3/objects/Team;
 
@@ -11425,7 +11428,19 @@
 
     :cond_24
     :goto_13
+    :try_end_ntsel
+    .catch Ljava/lang/Throwable; {:try_start_ntsel .. :try_end_ntsel} :catch_ntsel
+
+    invoke-static {}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->restoreMatchLineups()V
+
     return-void
+
+    :catch_ntsel
+    move-exception v31
+
+    invoke-static {}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->restoreMatchLineups()V
+
+    throw v31
 
     nop
 

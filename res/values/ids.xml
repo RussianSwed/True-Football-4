@@ -934,4 +934,11 @@
     <item type="id" name="developerSimulateMonth" />
     <item type="id" name="developerSimulateThreeMonths" />
     <item type="id" name="developerStatus" />
+    <item type="id" name="nationalTeamRanking" />
+    <item type="id" name="ntTitle" />
+    <item type="id" name="ntMeta" />
+    <item type="id" name="ntSquad" />
+    <item type="id" name="ntHistory" />
+    <item type="id" name="ntClose" />
+    <item type="id" name="ntEmpty" />
 </resources>

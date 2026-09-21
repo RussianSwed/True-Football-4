@@ -1162,6 +1162,12 @@
 
     check-cast v2, Landroid/view/LayoutInflater;
 
+    invoke-virtual {v7}, Lpl/mkrstudio/truefootball3/dialogs/PlayerInfoDialog;->getContext()Landroid/content/Context;
+
+    move-result-object v4
+
+    invoke-static {v0, v2, v8, v4}, Lpl/mkrstudio/truefootball3/objects/NationalTeamUi;->addPlayerNationalRows(Landroid/widget/LinearLayout;Landroid/view/LayoutInflater;Lpl/mkrstudio/truefootball3/objects/Player;Landroid/content/Context;)V
+
     .line 198
     invoke-virtual {v9}, Lpl/mkrstudio/truefootball3/objects/UserData;->getCompetitions()Lpl/mkrstudio/truefootball3/objects/Competitions;
 

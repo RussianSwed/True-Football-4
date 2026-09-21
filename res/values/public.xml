@@ -2739,6 +2739,13 @@
     <public type="id" name="developerStatus" id="0x7f0803e2" />
     <public type="id" name="developerSimulateMonth" id="0x7f0803e3" />
     <public type="id" name="developerSimulateThreeMonths" id="0x7f0803e4" />
+    <public type="id" name="nationalTeamRanking" id="0x7f0803e5" />
+    <public type="id" name="ntTitle" id="0x7f0803e6" />
+    <public type="id" name="ntMeta" id="0x7f0803e7" />
+    <public type="id" name="ntSquad" id="0x7f0803e8" />
+    <public type="id" name="ntHistory" id="0x7f0803e9" />
+    <public type="id" name="ntClose" id="0x7f0803ea" />
+    <public type="id" name="ntEmpty" id="0x7f0803eb" />
     <public type="integer" name="abc_config_activityDefaultDur" id="0x7f090000" />
     <public type="integer" name="abc_config_activityShortDur" id="0x7f090001" />
     <public type="integer" name="cancel_button_image_alpha" id="0x7f090002" />
@@ -2975,6 +2982,7 @@
     <public type="layout" name="view_valuepicker_narrow" id="0x7f0a00e3" />
     <public type="layout" name="whole_list_bg" id="0x7f0a00e4" />
     <public type="layout" name="activity_developer_tools" id="0x7f0a00e5" />
+    <public type="layout" name="dialog_national_team" id="0x7f0a00e6" />
     <public type="raw" name="away_goal" id="0x7f0b0000" />
     <public type="raw" name="crowd" id="0x7f0b0001" />
     <public type="raw" name="crowd2" id="0x7f0b0002" />
@@ -4633,6 +4641,25 @@
     <public type="string" name="youthTrainers" id="0x7f0c0676" />
     <public type="string" name="youthTraining" id="0x7f0c0677" />
     <public type="string" name="youth_trainer" id="0x7f0c0678" />
+    <public type="string" name="nt_world_cup" id="0x7f0c0679" />
+    <public type="string" name="nt_euro" id="0x7f0c067a" />
+    <public type="string" name="nt_world_cup_qual" id="0x7f0c067b" />
+    <public type="string" name="nt_euro_qual" id="0x7f0c067c" />
+    <public type="string" name="nt_u21_qual" id="0x7f0c067d" />
+    <public type="string" name="nt_u21" id="0x7f0c067e" />
+    <public type="string" name="national_team_ranking" id="0x7f0c067f" />
+    <public type="string" name="national_team" id="0x7f0c0680" />
+    <public type="string" name="national_team_u21" id="0x7f0c0681" />
+    <public type="string" name="nt_no_squad" id="0x7f0c0682" />
+    <public type="string" name="nt_no_history" id="0x7f0c0683" />
+    <public type="string" name="nt_no_matches" id="0x7f0c0684" />
+    <public type="string" name="nt_squad" id="0x7f0c0685" />
+    <public type="string" name="nt_history" id="0x7f0c0686" />
+    <public type="string" name="nt_caps" id="0x7f0c0687" />
+    <public type="string" name="nt_u21_caps" id="0x7f0c0688" />
+    <public type="string" name="nt_empty_ranking" id="0x7f0c0689" />
+    <public type="string" name="nt_rank" id="0x7f0c068a" />
+    <public type="string" name="nt_points" id="0x7f0c068b" />
     <public type="style" name="AlertDialog.AppCompat" id="0x7f0d0000" />
     <public type="style" name="AlertDialog.AppCompat.Light" id="0x7f0d0001" />
     <public type="style" name="Animation.AppCompat.Dialog" id="0x7f0d0002" />

@@ -2414,6 +2414,7 @@
 
     if-eqz v1, :cond_2
 
+    :cond_nt_type
     .line 83
     sget-object v1, Lpl/mkrstudio/truefootball3/enums/CompetitionType;->CHAMPIONS_CUP:Lpl/mkrstudio/truefootball3/enums/CompetitionType;
 
@@ -2422,6 +2423,54 @@
     goto :goto_2
 
     :cond_2
+    const-string v1, "NTWCF"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
+    const-string v1, "NTEUR"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
+    const-string v1, "NTWCQ"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
+    const-string v1, "NTEUQ"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
+    const-string v1, "NTU2Q"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
+    const-string v1, "NTU2F"
+
+    invoke-virtual {p1, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v1
+
+    if-nez v1, :cond_nt_type
+
     const-string v1, "_FC"
 
     .line 84
@@ -2614,6 +2663,19 @@
 
     iput v0, p0, Lpl/mkrstudio/truefootball3/generators/CompetitionGenerator;->year:I
 
+    :try_start_nt
+    invoke-virtual {p3}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v7
+
+    invoke-static {v7}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->ensure(Lpl/mkrstudio/truefootball3/objects/World;)V
+    :try_end_nt
+    .catch Ljava/lang/Exception; {:try_start_nt .. :try_end_nt} :catch_nt
+
+    goto :after_nt
+
+    :catch_nt
+    :after_nt
     const-string v0, "USA_1E"
 
     .line 51

@@ -3306,6 +3306,44 @@
 
 .field public static final youth_trainer:I = 0x7f0c0678
 
+.field public static final nt_world_cup:I = 0x7f0c0679
+
+.field public static final nt_euro:I = 0x7f0c067a
+
+.field public static final nt_world_cup_qual:I = 0x7f0c067b
+
+.field public static final nt_euro_qual:I = 0x7f0c067c
+
+.field public static final nt_u21_qual:I = 0x7f0c067d
+
+.field public static final nt_u21:I = 0x7f0c067e
+
+.field public static final national_team_ranking:I = 0x7f0c067f
+
+.field public static final national_team:I = 0x7f0c0680
+
+.field public static final national_team_u21:I = 0x7f0c0681
+
+.field public static final nt_no_squad:I = 0x7f0c0682
+
+.field public static final nt_no_history:I = 0x7f0c0683
+
+.field public static final nt_no_matches:I = 0x7f0c0684
+
+.field public static final nt_squad:I = 0x7f0c0685
+
+.field public static final nt_history:I = 0x7f0c0686
+
+.field public static final nt_caps:I = 0x7f0c0687
+
+.field public static final nt_u21_caps:I = 0x7f0c0688
+
+.field public static final nt_empty_ranking:I = 0x7f0c0689
+
+.field public static final nt_rank:I = 0x7f0c068a
+
+.field public static final nt_points:I = 0x7f0c068b
+
 
 # direct methods
 .method private constructor <init>()V

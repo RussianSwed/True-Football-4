@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:background="@layout/shape_background"
+    android:padding="8.0dip"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_16"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/ntTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_14"
+        android:textColor="#ffffffff"
+        android:gravity="center"
+        android:id="@id/ntMeta"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4.0dip" />
+    <pl.mkrstudio.truefootball3.views.CustomFontTextView
+        android:textSize="@dimen/text_size_14"
+        android:textStyle="bold"
+        android:textColor="#ffffffff"
+        android:id="@id/ntSquad"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8.0dip" />
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0">
+        <pl.mkrstudio.truefootball3.views.CustomFontTextView
+            android:textSize="@dimen/text_size_13"
+            android:textColor="#ffffffff"
+            android:id="@id/ntHistory"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8.0dip" />
+    </ScrollView>
+    <pl.mkrstudio.truefootball3.views.CustomFontButton
+        android:id="@id/ntClose"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8.0dip"
+        android:text="@string/ok" />
+</LinearLayout>

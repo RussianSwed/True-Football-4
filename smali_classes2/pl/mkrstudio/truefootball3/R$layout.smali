@@ -472,6 +472,8 @@
 
 .field public static final whole_list_bg:I = 0x7f0a00e4
 
+.field public static final dialog_national_team:I = 0x7f0a00e6
+
 
 # direct methods
 .method private constructor <init>()V

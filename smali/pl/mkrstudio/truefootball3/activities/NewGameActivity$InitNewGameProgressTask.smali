@@ -914,6 +914,30 @@
     .line 740
     invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
 
+    const-string v0, "NTWCQ"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTEUQ"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTU2Q"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTWCF"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTEUR"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
+    const-string v0, "NTU2F"
+
+    invoke-interface {v3, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+
     .line 742
     iget-object v0, v8, Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;->this$0:Lpl/mkrstudio/truefootball3/activities/NewGameActivity;
 
@@ -1340,6 +1364,12 @@
 
     invoke-virtual/range {v1 .. v7}, Lpl/mkrstudio/truefootball3/generators/PlayerGenerator;->generatePlayers(Ljava/util/List;Lpl/mkrstudio/truefootball3/objects/Time;Lpl/mkrstudio/truefootball3/objects/Team;Lpl/mkrstudio/truefootball3/activities/NewGameActivity$InitNewGameProgressTask;Lpl/mkrstudio/truefootball3/objects/EditedData;Z)V
 
+    :try_start_ntplay
+    invoke-static {v10}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->ensureFromUserData(Lpl/mkrstudio/truefootball3/objects/UserData;)V
+    :try_end_ntplay
+    .catch Ljava/lang/Exception; {:try_start_ntplay .. :try_end_ntplay} :catch_ntplay
+
+    :catch_ntplay
     const/16 v0, 0x73
 
     .line 786

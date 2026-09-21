@@ -39,6 +39,18 @@
 
 .field unavailable:Z
 
+.field nationalApps:I
+
+.field nationalGoals:I
+
+.field nationalAssists:I
+
+.field nationalAppsU21:I
+
+.field nationalGoalsU21:I
+
+.field nationalAssistsU21:I
+
 
 # direct methods
 .method public constructor <init>()V
@@ -4543,5 +4555,101 @@
     iput-byte v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->skill:B
 
     :cond_0
+    return-void
+.end method
+
+.method public getNationalApps()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalApps:I
+
+    return v0
+.end method
+
+.method public setNationalApps(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalApps:I
+
+    return-void
+.end method
+
+.method public getNationalGoals()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalGoals:I
+
+    return v0
+.end method
+
+.method public setNationalGoals(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalGoals:I
+
+    return-void
+.end method
+
+.method public getNationalAssists()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAssists:I
+
+    return v0
+.end method
+
+.method public setNationalAssists(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAssists:I
+
+    return-void
+.end method
+
+.method public getNationalAppsU21()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAppsU21:I
+
+    return v0
+.end method
+
+.method public setNationalAppsU21(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAppsU21:I
+
+    return-void
+.end method
+
+.method public getNationalGoalsU21()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalGoalsU21:I
+
+    return v0
+.end method
+
+.method public setNationalGoalsU21(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalGoalsU21:I
+
+    return-void
+.end method
+
+.method public getNationalAssistsU21()I
+    .locals 1
+
+    iget v0, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAssistsU21:I
+
+    return v0
+.end method
+
+.method public setNationalAssistsU21(I)V
+    .locals 0
+
+    iput p1, p0, Lpl/mkrstudio/truefootball3/objects/Player;->nationalAssistsU21:I
+
     return-void
 .end method

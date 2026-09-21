@@ -2263,6 +2263,8 @@
 
     .line 557
     :goto_5
+    invoke-static {v4}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->queueNationalIds(Ljava/util/List;)V
+
     new-instance v1, Ljava/util/ArrayList;
 
     invoke-direct {v1}, Ljava/util/ArrayList;-><init>()V
@@ -4243,6 +4245,12 @@
     iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/UserData;->gameVersion:Ljava/lang/String;
 
     :cond_2
+    :try_start_ntload
+    invoke-static {p0}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->ensureFromUserData(Lpl/mkrstudio/truefootball3/objects/UserData;)V
+    :try_end_ntload
+    .catch Ljava/lang/Exception; {:try_start_ntload .. :try_end_ntload} :catch_ntload
+
+    :catch_ntload
     return-void
 .end method
 

@@ -33,6 +33,16 @@
     .end annotation
 .end field
 
+.field nationalTeams:Ljava/util/HashMap;
+
+.field nationalTeamsU21:Ljava/util/HashMap;
+
+.field qualifiedWc:Ljava/util/ArrayList;
+
+.field qualifiedEuro:Ljava/util/ArrayList;
+
+.field qualifiedU21:Ljava/util/ArrayList;
+
 
 # direct methods
 .method public constructor <init>()V
@@ -20465,5 +20475,124 @@
     goto :goto_0
 
     :cond_0
+    return-void
+.end method
+
+.method public getNationalTeams()Ljava/util/HashMap;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    if-nez v0, :cond_nt
+
+    new-instance v0, Ljava/util/HashMap;
+
+    invoke-direct {v0}, Ljava/util/HashMap;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    :cond_nt
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeams:Ljava/util/HashMap;
+
+    return-object v0
+.end method
+
+.method public getNationalTeamsU21()Ljava/util/HashMap;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeamsU21:Ljava/util/HashMap;
+
+    if-nez v0, :cond_ntu
+
+    new-instance v0, Ljava/util/HashMap;
+
+    invoke-direct {v0}, Ljava/util/HashMap;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeamsU21:Ljava/util/HashMap;
+
+    :cond_ntu
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->nationalTeamsU21:Ljava/util/HashMap;
+
+    return-object v0
+.end method
+
+.method public getQualifiedWc()Ljava/util/ArrayList;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedWc:Ljava/util/ArrayList;
+
+    if-nez v0, :cond_qwc
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedWc:Ljava/util/ArrayList;
+
+    :cond_qwc
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedWc:Ljava/util/ArrayList;
+
+    return-object v0
+.end method
+
+.method public getQualifiedEuro()Ljava/util/ArrayList;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedEuro:Ljava/util/ArrayList;
+
+    if-nez v0, :cond_qeu
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedEuro:Ljava/util/ArrayList;
+
+    :cond_qeu
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedEuro:Ljava/util/ArrayList;
+
+    return-object v0
+.end method
+
+.method public getQualifiedU21()Ljava/util/ArrayList;
+    .locals 1
+
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedU21:Ljava/util/ArrayList;
+
+    if-nez v0, :cond_qu2
+
+    new-instance v0, Ljava/util/ArrayList;
+
+    invoke-direct {v0}, Ljava/util/ArrayList;-><init>()V
+
+    iput-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedU21:Ljava/util/ArrayList;
+
+    :cond_qu2
+    iget-object v0, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedU21:Ljava/util/ArrayList;
+
+    return-object v0
+.end method
+
+.method public setQualifiedWc(Ljava/util/ArrayList;)V
+    .locals 0
+
+    iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedWc:Ljava/util/ArrayList;
+
+    return-void
+.end method
+
+.method public setQualifiedEuro(Ljava/util/ArrayList;)V
+    .locals 0
+
+    iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedEuro:Ljava/util/ArrayList;
+
+    return-void
+.end method
+
+.method public setQualifiedU21(Ljava/util/ArrayList;)V
+    .locals 0
+
+    iput-object p1, p0, Lpl/mkrstudio/truefootball3/objects/World;->qualifiedU21:Ljava/util/ArrayList;
+
     return-void
 .end method

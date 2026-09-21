@@ -1164,6 +1164,8 @@
         }
     .end annotation
 
+    invoke-static {p0, p1, p2, p3}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->recordNationalStat(Lpl/mkrstudio/truefootball3/objects/Competition;Lpl/mkrstudio/truefootball3/objects/Player;Lpl/mkrstudio/truefootball3/enums/MatchEventType;I)V
+
     .line 869
     invoke-virtual {p6, p1}, Lpl/mkrstudio/truefootball3/objects/Transfers;->isOnLoan(Lpl/mkrstudio/truefootball3/objects/Player;)Z
 
@@ -9889,6 +9891,25 @@
 
     check-cast v0, Ljava/lang/String;
 
+    const-string v2, "national_teams"
+
+    invoke-virtual {v0, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v2
+
+    if-eqz v2, :cond_nt_wc
+
+    invoke-virtual/range {p4 .. p4}, Lpl/mkrstudio/truefootball3/objects/UserData;->getWorld()Lpl/mkrstudio/truefootball3/objects/World;
+
+    move-result-object v0
+
+    invoke-static {v7, v0}, Lpl/mkrstudio/truefootball3/objects/NationalTeams;->addTeams(Lpl/mkrstudio/truefootball3/objects/Competition;Lpl/mkrstudio/truefootball3/objects/World;)V
+
+    invoke-virtual {v12, v6}, Lpl/mkrstudio/truefootball3/objects/CompetitionQuery;->setDone(Z)V
+
+    goto/16 :goto_1
+
+    :cond_nt_wc
     const-string v2, "world_cup"
 
     invoke-virtual {v0, v2}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z

@@ -1996,6 +1996,20 @@
 
 .field public static final youthTrainerLL:I = 0x7f0803de
 
+.field public static final nationalTeamRanking:I = 0x7f0803e5
+
+.field public static final ntTitle:I = 0x7f0803e6
+
+.field public static final ntMeta:I = 0x7f0803e7
+
+.field public static final ntSquad:I = 0x7f0803e8
+
+.field public static final ntHistory:I = 0x7f0803e9
+
+.field public static final ntClose:I = 0x7f0803ea
+
+.field public static final ntEmpty:I = 0x7f0803eb
+
 
 # direct methods
 .method private constructor <init>()V
